@@ -352,7 +352,7 @@ const QB={
     ["Lozan Barış Antlaşması hangi yıl imzalanmıştır?",["1920","1921","1923","1926"],2],
     ["Kurtuluş Savaşı'nın son büyük taarruzu hangisidir?",["I. İnönü","Sakarya","Büyük Taarruz","II. İnönü"],2]]
 };
-const BOOK_LINKS={5:[1,2,3,4,5,6].map(n=>`kitaplar/5-sinif-${n}/`)};
+const BOOK_LINKS=Object.fromEntries([5,6,7].map(g=>[g,[1,2,3,4,5,6].map(n=>`kitaplar/${g}-sinif-${n}/`)]));
 const BOOKS=[[5,"Sosyal Bilgiler","var(--g5)"],[6,"Sosyal Bilgiler","var(--g6)"],[7,"Sosyal Bilgiler","var(--g7)"],[8,"İnkılap Tarihi ve Atatürkçülük","var(--g8)"]];
 const DOCS=[
  ["Planlar","Yıllık plan (5-8. sınıf)","Maarif Modeli'ne uygun, haftalık dağılımlı yıllık planlar.","Word"],
