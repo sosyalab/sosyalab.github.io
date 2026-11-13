@@ -154,6 +154,11 @@ select{width:100%;padding:11px 12px;border-radius:12px;border:1.5px solid var(--
 .chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 .info{background:#fff;border-left:5px solid var(--sun);border-radius:10px;padding:14px 18px;font-size:.92rem;color:#33403f;margin-top:24px}
 
+
+.ycard{display:flex;gap:22px;align-items:center;background:#fff;border:2px solid var(--ink);border-radius:18px;padding:16px;text-decoration:none;color:var(--ink);margin-bottom:8px;box-shadow:5px 5px 0 var(--teal)}
+.ycard img{width:150px;border-radius:10px;flex:none}
+.ycard h3{font-size:1.2rem;margin-bottom:4px}.ycard p{color:var(--muted);font-size:.92rem;margin-bottom:12px}
+@media (max-width:600px){.ycard img{width:100px}.ycard{gap:14px}}
 footer{padding:40px 0 50px;color:var(--muted);font-size:.9rem;border-top:1px solid var(--line);margin-top:40px}
 .foot{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 .foot a{text-decoration:none;margin-right:14px}.foot a:hover{color:var(--clay)}
@@ -352,6 +357,10 @@ const QB={
     ["Lozan Barış Antlaşması hangi yıl imzalanmıştır?",["1920","1921","1923","1926"],2],
     ["Kurtuluş Savaşı'nın son büyük taarruzu hangisidir?",["I. İnönü","Sakarya","Büyük Taarruz","II. İnönü"],2]]
 };
+const KONU={5:{0:[["Gruplar ve Rollerimiz","konu/5-sinif-1-1.pdf"],["Kültürel Zenginliklerin Birlikte Yaşamaya Etkisi","konu/5-sinif-1-2.pdf"],["Yardımlaşma ve Dayanışmada Beraberiz","konu/5-sinif-1-3.pdf"]],1:[["İlimizin Göreceli Konumu","konu/5-sinif-2-1.pdf"]]}};
+const YAZILI={5:[["1. Dönem 1. Yazılıya Hazırlık","yazili/5-sinif-1-donem-1-yazili.pdf","yazili/5-sinif-1-donem-1-yazili.jpg","12 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]],
+ 6:[["1. Dönem 1. Yazılıya Hazırlık","yazili/6-sinif-1-donem-1-yazili.pdf","yazili/6-sinif-1-donem-1-yazili.jpg","12 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]],
+ 7:[["1. Dönem 1. Yazılıya Hazırlık","yazili/7-sinif-1-donem-1-yazili.pdf","yazili/7-sinif-1-donem-1-yazili.jpg","15 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]]};
 const BOOK_LINKS=Object.fromEntries([5,6,7].map(g=>[g,[1,2,3,4,5,6].map(n=>`kitaplar/${g}-sinif-${n}/`)]));
 const BOOKS=[[5,"Sosyal Bilgiler","var(--g5)"],[6,"Sosyal Bilgiler","var(--g6)"],[7,"Sosyal Bilgiler","var(--g7)"],[8,"İnkılap Tarihi ve Atatürkçülük","var(--g8)"]];
 const DOCS=[
@@ -401,12 +410,17 @@ function renderGrade(g){
   $("#gTabs").innerHTML=TABS.map(t=>`<button class="tab ${t.k==curTab?"on":""}" data-k="${t.k}">${t.ic} ${t.l}</button>`).join("");
   document.querySelectorAll("#gTabs .tab").forEach(b=>b.onclick=()=>{curTab=b.dataset.k;renderGrade(g)});
   const T=TABS.find(t=>t.k==curTab);
-  $("#gUnits").innerHTML=G.units.map((u,i)=>{
-    const its=T.items(u);
+  const yz=(curTab==="yazili"&&YAZILI[g])?YAZILI[g].map(([t,h,img,d])=>`<a href="${h}" target="_blank" rel="noopener" class="ycard"><img src="${img}" alt="${g}. sınıf ${t}"><div><span class="kicker" style="margin-bottom:6px">Yeni</span><h3>${g}. Sınıf · ${t}</h3><p>${d}</p><span class="btn primary sm">PDF'i aç</span></div></a>`).join(""):"";
+  $("#gUnits").innerHTML=yz+G.units.map((u,i)=>{
+    let its=T.items(u);
+    const real=(curTab==="konu"&&KONU[g]&&KONU[g][i])||null;
+    if(real) its=its.filter(x=>x[1]!=="Konu anlatımı");
+    if(curTab==="yazili"&&YAZILI[g]) its=its.filter(x=>x[1]!=="1. dönem 1. yazılı");
+    const realHtml=real?real.map(([t,h])=>`<a class="item" href="${h}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📖</span><div class="t"><b>${t}</b><small>Konu anlatım afişi · PDF</small></div><span class="btn sm">Aç</span></a>`).join(""):"";
     const bl=BOOK_LINKS[g]&&BOOK_LINKS[g][i];
     const book=bl?`<a class="item" href="${bl}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📘</span><div class="t"><b>Etkileşimli kitap</b><small>${u} — sayfa sayfa, etkinlikli dijital kitap</small></div><span class="btn sm">Aç</span></a>`:"";
-    return `<details class="unit" ${i==0?"open":""}><summary><span class="n" style="background:${G.color}">${i+1}</span>${u}<span class="cnt">${its.length+(bl?1:0)} içerik</span></summary>
-      <div class="items">${book}${its.map(([ic,t,s])=>`<div class="item"><span class="ic">${ic}</span><div class="t">${t}<small>${s}</small></div>${soon}</div>`).join("")}</div></details>`;
+    return `<details class="unit" ${i==0?"open":""}><summary><span class="n" style="background:${G.color}">${i+1}</span>${u}<span class="cnt">${its.length+(bl?1:0)+(real?real.length:0)} içerik</span></summary>
+      <div class="items">${book}${realHtml}${its.map(([ic,t,s])=>`<div class="item"><span class="ic">${ic}</span><div class="t">${t}<small>${s}</small></div>${soon}</div>`).join("")}</div></details>`;
   }).join("");
 }
 
