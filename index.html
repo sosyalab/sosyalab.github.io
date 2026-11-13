@@ -352,6 +352,7 @@ const QB={
     ["Lozan Barış Antlaşması hangi yıl imzalanmıştır?",["1920","1921","1923","1926"],2],
     ["Kurtuluş Savaşı'nın son büyük taarruzu hangisidir?",["I. İnönü","Sakarya","Büyük Taarruz","II. İnönü"],2]]
 };
+const BOOK_LINKS={5:[1,2,3,4,5,6].map(n=>`kitaplar/5-sinif-${n}/`)};
 const BOOKS=[[5,"Sosyal Bilgiler","var(--g5)"],[6,"Sosyal Bilgiler","var(--g6)"],[7,"Sosyal Bilgiler","var(--g7)"],[8,"İnkılap Tarihi ve Atatürkçülük","var(--g8)"]];
 const DOCS=[
  ["Planlar","Yıllık plan (5-8. sınıf)","Maarif Modeli'ne uygun, haftalık dağılımlı yıllık planlar.","Word"],
@@ -402,8 +403,10 @@ function renderGrade(g){
   const T=TABS.find(t=>t.k==curTab);
   $("#gUnits").innerHTML=G.units.map((u,i)=>{
     const its=T.items(u);
-    return `<details class="unit" ${i==0?"open":""}><summary><span class="n" style="background:${G.color}">${i+1}</span>${u}<span class="cnt">${its.length} içerik</span></summary>
-      <div class="items">${its.map(([ic,t,s])=>`<div class="item"><span class="ic">${ic}</span><div class="t">${t}<small>${s}</small></div>${soon}</div>`).join("")}</div></details>`;
+    const bl=BOOK_LINKS[g]&&BOOK_LINKS[g][i];
+    const book=bl?`<a class="item" href="${bl}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📘</span><div class="t"><b>Etkileşimli kitap</b><small>${u} — sayfa sayfa, etkinlikli dijital kitap</small></div><span class="btn sm">Aç</span></a>`:"";
+    return `<details class="unit" ${i==0?"open":""}><summary><span class="n" style="background:${G.color}">${i+1}</span>${u}<span class="cnt">${its.length+(bl?1:0)} içerik</span></summary>
+      <div class="items">${book}${its.map(([ic,t,s])=>`<div class="item"><span class="ic">${ic}</span><div class="t">${t}<small>${s}</small></div>${soon}</div>`).join("")}</div></details>`;
   }).join("");
 }
 
@@ -430,9 +433,16 @@ $("#rGo").onclick=()=>{
 };
 
 /* kitaplar */
-$("#books").innerHTML=BOOKS.map(([g,n,c])=>`
-  <div class="book"><div class="cover" style="background:${c}"><div><small>SosyaLab</small><b>${g}</b></div><h4>${g}. Sınıf<br>${n}</h4></div>
-  <div class="meta">Etkileşimli kitap · ${soon}</div></div>`).join("");
+$("#books").outerHTML=BOOKS.map(([g,n,c])=>{
+  const links=BOOK_LINKS[g];
+  const covers=links
+    ? GRADES[g].units.map((u,i)=>`<a class="book" href="${links[i]}" target="_blank" rel="noopener">
+        <div class="cover" style="background:${c}"><div><small>${g}. Sınıf · ${i+1}. Öğrenme Alanı</small><b>${i+1}</b></div><h4>${u}</h4></div>
+        <div class="meta">Etkileşimli kitap · <span style="color:var(--teal)">Aç →</span></div></a>`).join("")
+    : `<div class="book"><div class="cover" style="background:${c}"><div><small>SosyaLab</small><b>${g}</b></div><h4>${g}. Sınıf<br>${n}</h4></div>
+        <div class="meta">Etkileşimli kitap · ${soon}</div></div>`;
+  return `<h2 class="h2" style="font-size:1.5rem;margin:${g==5?0:44}px 0 18px">${g}. Sınıf</h2><div class="books">${covers}</div>`;
+}).join("");
 
 /* filtreli kart listeleri */
 function filtered(chipsSel,gridSel,cats,data,card){
