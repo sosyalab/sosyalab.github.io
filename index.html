@@ -201,7 +201,7 @@ footer{padding:40px 0 50px;color:var(--muted);font-size:.9rem;border-top:1px sol
           <a href="#sinif-8" data-r="sinif-8">8. Sınıf</a>
         </div>
       </div>
-      <a href="#soru-robotu" data-r="soru-robotu">Soru Robotu</a>
+      <a href="soru-robotu/" data-r="soru-robotu">Soru Robotu</a>
       <a href="#etkilesimli-kitaplar" data-r="etkilesimli-kitaplar">Etkileşimli Kitaplarım</a>
       <a href="#ogretmen-evraklari" data-r="ogretmen-evraklari">Öğretmen Evrakları</a>
       <a href="#bep-sinavlari" data-r="bep-sinavlari">BEP Sınavları</a>
@@ -225,7 +225,7 @@ footer{padding:40px 0 50px;color:var(--muted);font-size:.9rem;border-top:1px sol
       <span class="kicker">Araçlar ve kaynaklar</span>
       <h2 class="h2">Öğrenciler ve öğretmenler için</h2>
       <div class="tiles">
-        <a class="tile dark" href="#soru-robotu"><span class="ico">🤖</span><h3>Soru Robotu</h3><p>Sınıfını seç, istediğin sayıda soruyla anında test oluştur ve kendini dene.</p><span class="go">Test oluştur →</span></a>
+        <a class="tile dark" href="soru-robotu/"><span class="ico">🤖</span><h3>Soru Robotu</h3><p>5, 6 ve 7. sınıf soru havuzundan senaryolara uygun yazılı sınavı birkaç tıkla oluştur.</p><span class="go">Test oluştur →</span></a>
         <a class="tile" href="#etkilesimli-kitaplar"><span class="ico">📘</span><h3>Etkileşimli Kitaplarım</h3><p>Video, harita ve etkinliklerle zenginleştirilmiş dijital kitaplar.</p><span class="go">Kitaplara git →</span></a>
         <a class="tile" href="#ogretmen-evraklari"><span class="ico">🗂️</span><h3>Öğretmen Evrakları</h3><p>Yıllık planlar, zümre tutanakları, kulüp evrakları ve daha fazlası.</p><span class="go">Evraklara git →</span></a>
         <a class="tile" href="#bep-sinavlari"><span class="ico">🧩</span><h3>BEP Sınavları</h3><p>Bireyselleştirilmiş eğitim programına uygun, sadeleştirilmiş sınavlar.</p><span class="go">Sınavlara git →</span></a>
@@ -461,6 +461,7 @@ filtered("#bepChips","#beps",["5. Sınıf","6. Sınıf","7. Sınıf","8. Sınıf
 /* ---------- YÖNLENDİRME (#hash) ---------- */
 function route(){
   const h=location.hash.slice(1);
+  if(h==="soru-robotu"){location.replace("soru-robotu/");return;}
   document.querySelectorAll(".view").forEach(v=>v.classList.remove("on"));
   document.querySelectorAll("nav a").forEach(a=>a.classList.remove("on"));
   const m=h.match(/^sinif-([5-8])$/);
