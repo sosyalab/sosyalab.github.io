@@ -388,6 +388,9 @@ const KONU={5:{0:[["Gruplar ve Rollerimiz","konu/5-sinif-1-1.pdf"],["Kültürel 
 const YAZILI={5:[["1. Dönem 1. Yazılıya Hazırlık","yazili/5-sinif-1-donem-1-yazili.pdf","yazili/5-sinif-1-donem-1-yazili.jpg","12 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]],
  6:[["1. Dönem 1. Yazılıya Hazırlık","yazili/6-sinif-1-donem-1-yazili.pdf","yazili/6-sinif-1-donem-1-yazili.jpg","12 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]],
  7:[["1. Dönem 1. Yazılıya Hazırlık","yazili/7-sinif-1-donem-1-yazili.pdf","yazili/7-sinif-1-donem-1-yazili.jpg","15 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]]};
+const KONU_KITAP={5:{1:[["5.2.3","İlimizde Yaşanabilecek Afetler ve Etkileri","kitaplar/konu-5-2-3/"]]},
+ 6:{1:[["6.2.2","Doğal ve Beşerî Çevre Özellikleri Arasındaki İlişki","kitaplar/konu-6-2-2/"]]},
+ 7:{2:[["7.3.1","Osmanlı Devleti'nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar","kitaplar/konu-7-3-1/"]]}};
 const BOOK_LINKS=Object.fromEntries([5,6,7].map(g=>[g,[1,2,3,4,5,6].map(n=>`kitaplar/${g}-sinif-${n}/`)]));
 const BOOKS=[[5,"Sosyal Bilgiler","var(--g5)"],[6,"Sosyal Bilgiler","var(--g6)"],[7,"Sosyal Bilgiler","var(--g7)"],[8,"İnkılap Tarihi ve Atatürkçülük","var(--g8)"]];
 const DOCS=[
@@ -444,10 +447,12 @@ function renderGrade(g){
     if(real) its=its.filter(x=>x[1]!=="Konu anlatımı");
     if(curTab==="yazili"&&YAZILI[g]) its=its.filter(x=>x[1]!=="1. dönem 1. yazılı");
     const realHtml=real?real.map(([t,h])=>`<a class="item" href="${h}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📖</span><div class="t"><b>${t}</b><small>Konu anlatımı · PDF</small></div><span class="btn sm">Aç</span></a>`).join(""):"";
+    const kk=(KONU_KITAP[g]&&KONU_KITAP[g][i])||[];
+    const kkHtml=kk.map(([n,t,h])=>`<a class="item" href="${h}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📗</span><div class="t"><b>${t}</b><small>${n} · Etkileşimli konu kitabı</small></div><span class="btn sm">Aç</span></a>`).join("");
     const bl=BOOK_LINKS[g]&&BOOK_LINKS[g][i];
     const book=bl?`<a class="item" href="${bl}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📘</span><div class="t"><b>Etkileşimli kitap</b><small>${u} — sayfa sayfa, etkinlikli dijital kitap</small></div><span class="btn sm">Aç</span></a>`:"";
-    return `<details class="unit" ${i==0?"open":""}><summary><span class="n" style="background:${G.color}">${i+1}</span>${u}<span class="cnt">${its.length+(bl?1:0)+(real?real.length:0)} içerik</span></summary>
-      <div class="items">${book}${realHtml}${its.map(([ic,t,s])=>`<div class="item"><span class="ic">${ic}</span><div class="t">${t}<small>${s}</small></div>${soon}</div>`).join("")}</div></details>`;
+    return `<details class="unit" ${i==0?"open":""}><summary><span class="n" style="background:${G.color}">${i+1}</span>${u}<span class="cnt">${its.length+(bl?1:0)+(real?real.length:0)+kk.length} içerik</span></summary>
+      <div class="items">${book}${kkHtml}${realHtml}${its.map(([ic,t,s])=>`<div class="item"><span class="ic">${ic}</span><div class="t">${t}<small>${s}</small></div>${soon}</div>`).join("")}</div></details>`;
   }).join("");
 }
 
@@ -482,7 +487,9 @@ $("#books").outerHTML=BOOKS.map(([g,n,c])=>{
         <div class="meta">Etkileşimli kitap · <span style="color:var(--teal)">Aç →</span></div></a>`).join("")
     : `<div class="book"><div class="cover" style="background:${c}"><div><small>SosyaLab</small><b>${g}</b></div><h4>${g}. Sınıf<br>${n}</h4></div>
         <div class="meta">Etkileşimli kitap · ${soon}</div></div>`;
-  return `<h2 class="h2" style="font-size:1.5rem;margin:${g==5?0:44}px 0 18px">${g}. Sınıf</h2><div class="books">${covers}</div>`;
+  const kks=Object.values(KONU_KITAP[g]||{}).flat();
+  const kkRow=kks.length?`<h3 style="font-size:1.05rem;margin:26px 0 12px;color:var(--muted)">Konu kitapları</h3><div class="units">${kks.map(([n,t,h])=>`<a class="item unit" href="${h}" target="_blank" rel="noopener" style="text-decoration:none;padding:14px 18px"><span class="ic">📗</span><div class="t"><b>${t}</b><small>${n} · Etkileşimli konu kitabı</small></div><span class="btn sm">Aç</span></a>`).join("")}</div>`:"";
+  return `<h2 class="h2" style="font-size:1.5rem;margin:${g==5?0:44}px 0 18px">${g}. Sınıf</h2><div class="books">${covers}</div>${kkRow}`;
 }).join("");
 
 /* filtreli kart listeleri */
