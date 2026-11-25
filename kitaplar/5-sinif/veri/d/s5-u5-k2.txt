@@ -1,0 +1,1541 @@
+// 5. Sınıf Sosyal Bilgiler · 5. Öğrenme Alanı: Hayatımızdaki Ekonomi (s. 66–117)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Bütçemi planlıyorum (s. 85–99)
+window.BOOK = {
+ "id": "s5-u5-k2",
+ "title": "Bütçemi planlıyorum",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u5-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 85,
+   "img": "@IMG:s5-u5/p-20@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "BÜTÇEMİ PLANLIYORUM",
+     "r": [
+      34,
+      55,
+      878,
+      567
+     ]
+    },
+    {
+     "t": "İhtiyaç ve isteklerinizi…",
+     "r": [
+      111,
+      594,
+      764,
+      570
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Beslenme, barınma, giyinme, sağlık, eğitim",
+     "fs": 13,
+     "area": [
+      143,
+      389,
+      314,
+      88
+     ],
+     "pill": [
+      423,
+      352
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Oyun konsolu, yeni telefon, çikolata, bisiklet, konser bileti",
+     "fs": 13,
+     "area": [
+      510,
+      487,
+      327,
+      91
+     ],
+     "pill": [
+      826,
+      456
+     ]
+    },
+    {
+     "area": [
+      142,
+      888,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      68,
+      875
+     ]
+    },
+    {
+     "area": [
+      628,
+      888,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      554,
+      875
+     ]
+    },
+    {
+     "area": [
+      386,
+      1072,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      306,
+      1059
+     ]
+    },
+    {
+     "area": [
+      600,
+      720,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İhtiyaçlar yaşamak için zorunlu olan şeylerdir; istekler zorunlu olmayan ama sahip olmak istediğimiz şeylerdir. Önce ihtiyaçlar karşılanmalıdır.",
+     "pill": [
+      646,
+      743
+     ],
+     "qx": 135,
+     "qt": 720,
+     "qb": 759,
+     "qr": 820,
+     "bal": [
+      107,
+      767,
+      772,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 86,
+   "img": "@IMG:s5-u5/p-21@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Verilen yönergeye göre…",
+     "r": [
+      38,
+      55,
+      878,
+      393
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      38,
+      420,
+      879,
+      744
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Örnek plan (500 TL): Okul kırtasiyesi 150, kitap 100, kumbaraya 150, arkadaşa hediye 50, dondurma 50.",
+     "fs": 14,
+     "area": [
+      148,
+      747,
+      291,
+      315
+     ],
+     "pill": [
+      374,
+      734
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Örnek plan (500 TL): Oyun 200, atıştırmalık 150, sinema 150, tasarruf 0.",
+     "fs": 14,
+     "area": [
+      504,
+      538,
+      291,
+      315
+     ],
+     "pill": [
+      730,
+      525
+     ]
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "img": "@IMG:s5-u5/p-22@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      878,
+      710
+     ]
+    },
+    {
+     "t": "Tasarrufu esas alan iyi…",
+     "r": [
+      34,
+      682,
+      794,
+      482
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Örnek plan (500 TL): Spor ayakkabı için birikim 300, kitap 100, ulaşım 100.",
+     "fs": 14,
+     "area": [
+      148,
+      346,
+      291,
+      314
+     ],
+     "pill": [
+      374,
+      333
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Örnek plan (500 TL): Kumbaraya 250, kırtasiye 100, ihtiyaç sahibine bağış 50, harçlık 100.",
+     "fs": 14,
+     "area": [
+      504,
+      199,
+      291,
+      315
+     ],
+     "pill": [
+      730,
+      186
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Önce ihtiyaçları karşılaması, tasarrufa pay ayırması, isteklerini sınırlaması ve bütçeyi aşmaması.",
+     "fs": 15,
+     "area": [
+      151,
+      835,
+      615,
+      271
+     ],
+     "pill": [
+      821,
+      822
+     ]
+    }
+   ]
+  },
+  {
+   "n": 88,
+   "img": "@IMG:s5-u5/p-23@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ailenin içinde bulunduğu…",
+     "r": [
+      38,
+      67,
+      790,
+      191
+     ]
+    },
+    {
+     "t": "Aşağıda ve dijital kaynakta yer",
+     "r": [
+      38,
+      230,
+      878,
+      941
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      618,
+      1097,
+      58,
+      55
+     ],
+     "panel": "seyahat",
+     "label": "Seyahat bütçesi"
+    }
+   ]
+  },
+  {
+   "n": 89,
+   "img": "@IMG:s5-u5/p-24@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İhtiyaç, yaşamımızı sağlıklı…",
+     "r": [
+      122,
+      0,
+      795,
+      840
+     ]
+    },
+    {
+     "t": "Sayfa ihtiyaç ve istek bulutlarına",
+     "r": [
+      94,
+      812,
+      818,
+      352
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 90,
+   "img": "@IMG:s5-u5/p-25@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bir şey satın almadan önce",
+     "r": [
+      122,
+      46,
+      668,
+      334
+     ]
+    },
+    {
+     "t": "Alışverişte kasaya gidip, ödeme…",
+     "r": [
+      110,
+      352,
+      729,
+      812
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 91,
+   "img": "@IMG:s5-u5/p-26@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Zeynep Hanım'ın şubat ayına…",
+     "r": [
+      120,
+      83,
+      708,
+      920
+     ]
+    },
+    {
+     "t": "Zeynep Hanım, karar vermek için",
+     "r": [
+      122,
+      975,
+      706,
+      189
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      552,
+      232,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      219
+     ]
+    },
+    {
+     "area": [
+      552,
+      272,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      259
+     ]
+    },
+    {
+     "area": [
+      552,
+      312,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      299
+     ]
+    },
+    {
+     "area": [
+      552,
+      352,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      339
+     ]
+    },
+    {
+     "area": [
+      552,
+      392,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      379
+     ]
+    },
+    {
+     "area": [
+      552,
+      432,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      419
+     ]
+    },
+    {
+     "area": [
+      552,
+      472,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      459
+     ]
+    },
+    {
+     "area": [
+      734,
+      514,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      774,
+      501
+     ]
+    },
+    {
+     "area": [
+      734,
+      552,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      774,
+      539
+     ]
+    },
+    {
+     "area": [
+      734,
+      592,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      774,
+      579
+     ]
+    },
+    {
+     "area": [
+      734,
+      632,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      774,
+      619
+     ]
+    },
+    {
+     "area": [
+      552,
+      672,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      659
+     ]
+    },
+    {
+     "area": [
+      734,
+      712,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      774,
+      699
+     ]
+    },
+    {
+     "area": [
+      734,
+      752,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      774,
+      739
+     ]
+    },
+    {
+     "area": [
+      734,
+      792,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      774,
+      779
+     ]
+    },
+    {
+     "area": [
+      552,
+      832,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      592,
+      819
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İstek mi ihtiyaç mı? Bütçemde yeri var mı? Daha ucuza alabilir miyim? Benzeri elimde var mı?",
+     "fs": 14,
+     "area": [
+      134,
+      1029,
+      682,
+      98
+     ],
+     "pill": [
+      780,
+      1016
+     ]
+    }
+   ]
+  },
+  {
+   "n": 92,
+   "img": "@IMG:s5-u5/p-27@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İhtiyaç ve istekleri…",
+     "r": [
+      38,
+      83,
+      791,
+      557
+     ]
+    },
+    {
+     "t": "Bütçe hazırlamanın başka ne gibi",
+     "r": [
+      38,
+      612,
+      790,
+      255
+     ]
+    },
+    {
+     "t": "Aile bütçesi hazırlanırken…",
+     "r": [
+      92,
+      839,
+      740,
+      325
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Ani masraflara hazırlıklı olmak, borçlanmamak, birikim yapmak, harcama alışkanlıklarını kontrol etmek, aile içinde dayanışma.",
+     "fs": 15,
+     "area": [
+      153,
+      718,
+      612,
+      117
+     ],
+     "pill": [
+      823,
+      705
+     ]
+    },
+    {
+     "area": [
+      650,
+      896,
+      170,
+      18
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Fikirlerimizin alınması bütçeye sahip çıkmamızı sağlar. Gereksiz isteklerden vazgeçer, tasarruf önerileri sunar, faturaları azaltmaya yardımcı oluruz.",
+     "pill": [
+      672,
+      892
+     ],
+     "qx": 104,
+     "qt": 872,
+     "qb": 914,
+     "qr": 820,
+     "bal": [
+      88,
+      922,
+      748,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      640,
+      948,
+      180,
+      18
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ortak tema: tasarruf ve bütçeye uygun harcama. \"Ayağını yorganına göre uzat\": Gelirin kadar harca, bütçeni aşma.",
+     "pill": [
+      806,
+      959
+     ],
+     "qx": 134,
+     "qt": 940,
+     "qb": 1013,
+     "qr": 820,
+     "bal": [
+      88,
+      1025,
+      748,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "img": "@IMG:s5-u5/p-28@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Evinizdeki beyaz eşyaların…",
+     "r": [
+      34,
+      0,
+      878,
+      1164
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      100,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Enerji verimliliği etiketidir. A sınıfı en az enerji tüketen, G sınıfı en çok tüketen üründür; A sınıfı ürünler tercih edilerek tasarruf sağlanır.",
+     "pill": [
+      646,
+      66
+     ],
+     "qx": 415,
+     "qt": 97,
+     "qb": 153,
+     "qr": 820,
+     "bal": [
+      30,
+      161,
+      886,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1110,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek: \"Doğal kaynaklarımızı koruyabiliriz.\" Çünkü tasarruf hem bütçemize hem gelecek nesillere katkı sağlar.",
+     "pill": [
+      646,
+      1112
+     ],
+     "qx": 598,
+     "qt": 1091,
+     "qb": 1132,
+     "qr": 820,
+     "bal": [
+      496,
+      978,
+      420,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 94,
+   "img": "@IMG:s5-u5/p-29@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıda verilen görseller ile…",
+     "r": [
+      90,
+      83,
+      771,
+      652
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      92,
+      707,
+      769,
+      457
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Musluğu açık bırakmamak, damla sulama, yağmur suyu biriktirme",
+     "fs": 13,
+     "area": [
+      121,
+      204,
+      466,
+      149
+     ],
+     "pill": [
+      515,
+      191
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Su faturası azalır, su kaynakları korunur.",
+     "fs": 13,
+     "area": [
+      178,
+      357,
+      424,
+      28
+     ],
+     "pill": [
+      590,
+      299
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kombiyi ve ısıtıcıyı gereğinden fazla açmamak, evi yalıtmak, enerji verimli cihaz kullanmak. Kazanım: fatura azalır, doğal gaz ithalatı ve hava kirliliği azalır.",
+     "fs": 13,
+     "area": [
+      368,
+      476,
+      421,
+      181
+     ],
+     "pill": [
+      816,
+      463
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İhtiyaç kadar giysi almak, ikinci el kullanmak, tamir etmek",
+     "fs": 13,
+     "area": [
+      121,
+      760,
+      466,
+      150
+     ],
+     "pill": [
+      515,
+      747
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bütçe korunur, kaynak israfı ve atık azalır.",
+     "fs": 13,
+     "area": [
+      178,
+      914,
+      424,
+      28
+     ],
+     "pill": [
+      566,
+      976
+     ]
+    }
+   ]
+  },
+  {
+   "n": 95,
+   "img": "@IMG:s5-u5/p-30@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Erva (Görsel",
+     "r": [
+      89,
+      0,
+      823,
+      406
+     ]
+    },
+    {
+     "t": "Aşağıda verilen hikâyeleri…",
+     "r": [
+      99,
+      378,
+      729,
+      548
+     ]
+    },
+    {
+     "t": "Elif neleri yanlış yapmıştır?",
+     "r": [
+      102,
+      898,
+      726,
+      266
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kazancının bir kısmını biriktirmiş, bütçesini planlamış, ihtiyaçlarını önceliklendirmiştir.",
+     "fs": 13,
+     "area": [
+      134,
+      862,
+      682,
+      45
+     ],
+     "pill": [
+      780,
+      849
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Plansız harcama yapmış, tasarruf etmemiş, borç vermiştir.",
+     "fs": 13,
+     "area": [
+      134,
+      932,
+      682,
+      46
+     ],
+     "pill": [
+      780,
+      919
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Evi su bastığında ve borcunu alamadığında zor durumda kalmıştır.",
+     "fs": 13,
+     "area": [
+      134,
+      1002,
+      682,
+      45
+     ],
+     "pill": [
+      780,
+      989
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "\"Ayağını yorganına göre uzat\": gelirine göre harca. \"Sakla samanı, gelir zamanı\": biriktirdiğin bir gün işine yarar.",
+     "fs": 12,
+     "area": [
+      134,
+      1072,
+      682,
+      46
+     ],
+     "pill": [
+      780,
+      1059
+     ]
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "img": "@IMG:s5-u5/p-31@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "2) Doğru ve uygulanabilir bir",
+     "r": [
+      92,
+      83,
+      778,
+      648
+     ]
+    },
+    {
+     "t": "Hazırlayıp uygulamaya…",
+     "r": [
+      92,
+      703,
+      736,
+      461
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Para yetmez, borçlanırız, ihtiyaçlarımızı karşılayamayabiliriz, birikim yapamayız ve ani giderler karşısında zor durumda kalırız. Planı gözden geçirip gerçekçi hâle getirmeliyiz.",
+     "fs": 16,
+     "area": [
+      153,
+      812,
+      638,
+      301
+     ],
+     "pill": [
+      823,
+      799
+     ]
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "img": "@IMG:s5-u5/p-32@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      34,
+      55,
+      805,
+      429
+     ]
+    },
+    {
+     "t": "Giderlerim",
+     "r": [
+      105,
+      456,
+      740,
+      708
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Ek iş / ödül",
+     "fs": 12,
+     "area": [
+      149,
+      684,
+      145,
+      101
+     ],
+     "pill": [
+      45,
+      671
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kırtasiye, ulaşım, kitap, kumbara",
+     "fs": 12,
+     "area": [
+      149,
+      802,
+      145,
+      141
+     ],
+     "pill": [
+      45,
+      789
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      758,
+      1074,
+      60,
+      59
+     ],
+     "panel": "ozdeg",
+     "label": "Öz değerlendirme formu"
+    }
+   ]
+  },
+  {
+   "n": 98,
+   "img": "@IMG:s5-u5/p-33@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Aşağıdaki soruları ilgili…",
+     "r": [
+      108,
+      93,
+      734,
+      268
+     ]
+    },
+    {
+     "t": "Kişisel bütçenizi hazırlarken…",
+     "r": [
+      108,
+      333,
+      734,
+      222
+     ]
+    },
+    {
+     "t": "Kişisel bütçe hazırlamanın size…",
+     "r": [
+      94,
+      527,
+      748,
+      646
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Okul ve kırtasiye ihtiyaçlarına; çünkü eğitimim için zorunludur.",
+     "fs": 14,
+     "area": [
+      134,
+      236,
+      682,
+      87
+     ],
+     "pill": [
+      822,
+      223
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yeni oyuncak ve atıştırmalıkları; çünkü zorunlu değildi.",
+     "fs": 14,
+     "area": [
+      134,
+      431,
+      682,
+      88
+     ],
+     "pill": [
+      822,
+      418
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Plansız, isteklere fazla para harcanıyordu.",
+     "fs": 14,
+     "area": [
+      314,
+      759,
+      478,
+      55
+     ],
+     "pill": [
+      708,
+      749
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İhtiyaçlara öncelik verildi, her hafta birikim yapıldı.",
+     "fs": 14,
+     "area": [
+      314,
+      871,
+      478,
+      54
+     ],
+     "pill": [
+      714,
+      861
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tasarruf alışkanlığı kazandım, paranın değerini öğrendim.",
+     "fs": 14,
+     "area": [
+      314,
+      984,
+      477,
+      55
+     ],
+     "pill": [
+      714,
+      974
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      135,
+      1097,
+      64,
+      57
+     ],
+     "panel": "butcerubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 99,
+   "img": "@IMG:s5-u5/p-34@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki atasözlerinin ne…",
+     "r": [
+      34,
+      56,
+      794,
+      202
+     ]
+    },
+    {
+     "t": "Bütçe Planlarken",
+     "r": [
+      34,
+      230,
+      817,
+      934
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      248,
+      385,
+      228,
+      72
+     ],
+     "mode": "ink",
+     "text": "Küçük birikimler zamanla büyük bir sermaye oluşturur.",
+     "fs": 12,
+     "pill": [
+      438,
+      381
+     ]
+    },
+    {
+     "area": [
+      248,
+      471,
+      228,
+      72
+     ],
+     "mode": "ink",
+     "text": "Ne kadar varlıklı olursan ol, dikkatsiz harcarsan tükenir.",
+     "fs": 12,
+     "pill": [
+      438,
+      464
+     ]
+    },
+    {
+     "area": [
+      248,
+      557,
+      228,
+      72
+     ],
+     "mode": "ink",
+     "text": "Mum kullanılmayacak bir zamanda yakılmaz; gereksiz harcama yapılmaz.",
+     "fs": 12,
+     "pill": [
+      438,
+      553
+     ]
+    },
+    {
+     "area": [
+      248,
+      643,
+      228,
+      72
+     ],
+     "mode": "ink",
+     "text": "Her şeyin aşırısı zararlıdır.",
+     "fs": 12,
+     "pill": [
+      438,
+      630
+     ]
+    },
+    {
+     "area": [
+      248,
+      729,
+      228,
+      72
+     ],
+     "mode": "ink",
+     "text": "Gelirine göre harca.",
+     "fs": 12,
+     "pill": [
+      438,
+      722
+     ]
+    },
+    {
+     "area": [
+      248,
+      815,
+      228,
+      72
+     ],
+     "mode": "ink",
+     "text": "Az zarar, büyük zarara uğramaktan iyidir.",
+     "fs": 12,
+     "pill": [
+      438,
+      811
+     ]
+    },
+    {
+     "area": [
+      248,
+      901,
+      228,
+      72
+     ],
+     "mode": "ink",
+     "text": "Para emekle kazanılır, israf edilince kolayca kaybedilir.",
+     "fs": 12,
+     "pill": [
+      438,
+      897
+     ]
+    },
+    {
+     "area": [
+      248,
+      987,
+      228,
+      72
+     ],
+     "mode": "ink",
+     "text": "Bir işi yapmadan önce iyice düşün, planla.",
+     "fs": 12,
+     "pill": [
+      438,
+      983
+     ]
+    },
+    {
+     "area": [
+      500,
+      385,
+      232,
+      72
+     ],
+     "mode": "ink",
+     "text": "Küçük tasarrufları bile önemsemek",
+     "fs": 12,
+     "pill": [
+      696,
+      384
+     ]
+    },
+    {
+     "area": [
+      500,
+      471,
+      232,
+      72
+     ],
+     "mode": "ink",
+     "text": "Gelire güvenip savurganlık yapmamak",
+     "fs": 12,
+     "pill": [
+      696,
+      464
+     ]
+    },
+    {
+     "area": [
+      500,
+      557,
+      232,
+      72
+     ],
+     "mode": "ink",
+     "text": "Gereksiz harcamalardan kaçınmak",
+     "fs": 12,
+     "pill": [
+      696,
+      556
+     ]
+    },
+    {
+     "area": [
+      500,
+      643,
+      232,
+      72
+     ],
+     "mode": "ink",
+     "text": "Dengeli harcamak",
+     "fs": 12,
+     "pill": [
+      696,
+      642
+     ]
+    },
+    {
+     "area": [
+      500,
+      729,
+      232,
+      72
+     ],
+     "mode": "ink",
+     "text": "Bütçeyi aşmamak",
+     "fs": 12,
+     "pill": [
+      696,
+      722
+     ]
+    },
+    {
+     "area": [
+      500,
+      815,
+      232,
+      72
+     ],
+     "mode": "ink",
+     "text": "Kayıpları erken fark etmek",
+     "fs": 12,
+     "pill": [
+      696,
+      811
+     ]
+    },
+    {
+     "area": [
+      500,
+      901,
+      232,
+      72
+     ],
+     "mode": "ink",
+     "text": "Emeğin karşılığına değer vermek",
+     "fs": 12,
+     "pill": [
+      696,
+      900
+     ]
+    },
+    {
+     "area": [
+      500,
+      987,
+      232,
+      72
+     ],
+     "mode": "ink",
+     "text": "Önceden plan yapmak",
+     "fs": 12,
+     "pill": [
+      696,
+      983
+     ]
+    }
+   ]
+  }
+ ]
+};

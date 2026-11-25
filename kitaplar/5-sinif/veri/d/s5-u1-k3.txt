@@ -1,0 +1,1221 @@
+// 5. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–47)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Yardımlaşma ve dayanışmada beraberiz (s. 34–47)
+window.BOOK = {
+ "id": "s5-u1-k3",
+ "title": "Yardımlaşma ve dayanışmada beraberiz",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u1-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 34,
+   "img": "@IMG:s5-u1/p-25@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "YARDIMLAŞMA",
+     "r": [
+      38,
+      55,
+      879,
+      683
+     ]
+    },
+    {
+     "t": "Milli Mücadele Dönemi'nde…",
+     "r": [
+      38,
+      572,
+      790,
+      272
+     ]
+    },
+    {
+     "t": "Günümüzde Türk Kızılay, bazı…",
+     "r": [
+      38,
+      816,
+      790,
+      348
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      226,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Toplumsal birlik; insanların birbirine destek olması, sevinç ve üzüntüleri paylaşmasıdır. Bir binanın tuğlalarına ya da bir ağacın köklerine benzetilebilir.",
+     "pill": [
+      760,
+      219
+     ],
+     "qx": 350,
+     "qt": 185,
+     "qb": 384,
+     "qr": 817,
+     "bal": [
+      350,
+      301,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      460,
+      545,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Askıda ekmek, mahalle yardım kampanyaları sadaka taşına benzer; yardım yapılan kişinin kimliği gizli tutulur.\n\"İhtiyaç sahibi incinmez\": Yardım alan kişi utanmaz, onuru korunur.\nMahremiyet insanların onurunu ve kendine güvenini korur.",
+     "pill": [
+      494,
+      544
+     ],
+     "qx": 358,
+     "qt": 516,
+     "qb": 567,
+     "qr": 815,
+     "bal": [
+      358,
+      575,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      792,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Vatanımızı kurtarmak için ordumuza destek verirdim. Elimizdeki yiyecek, giyecek ve eşyaları paylaşır, çorap örer, cephaneyi taşımaya yardım ederdik.",
+     "pill": [
+      634,
+      800
+     ],
+     "qx": 359,
+     "qt": 740,
+     "qb": 814,
+     "qr": 816,
+     "bal": [
+      34,
+      822,
+      798,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1040,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kan bağışı, afet bölgelerine yardım, kermesler, askıda ekmek, fidan dikme kampanyaları.\nYardımlaşma, dayanışma, merhamet, sevgi, birlik ve beraberlik duyguları gelişir.",
+     "pill": [
+      634,
+      1048
+     ],
+     "qx": 359,
+     "qt": 959,
+     "qb": 1124,
+     "qr": 816,
+     "bal": [
+      272,
+      842,
+      560,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      362,
+      1066,
+      65,
+      58
+     ],
+     "panel": "yardim",
+     "label": "Yardımlaşma ve dayanışma faaliyetleri"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "img": "@IMG:s5-u1/p-26@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "TÜRKİYE CUMHURİYETİ",
+     "r": [
+      34,
+      55,
+      824,
+      363
+     ]
+    },
+    {
+     "t": "Türkiye Cumhuriyeti Aile ve Sosyal",
+     "r": [
+      94,
+      390,
+      745,
+      318
+     ]
+    },
+    {
+     "t": "Okulunuzda toplumsal…",
+     "r": [
+      90,
+      680,
+      738,
+      491
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Yaşlılar ve özel gereksinimli bireyler yalnız olmadıklarını hisseder, temel ihtiyaçları karşılanır, yaşam kaliteleri artar.",
+     "fs": 14,
+     "area": [
+      141,
+      532,
+      299,
+      148
+     ],
+     "pill": [
+      445,
+      486
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Toplumda dayanışma ve vefa duygusu güçlenir, sosyal devlet anlayışı yaygınlaşır, birlik ve beraberlik artar.",
+     "fs": 14,
+     "area": [
+      510,
+      532,
+      299,
+      148
+     ],
+     "pill": [
+      832,
+      519
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kermes, kitap ve kırtasiye bağışı kampanyası, ihtiyaç sahibi öğrencilere destek, huzurevi ziyareti, okul bahçesine fidan dikme.",
+     "fs": 15,
+     "area": [
+      151,
+      774,
+      617,
+      118
+     ],
+     "pill": [
+      695,
+      764
+     ]
+    },
+    {
+     "area": [
+      600,
+      1130,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kızılay, AFAD, Yeşilay, TEMA Vakfı, Darüşşafaka, LÖSEV, Türkiye Diyanet Vakfı, AKUT; belediyelerin sosyal yardım birimleri.",
+     "pill": [
+      634,
+      1132
+     ],
+     "qx": 106,
+     "qt": 1104,
+     "qb": 1215,
+     "qr": 800,
+     "bal": [
+      86,
+      1016,
+      746,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "img": "@IMG:s5-u1/p-27@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıda sosyal sorumluluk…",
+     "r": [
+      38,
+      57,
+      790,
+      1107
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 37,
+   "img": "@IMG:s5-u1/p-28@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "BAKANLIĞI",
+     "r": [
+      123,
+      80,
+      704,
+      297
+     ]
+    },
+    {
+     "t": "T.C. Milli Eğitim Bakanlığının…",
+     "r": [
+      118,
+      349,
+      714,
+      815
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Depremzede çocuklara kitap ve oyuncak göndermek",
+     "fs": 13,
+     "area": [
+      371,
+      612,
+      210,
+      111
+     ],
+     "pill": [
+      543,
+      512
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Huzurevindeki yaşlıları ziyaret edip el işi hediye etmek",
+     "fs": 13,
+     "area": [
+      610,
+      612,
+      210,
+      111
+     ],
+     "pill": [
+      830,
+      599
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Herkesin evinde kitap ve oyuncak olması",
+     "fs": 13,
+     "area": [
+      371,
+      724,
+      209,
+      111
+     ],
+     "pill": [
+      273,
+      705
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yaşlıların yalnızlığını gidermek",
+     "fs": 13,
+     "area": [
+      610,
+      724,
+      209,
+      111
+     ],
+     "pill": [
+      830,
+      711
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Taşıma ve kargo maliyeti",
+     "fs": 13,
+     "area": [
+      371,
+      836,
+      209,
+      112
+     ],
+     "pill": [
+      273,
+      817
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ziyaret için izin ve ulaşım gerekmesi",
+     "fs": 13,
+     "area": [
+      610,
+      836,
+      209,
+      112
+     ],
+     "pill": [
+      830,
+      823
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      757,
+      1078,
+      60,
+      60
+     ],
+     "panel": "anekdot",
+     "label": "Anekdot kaydı"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "img": "@IMG:s5-u1/p-29@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Merhaba, ben Emir Taha. E",
+     "r": [
+      38,
+      72,
+      790,
+      556
+     ]
+    },
+    {
+     "t": "İHTİYAÇ LİSTESİ",
+     "r": [
+      75,
+      600,
+      776,
+      564
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 39,
+   "img": "@IMG:s5-u1/p-30@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Merhaba, ben Ali. Kampanya…",
+     "r": [
+      34,
+      72,
+      794,
+      451
+     ]
+    },
+    {
+     "t": "Yönetici grubu üyelerinin…",
+     "r": [
+      34,
+      495,
+      793,
+      669
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 40,
+   "img": "@IMG:s5-u1/p-31@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Gruplarla yaptığımız fikir…",
+     "r": [
+      38,
+      83,
+      879,
+      374
+     ]
+    },
+    {
+     "t": "Türk Kızılaya ait bağış…",
+     "r": [
+      38,
+      429,
+      790,
+      735
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 41,
+   "img": "@IMG:s5-u1/p-32@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      34,
+      55,
+      878,
+      1109
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      531,
+      1029,
+      62,
+      60
+     ],
+     "panel": "projekontrol",
+     "label": "Kontrol listesi"
+    },
+    {
+     "area": [
+      755,
+      1030,
+      64,
+      60
+     ],
+     "panel": "projerubrik",
+     "label": "Analitik dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "img": "@IMG:s5-u1/p-33@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Bilgi şemasındaki örneği…",
+     "r": [
+      38,
+      55,
+      789,
+      726
+     ]
+    },
+    {
+     "t": "Yardımseverlikleriyle 11 ülkede…",
+     "r": [
+      38,
+      753,
+      790,
+      411
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Çünkü yardım etmek insanları mutlu eder, toplumu birleştirir.",
+     "fs": 12,
+     "area": [
+      229,
+      191,
+      182,
+      134
+     ],
+     "pill": [
+      407,
+      178
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İhtiyaç sahiplerine, yaşlılara, depremzedelere",
+     "fs": 12,
+     "center": true,
+     "area": [
+      657,
+      318,
+      90,
+      170
+     ],
+     "pill": [
+      709,
+      299
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bir ihtiyaç gördüğümde, afet ve zor günlerde",
+     "fs": 12,
+     "center": true,
+     "area": [
+      185,
+      394,
+      105,
+      171
+     ],
+     "pill": [
+      255,
+      381
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okulda, mahallede, afet bölgesinde",
+     "fs": 12,
+     "center": true,
+     "area": [
+      293,
+      603,
+      186,
+      98
+     ],
+     "pill": [
+      471,
+      542
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bağış yaparak, gönüllü çalışarak, kimseyi incitmeden",
+     "fs": 12,
+     "center": true,
+     "area": [
+      536,
+      549,
+      191,
+      137
+     ],
+     "pill": [
+      690,
+      536
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Toplumda yardımseverlik ve dayanışma artar, farklı ülkelerle dostluk bağları güçlenir.",
+     "fs": 13,
+     "area": [
+      332,
+      1083,
+      484,
+      52
+     ],
+     "pill": [
+      780,
+      1070
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "img": "@IMG:s5-u1/p-34@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "1. ÖĞRENME ALANI - DEĞERLER",
+     "r": [
+      34,
+      63,
+      794,
+      595
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      170,
+      630,
+      747,
+      534
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Duyarlılık",
+     "fs": 17,
+     "center": true,
+     "area": [
+      195,
+      735,
+      162,
+      28
+     ],
+     "pill": [
+      271,
+      728
+     ]
+    },
+    {
+     "area": [
+      595,
+      570,
+      165,
+      30
+     ],
+     "mode": "ink",
+     "text": "Sorumluluk",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      773,
+      557
+     ]
+    },
+    {
+     "area": [
+      595,
+      690,
+      165,
+      30
+     ],
+     "mode": "ink",
+     "text": "Yardımseverlik",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      773,
+      677
+     ]
+    },
+    {
+     "area": [
+      595,
+      910,
+      165,
+      30
+     ],
+     "mode": "ink",
+     "text": "Çalışkanlık",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      779,
+      897
+     ]
+    },
+    {
+     "area": [
+      595,
+      1020,
+      165,
+      30
+     ],
+     "mode": "ink",
+     "text": "Merhamet",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      779,
+      1007
+     ]
+    },
+    {
+     "area": [
+      190,
+      960,
+      165,
+      30
+     ],
+     "mode": "ink",
+     "text": "Paylaşma",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      296,
+      908
+     ]
+    },
+    {
+     "area": [
+      190,
+      1068,
+      165,
+      30
+     ],
+     "mode": "ink",
+     "text": "Saygı",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      296,
+      1013
+     ]
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "img": "@IMG:s5-u1/p-35@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki tabloda değerler…",
+     "r": [
+      108,
+      83,
+      734,
+      678
+     ]
+    },
+    {
+     "t": "Ülkemize yurt dışından eğitim veya",
+     "r": [
+      153,
+      733,
+      675,
+      431
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "3 (Sorumluluk), 6 (Saygı)",
+     "fs": 16,
+     "area": [
+      191,
+      709,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      696
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "6 (Saygı), 9 (Adalet)",
+     "fs": 16,
+     "area": [
+      191,
+      851,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      838
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "2 (Duyarlılık), 5 (Yardımseverlik), 3 (Sorumluluk)",
+     "fs": 16,
+     "area": [
+      191,
+      1038,
+      623,
+      58
+     ],
+     "pill": [
+      777,
+      1025
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "img": "@IMG:s5-u1/p-36@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "1. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      34,
+      63,
+      829,
+      1101
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "okul, arkadaş, akraba",
+     "fs": 13,
+     "area": [
+      156,
+      329,
+      188,
+      90
+     ],
+     "pill": [
+      388,
+      316
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çocuk, öğrenci, kardeş, sınıf başkanı",
+     "fs": 13,
+     "area": [
+      149,
+      476,
+      195,
+      90
+     ],
+     "pill": [
+      387,
+      463
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eğitim hakkı, oyun hakkı; kurallara uymak, ev işlerine yardım",
+     "fs": 12,
+     "area": [
+      149,
+      645,
+      195,
+      90
+     ],
+     "pill": [
+      387,
+      632
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "ebru, mantı, 23 Nisan, Türk kahvesi",
+     "fs": 13,
+     "area": [
+      604,
+      354,
+      196,
+      95
+     ],
+     "pill": [
+      842,
+      341
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Türkmen pilavı, kokoşnik, martenitsa, balalayka",
+     "fs": 12,
+     "area": [
+      604,
+      507,
+      195,
+      90
+     ],
+     "pill": [
+      842,
+      494
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "eğitim, çalışma, ticaret, spor festivalleri",
+     "fs": 13,
+     "area": [
+      604,
+      671,
+      195,
+      94
+     ],
+     "pill": [
+      842,
+      658
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tekâlif-i Millîye, imece, vakıflar",
+     "fs": 13,
+     "area": [
+      140,
+      885,
+      195,
+      94
+     ],
+     "pill": [
+      378,
+      872
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kızılay, AFAD, Yeşilay, TEMA, bakanlıklar",
+     "fs": 13,
+     "area": [
+      620,
+      889,
+      195,
+      90
+     ],
+     "pill": [
+      858,
+      876
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Birlik ve beraberlik, güven, huzur, dostluk",
+     "fs": 13,
+     "area": [
+      380,
+      1038,
+      195,
+      90
+     ],
+     "pill": [
+      618,
+      1025
+     ]
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "img": "@IMG:s5-u1/p-37@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "Merhaba arkadaşlar, ben Eren.…",
+     "r": [
+      123,
+      83,
+      705,
+      323
+     ]
+    },
+    {
+     "t": "Buna göre aşağıdakilerden…",
+     "r": [
+      122,
+      378,
+      706,
+      353
+     ]
+    },
+    {
+     "t": "Balkanların Osmanlı…",
+     "r": [
+      122,
+      703,
+      706,
+      461
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      380,
+      418,
+      260,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Orkestra-şef\nEren orkestrada gitarist olarak yer almaktadır.",
+     "pill": [
+      474,
+      426
+     ],
+     "qx": 163,
+     "qt": 407,
+     "qb": 446,
+     "qr": 816,
+     "bal": [
+      163,
+      454,
+      653,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Aile: çocuk; okul: öğrenci; kulüp: gitarist. Hakları: eğitim alma, kulübe katılma, fikirlerine saygı. Sorumlulukları: devamsızlık yapmamak, egzersiz yapmak, uyumlu olmak, ders tekrarı ve odasını düzenlemek.",
+     "fs": 14,
+     "area": [
+      164,
+      592,
+      650,
+      96
+     ],
+     "pill": [
+      780,
+      582
+     ]
+    },
+    {
+     "area": [
+      600,
+      930,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Türk kültürü, Kuzey Makedonya kültürünü her alanda etkilemiştir.\nMetinde \"birçok alanda\" denmektedir; \"her alanda\" ifadesine ulaşılamaz.",
+     "pill": [
+      664,
+      929
+     ],
+     "qx": 163,
+     "qt": 930,
+     "qb": 953,
+     "qr": 800,
+     "bal": [
+      118,
+      961,
+      714,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "img": "@IMG:s5-u1/p-38@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "4. Yağlı güreş, cirit, okçuluk",
+     "r": [
+      122,
+      83,
+      706,
+      273
+     ]
+    },
+    {
+     "t": "Genel ağ haberine göre ülkemizde",
+     "r": [
+      122,
+      328,
+      709,
+      836
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Farklı ülkelerden insanlar geleneksel sporlar aracılığıyla bir araya gelir, birbirlerinin kültürünü tanır; birlik, saygı ve dostluk güçlenir, ön yargılar ortadan kalkar.",
+     "fs": 14,
+     "area": [
+      164,
+      427,
+      650,
+      60
+     ],
+     "pill": [
+      780,
+      414
+     ]
+    },
+    {
+     "area": [
+      480,
+      895,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) I, II ve III",
+     "pill": [
+      568,
+      894
+     ],
+     "qx": 163,
+     "qt": 895,
+     "qb": 917,
+     "qr": 730,
+     "bal": [
+      163,
+      925,
+      567,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      297,
+      1066,
+      55,
+      60
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      757,
+      1066,
+      62,
+      60
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

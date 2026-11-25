@@ -1,0 +1,1189 @@
+// 5. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–65)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Demokrasi ve cumhuriyetin temel nitelikleri (s. 12–23)
+window.BOOK = {
+ "id": "s5-u4-k1",
+ "title": "Demokrasi ve cumhuriyetin temel nitelikleri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u4-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 10,
+   "img": "@IMG:s5-u4/p-01@",
+   "section": "4. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      85,
+      884,
+      463
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      520,
+      884,
+      644
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      316,
+      1066,
+      65,
+      64
+     ],
+     "panel": "alan",
+     "label": "4. Öğrenme alanı"
+    },
+    {
+     "area": [
+      570,
+      975,
+      64,
+      64
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "img": "@IMG:s5-u4/p-02@",
+   "section": "Yaşayan Demokrasimiz",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      796,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 12,
+   "img": "@IMG:s5-u4/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "DEMOKRASİ VE CUMHURİYETİN",
+     "r": [
+      38,
+      55,
+      878,
+      710
+     ]
+    },
+    {
+     "t": "VATANDAŞLIK",
+     "r": [
+      38,
+      737,
+      878,
+      427
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Atatürk",
+     "fs": 13,
+     "area": [
+      194,
+      434,
+      131,
+      28
+     ],
+     "pill": [
+      288,
+      421
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "29 Ekim 1923",
+     "fs": 13,
+     "area": [
+      364,
+      454,
+      132,
+      28
+     ],
+     "pill": [
+      416,
+      441
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Millî egemenlik",
+     "fs": 13,
+     "area": [
+      151,
+      495,
+      132,
+      28
+     ],
+     "pill": [
+      245,
+      482
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Seçim",
+     "fs": 13,
+     "area": [
+      323,
+      514,
+      131,
+      28
+     ],
+     "pill": [
+      417,
+      501
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eğitim",
+     "fs": 13,
+     "area": [
+      670,
+      607,
+      131,
+      28
+     ],
+     "pill": [
+      722,
+      594
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yaşama",
+     "fs": 13,
+     "area": [
+      493,
+      618,
+      132,
+      28
+     ],
+     "pill": [
+      587,
+      605
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Düşünce",
+     "fs": 13,
+     "area": [
+      696,
+      669,
+      131,
+      28
+     ],
+     "pill": [
+      790,
+      656
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Seyahat",
+     "fs": 13,
+     "area": [
+      510,
+      677,
+      131,
+      28
+     ],
+     "pill": [
+      604,
+      664
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kimlik",
+     "fs": 13,
+     "area": [
+      300,
+      831,
+      131,
+      28
+     ],
+     "pill": [
+      382,
+      821
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hak",
+     "fs": 13,
+     "area": [
+      128,
+      839,
+      131,
+      28
+     ],
+     "pill": [
+      222,
+      826
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sorumluluk",
+     "fs": 13,
+     "area": [
+      343,
+      892,
+      131,
+      28
+     ],
+     "pill": [
+      419,
+      879
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Vergi",
+     "fs": 13,
+     "area": [
+      168,
+      900,
+      131,
+      28
+     ],
+     "pill": [
+      262,
+      887
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eşitlik",
+     "fs": 13,
+     "area": [
+      696,
+      966,
+      131,
+      28
+     ],
+     "pill": [
+      748,
+      953
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Özgürlük",
+     "fs": 13,
+     "area": [
+      489,
+      983,
+      131,
+      28
+     ],
+     "pill": [
+      583,
+      970
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Katılım",
+     "fs": 13,
+     "area": [
+      679,
+      1027,
+      131,
+      28
+     ],
+     "pill": [
+      773,
+      1014
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çoğulculuk",
+     "fs": 13,
+     "area": [
+      504,
+      1043,
+      132,
+      28
+     ],
+     "pill": [
+      598,
+      1030
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "img": "@IMG:s5-u4/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Sınıfta uyulacak kuralları…",
+     "r": [
+      34,
+      55,
+      794,
+      248
+     ]
+    },
+    {
+     "t": "Sınıf çoğunluğunun oyunu alan…",
+     "r": [
+      122,
+      275,
+      766,
+      560
+     ]
+    },
+    {
+     "t": "8 Aşağıdaki soruları cevaplayınız.",
+     "r": [
+      122,
+      807,
+      710,
+      386
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "1. Derse zamanında gelmek\n2. Söz alarak konuşmak\n3. Arkadaşlarımıza saygılı olmak\n4. Sınıfı temiz tutmak\n5. Okul eşyalarını korumak",
+     "fs": 15,
+     "area": [
+      134,
+      489,
+      435,
+      219
+     ],
+     "pill": [
+      516,
+      476
+     ]
+    },
+    {
+     "area": [
+      600,
+      920,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kurallar herkesin fikri alınmadan belirlenseydi bazı öğrenciler kendini dışlanmış hisseder, kurallara uymakta isteksiz olurdu.",
+     "pill": [
+      646,
+      928
+     ],
+     "qx": 137,
+     "qt": 907,
+     "qb": 942,
+     "qr": 820,
+     "bal": [
+      118,
+      1105,
+      718,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      975,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ortaklaşa alınan kararlar herkesin isteğini yansıtır, katılımı ve sorumluluğu artırır.",
+     "pill": [
+      646,
+      977
+     ],
+     "qx": 163,
+     "qt": 957,
+     "qb": 1043,
+     "qr": 820,
+     "bal": [
+      163,
+      1111,
+      657,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1030,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Mahalle sakinlerinin görüşü sorulmalı ya da oylama yapılmalıdır; böylece çoğunluğun desteği alınır.",
+     "pill": [
+      814,
+      1029
+     ],
+     "qx": 163,
+     "qt": 1006,
+     "qb": 1192,
+     "qr": 820,
+     "bal": [
+      163,
+      1111,
+      657,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1100,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Fikirlerim sorulursa değerli hissederim; sorulmazsa üzülür, kararı benimsemekte zorlanırım.",
+     "pill": [
+      646,
+      1114
+     ],
+     "qx": 162,
+     "qt": 1056,
+     "qb": 1220,
+     "qr": 820,
+     "bal": [
+      118,
+      968,
+      718,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "img": "@IMG:s5-u4/p-05@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "8) Milli Mücadele'nin ardından…",
+     "r": [
+      38,
+      84,
+      879,
+      442
+     ]
+    },
+    {
+     "t": "Aşağıdaki alana 29 Ekim Cumhuriyet",
+     "r": [
+      122,
+      498,
+      707,
+      666
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Okulumuzda tören düzenlendi, şiirler okundu, halk oyunları oynandı. Şehirde fener alayı yapıldı, evler ve sokaklar bayraklarla süslendi.",
+     "fs": 16,
+     "area": [
+      151,
+      806,
+      619,
+      300
+     ],
+     "pill": [
+      689,
+      796
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "img": "@IMG:s5-u4/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Demokrasiye hayatımızın her…",
+     "r": [
+      34,
+      55,
+      878,
+      258
+     ]
+    },
+    {
+     "t": "Sınıf başkanlığı seçimini…",
+     "r": [
+      89,
+      285,
+      823,
+      879
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      280,
+      856,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Seçme ve seçilme hakkı, dilekçe hakkı, katılım, düşünceyi ifade etme. Bu hakları korumak için oy kullanmalı, kurallara uymalı, başkalarının haklarına saygı göstermeliyiz.",
+     "pill": [
+      314,
+      855
+     ],
+     "qx": 135,
+     "qt": 816,
+     "qb": 876,
+     "qr": 606,
+     "bal": [
+      85,
+      884,
+      831,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      330,
+      1120,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Evde ailece karar almak, okulda sınıf başkanı seçimi ve okul meclisi, şehirde belediyeye dilekçe vermek ve seçimlerde oy kullanmak.",
+     "pill": [
+      364,
+      1119
+     ],
+     "qx": 134,
+     "qt": 1078,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      85,
+      990,
+      831,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "img": "@IMG:s5-u4/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Demokrasinin özgürlük, eşitlik,…",
+     "r": [
+      38,
+      83,
+      790,
+      556
+     ]
+    },
+    {
+     "t": "16 ve 17. sayfalardaki haberleri",
+     "r": [
+      38,
+      611,
+      800,
+      553
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Hukukun üstünlüğü, eşitlik, temel hak ve özgürlükler",
+     "fs": 14,
+     "area": [
+      368,
+      956,
+      402,
+      28
+     ],
+     "pill": [
+      822,
+      943
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Haber; temel hak ve özgürlüklerin anayasa ve yasalarla koruma altında olduğunu, herkesin kanunlar önünde eşit olduğunu ve hukukun üstünlüğünü vurgulamaktadır.",
+     "fs": 14,
+     "area": [
+      151,
+      991,
+      650,
+      115
+     ],
+     "pill": [
+      821,
+      978
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "img": "@IMG:s5-u4/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "14 Mayıs seçimlerine göre TBMM'de",
+     "r": [
+      90,
+      83,
+      738,
+      369
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      122,
+      424,
+      707,
+      740
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Çoğulculuk, seçme ve seçilme, millî egemenlik, katılım",
+     "fs": 14,
+     "area": [
+      368,
+      800,
+      402,
+      28
+     ],
+     "pill": [
+      822,
+      787
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Mecliste farklı partilerin bulunması farklı görüşlerin temsil edildiğini (çoğulculuk), milletvekillerinin halkın oylarıyla seçildiğini (millî egemenlik, katılım) gösterir.",
+     "fs": 14,
+     "area": [
+      151,
+      836,
+      615,
+      114
+     ],
+     "pill": [
+      821,
+      823
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      757,
+      1058,
+      59,
+      60
+     ],
+     "panel": "nitelikler",
+     "label": "Demokrasinin nitelikleri"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "img": "@IMG:s5-u4/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "TÜRKİYE",
+     "r": [
+      138,
+      55,
+      639,
+      373
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      94,
+      400,
+      756,
+      764
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      612,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kadınlara seçme ve seçilme hakkı, TBMM'nin açılması, halkın oy kullanması. Bu görseller eşitliği, millî egemenliği ve halkın yönetime katılımını gösterir.",
+     "pill": [
+      646,
+      614
+     ],
+     "qx": 106,
+     "qt": 591,
+     "qb": 774,
+     "qr": 820,
+     "bal": [
+      90,
+      687,
+      764,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1100,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Millî egemenlik (\"Egemenlik kayıtsız şartsız milletindir\"), sosyal devlet (vatandaşın derdine çare bulmak), özgürlük (\"fikri hür, vicdanı hür, irfanı hür nesiller\").",
+     "pill": [
+      646,
+      1114
+     ],
+     "qx": 106,
+     "qt": 1091,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      90,
+      978,
+      764,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "img": "@IMG:s5-u4/p-10@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Cumhuriyet ve demokrasi…",
+     "r": [
+      122,
+      10,
+      790,
+      418
+     ]
+    },
+    {
+     "t": "Cumhur halk, büyük kalabalık…",
+     "r": [
+      92,
+      400,
+      820,
+      813
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1080,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kanunlara uymalı, haklarımızı bilmeli ve korumalı, oy kullanmalı, vergimizi ödemeli, millî değerlerimize sahip çıkmalı ve iyi bir eğitim almalıyız.",
+     "pill": [
+      646,
+      1088
+     ],
+     "qx": 104,
+     "qt": 940,
+     "qb": 1117,
+     "qr": 824,
+     "bal": [
+      88,
+      1125,
+      828,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "img": "@IMG:s5-u4/p-11@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "ana kadar edindiğiniz…",
+     "r": [
+      89,
+      83,
+      828,
+      543
+     ]
+    },
+    {
+     "t": "Uygun Olan Örnekler Uygun Olmayan",
+     "r": [
+      80,
+      598,
+      836,
+      566
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      300,
+      300,
+      240
+     ],
+     "mode": "ink",
+     "text": "Halkın egemenliği seçtiği temsilciler aracılığıyla kullandığı yönetim biçimidir.",
+     "fs": 15,
+     "pill": [
+      372,
+      287
+     ]
+    },
+    {
+     "area": [
+      496,
+      300,
+      300,
+      240
+     ],
+     "mode": "ink",
+     "text": "Egemenlik milletindir, seçimler yapılır, devlet başkanı seçimle gelir, herkes kanun önünde eşittir.",
+     "fs": 15,
+     "pill": [
+      722,
+      287
+     ]
+    },
+    {
+     "area": [
+      140,
+      710,
+      300,
+      240
+     ],
+     "mode": "ink",
+     "text": "Seçimlerde oy kullanmak, okul meclisi seçimi, kadınların seçme ve seçilme hakkı.",
+     "fs": 15,
+     "pill": [
+      372,
+      703
+     ]
+    },
+    {
+     "area": [
+      496,
+      710,
+      300,
+      240
+     ],
+     "mode": "ink",
+     "text": "Yöneticinin babadan oğula geçmesi, halkın fikrinin sorulmaması, tek kişinin yönetmesi.",
+     "fs": 15,
+     "pill": [
+      722,
+      703
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1068,
+      62,
+      58
+     ],
+     "panel": "iliski",
+     "label": "Demokrasi ve cumhuriyet arasındaki ilişki"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "img": "@IMG:s5-u4/p-12@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Kelime İlişkilendirme",
+     "r": [
+      34,
+      55,
+      794,
+      285
+     ]
+    },
+    {
+     "t": "Kartlara yazdığınız kelimeleri…",
+     "r": [
+      34,
+      312,
+      805,
+      386
+     ]
+    },
+    {
+     "t": "Her iki kavram ile",
+     "r": [
+      34,
+      670,
+      825,
+      494
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      126,
+      450,
+      324,
+      200
+     ],
+     "mode": "ink",
+     "text": "Eşitlik, özgürlük, çoğulculuk, katılım, seçim, hoşgörü",
+     "fs": 15,
+     "pill": [
+      412,
+      419
+     ]
+    },
+    {
+     "area": [
+      494,
+      450,
+      326,
+      200
+     ],
+     "mode": "ink",
+     "text": "Millî egemenlik, Atatürk, 29 Ekim, TBMM, seçim, eşitlik",
+     "fs": 15,
+     "pill": [
+      786,
+      419
+     ]
+    },
+    {
+     "area": [
+      200,
+      800,
+      190,
+      280
+     ],
+     "mode": "ink",
+     "text": "Çoğulculuk\nHoşgörü\nAilede ve okulda katılım",
+     "fs": 14,
+     "pill": [
+      354,
+      787
+     ]
+    },
+    {
+     "area": [
+      395,
+      840,
+      150,
+      200
+     ],
+     "mode": "ink",
+     "text": "Seçim\nEşitlik\nÖzgürlük\nHalk egemenliği",
+     "fs": 14,
+     "center": true,
+     "pill": [
+      543,
+      827
+     ]
+    },
+    {
+     "area": [
+      570,
+      800,
+      170,
+      280
+     ],
+     "mode": "ink",
+     "text": "29 Ekim 1923\nAtatürk\nDevlet şekli",
+     "fs": 14,
+     "pill": [
+      706,
+      739
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "img": "@IMG:s5-u4/p-13@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı o: Demokrasi ve Cumhuriyet",
+     "r": [
+      92,
+      80,
+      824,
+      1084
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 23,
+   "img": "@IMG:s5-u4/p-14@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "000000",
+     "r": [
+      34,
+      55,
+      810,
+      724
+     ]
+    },
+    {
+     "t": "1. Mustafa Kemal Atatürk…",
+     "r": [
+      88,
+      751,
+      741,
+      413
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      100,
+      1020,
+      240,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevaplar",
+     "text": "1. TBMM (Türkiye Büyük Millet Meclisi)\n2. CUMHURİYET\n3. ÇOĞULCULUK\n4. DEMOKRASİ\n5. KATILIM\n6. PARTİ\n7. MAHKEME",
+     "pill": [
+      176,
+      1019
+     ],
+     "qx": 100,
+     "qt": 1020,
+     "qb": 1044,
+     "qr": 340,
+     "bal": [
+      100,
+      1052,
+      420,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      755,
+      1046,
+      62,
+      60
+     ],
+     "panel": "bulmaca",
+     "label": "Bulmacanın cevap anahtarı"
+    }
+   ]
+  }
+ ]
+};

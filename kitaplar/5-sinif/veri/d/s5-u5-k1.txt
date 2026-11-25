@@ -1,0 +1,1349 @@
+// 5. Sınıf Sosyal Bilgiler · 5. Öğrenme Alanı: Hayatımızdaki Ekonomi (s. 66–117)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Kaynaklarımızın verimli kullanımı (s. 68–84)
+window.BOOK = {
+ "id": "s5-u5-k1",
+ "title": "Kaynaklarımızın verimli kullanımı",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u5-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 66,
+   "img": "@IMG:s5-u5/p-01@",
+   "section": "5. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      85,
+      884,
+      463
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      520,
+      884,
+      644
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      314,
+      1066,
+      68,
+      62
+     ],
+     "panel": "alan",
+     "label": "5. Öğrenme alanı"
+    },
+    {
+     "area": [
+      570,
+      975,
+      64,
+      64
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "img": "@IMG:s5-u5/p-02@",
+   "section": "Hayatımızdaki Ekonomi",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      878,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 68,
+   "img": "@IMG:s5-u5/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "KAYNAKLARIMIZIN",
+     "r": [
+      38,
+      55,
+      806,
+      785
+     ]
+    },
+    {
+     "t": "Farklı kültürlerde doğal…",
+     "r": [
+      121,
+      736,
+      711,
+      428
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      712,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Atasözlerinde ve Kızılderili şefinin sözlerinde toprak, su (ırmak, göl), hava (rüzgâr) ve altın (maden) gibi doğal kaynaklardan söz edilmektedir.",
+     "pill": [
+      646,
+      678
+     ],
+     "qx": 138,
+     "qt": 708,
+     "qb": 744,
+     "qr": 820,
+     "bal": [
+      34,
+      752,
+      814,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Her toplum yaşamını doğal kaynaklardan sağladığı için doğaya değer verir; doğa ile iç içe yaşamak bu kaynakları korumayı gerektirmiştir.",
+     "fs": 14,
+     "area": [
+      167,
+      801,
+      649,
+      85
+     ],
+     "pill": [
+      783,
+      788
+     ]
+    },
+    {
+     "area": [
+      600,
+      925,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Doğal kaynaklar bize geçmişten miras kalmadı, geleceğin emanetidir. Bu yüzden onları verimli kullanmalı, tüketip tüketmeden çocuklarımıza bırakmalıyız.",
+     "pill": [
+      646,
+      894
+     ],
+     "qx": 151,
+     "qt": 925,
+     "qb": 968,
+     "qr": 820,
+     "bal": [
+      151,
+      976,
+      669,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1000,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Toprak: tarım. Su: içme, sulama, enerji. Orman: kereste, kâğıt, oksijen. Maden: sanayi, enerji, araç-gereç.",
+     "pill": [
+      646,
+      975
+     ],
+     "qx": 133,
+     "qt": 996,
+     "qb": 1029,
+     "qr": 820,
+     "bal": [
+      117,
+      1037,
+      719,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "img": "@IMG:s5-u5/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Öğretmeninizin rehberliğinde üç…",
+     "r": [
+      34,
+      55,
+      794,
+      403
+     ]
+    },
+    {
+     "t": "Çevremizdeki doğal Bu doğal…",
+     "r": [
+      96,
+      430,
+      758,
+      737
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Tarım, ev ve bina yapımı",
+     "fs": 12,
+     "area": [
+      126,
+      618,
+      197,
+      59
+     ],
+     "pill": [
+      316,
+      557
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Erozyon, verimin azalması",
+     "fs": 12,
+     "area": [
+      376,
+      618,
+      198,
+      59
+     ],
+     "pill": [
+      566,
+      557
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gıda kaynağı, verimsizlik halinde açlık",
+     "fs": 12,
+     "area": [
+      627,
+      618,
+      197,
+      59
+     ],
+     "pill": [
+      841,
+      605
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İçme, sulama, enerji",
+     "fs": 12,
+     "area": [
+      126,
+      742,
+      197,
+      59
+     ],
+     "pill": [
+      40,
+      729
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kuruyan göller, kirlenen akarsular",
+     "fs": 12,
+     "area": [
+      376,
+      742,
+      198,
+      59
+     ],
+     "pill": [
+      320,
+      684
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Su kıtlığı, hastalıklar",
+     "fs": 12,
+     "area": [
+      627,
+      742,
+      197,
+      59
+     ],
+     "pill": [
+      841,
+      729
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kereste, kâğıt, yakacak",
+     "fs": 12,
+     "area": [
+      126,
+      864,
+      197,
+      59
+     ],
+     "pill": [
+      250,
+      890
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Orman alanlarının azalması",
+     "fs": 12,
+     "area": [
+      376,
+      864,
+      198,
+      59
+     ],
+     "pill": [
+      500,
+      890
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Oksijen azalır, sel ve erozyon artar",
+     "fs": 12,
+     "area": [
+      626,
+      864,
+      198,
+      59
+     ],
+     "pill": [
+      840,
+      851
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sanayi, enerji, araç yapımı",
+     "fs": 12,
+     "area": [
+      126,
+      985,
+      197,
+      60
+     ],
+     "pill": [
+      250,
+      1011
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Toprak ve su kirliliği",
+     "fs": 12,
+     "area": [
+      376,
+      985,
+      198,
+      60
+     ],
+     "pill": [
+      500,
+      1011
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İş imkânı; kirlilik kaynaklı hastalıklar",
+     "fs": 12,
+     "area": [
+      627,
+      985,
+      197,
+      60
+     ],
+     "pill": [
+      841,
+      972
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      757,
+      1089,
+      57,
+      59
+     ],
+     "panel": "kontrol69",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "img": "@IMG:s5-u5/p-05@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki metni okuyunuz ve…",
+     "r": [
+      94,
+      96,
+      755,
+      705
+     ]
+    },
+    {
+     "t": "Metinde verilen örneklere…",
+     "r": [
+      94,
+      773,
+      734,
+      391
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Atık olarak gördüğümüz şeyler yeniden kullanılabilir veya ham madde olarak başka ürünlere dönüştürülebilir.",
+     "fs": 15,
+     "area": [
+      135,
+      658,
+      681,
+      117
+     ],
+     "pill": [
+      781,
+      645
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Evet; kâğıt, plastik, cam ve metal atıkların geri dönüşümü, ikinci el eşya pazarları, kıyafet bağış kutuları, atık yağların toplanması.",
+     "fs": 15,
+     "area": [
+      134,
+      866,
+      681,
+      76
+     ],
+     "pill": [
+      780,
+      853
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Atıkları ayrıştırıp geri dönüşüm kutularına atıyorum, eski eşyaları farklı amaçla kullanıyorum, kıyafetlerimi ihtiyaç sahiplerine veriyorum.",
+     "fs": 15,
+     "area": [
+      134,
+      1006,
+      681,
+      116
+     ],
+     "pill": [
+      780,
+      993
+     ]
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "img": "@IMG:s5-u5/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsan hayatını destekleyen ve…",
+     "r": [
+      34,
+      55,
+      878,
+      368
+     ]
+    },
+    {
+     "t": "Doğada insanların temel…",
+     "r": [
+      94,
+      395,
+      818,
+      769
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Toprağı tarımda ve bina yapımında, suyu içmek, temizlik ve sulamada, ormanı kereste ve kâğıt yapımında, madenleri ise araç-gereç ve enerji üretiminde kullanırız. Bu kaynakları dikkatli kullanmazsak tükenebilirler.",
+     "fs": 15,
+     "area": [
+      151,
+      859,
+      649,
+      239
+     ],
+     "pill": [
+      821,
+      846
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      325,
+      634,
+      65,
+      56
+     ],
+     "panel": "yenilenebilir",
+     "label": "Yenilenebilir ve yenilenemeyen doğal kaynaklar"
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "img": "@IMG:s5-u5/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Doğal kaynaklar, insan…",
+     "r": [
+      63,
+      83,
+      765,
+      837
+     ]
+    },
+    {
+     "t": "Madenler, sanayi faaliyetlerin",
+     "r": [
+      63,
+      892,
+      765,
+      272
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 73,
+   "img": "@IMG:s5-u5/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Kaynaklar sadece insanlar için…",
+     "r": [
+      89,
+      0,
+      828,
+      725
+     ]
+    },
+    {
+     "t": "Birinci grup, kaynakların…",
+     "r": [
+      98,
+      697,
+      731,
+      467
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      759,
+      945,
+      58,
+      59
+     ],
+     "panel": "gozlem73",
+     "label": "Gözlem formu"
+    }
+   ]
+  },
+  {
+   "n": 74,
+   "img": "@IMG:s5-u5/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Doğal kaynakların verimli…",
+     "r": [
+      80,
+      75,
+      758,
+      1089
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 75,
+   "img": "@IMG:s5-u5/p-10@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sayfa bilgi görselinde suyun…",
+     "r": [
+      91,
+      41,
+      821,
+      1123
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      100,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ellerimizi yıkarken musluğu kapatmak, sızdıran muslukları tamir ettirmek, duş süresini kısaltmak, çamaşır makinesini tam doldurarak çalıştırmak.",
+     "pill": [
+      622,
+      99
+     ],
+     "qx": 106,
+     "qt": 87,
+     "qb": 262,
+     "qr": 900,
+     "bal": [
+      106,
+      175,
+      794,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Su ve toprak canlıların yaşam kaynağıdır. Onları korumak tarımı, sağlığı ve ekonomiyi korumaktır; bu da vatanı korumak kadar önemlidir.",
+     "fs": 15,
+     "area": [
+      135,
+      865,
+      417,
+      180
+     ],
+     "pill": [
+      517,
+      852
+     ]
+    },
+    {
+     "area": [
+      600,
+      1115,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Damla sulama; çünkü suyu doğrudan bitkinin köküne verir, su israfını ve toprak kaybını önler.",
+     "pill": [
+      646,
+      1129
+     ],
+     "qx": 107,
+     "qt": 1088,
+     "qb": 1212,
+     "qr": 820,
+     "bal": [
+      107,
+      1000,
+      713,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 76,
+   "img": "@IMG:s5-u5/p-11@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki haberi okuyunuz ve…",
+     "r": [
+      38,
+      84,
+      791,
+      723
+     ]
+    },
+    {
+     "t": "Atalarımız hatıra ağacı…",
+     "r": [
+      122,
+      779,
+      706,
+      385
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Oksijen, kereste, kâğıt, yakacak, ilaç ve kozmetik ham maddeleri, gıda (kestane, fıstık), yaban hayatı, dinlenme alanları ve erozyonun önlenmesi.",
+     "fs": 15,
+     "area": [
+      151,
+      655,
+      615,
+      116
+     ],
+     "pill": [
+      821,
+      642
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Evet; hatıra ormanları, fidan dikme kampanyaları. Atasözleri: \"Ağaç yaşken eğilir.\" \"Bir ağaç kesersen yerine üç ağaç dik.\" \"Ormanı olmayan memleket yurt değildir.\"",
+     "fs": 14,
+     "area": [
+      151,
+      995,
+      615,
+      117
+     ],
+     "pill": [
+      683,
+      985
+     ]
+    }
+   ]
+  },
+  {
+   "n": 77,
+   "img": "@IMG:s5-u5/p-12@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Yenilenemeyen enerji kaynakları…",
+     "r": [
+      81,
+      84,
+      756,
+      220
+     ]
+    },
+    {
+     "t": "GÜNDEM DÜNYA EKONOMİ SPOR ANALİZ",
+     "r": [
+      94,
+      276,
+      734,
+      888
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Toplu taşıma kullanmak, gereksiz ışıkları kapatmak, enerji verimli cihazlar tercih etmek, evleri yalıtmak, güneş ve rüzgâr gibi yenilenebilir enerji kaynaklarına yönelmek.",
+     "fs": 16,
+     "area": [
+      151,
+      610,
+      615,
+      300
+     ],
+     "pill": [
+      821,
+      597
+     ]
+    }
+   ]
+  },
+  {
+   "n": 78,
+   "img": "@IMG:s5-u5/p-13@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      108,
+      48,
+      732,
+      255
+     ]
+    },
+    {
+     "t": "Aileniz ile yapacağınız pazar veya",
+     "r": [
+      89,
+      275,
+      743,
+      891
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Bez çanta veya file; çünkü tekrar tekrar kullanılabilir, doğada plastik atığı azaltır ve kaynak israfını önler.",
+     "fs": 15,
+     "area": [
+      135,
+      597,
+      680,
+      117
+     ],
+     "pill": [
+      781,
+      584
+     ]
+    },
+    {
+     "area": [
+      600,
+      970,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bez çanta ve file kullanmak, ambalajsız ürün tercih etmek, plastik şişe yerine matara kullanmak, plastik atıkları geri dönüşüme atmak.",
+     "pill": [
+      646,
+      969
+     ],
+     "qx": 106,
+     "qt": 947,
+     "qb": 992,
+     "qr": 820,
+     "bal": [
+      85,
+      1000,
+      751,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      135,
+      1090,
+      64,
+      57
+     ],
+     "panel": "surdurulebilir",
+     "label": "Doğal kaynakların sürdürülebilir kullanımı"
+    }
+   ]
+  },
+  {
+   "n": 79,
+   "img": "@IMG:s5-u5/p-14@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Görsel",
+     "r": [
+      101,
+      0,
+      754,
+      459
+     ]
+    },
+    {
+     "t": "GERİ DÖNÜŞEMEYEN ATIKLAR",
+     "r": [
+      115,
+      431,
+      730,
+      733
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      756,
+      1053,
+      60,
+      59
+     ],
+     "panel": "sifiratik",
+     "label": "\"Sıfır Atık\" etkinliği"
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "img": "@IMG:s5-u5/p-15@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sıfır Atık ile daha temiz",
+     "r": [
+      89,
+      84,
+      739,
+      255
+     ]
+    },
+    {
+     "t": "Sıfır Atık projesi ile ülkemiz",
+     "r": [
+      92,
+      311,
+      736,
+      281
+     ]
+    },
+    {
+     "t": "Plastik",
+     "r": [
+      121,
+      564,
+      711,
+      600
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Atıklarımızı türlerine göre ayrıştırmak, gereksiz tüketimden kaçınmak, geri dönüşüm kutularını kullanmak ve çevremizi bu konuda bilinçlendirmek.",
+     "fs": 15,
+     "area": [
+      135,
+      392,
+      679,
+      148
+     ],
+     "pill": [
+      781,
+      379
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kâğıt atıklar (gazete, defter, karton)",
+     "fs": 13,
+     "area": [
+      349,
+      618,
+      453,
+      28
+     ],
+     "pill": [
+      767,
+      578
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Mobilya, tahta parçaları",
+     "fs": 13,
+     "area": [
+      349,
+      667,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      654
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Pet şişe, plastik ambalaj",
+     "fs": 13,
+     "area": [
+      349,
+      716,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      703
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Şişe, kavanoz",
+     "fs": 13,
+     "area": [
+      349,
+      766,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      753
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kâğıt bardak, süt kutuları",
+     "fs": 13,
+     "area": [
+      349,
+      814,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      801
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Konserve kutuları, alüminyum",
+     "fs": 13,
+     "area": [
+      349,
+      864,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      851
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Atık bitkisel yağ",
+     "fs": 13,
+     "area": [
+      349,
+      914,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      901
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Meyve-sebze kabukları, yemek artıkları",
+     "fs": 13,
+     "area": [
+      349,
+      963,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      950
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Telefon, bilgisayar, küçük ev aletleri",
+     "fs": 13,
+     "area": [
+      349,
+      1011,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      998
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kullanılmış piller",
+     "fs": 13,
+     "area": [
+      349,
+      1061,
+      453,
+      28
+     ],
+     "pill": [
+      827,
+      1048
+     ]
+    }
+   ]
+  },
+  {
+   "n": 81,
+   "img": "@IMG:s5-u5/p-16@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "T.C. Çevre, Şehircilik ve İklim",
+     "r": [
+      107,
+      83,
+      722,
+      303
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      115,
+      358,
+      717,
+      806
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1114,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Düşün: ihtiyacım değilse almam. Daha az tüket: suyu ve elektriği tasarruflu kullanırım. Değerlendir: eski kıyafetleri kardeşime veririm. Değiştir: kavanozu kalemlik yaparım. Dönüştür: atıkları geri dönüşüme atarım.",
+     "pill": [
+      646,
+      1122
+     ],
+     "qx": 134,
+     "qt": 1090,
+     "qb": 1212,
+     "qr": 820,
+     "bal": [
+      111,
+      952,
+      725,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 82,
+   "img": "@IMG:s5-u5/p-17@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      45,
+      878,
+      753
+     ]
+    },
+    {
+     "t": "Ürünlerin oluşturulmasında…",
+     "r": [
+      121,
+      770,
+      795,
+      394
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      134,
+      1069,
+      60,
+      59
+     ],
+     "panel": "akran",
+     "label": "Akran değerlendirme formu"
+    },
+    {
+     "area": [
+      514,
+      1068,
+      52,
+      53
+     ],
+     "panel": "rubrik82",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 83,
+   "img": "@IMG:s5-u5/p-18@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Bilgi grafiğini inceleyiniz ve…",
+     "r": [
+      34,
+      55,
+      856,
+      1109
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 84,
+   "img": "@IMG:s5-u5/p-19@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      132,
+      110,
+      715,
+      405
+     ]
+    },
+    {
+     "t": "Doğal kaynakların israf…",
+     "r": [
+      95,
+      487,
+      752,
+      677
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kıyafetlerin kısa sürede eskimesi veya modası geçti diye çabuk atılması, kısa süre giyilmesi.",
+     "fs": 15,
+     "area": [
+      254,
+      165,
+      558,
+      86
+     ],
+     "pill": [
+      840,
+      152
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kaliteli ürün seçmek, özenle yıkamak, tamir etmek, kardeşlere ve ihtiyaç sahiplerine vermek.",
+     "fs": 15,
+     "area": [
+      254,
+      361,
+      558,
+      86
+     ],
+     "pill": [
+      840,
+      348
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İhtiyaç kadar giysi almak, ikinci el kıyafetleri değerlendirmek, geri dönüşüm, doğa dostu üretim.",
+     "fs": 15,
+     "area": [
+      254,
+      557,
+      558,
+      86
+     ],
+     "pill": [
+      840,
+      544
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "\"Doğa bizim evimiz; israf etmeyelim!\" Suyu, enerjiyi ve giysilerimizi ihtiyacımız kadar kullanalım. Bugün tasarruf edersek yarın çocuklarımıza daha yeşil bir dünya bırakırız. Her damla, her ağaç, her kıyafet değerlidir.",
+     "fs": 16,
+     "area": [
+      151,
+      751,
+      615,
+      333
+     ],
+     "pill": [
+      689,
+      741
+     ]
+    }
+   ]
+  }
+ ]
+};

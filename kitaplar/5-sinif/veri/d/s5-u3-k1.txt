@@ -1,0 +1,951 @@
+// 5. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 98–149)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Ortak miras ögelerimiz (s. 100–109)
+window.BOOK = {
+ "id": "s5-u3-k1",
+ "title": "Ortak miras ögelerimiz",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u3-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 98,
+   "img": "@IMG:s5-u3/p-01@",
+   "section": "3. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      84,
+      884,
+      463
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      519,
+      884,
+      645
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      313,
+      1066,
+      68,
+      63
+     ],
+     "panel": "alan",
+     "label": "3. Öğrenme alanı"
+    },
+    {
+     "area": [
+      570,
+      975,
+      64,
+      64
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 99,
+   "img": "@IMG:s5-u3/p-02@",
+   "section": "Ortak Mirasımız",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      878,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 100,
+   "img": "@IMG:s5-u3/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "MİRAS ÖGELERİMİZ",
+     "r": [
+      38,
+      55,
+      812,
+      1144
+     ]
+    },
+    {
+     "t": "Sizin de aile büyüklerinizden…",
+     "r": [
+      89,
+      895,
+      743,
+      269
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      620,
+      880,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İstiklal madalyası büyük dedenin Millî Mücadele'de vatan için gösterdiği fedakârlığın simgesidir; ailenin geçmişini ve değerlerini taşıdığı için kuşaktan kuşağa aktarılan ortak bir mirastır.",
+     "pill": [
+      654,
+      855
+     ],
+     "qx": 108,
+     "qt": 880,
+     "qb": 953,
+     "qr": 820,
+     "bal": [
+      34,
+      990,
+      820,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      620,
+      935,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kültür; dil, din, gelenek, görenek, yemek, giyim, müzik, sanat ve tarihî eserlerden oluşan maddi ve manevi değerlerin bütünüdür.",
+     "pill": [
+      654,
+      937
+     ],
+     "qx": 134,
+     "qt": 915,
+     "qb": 982,
+     "qr": 820,
+     "bal": [
+      34,
+      990,
+      820,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      620,
+      1060,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Tarihî mekânlar, eserler, el sanatları, yemekler, gelenekler, türküler, halk oyunları ve bayramlar bir toplumun ortak mirasıdır.",
+     "pill": [
+      654,
+      1083
+     ],
+     "qx": 124,
+     "qt": 1024,
+     "qb": 1103,
+     "qr": 820,
+     "bal": [
+      34,
+      1111,
+      820,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "img": "@IMG:s5-u3/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Tarihi varlıklar, geçmiş…",
+     "r": [
+      34,
+      55,
+      822,
+      493
+     ]
+    },
+    {
+     "t": "Bilgi Kutusu",
+     "r": [
+      90,
+      520,
+      822,
+      644
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kale, cami, han, köprü, antik kent",
+     "fs": 14,
+     "city": "tarihi",
+     "area": [
+      143,
+      1002,
+      288,
+      118
+     ],
+     "pill": [
+      429,
+      989
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İl müzesinde sergilenen sikkeler, heykeller, çömlekler, el yazmaları",
+     "fs": 14,
+     "area": [
+      518,
+      1002,
+      288,
+      118
+     ],
+     "pill": [
+      810,
+      989
+     ]
+    }
+   ]
+  },
+  {
+   "n": 102,
+   "img": "@IMG:s5-u3/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      0,
+      786,
+      319
+     ]
+    },
+    {
+     "t": "UNESCO Yunesko (Birleşmiş…",
+     "r": [
+      100,
+      291,
+      750,
+      873
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 103,
+   "img": "@IMG:s5-u3/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "UNESCO Dünya Mirası Listesi'nde…",
+     "r": [
+      122,
+      0,
+      790,
+      191
+     ]
+    },
+    {
+     "t": "Bosna Hersek Tarihi Mostar Şehri",
+     "r": [
+      94,
+      163,
+      818,
+      1050
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1050,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bu ögeler bir toplumun kimliğini yansıtır, insanlık için evrensel önem taşır ve korunmazsa kaybolma riski vardır; bu yüzden listeye alınmıştır.",
+     "pill": [
+      646,
+      1127
+     ],
+     "qx": 135,
+     "qt": 963,
+     "qb": 1119,
+     "qr": 820,
+     "bal": [
+      90,
+      1125,
+      826,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Benzer Türk kültürel miras ögeleri: yağlı güreş (Kırkpınar), Türk kahvesi, ebru, mangala, Nasreddin Hoca fıkraları, nevruz, kilim dokuma.",
+     "fs": 15,
+     "area": [
+      151,
+      992,
+      621,
+      119
+     ],
+     "pill": [
+      821,
+      979
+     ]
+    }
+   ]
+  },
+  {
+   "n": 104,
+   "img": "@IMG:s5-u3/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "UNESCO'nun Somut Kültürel Miras…",
+     "r": [
+      38,
+      83,
+      790,
+      436
+     ]
+    },
+    {
+     "t": "Göreme Milli Parkı ve…",
+     "r": [
+      38,
+      491,
+      790,
+      673
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 105,
+   "img": "@IMG:s5-u3/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Denizli sınırlarındaki…",
+     "r": [
+      122,
+      0,
+      792,
+      381
+     ]
+    },
+    {
+     "t": "Türkiye'nin en büyük doğal…",
+     "r": [
+      89,
+      353,
+      823,
+      864
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      620,
+      1015,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Somut ögeler (Nemrut, Kapadokya, Pamukkale) dokunulabilir mekân ve eserlerdir; somut olmayanlar (çay kültürü, pehlivanlık) gelenek ve uygulamalardır. İnsanlık için evrensel değer taşıdıkları, eşsiz oldukları ve korunmaları gerektiği için seçilmişlerdir.",
+     "pill": [
+      654,
+      1005
+     ],
+     "qx": 111,
+     "qt": 1015,
+     "qb": 1071,
+     "qr": 820,
+     "bal": [
+      85,
+      1079,
+      831,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      755,
+      661,
+      60,
+      59
+     ],
+     "panel": "unesco",
+     "label": "UNESCO Dünya Mirası Listesi'nde yer alan ülkemize ait kültürel ögelerimiz"
+    }
+   ]
+  },
+  {
+   "n": 106,
+   "img": "@IMG:s5-u3/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "UNESCO, Dünya Mirası…",
+     "r": [
+      38,
+      74,
+      803,
+      545
+     ]
+    },
+    {
+     "t": "... Kuş dili olarak da",
+     "r": [
+      38,
+      591,
+      878,
+      573
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 107,
+   "img": "@IMG:s5-u3/p-10@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "... Paris'te çıkan yangında büyük",
+     "r": [
+      81,
+      0,
+      831,
+      527
+     ]
+    },
+    {
+     "t": "Somut ve somut olmayan kültürel",
+     "r": [
+      34,
+      385,
+      878,
+      779
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      380,
+      316,
+      170,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "UNESCO kültürel mirası listeler, korunması için uzman desteği ve fon sağlar, ülkeler arası iş birliğini koordine eder.\nKoruma altına alınan ögeler gelecek nesillere aktarılır, unutulmaz ve zarar görmez.",
+     "pill": [
+      402,
+      315
+     ],
+     "qx": 106,
+     "qt": 296,
+     "qb": 384,
+     "qr": 550,
+     "bal": [
+      106,
+      389,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarihî eserlere zarar vermemek, üzerlerine yazı yazmamak, çevresini temiz tutmak, el sanatlarını ve gelenekleri öğrenip yaşatmak, müzeleri ziyaret etmek, kültürel mirasımızı sosyal medyada tanıtmak, zarar görenleri yetkililere bildirmek.",
+     "fs": 17,
+     "area": [
+      151,
+      511,
+      638,
+      580
+     ],
+     "pill": [
+      695,
+      498
+     ]
+    }
+   ]
+  },
+  {
+   "n": 108,
+   "img": "@IMG:s5-u3/p-11@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      40,
+      879,
+      483
+     ]
+    },
+    {
+     "t": "itüncül dereceli",
+     "r": [
+      114,
+      495,
+      713,
+      669
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "İldeki tarihî bir yapı",
+     "fs": 13,
+     "city": "tarihi",
+     "area": [
+      156,
+      605,
+      181,
+      52
+     ],
+     "pill": [
+      304,
+      562
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "insanlık tarihinde önemli bir dönemi yansıtır.",
+     "fs": 13,
+     "area": [
+      421,
+      605,
+      373,
+      52
+     ],
+     "pill": [
+      821,
+      592
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yöresel yemek",
+     "fs": 13,
+     "area": [
+      156,
+      691,
+      181,
+      52
+     ],
+     "pill": [
+      52,
+      678
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "yaşayan bir geleneği temsil eder.",
+     "fs": 13,
+     "area": [
+      421,
+      691,
+      373,
+      52
+     ],
+     "pill": [
+      821,
+      678
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Halk oyunu",
+     "fs": 13,
+     "area": [
+      156,
+      777,
+      181,
+      52
+     ],
+     "pill": [
+      52,
+      764
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "kuşaktan kuşağa aktarılan bir kültürdür.",
+     "fs": 13,
+     "area": [
+      421,
+      777,
+      373,
+      53
+     ],
+     "pill": [
+      821,
+      764
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "El sanatı",
+     "fs": 13,
+     "area": [
+      156,
+      864,
+      181,
+      52
+     ],
+     "pill": [
+      52,
+      851
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "yok olma tehlikesi taşır, korunmalıdır.",
+     "fs": 13,
+     "area": [
+      421,
+      864,
+      373,
+      52
+     ],
+     "pill": [
+      821,
+      851
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yöresel festival",
+     "fs": 13,
+     "area": [
+      156,
+      950,
+      181,
+      53
+     ],
+     "pill": [
+      304,
+      1018
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "toplumu bir araya getirir.",
+     "fs": 13,
+     "area": [
+      421,
+      950,
+      373,
+      53
+     ],
+     "pill": [
+      821,
+      937
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1062,
+      68,
+      60
+     ],
+     "panel": "unescorubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "img": "@IMG:s5-u3/p-12@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki örnekleri uygun…",
+     "r": [
+      34,
+      55,
+      794,
+      502
+     ]
+    },
+    {
+     "t": "Aşağıdaki soruların cevaplarını…",
+     "r": [
+      122,
+      529,
+      705,
+      435
+     ]
+    },
+    {
+     "t": "Yaşadığınız ilde bir kültürel…",
+     "r": [
+      122,
+      936,
+      706,
+      228
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      524,
+      248,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      564,
+      244
+     ]
+    },
+    {
+     "area": [
+      710,
+      282,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      750,
+      269
+     ]
+    },
+    {
+     "area": [
+      524,
+      318,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      564,
+      305
+     ]
+    },
+    {
+     "area": [
+      524,
+      352,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      564,
+      339
+     ]
+    },
+    {
+     "area": [
+      524,
+      388,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      564,
+      375
+     ]
+    },
+    {
+     "area": [
+      710,
+      424,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      750,
+      411
+     ]
+    },
+    {
+     "area": [
+      524,
+      458,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      564,
+      445
+     ]
+    },
+    {
+     "area": [
+      524,
+      494,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      564,
+      481
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yerli ve yabancı turistler, öğrenciler, araştırmacılar, aileler",
+     "fs": 15,
+     "area": [
+      135,
+      618,
+      679,
+      61
+     ],
+     "pill": [
+      781,
+      605
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kurallara uymalı, eserlere dokunmamalı, çöp atmamalı, yazı yazmamalı ve fotoğraf kurallarına uymalıdır.",
+     "fs": 14,
+     "area": [
+      135,
+      744,
+      679,
+      61
+     ],
+     "pill": [
+      781,
+      734
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ziyaret saatleri ve kurallar belirlenmeli, eserler düzenli bakımdan geçmeli, zarar verenlere ceza uygulanmalıdır.",
+     "fs": 14,
+     "area": [
+      135,
+      868,
+      679,
+      61
+     ],
+     "pill": [
+      781,
+      855
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yetkililere (müze müdürlüğü, belediye, CİMER) bildirir, afiş ve sosyal medya ile farkındalık kampanyası düzenlerim.",
+     "fs": 14,
+     "area": [
+      135,
+      1038,
+      679,
+      61
+     ],
+     "pill": [
+      781,
+      1025
+     ]
+    }
+   ]
+  }
+ ]
+};

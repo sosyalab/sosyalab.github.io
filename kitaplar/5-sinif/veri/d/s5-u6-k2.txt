@@ -1,0 +1,1421 @@
+// 5. Sınıf Sosyal Bilgiler · 6. Öğrenme Alanı: Teknoloji ve Sosyal Bilimler (s. 118–145)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Teknolojik ürünlerin bilinçli kullanımı (s. 130–145)
+window.BOOK = {
+ "id": "s5-u6-k2",
+ "title": "Teknolojik ürünlerin bilinçli kullanımı",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u6-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 130,
+   "img": "@IMG:s5-u6/p-13@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "TEKNOLOJİK ÜRÜNLERİN",
+     "r": [
+      38,
+      55,
+      791,
+      358
+     ]
+    },
+    {
+     "t": "Ezgi, dijital ortamı güvenli…",
+     "r": [
+      38,
+      385,
+      794,
+      813
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Fotoğraflarını herkese açık paylaşması",
+     "fs": 14,
+     "area": [
+      440,
+      361,
+      364,
+      28
+     ],
+     "pill": [
+      822,
+      348
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tanımadığı kişiden gelen bağlantıya tıklaması",
+     "fs": 14,
+     "area": [
+      440,
+      582,
+      363,
+      28
+     ],
+     "pill": [
+      822,
+      569
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kolay tahmin edilebilir şifre kullanması ve paylaşması",
+     "fs": 14,
+     "area": [
+      440,
+      834,
+      363,
+      28
+     ],
+     "pill": [
+      822,
+      821
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Düşünce ve ifade özgürlüğü, haberleşme hürriyeti, bilgiye erişim hakkı, özel hayatın gizliliği.",
+     "fs": 15,
+     "area": [
+      214,
+      989,
+      602,
+      129
+     ],
+     "pill": [
+      782,
+      979
+     ]
+    },
+    {
+     "area": [
+      600,
+      610,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hesaplarını gizli yapmalı, kişisel bilgilerini ve fotoğraflarını yalnızca tanıdıklarıyla paylaşmalıdır.",
+     "pill": [
+      646,
+      669
+     ],
+     "qx": 340,
+     "qt": 511,
+     "qb": 664,
+     "qr": 820,
+     "bal": [
+      34,
+      672,
+      802,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      865,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Tanımadığı kişi ve kuruluşlardan gelen bağlantılara tıklamamalı, bilgilerini paylaşmamalı, ailesine haber vermelidir.",
+     "pill": [
+      646,
+      909
+     ],
+     "qx": 340,
+     "qt": 831,
+     "qb": 923,
+     "qr": 820,
+     "bal": [
+      340,
+      931,
+      480,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1080,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Dijital vatandaşlık; dijital ortamda haklarını ve sorumluluklarını bilerek güvenli, saygılı ve etik davranmaktır.",
+     "pill": [
+      646,
+      1121
+     ],
+     "qx": 214,
+     "qt": 1078,
+     "qb": 1102,
+     "qr": 820,
+     "bal": [
+      34,
+      1110,
+      802,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 131,
+   "img": "@IMG:s5-u6/p-14@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki haberleri okuyunuz ve…",
+     "r": [
+      34,
+      55,
+      794,
+      725
+     ]
+    },
+    {
+     "t": "Haberlerde verilen temel mesaj…",
+     "r": [
+      34,
+      752,
+      813,
+      412
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Teknolojik ürünler bilinçli kullanıldığında tasarruf ve başarı sağlar.",
+     "fs": 13,
+     "area": [
+      327,
+      852,
+      488,
+      28
+     ],
+     "pill": [
+      745,
+      842
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "\"Led ampul tak, enerjini sakla!\"",
+     "fs": 13,
+     "area": [
+      327,
+      910,
+      488,
+      28
+     ],
+     "pill": [
+      745,
+      903
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "\"Tam dolu çalıştır, suyu ve enerjiyi koru!\"",
+     "fs": 13,
+     "area": [
+      327,
+      969,
+      488,
+      28
+     ],
+     "pill": [
+      739,
+      962
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "\"A+++ seç, faturayı düşür!\"",
+     "fs": 13,
+     "area": [
+      327,
+      1030,
+      488,
+      28
+     ],
+     "pill": [
+      745,
+      1023
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "\"Ekran süresini sınırla, hayatı ıskalama!\"",
+     "fs": 13,
+     "area": [
+      327,
+      1090,
+      488,
+      28
+     ],
+     "pill": [
+      745,
+      1083
+     ]
+    }
+   ]
+  },
+  {
+   "n": 132,
+   "img": "@IMG:s5-u6/p-15@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Teknolojinin olumlu veya…",
+     "r": [
+      38,
+      55,
+      814,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Akıllı telefonlar hayatı kolaylaştırır, her şeyi tek cihazda toplar.",
+     "fs": 13,
+     "area": [
+      328,
+      974,
+      483,
+      28
+     ],
+     "pill": [
+      848,
+      961
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Teknoloji fazla kullanılırsa yalnızlaşmaya ve sağlık sorunlarına yol açar.",
+     "fs": 13,
+     "area": [
+      328,
+      1031,
+      483,
+      28
+     ],
+     "pill": [
+      848,
+      1018
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Teknolojiyi faydalı amaçlarla ve sınırlı süre kullanmak gerekir.",
+     "fs": 13,
+     "area": [
+      328,
+      1088,
+      483,
+      28
+     ],
+     "pill": [
+      848,
+      1075
+     ]
+    }
+   ]
+  },
+  {
+   "n": 133,
+   "img": "@IMG:s5-u6/p-16@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Teknolojik ürünlerin kullanımı…",
+     "r": [
+      122,
+      83,
+      706,
+      195
+     ]
+    },
+    {
+     "t": "Görsellerdeki çocuklardan…",
+     "r": [
+      91,
+      250,
+      757,
+      914
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      410,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Masada dik oturan, ekrana uygun mesafede olan çocuk doğru oturmaktadır. Diğerleri eğik oturmakta, ekrana çok yakın veya uzanarak kullanmaktadır.",
+     "pill": [
+      646,
+      463
+     ],
+     "qx": 106,
+     "qt": 396,
+     "qb": 529,
+     "qr": 820,
+     "bal": [
+      87,
+      485,
+      765,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1116,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bilinçli: AFAD Acil uygulamasıyla acil durumda yardım çağırmak. Bilinçsiz: araç kullanırken telefonla uğraşmak, kazaya yol açmak.",
+     "pill": [
+      646,
+      1115
+     ],
+     "qx": 106,
+     "qt": 1088,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      87,
+      1000,
+      765,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "img": "@IMG:s5-u6/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Tablet; ortalama bir kitap…",
+     "r": [
+      38,
+      81,
+      805,
+      905
+     ]
+    },
+    {
+     "t": "nedenle genel ağı kullanırken…",
+     "r": [
+      38,
+      958,
+      790,
+      206
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      500,
+      770,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Uzaktan eğitim imkânı sunar, ders içeriklerine kolayca ulaşılır, öğrenme ve araştırma yapma becerileri gelişir; ancak süre sınırlanmalıdır.",
+     "pill": [
+      558,
+      769
+     ],
+     "qx": 427,
+     "qt": 712,
+     "qb": 808,
+     "qr": 830,
+     "bal": [
+      287,
+      816,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 135,
+   "img": "@IMG:s5-u6/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Görsellerdeki bulaşık…",
+     "r": [
+      94,
+      55,
+      738,
+      493
+     ]
+    },
+    {
+     "t": "Bulaşık makinesi mutfaktaki…",
+     "r": [
+      102,
+      455,
+      744,
+      709
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      430,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Sağdaki görselde makine düzenli yerleştirilmiştir, doğru kullanım budur. Soldakinde makine aşırı ve düzensiz doldurulmuştur.",
+     "pill": [
+      646,
+      435
+     ],
+     "qx": 106,
+     "qt": 414,
+     "qb": 452,
+     "qr": 820,
+     "bal": [
+      90,
+      460,
+      746,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bulaşık makinesi\n\nÇamaşır makinesi\n\nTelevizyon",
+     "fs": 14,
+     "area": [
+      133,
+      762,
+      182,
+      200
+     ],
+     "pill": [
+      275,
+      752
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tam dolu ve eko programda çalıştırmak; tam dolu yıkamak; belirli saatlerde izlemek",
+     "fs": 13,
+     "area": [
+      383,
+      762,
+      181,
+      200
+     ],
+     "pill": [
+      525,
+      752
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yarım doluyken çalıştırmak; az çamaşırla yıkamak; saatlerce izlemek",
+     "fs": 13,
+     "area": [
+      632,
+      762,
+      181,
+      200
+     ],
+     "pill": [
+      738,
+      752
+     ]
+    }
+   ]
+  },
+  {
+   "n": 136,
+   "img": "@IMG:s5-u6/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki haberleri okuyunuz ve…",
+     "r": [
+      38,
+      43,
+      790,
+      243
+     ]
+    },
+    {
+     "t": "Yirmi yıl dayanan ampul piyasada",
+     "r": [
+      33,
+      258,
+      810,
+      906
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Led ampul kullanmak, gereksiz yanan ışıkları kapatmak, gün ışığından yararlanmak.",
+     "fs": 14,
+     "area": [
+      362,
+      535,
+      454,
+      86
+     ],
+     "pill": [
+      756,
+      525
+     ]
+    },
+    {
+     "area": [
+      500,
+      1100,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bilinçli: TRT EBA TV ile uzaktan eğitim, belgesel izlemek. Bilinçsiz: uzun süre televizyon izleyip obezite riskini artırmak.",
+     "pill": [
+      546,
+      1108
+     ],
+     "qx": 339,
+     "qt": 1070,
+     "qb": 1126,
+     "qr": 816,
+     "bal": [
+      287,
+      957,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 137,
+   "img": "@IMG:s5-u6/p-20@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilinçli bir tüketici olarak satın",
+     "r": [
+      122,
+      0,
+      791,
+      335
+     ]
+    },
+    {
+     "t": "Dijital okuryazarlık, yazılı ve…",
+     "r": [
+      122,
+      307,
+      790,
+      868
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      333,
+      1097,
+      64,
+      59
+     ],
+     "panel": "olumlu",
+     "label": "Teknolojik ürünlerin olumlu ve olumsuz kullanım örnekleri"
+    }
+   ]
+  },
+  {
+   "n": 138,
+   "img": "@IMG:s5-u6/p-21@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilinçli teknoloji kullanımı…",
+     "r": [
+      73,
+      83,
+      755,
+      847
+     ]
+    },
+    {
+     "t": "Karekodlarda verilen kurum ve…",
+     "r": [
+      90,
+      902,
+      738,
+      262
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Güvenli genel ağ kullanımı, kişisel bilgilerin korunması, ekran süresinin sınırlanması, akıllı işaretlere dikkat edilmesi ve teknoloji bağımlılığından korunma.",
+     "fs": 15,
+     "area": [
+      134,
+      1012,
+      682,
+      121
+     ],
+     "pill": [
+      780,
+      999
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      289,
+      279,
+      59,
+      59
+     ],
+     "panel": "guvenliweb",
+     "label": "Güvenli Web"
+    },
+    {
+     "area": [
+      288,
+      436,
+      60,
+      59
+     ],
+     "panel": "genelag",
+     "label": "Genel ağı nasıl kullanmalıyım?"
+    },
+    {
+     "area": [
+      287,
+      632,
+      65,
+      67
+     ],
+     "panel": "tbm",
+     "label": "Türkiye Bağımlılıkla Mücadele Eğitim Programı"
+    },
+    {
+     "area": [
+      287,
+      847,
+      60,
+      59
+     ],
+     "panel": "akilli",
+     "label": "Akıllı işaretler"
+    }
+   ]
+  },
+  {
+   "n": 139,
+   "img": "@IMG:s5-u6/p-22@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Yeşilayın hazırladığı, T.C.…",
+     "r": [
+      122,
+      97,
+      790,
+      333
+     ]
+    },
+    {
+     "t": "Radyo ve Televizyon Üst Kurulu",
+     "r": [
+      122,
+      402,
+      790,
+      762
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 140,
+   "img": "@IMG:s5-u6/p-23@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      55,
+      879,
+      330
+     ]
+    },
+    {
+     "t": "TEKN İNİN BİLİNÇLİ KULLANIMI…",
+     "r": [
+      90,
+      357,
+      750,
+      818
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Akıllı telefon",
+     "fs": 14,
+     "area": [
+      539,
+      435,
+      264,
+      59
+     ],
+     "pill": [
+      831,
+      422
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gece geç saatlere kadar kullanmak, yürürken ekrana bakmak",
+     "fs": 13,
+     "area": [
+      539,
+      529,
+      264,
+      59
+     ],
+     "pill": [
+      723,
+      519
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Uykusuzluk, göz yorgunluğu, kaza riski",
+     "fs": 13,
+     "area": [
+      539,
+      622,
+      264,
+      59
+     ],
+     "pill": [
+      723,
+      612
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ekran süresi, kişisel bilgiler, doğru duruş",
+     "fs": 13,
+     "area": [
+      539,
+      715,
+      264,
+      59
+     ],
+     "pill": [
+      723,
+      705
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kısa film: \"Bir Günüm Ekransız\"",
+     "fs": 13,
+     "area": [
+      539,
+      808,
+      264,
+      60
+     ],
+     "pill": [
+      723,
+      798
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      134,
+      1099,
+      65,
+      57
+     ],
+     "panel": "rubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 141,
+   "img": "@IMG:s5-u6/p-24@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda teknolojinin kullanımı…",
+     "r": [
+      34,
+      55,
+      815,
+      650
+     ]
+    },
+    {
+     "t": "Derya bilgisayarını oyun…",
+     "r": [
+      101,
+      677,
+      748,
+      487
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      762,
+      318,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      814,
+      302
+     ]
+    },
+    {
+     "area": [
+      642,
+      398,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      688,
+      379
+     ]
+    },
+    {
+     "area": [
+      762,
+      478,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      808,
+      462
+     ]
+    },
+    {
+     "area": [
+      642,
+      554,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      640,
+      523
+     ]
+    },
+    {
+     "area": [
+      762,
+      634,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      808,
+      618
+     ]
+    },
+    {
+     "area": [
+      642,
+      714,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      676,
+      692
+     ]
+    },
+    {
+     "area": [
+      642,
+      794,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      682,
+      775
+     ]
+    },
+    {
+     "area": [
+      762,
+      874,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      814,
+      855
+     ]
+    },
+    {
+     "area": [
+      642,
+      950,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      682,
+      928
+     ]
+    },
+    {
+     "area": [
+      642,
+      1030,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      682,
+      1008
+     ]
+    }
+   ]
+  },
+  {
+   "n": 142,
+   "img": "@IMG:s5-u6/p-25@",
+   "section": "Değerler",
+   "steps": [
+    {
+     "t": "6. ÖĞRENME ALANI - DEĞERLER",
+     "r": [
+      38,
+      62,
+      790,
+      833
+     ]
+    },
+    {
+     "t": "Yukarıdaki metinde hangi…",
+     "r": [
+      153,
+      867,
+      675,
+      297
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "4 (Mahremiyet), 3 (Sorumluluk)",
+     "fs": 15,
+     "area": [
+      191,
+      776,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      763
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "7 (Tasarruf), 3 (Sorumluluk)",
+     "fs": 15,
+     "area": [
+      191,
+      905,
+      623,
+      28
+     ],
+     "pill": [
+      777,
+      892
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "3 (Sorumluluk), 2 (Duyarlılık)",
+     "fs": 15,
+     "area": [
+      191,
+      1054,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      1041
+     ]
+    }
+   ]
+  },
+  {
+   "n": 143,
+   "img": "@IMG:s5-u6/p-26@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "6. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      34,
+      63,
+      791,
+      1101
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "e-Nabız, EBA, hızlı tren, görüntülü görüşme",
+     "fs": 12,
+     "area": [
+      172,
+      445,
+      195,
+      90
+     ],
+     "pill": [
+      410,
+      432
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Göz bozukluğu, bağımlılık, hava kirliliği",
+     "fs": 12,
+     "area": [
+      171,
+      609,
+      196,
+      90
+     ],
+     "pill": [
+      409,
+      596
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Led ampul, A+++ cihaz, sınırlı ekran süresi",
+     "fs": 12,
+     "area": [
+      571,
+      444,
+      195,
+      90
+     ],
+     "pill": [
+      809,
+      431
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "TBM, RTÜK Medya ve Çocuk, Akıllı işaretler",
+     "fs": 12,
+     "area": [
+      571,
+      643,
+      196,
+      57
+     ],
+     "pill": [
+      809,
+      630
+     ]
+    }
+   ]
+  },
+  {
+   "n": 144,
+   "img": "@IMG:s5-u6/p-27@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "Aşağıdaki örnek olayı okuyunuz ve",
+     "r": [
+      88,
+      83,
+      774,
+      760
+     ]
+    },
+    {
+     "t": "2. Aşağıdakilerden hangisi…",
+     "r": [
+      122,
+      815,
+      710,
+      349
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Televizyon (iletişim), bilgisayar ve genel ağ (bilişim), çevrim içi bankacılık (ekonomi), kentkart (ulaşım), otobüs (ulaşım), fotoğraf makinesi (iletişim).",
+     "fs": 14,
+     "area": [
+      134,
+      685,
+      634,
+      119
+     ],
+     "pill": [
+      822,
+      672
+     ]
+    },
+    {
+     "area": [
+      600,
+      1000,
+      220,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Zamandan tasarruf sağlamıştır.\nMetinde zaman tasarrufundan söz edilmemektedir. (Hepsi aslında olumlu etkidir; kitaptaki seçeneğe göre kontrol ediniz.)",
+     "pill": [
+      676,
+      999
+     ],
+     "qx": 163,
+     "qt": 920,
+     "qb": 1024,
+     "qr": 820,
+     "bal": [
+      163,
+      1032,
+      657,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 145,
+   "img": "@IMG:s5-u6/p-28@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "Aşağıdaki metni okuyunuz ve…",
+     "r": [
+      149,
+      0,
+      763,
+      471
+     ]
+    },
+    {
+     "t": "3. Okulum ve Çevrem projesi",
+     "r": [
+      105,
+      443,
+      727,
+      721
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      520,
+      220,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Dijital okuryazarlık",
+     "pill": [
+      676,
+      519
+     ],
+     "qx": 431,
+     "qt": 476,
+     "qb": 544,
+     "qr": 820,
+     "bal": [
+      416,
+      552,
+      420,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Güneş panelleri kuruldu, sensörlü ve led lambalar takıldı, lavabolarda tasarruflu musluklar kullanıldı, fotoselli bataryalar tercih edildi.",
+     "fs": 14,
+     "area": [
+      134,
+      714,
+      634,
+      116
+     ],
+     "pill": [
+      822,
+      701
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okulun enerji ihtiyacının %40'ı güneşten karşılandı, elektrik ve su tasarrufu sağlandı, doğal kaynaklar ve çevre korundu, öğrencilerde çevre bilinci gelişti.",
+     "fs": 14,
+     "area": [
+      134,
+      935,
+      634,
+      117
+     ],
+     "pill": [
+      822,
+      922
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      302,
+      1086,
+      55,
+      58
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      757,
+      1085,
+      60,
+      59
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

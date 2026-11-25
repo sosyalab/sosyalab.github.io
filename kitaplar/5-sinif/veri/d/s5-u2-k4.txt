@@ -1,0 +1,2086 @@
+// 5. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 48–97)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Ülkemize komşu devletler (s. 82–97)
+window.BOOK = {
+ "id": "s5-u2-k4",
+ "title": "Ülkemize komşu devletler",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u2-k4@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 82,
+   "img": "@IMG:s5-u2/p-35@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ÜLKEMİZE",
+     "r": [
+      38,
+      55,
+      879,
+      339
+     ]
+    },
+    {
+     "t": "Metni okuyunuz ve soruları…",
+     "r": [
+      94,
+      366,
+      738,
+      798
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1065,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Millî Mücadele'de askerlerin ve halkın moralini yükseltmek, millî duyguları güçlendirmek için bir marşa ihtiyaç duyulmuştur.",
+     "pill": [
+      646,
+      1073
+     ],
+     "qx": 108,
+     "qt": 925,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      90,
+      917,
+      746,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1095,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Gurur, heyecan, vatan sevgisi ve şehitlerimize minnet duyarım.",
+     "pill": [
+      646,
+      1106
+     ],
+     "qx": 106,
+     "qt": 955,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      90,
+      942,
+      746,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1123,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek başlık: \"Bir Milletin İmanı: İstiklâl Marşı\"",
+     "pill": [
+      646,
+      1140
+     ],
+     "qx": 508,
+     "qt": 1123,
+     "qb": 1210,
+     "qr": 820,
+     "bal": [
+      276,
+      917,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 83,
+   "img": "@IMG:s5-u2/p-36@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      878,
+      271
+     ]
+    },
+    {
+     "t": "Örnek olayın",
+     "r": [
+      34,
+      243,
+      878,
+      948
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1040,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bayrak, bağımsızlık sembolüdür. Mustafa Kemal'in davranışı bayrağa saygının her milletin bayrağı için geçerli olduğunu, bayrağın bir milletin şerefi olduğunu gösterir.",
+     "pill": [
+      646,
+      1006
+     ],
+     "qx": 102,
+     "qt": 1037,
+     "qb": 1202,
+     "qr": 820,
+     "bal": [
+      30,
+      1103,
+      886,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1098,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bayrak bir milletin bağımsızlığını, şerefini, birliğini ve kimliğini simgeler.",
+     "pill": [
+      646,
+      1112
+     ],
+     "qx": 105,
+     "qt": 1037,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      30,
+      1002,
+      886,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      749,
+      491,
+      66,
+      59
+     ],
+     "panel": "bayrakvideo",
+     "label": "Örnek olayın videosu"
+    }
+   ]
+  },
+  {
+   "n": 84,
+   "img": "@IMG:s5-u2/p-37@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ülkemizle kara sınırı olan komşu",
+     "r": [
+      38,
+      57,
+      790,
+      259
+     ]
+    },
+    {
+     "t": "BâŞşKeNtİ: sunmanın",
+     "r": [
+      110,
+      288,
+      739,
+      876
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kitaplar, ansiklopediler, atlaslar, T.C. Dışişleri Bakanlığı ve resmî kurumların genel ağ siteleri.",
+     "fs": 15,
+     "area": [
+      331,
+      138,
+      485,
+      150
+     ],
+     "pill": [
+      785,
+      125
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yunanistan",
+     "fs": 14,
+     "area": [
+      163,
+      328,
+      266,
+      28
+     ],
+     "pill": [
+      365,
+      315
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Atina",
+     "fs": 14,
+     "area": [
+      200,
+      359,
+      230,
+      28
+     ],
+     "pill": [
+      450,
+      325
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Cumhuriyet",
+     "fs": 14,
+     "area": [
+      235,
+      390,
+      194,
+      28
+     ],
+     "pill": [
+      383,
+      452
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bulgaristan",
+     "fs": 14,
+     "area": [
+      557,
+      382,
+      266,
+      28
+     ],
+     "pill": [
+      759,
+      369
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sofya",
+     "fs": 14,
+     "area": [
+      594,
+      412,
+      229,
+      28
+     ],
+     "pill": [
+      844,
+      399
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Cumhuriyet",
+     "fs": 14,
+     "area": [
+      629,
+      443,
+      194,
+      28
+     ],
+     "pill": [
+      843,
+      433
+     ]
+    }
+   ]
+  },
+  {
+   "n": 85,
+   "img": "@IMG:s5-u2/p-38@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ulaştığınız kaynaklardan kara…",
+     "r": [
+      106,
+      83,
+      733,
+      492
+     ]
+    },
+    {
+     "t": "Başkenti: .....................",
+     "r": [
+      106,
+      547,
+      732,
+      617
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Azerbaycan (Nahçıvan Ö.C.)",
+     "fs": 13,
+     "area": [
+      547,
+      172,
+      266,
+      28
+     ],
+     "pill": [
+      749,
+      159
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bakü (Nahçıvan)",
+     "fs": 13,
+     "area": [
+      584,
+      203,
+      230,
+      28
+     ],
+     "pill": [
+      834,
+      190
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Cumhuriyet",
+     "fs": 13,
+     "area": [
+      619,
+      233,
+      194,
+      28
+     ],
+     "pill": [
+      833,
+      223
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gürcistan",
+     "fs": 14,
+     "area": [
+      130,
+      271,
+      151,
+      56
+     ],
+     "pill": [
+      218,
+      258
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tiflis",
+     "fs": 14,
+     "area": [
+      130,
+      336,
+      151,
+      56
+     ],
+     "pill": [
+      218,
+      329
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Cumhuriyet",
+     "fs": 14,
+     "area": [
+      130,
+      432,
+      150,
+      52
+     ],
+     "pill": [
+      368,
+      452
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ermenistan",
+     "fs": 14,
+     "area": [
+      398,
+      332,
+      266,
+      28
+     ],
+     "pill": [
+      600,
+      319
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Erivan",
+     "fs": 14,
+     "area": [
+      435,
+      363,
+      230,
+      28
+     ],
+     "pill": [
+      751,
+      350
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Cumhuriyet",
+     "fs": 14,
+     "area": [
+      471,
+      393,
+      194,
+      28
+     ],
+     "pill": [
+      733,
+      383
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İran",
+     "fs": 14,
+     "area": [
+      661,
+      697,
+      151,
+      55
+     ],
+     "pill": [
+      749,
+      684
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tahran",
+     "fs": 14,
+     "area": [
+      661,
+      761,
+      151,
+      56
+     ],
+     "pill": [
+      749,
+      754
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İslam Cumhuriyeti",
+     "fs": 13,
+     "area": [
+      661,
+      858,
+      151,
+      52
+     ],
+     "pill": [
+      833,
+      845
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Suriye",
+     "fs": 14,
+     "area": [
+      160,
+      1032,
+      266,
+      28
+     ],
+     "pill": [
+      362,
+      1019
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Şam",
+     "fs": 14,
+     "area": [
+      197,
+      1063,
+      229,
+      28
+     ],
+     "pill": [
+      285,
+      1026
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Cumhuriyet",
+     "fs": 14,
+     "area": [
+      232,
+      1093,
+      194,
+      28
+     ],
+     "pill": [
+      362,
+      1137
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Irak",
+     "fs": 14,
+     "area": [
+      536,
+      1022,
+      266,
+      28
+     ],
+     "pill": [
+      738,
+      1009
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bağdat",
+     "fs": 14,
+     "area": [
+      573,
+      1052,
+      230,
+      28
+     ],
+     "pill": [
+      823,
+      1039
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Federal Cumhuriyet",
+     "fs": 13,
+     "area": [
+      608,
+      1083,
+      195,
+      28
+     ],
+     "pill": [
+      822,
+      1073
+     ]
+    }
+   ]
+  },
+  {
+   "n": 86,
+   "img": "@IMG:s5-u2/p-39@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ulaştığınız kaynaklardan kara…",
+     "r": [
+      88,
+      83,
+      740,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "5 · Avro · Yunanca",
+     "fs": 13,
+     "area": [
+      220,
+      472,
+      89,
+      55
+     ],
+     "pill": [
+      242,
+      459
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "2 · Avro · Bulgarca",
+     "fs": 13,
+     "area": [
+      612,
+      445,
+      90,
+      54
+     ],
+     "pill": [
+      634,
+      432
+     ]
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "img": "@IMG:s5-u2/p-40@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Lira Avro Dinar",
+     "r": [
+      121,
+      56,
+      708,
+      280
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      107,
+      308,
+      738,
+      856
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "7 · Lari · Gürcüce",
+     "fs": 13,
+     "area": [
+      250,
+      485,
+      89,
+      55
+     ],
+     "pill": [
+      272,
+      472
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "3 · Dram · Ermenice",
+     "fs": 13,
+     "area": [
+      704,
+      480,
+      90,
+      54
+     ],
+     "pill": [
+      726,
+      467
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "1 · Manat · Azerbaycan Türkçesi",
+     "fs": 12,
+     "area": [
+      730,
+      638,
+      90,
+      55
+     ],
+     "pill": [
+      752,
+      625
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "6 · Riyal · Farsça",
+     "fs": 13,
+     "area": [
+      730,
+      933,
+      90,
+      55
+     ],
+     "pill": [
+      752,
+      920
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "8 · Dinar · Arapça, Kürtçe",
+     "fs": 12,
+     "area": [
+      511,
+      1059,
+      89,
+      55
+     ],
+     "pill": [
+      533,
+      1046
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "4 · Lira · Arapça",
+     "fs": 13,
+     "area": [
+      213,
+      1059,
+      90,
+      54
+     ],
+     "pill": [
+      235,
+      1046
+     ]
+    }
+   ]
+  },
+  {
+   "n": 88,
+   "img": "@IMG:s5-u2/p-41@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilgi Kutusu",
+     "r": [
+      98,
+      66,
+      819,
+      634
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      98,
+      672,
+      730,
+      492
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Nahçıvan, Azerbaycan'a bağlı özerk cumhuriyettir; Türkiye ile sınırı çok kısadır ve Dilucu Sınır Kapısı ile bağlanır.",
+     "fs": 12,
+     "area": [
+      141,
+      567,
+      308,
+      81
+     ],
+     "pill": [
+      379,
+      554
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bulgaristan 2026'da avroya geçmiştir; ülkede Türk nüfus yaşar.",
+     "fs": 12,
+     "area": [
+      502,
+      567,
+      308,
+      81
+     ],
+     "pill": [
+      740,
+      554
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ermenistan'ın denize kıyısı yoktur, başkenti Erivan'dır.",
+     "fs": 12,
+     "area": [
+      141,
+      727,
+      308,
+      81
+     ],
+     "pill": [
+      379,
+      714
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gürcistan'ın Karadeniz'e kıyısı vardır, Sarp Sınır Kapısı ile bağlanırız.",
+     "fs": 12,
+     "area": [
+      502,
+      727,
+      309,
+      81
+     ],
+     "pill": [
+      740,
+      714
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Irak'ta Türkmenler yaşar; Dicle ve Fırat nehirleri ülkeden geçer.",
+     "fs": 12,
+     "area": [
+      141,
+      887,
+      308,
+      81
+     ],
+     "pill": [
+      379,
+      874
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İran'ın Hazar Denizi ve Basra Körfezi'ne kıyısı vardır.",
+     "fs": 12,
+     "area": [
+      502,
+      887,
+      308,
+      81
+     ],
+     "pill": [
+      740,
+      874
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Suriye'nin Akdeniz'e kıyısı vardır; en uzun kara sınırımız Suriye iledir.",
+     "fs": 12,
+     "area": [
+      141,
+      1047,
+      308,
+      81
+     ],
+     "pill": [
+      379,
+      1034
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yunanistan ile hem kara hem deniz sınırımız vardır; Ege Denizi'nde birçok adası bulunur.",
+     "fs": 12,
+     "area": [
+      502,
+      1047,
+      309,
+      81
+     ],
+     "pill": [
+      740,
+      1034
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      371,
+      62,
+      60
+     ],
+     "panel": "kaynak2",
+     "label": "Komşu devletler hakkındaki kaynak 2"
+    },
+    {
+     "area": [
+      429,
+      371,
+      62,
+      59
+     ],
+     "panel": "kaynak1",
+     "label": "Komşu devletler hakkındaki kaynak 1"
+    }
+   ]
+  },
+  {
+   "n": 89,
+   "img": "@IMG:s5-u2/p-42@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      34,
+      0,
+      830,
+      633
+     ]
+    },
+    {
+     "t": "Yönetim Şekli Nüfusu",
+     "r": [
+      84,
+      605,
+      779,
+      559
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      277,
+      1085,
+      62,
+      59
+     ],
+     "panel": "afisrubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 90,
+   "img": "@IMG:s5-u2/p-43@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Haritayı inceleyiniz ve…",
+     "r": [
+      38,
+      55,
+      789,
+      365
+     ]
+    },
+    {
+     "t": "TÜRKİYE'NİN KARA SINIR…",
+     "r": [
+      122,
+      392,
+      705,
+      772
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Yunanistan, Bulgaristan",
+     "fs": 15,
+     "area": [
+      135,
+      648,
+      678,
+      28
+     ],
+     "pill": [
+      775,
+      635
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran",
+     "fs": 15,
+     "area": [
+      135,
+      703,
+      678,
+      28
+     ],
+     "pill": [
+      775,
+      690
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Suriye, Irak",
+     "fs": 15,
+     "area": [
+      135,
+      759,
+      678,
+      28
+     ],
+     "pill": [
+      775,
+      746
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bulgaristan",
+     "fs": 15,
+     "area": [
+      135,
+      814,
+      678,
+      28
+     ],
+     "pill": [
+      775,
+      801
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gürcistan",
+     "fs": 15,
+     "area": [
+      135,
+      870,
+      678,
+      28
+     ],
+     "pill": [
+      775,
+      857
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bulgaristan, Gürcistan",
+     "fs": 15,
+     "area": [
+      135,
+      931,
+      678,
+      28
+     ],
+     "pill": [
+      775,
+      918
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ülkenin egemenlik alanını ve bağımsızlığını korumak, komşularla ekonomik, kültürel ve siyasi ilişkileri sağlıklı yürütmek için önemlidir.",
+     "fs": 15,
+     "area": [
+      135,
+      996,
+      678,
+      119
+     ],
+     "pill": [
+      787,
+      983
+     ]
+    }
+   ]
+  },
+  {
+   "n": 91,
+   "img": "@IMG:s5-u2/p-44@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "çok merak ettiğiniz veya gitmek",
+     "r": [
+      94,
+      83,
+      734,
+      524
+     ]
+    },
+    {
+     "t": "İlgimi Çeken Yönleri Önemli…",
+     "r": [
+      101,
+      579,
+      728,
+      585
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Ansiklopedi, atlas, gezi kitabı",
+     "fs": 14,
+     "center": true,
+     "area": [
+      153,
+      273,
+      193,
+      259
+     ],
+     "pill": [
+      313,
+      161
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Harita, fotoğraf, belgesel",
+     "fs": 14,
+     "center": true,
+     "area": [
+      380,
+      273,
+      193,
+      259
+     ],
+     "pill": [
+      540,
+      161
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Resmî kurum siteleri, sanal müze",
+     "fs": 14,
+     "center": true,
+     "area": [
+      604,
+      273,
+      194,
+      259
+     ],
+     "pill": [
+      812,
+      260
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Örnek (Gürcistan): Kafkas Dağları, Karadeniz kıyısı Batum, Tiflis'in tarihî sokakları, şarkı ve dans gelenekleri.",
+     "fs": 14,
+     "area": [
+      165,
+      692,
+      287,
+      338
+     ],
+     "pill": [
+      415,
+      574
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Başkent Tiflis, para birimi Lari, resmî dili Gürcüce; Sarp Sınır Kapısı ile ülkemize bağlıdır.",
+     "fs": 14,
+     "area": [
+      505,
+      692,
+      287,
+      338
+     ],
+     "pill": [
+      815,
+      679
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      754,
+      1050,
+      62,
+      60
+     ],
+     "panel": "karasinir",
+     "label": "\"Kara Sınırı Komşularımız\" etkinliği"
+    }
+   ]
+  },
+  {
+   "n": 92,
+   "img": "@IMG:s5-u2/p-45@",
+   "section": "Değerler",
+   "steps": [
+    {
+     "t": "2. ÖĞRENME ALANI - DEĞERLER",
+     "r": [
+      38,
+      62,
+      790,
+      861
+     ]
+    },
+    {
+     "t": "Yukarıdaki metinde hangi…",
+     "r": [
+      153,
+      895,
+      675,
+      269
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "3 (Sorumluluk), 2 (Duyarlılık)",
+     "fs": 15,
+     "area": [
+      191,
+      783,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      770
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "3 (Sorumluluk), 2 (Duyarlılık), 4 (Vatanseverlik)",
+     "fs": 15,
+     "area": [
+      191,
+      932,
+      623,
+      28
+     ],
+     "pill": [
+      777,
+      919
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "2 (Duyarlılık), 3 (Sorumluluk), 4 (Vatanseverlik)",
+     "fs": 15,
+     "area": [
+      191,
+      1102,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      1089
+     ]
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "img": "@IMG:s5-u2/p-46@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "2. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      34,
+      63,
+      820,
+      645
+     ]
+    },
+    {
+     "t": "Yaşadığımız ildeki doğal ve beşeri",
+     "r": [
+      156,
+      680,
+      638,
+      484
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "yönler",
+     "fs": 13,
+     "area": [
+      241,
+      349,
+      100,
+      28
+     ],
+     "pill": [
+      383,
+      336
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "yeryüzü şekilleri, su kaynakları, ulaşım yolları",
+     "fs": 12,
+     "area": [
+      145,
+      386,
+      195,
+      57
+     ],
+     "pill": [
+      383,
+      373
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Komşu iller, yeryüzü şekilleri, tarihî mekânlar",
+     "fs": 12,
+     "city": "yerSekli",
+     "area": [
+      145,
+      513,
+      195,
+      90
+     ],
+     "pill": [
+      383,
+      500
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gürcistan",
+     "fs": 13,
+     "area": [
+      659,
+      364,
+      135,
+      28
+     ],
+     "pill": [
+      837,
+      351
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ermenistan, Nahçıvan, İran, Irak, Suriye, Yunanistan, Bulgaristan",
+     "fs": 11,
+     "area": [
+      600,
+      401,
+      195,
+      57
+     ],
+     "pill": [
+      838,
+      388
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Para birimi",
+     "fs": 13,
+     "area": [
+      631,
+      523,
+      164,
+      28
+     ],
+     "pill": [
+      839,
+      510
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Resmî dil, başkent",
+     "fs": 13,
+     "area": [
+      600,
+      560,
+      195,
+      57
+     ],
+     "pill": [
+      838,
+      547
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Deprem, sel, heyelan, erozyon, çığ, orman yangını",
+     "fs": 12,
+     "area": [
+      201,
+      728,
+      196,
+      90
+     ],
+     "pill": [
+      439,
+      715
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kızılay, AKUT, belediyeler",
+     "fs": 12,
+     "area": [
+      201,
+      887,
+      196,
+      90
+     ],
+     "pill": [
+      439,
+      874
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Afet çantası, eşyaları sabitleme, tatbikat",
+     "fs": 12,
+     "area": [
+      201,
+      1045,
+      196,
+      90
+     ],
+     "pill": [
+      439,
+      1032
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dağ, göl, akarsu, orman; bina, yol, köprü",
+     "fs": 12,
+     "area": [
+      552,
+      745,
+      195,
+      90
+     ],
+     "pill": [
+      790,
+      732
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Nüfus artışı, göç, sanayileşme",
+     "fs": 12,
+     "area": [
+      552,
+      887,
+      195,
+      90
+     ],
+     "pill": [
+      790,
+      874
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarım alanları azaldı, binalar ve yollar arttı",
+     "fs": 12,
+     "area": [
+      552,
+      1029,
+      195,
+      90
+     ],
+     "pill": [
+      790,
+      1016
+     ]
+    }
+   ]
+  },
+  {
+   "n": 94,
+   "img": "@IMG:s5-u2/p-47@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "Aşağıdaki 1 ve 2. soruları",
+     "r": [
+      84,
+      84,
+      782,
+      292
+     ]
+    },
+    {
+     "t": "TÜRKİYE'NİN MÜLKİ İDARE…",
+     "r": [
+      84,
+      348,
+      782,
+      565
+     ]
+    },
+    {
+     "t": "Sivas iline komşu olan illerimizi",
+     "r": [
+      123,
+      885,
+      704,
+      279
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "İstanbul, Çanakkale",
+     "fs": 15,
+     "area": [
+      191,
+      631,
+      621,
+      28
+     ],
+     "pill": [
+      777,
+      618
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Edirne, Iğdır, Hakkari, Şırnak",
+     "fs": 15,
+     "area": [
+      191,
+      708,
+      621,
+      28
+     ],
+     "pill": [
+      777,
+      695
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Van, Bitlis",
+     "fs": 15,
+     "area": [
+      191,
+      783,
+      621,
+      28
+     ],
+     "pill": [
+      777,
+      770
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Edirne, Kırklareli, Artvin, Ardahan, Kars, Iğdır, Ağrı, Van, Hakkari, Şırnak, Mardin, Şanlıurfa, Gaziantep, Kilis, Hatay",
+     "fs": 11,
+     "area": [
+      191,
+      860,
+      621,
+      28
+     ],
+     "pill": [
+      777,
+      847
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tokat, Ordu, Giresun, Erzincan, Malatya, Kahramanmaraş, Kayseri, Yozgat",
+     "fs": 13,
+     "area": [
+      191,
+      936,
+      621,
+      28
+     ],
+     "pill": [
+      777,
+      923
+     ]
+    },
+    {
+     "area": [
+      600,
+      1105,
+      200,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Anadolu'nun doğusunda yer alır.\nÇanakkale Türkiye'nin kuzeybatısındadır.",
+     "pill": [
+      664,
+      1104
+     ],
+     "qx": 163,
+     "qt": 1036,
+     "qb": 1215,
+     "qr": 800,
+     "bal": [
+      119,
+      957,
+      712,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 95,
+   "img": "@IMG:s5-u2/p-48@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "Aşağıdaki 3 ve 4. soruları",
+     "r": [
+      122,
+      48,
+      790,
+      357
+     ]
+    },
+    {
+     "t": "Sadi Öğretmen'in yaşadığı ilde…",
+     "r": [
+      122,
+      377,
+      705,
+      360
+     ]
+    },
+    {
+     "t": "Sadi Öğretmen'in yaşadığı ilde… (2)",
+     "r": [
+      122,
+      709,
+      706,
+      455
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Göç, nüfus artışı, çay tarımının ve fabrikaların yaygınlaşması.",
+     "fs": 15,
+     "area": [
+      163,
+      469,
+      652,
+      83
+     ],
+     "pill": [
+      779,
+      456
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yamaçlar, ormanlar, akarsular (doğal); yerleşim alanları, yollar, okullar (beşerî).",
+     "fs": 15,
+     "area": [
+      163,
+      628,
+      652,
+      83
+     ],
+     "pill": [
+      779,
+      615
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Nüfus arttı, yerleşim alanları genişledi; barajlar, okullar, hastaneler ve alışveriş merkezleri yapıldı.",
+     "fs": 15,
+     "area": [
+      163,
+      785,
+      652,
+      83
+     ],
+     "pill": [
+      779,
+      772
+     ]
+    },
+    {
+     "area": [
+      600,
+      1075,
+      200,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Şehrin sosyal yapısı değişime uğramıştır.",
+     "pill": [
+      664,
+      1074
+     ],
+     "qx": 600,
+     "qt": 1075,
+     "qb": 1099,
+     "qr": 800,
+     "bal": [
+      118,
+      1107,
+      714,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "img": "@IMG:s5-u2/p-49@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "5. Aşağıda doğa kaynaklı…",
+     "r": [
+      38,
+      83,
+      806,
+      722
+     ]
+    },
+    {
+     "t": "Dere ve akarsu yataklarında…",
+     "r": [
+      38,
+      777,
+      806,
+      387
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "EROZYON",
+     "fs": 17,
+     "center": true,
+     "area": [
+      532,
+      378,
+      262,
+      28
+     ],
+     "pill": [
+      758,
+      347
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "ÇIĞ",
+     "fs": 17,
+     "center": true,
+     "area": [
+      532,
+      679,
+      262,
+      28
+     ],
+     "pill": [
+      758,
+      648
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "SEL",
+     "fs": 17,
+     "center": true,
+     "area": [
+      532,
+      988,
+      262,
+      28
+     ],
+     "pill": [
+      836,
+      975
+     ]
+    },
+    {
+     "area": [
+      398,
+      434,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      330,
+      475
+     ]
+    },
+    {
+     "area": [
+      398,
+      736,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      396,
+      777
+     ]
+    },
+    {
+     "area": [
+      794,
+      736,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      840,
+      723
+     ]
+    },
+    {
+     "area": [
+      398,
+      1044,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      396,
+      1085
+     ]
+    },
+    {
+     "area": [
+      598,
+      1044,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      596,
+      1085
+     ]
+    },
+    {
+     "area": [
+      794,
+      1044,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 26,
+     "pill": [
+      840,
+      1031
+     ]
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "img": "@IMG:s5-u2/p-50@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "6. Samet ve Sena 5.",
+     "r": [
+      122,
+      83,
+      706,
+      731
+     ]
+    },
+    {
+     "t": "Sena'nın bilgilerini not ettiği…",
+     "r": [
+      122,
+      786,
+      707,
+      378
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Plan yaptılar, kütüphanede kaynakları belirlediler, bilgileri karşılaştırdılar, eksikleri genel ağdan tamamladılar ve kaynakçayı yazdılar.",
+     "fs": 13,
+     "area": [
+      163,
+      741,
+      652,
+      49
+     ],
+     "pill": [
+      779,
+      728
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Suriye, Irak",
+     "fs": 15,
+     "area": [
+      163,
+      835,
+      652,
+      49
+     ],
+     "pill": [
+      779,
+      822
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran",
+     "fs": 15,
+     "area": [
+      163,
+      929,
+      652,
+      49
+     ],
+     "pill": [
+      779,
+      916
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Farklı kaynaklardaki bilgileri karşılaştırıp doğruluğunu kontrol ettiler.",
+     "fs": 14,
+     "area": [
+      163,
+      1022,
+      652,
+      49
+     ],
+     "pill": [
+      779,
+      1009
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      297,
+      1085,
+      57,
+      58
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      756,
+      1086,
+      60,
+      57
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

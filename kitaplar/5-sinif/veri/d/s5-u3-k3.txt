@@ -1,0 +1,1794 @@
+// 5. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 98–149)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Mezopotamya ve Anadolu medeniyetlerinin ortak kültürel mirasa katkıları (s. 128–149)
+window.BOOK = {
+ "id": "s5-u3-k3",
+ "title": "Mezopotamya ve Anadolu medeniyetlerinin ortak kültürel mirasa katkıları",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u3-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 128,
+   "img": "@IMG:s5-u3/p-31@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "MEZOPOTAMYA VE ANADOLU",
+     "r": [
+      33,
+      55,
+      799,
+      498
+     ]
+    },
+    {
+     "t": "Şanlıurfa Karahantepe'de ilk…",
+     "r": [
+      81,
+      437,
+      747,
+      264
+     ]
+    },
+    {
+     "t": "Diyarbakır'da Kral Yolu…",
+     "r": [
+      38,
+      673,
+      790,
+      491
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      410,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bilimsel çalışmalar geçmişte insanların ne yediğini, nasıl yaşadığını ve tarımın ne zaman başladığını ortaya koyar.",
+     "pill": [
+      646,
+      409
+     ],
+     "qx": 600,
+     "qt": 386,
+     "qb": 432,
+     "qr": 820,
+     "bal": [
+      276,
+      440,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      380,
+      652,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ekmek yapımının en az 12.000 yıl önce başladığı ve bu mutfak kültürünün kesintisiz olarak günümüze kadar sürdüğü anlatılmaktadır.",
+     "pill": [
+      414,
+      648
+     ],
+     "qx": 104,
+     "qt": 619,
+     "qb": 672,
+     "qr": 814,
+     "bal": [
+      77,
+      680,
+      755,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      270,
+      856,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Turist sayısı artar; otel, lokanta, rehberlik ve el sanatları gibi iş alanları gelişir; şehrin geliri artar.",
+     "pill": [
+      304,
+      852
+     ],
+     "qx": 104,
+     "qt": 823,
+     "qb": 876,
+     "qr": 812,
+     "bal": [
+      34,
+      884,
+      798,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      580,
+      1112,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hazinelerin müzede sergilenmesi turizmi canlandırır, kültürel mirasın tanınmasını sağlar ve bölge ekonomisine katkı yapar.",
+     "pill": [
+      614,
+      1117
+     ],
+     "qx": 369,
+     "qt": 1077,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      272,
+      964,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 129,
+   "img": "@IMG:s5-u3/p-32@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "8 Görsel verilen icat nedir?",
+     "r": [
+      34,
+      55,
+      792,
+      490
+     ]
+    },
+    {
+     "t": "Görsel verilen icat nedir? Bu",
+     "r": [
+      94,
+      517,
+      733,
+      331
+     ]
+    },
+    {
+     "t": "Görsel verilen icat nedir? Bu (2)",
+     "r": [
+      94,
+      820,
+      734,
+      344
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Tekerlek. Arabalar, bisikletler, saatler, makineler ve fabrikalarda kullanılır.",
+     "fs": 15,
+     "area": [
+      133,
+      297,
+      396,
+      207
+     ],
+     "pill": [
+      491,
+      284
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yazı (çivi yazısı). Yazı olmasaydı bilgi kayıt altına alınamaz, tarih öğrenilemez, kitaplar ve mektuplar olmazdı.",
+     "fs": 15,
+     "area": [
+      133,
+      602,
+      396,
+      207
+     ],
+     "pill": [
+      491,
+      589
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Para. Para olmasaydı ihtiyaçlarımızı takas (mal karşılığı mal) yoluyla gidermek zorunda kalırdık.",
+     "fs": 15,
+     "area": [
+      133,
+      904,
+      396,
+      207
+     ],
+     "pill": [
+      515,
+      891
+     ]
+    }
+   ]
+  },
+  {
+   "n": 130,
+   "img": "@IMG:s5-u3/p-33@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "MEZOPOTAMYA MEDENİYETLERİ",
+     "r": [
+      38,
+      54,
+      820,
+      830
+     ]
+    },
+    {
+     "t": "Sümerler",
+     "r": [
+      157,
+      856,
+      641,
+      308
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 131,
+   "img": "@IMG:s5-u3/p-34@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Kaynak",
+     "r": [
+      100,
+      72,
+      750,
+      295
+     ]
+    },
+    {
+     "t": "Kaynak (2)",
+     "r": [
+      100,
+      339,
+      750,
+      825
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      620,
+      940,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Çivi yazısı ve tabletler; ürünleri kayıt altına almak, alışverişleri yazmak, kanunları ve destanları kaydetmek için kullanılmıştır. Böylece bilgi kalıcı hâle gelmiş, tarih başlamıştır.",
+     "pill": [
+      672,
+      954
+     ],
+     "qx": 134,
+     "qt": 932,
+     "qb": 969,
+     "qr": 820,
+     "bal": [
+      96,
+      977,
+      758,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 132,
+   "img": "@IMG:s5-u3/p-35@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sümerlerin şehir merkezlerinde…",
+     "r": [
+      90,
+      83,
+      770,
+      500
+     ]
+    },
+    {
+     "t": "Sümerler, zigguratların alt…",
+     "r": [
+      90,
+      555,
+      770,
+      611
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Ziggurat; tapınak, tahıl ambarı, okul, kütüphane ve rasathane olarak kullanılmıştır. Bu sayede yazı, astronomi, takvim, matematik ve eğitim alanlarında ortak mirasa katkı sağlanmıştır.",
+     "fs": 15,
+     "area": [
+      133,
+      972,
+      683,
+      90
+     ],
+     "pill": [
+      779,
+      959
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1087,
+      66,
+      60
+     ],
+     "panel": "sumer",
+     "label": "Sümerler hakkında daha fazla bilgi"
+    }
+   ]
+  },
+  {
+   "n": 133,
+   "img": "@IMG:s5-u3/p-36@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "BABİLLİLER",
+     "r": [
+      94,
+      79,
+      756,
+      1140
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1045,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Benzerlikler: İkisi de toplumsal düzeni sağlamayı ve suçları cezalandırmayı amaçlar, yazılıdır.\nFarklılıklar: Hammurabi kanunlarında \"kısasa kısas\" anlayışı vardır, cezalar çok ağırdır; günümüz kanunlarında insan hakları ve eşitlik esastır.",
+     "pill": [
+      670,
+      1053
+     ],
+     "qx": 106,
+     "qt": 1036,
+     "qb": 1073,
+     "qr": 820,
+     "bal": [
+      90,
+      1081,
+      764,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      1087,
+      63,
+      61
+     ],
+     "panel": "babil",
+     "label": "Babilliler hakkında daha fazla bilgi"
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "img": "@IMG:s5-u3/p-37@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "ASURLULAR",
+     "r": [
+      121,
+      83,
+      724,
+      229
+     ]
+    },
+    {
+     "t": "Ticarette gelişmiş bir me",
+     "r": [
+      94,
+      284,
+      756,
+      888
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kültepe tabletleri Anadolu'da yazının kullanılmasını ve tarihî çağların başlamasını sağlamıştır. Asurbanipal Kütüphanesi bilginin korunmasına ve aktarılmasına öncülük etmiştir.",
+     "fs": 15,
+     "area": [
+      133,
+      952,
+      683,
+      123
+     ],
+     "pill": [
+      779,
+      939
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1094,
+      67,
+      59
+     ],
+     "panel": "asur",
+     "label": "Asurlular hakkında daha fazla bilgi"
+    }
+   ]
+  },
+  {
+   "n": 135,
+   "img": "@IMG:s5-u3/p-38@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "ANADOLU MEDENİYETLERİ",
+     "r": [
+      92,
+      79,
+      766,
+      323
+     ]
+    },
+    {
+     "t": "4000 ) 3000 ) (",
+     "r": [
+      92,
+      374,
+      766,
+      812
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      254,
+      1100,
+      67,
+      67
+     ],
+     "panel": "hitit",
+     "label": "Hititler hakkında daha fazla bilgi"
+    },
+    {
+     "area": [
+      752,
+      1104,
+      64,
+      62
+     ],
+     "panel": "bogazkoy",
+     "label": "Çorum Boğazköy Müzesi"
+    }
+   ]
+  },
+  {
+   "n": 136,
+   "img": "@IMG:s5-u3/p-39@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Hititlere ait en önemli bilgilere",
+     "r": [
+      95,
+      83,
+      755,
+      701
+     ]
+    },
+    {
+     "t": "Bir vatanın sahibi olmanın yolu",
+     "r": [
+      90,
+      688,
+      758,
+      227
+     ]
+    },
+    {
+     "t": "Lidyalılar ile ilgili verilen…",
+     "r": [
+      121,
+      887,
+      706,
+      277
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      240,
+      668,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hititlerin yıllıkları tarih yazıcılığının başlangıcıdır; olaylar tarafsız şekilde kaydedildiği için güvenilir bilgi kaynağıdır.",
+     "pill": [
+      274,
+      667
+     ],
+     "qx": 107,
+     "qt": 646,
+     "qb": 688,
+     "qr": 816,
+     "bal": [
+      91,
+      696,
+      763,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      848,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Tarihî eserleri korumak, müzeleri ziyaret etmek, sözlü kültürü dinleyip yazıya geçirmek ve tanıtım çalışmalarına katılmak.",
+     "pill": [
+      706,
+      841
+     ],
+     "qx": 124,
+     "qt": 812,
+     "qb": 897,
+     "qr": 817,
+     "bal": [
+      86,
+      905,
+      766,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 137,
+   "img": "@IMG:s5-u3/p-40@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Lidyalılar, sınırları içinde…",
+     "r": [
+      94,
+      83,
+      735,
+      428
+     ]
+    },
+    {
+     "t": "İYONYALILAR",
+     "r": [
+      94,
+      483,
+      735,
+      681
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Lidyalılar parayı icat ederek takas yerine para kullanımını başlattılar, ticareti kolaylaştırdılar. Kral Yolu ile Mezopotamya ve Anadolu arasında ticaret ve kültürel etkileşim arttı.",
+     "fs": 15,
+     "area": [
+      151,
+      329,
+      621,
+      150
+     ],
+     "pill": [
+      821,
+      316
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İyonyalılar özgür düşünce ortamında bilim ve felsefeye katkı yaptı; Hipokrat (tıp), Heredot (tarih), Pisagor ve Thales (matematik) gibi bilim insanları yetiştirdi.",
+     "fs": 15,
+     "area": [
+      151,
+      1030,
+      621,
+      87
+     ],
+     "pill": [
+      821,
+      1017
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      760,
+      170,
+      54,
+      59
+     ],
+     "panel": "lidya",
+     "label": "Lidyalılar hakkında daha fazla bilgi"
+    },
+    {
+     "area": [
+      511,
+      888,
+      59,
+      57
+     ],
+     "panel": "efes",
+     "label": "Efes Müzesi İzmir"
+    },
+    {
+     "area": [
+      757,
+      890,
+      59,
+      56
+     ],
+     "panel": "iyon",
+     "label": "İyonyalılar hakkında daha fazla bilgi"
+    }
+   ]
+  },
+  {
+   "n": 138,
+   "img": "@IMG:s5-u3/p-41@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı o: Nesi Var?",
+     "r": [
+      38,
+      55,
+      790,
+      501
+     ]
+    },
+    {
+     "t": "Belirlenen Kavram: ziggurat",
+     "r": [
+      94,
+      528,
+      762,
+      636
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Ziggurat",
+     "fs": 14,
+     "area": [
+      144,
+      833,
+      190,
+      28
+     ],
+     "pill": [
+      280,
+      742
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çivi yazısı, tekerlek, takvim, 60'lık sayı sistemi",
+     "fs": 13,
+     "area": [
+      144,
+      865,
+      191,
+      219
+     ],
+     "pill": [
+      58,
+      852
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ziggurat",
+     "fs": 14,
+     "area": [
+      382,
+      837,
+      191,
+      247
+     ],
+     "pill": [
+      620,
+      731
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ziggurat",
+     "fs": 14,
+     "area": [
+      618,
+      837,
+      190,
+      247
+     ],
+     "pill": [
+      820,
+      824
+     ]
+    }
+   ]
+  },
+  {
+   "n": 139,
+   "img": "@IMG:s5-u3/p-42@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Belirlenen Kavram: para",
+     "r": [
+      94,
+      87,
+      762,
+      550
+     ]
+    },
+    {
+     "t": "MEDENİYETLERİN ORTAK MİRASA…",
+     "r": [
+      95,
+      609,
+      760,
+      555
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kadeş Antlaşması, yıllıklar, Hattuşa",
+     "fs": 13,
+     "area": [
+      144,
+      386,
+      191,
+      192
+     ],
+     "pill": [
+      292,
+      289
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bilim ve felsefe",
+     "fs": 13,
+     "area": [
+      617,
+      382,
+      191,
+      28
+     ],
+     "pill": [
+      813,
+      369
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hipokrat, Pisagor, Thales, Heredot",
+     "fs": 13,
+     "area": [
+      617,
+      442,
+      191,
+      135
+     ],
+     "pill": [
+      771,
+      429
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kral Yolu, ticaret",
+     "fs": 13,
+     "area": [
+      382,
+      413,
+      191,
+      164
+     ],
+     "pill": [
+      614,
+      412
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çivi yazısı, destanlar, yıllıklar, Asurbanipal Kütüphanesi",
+     "fs": 12,
+     "area": [
+      137,
+      772,
+      141,
+      302
+     ],
+     "pill": [
+      57,
+      759
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Urukagina ve Hammurabi kanunları, Kadeş Antlaşması",
+     "fs": 12,
+     "area": [
+      316,
+      772,
+      141,
+      302
+     ],
+     "pill": [
+      410,
+      762
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Takvim, matematik, astronomi, tıp, felsefe",
+     "fs": 12,
+     "area": [
+      495,
+      772,
+      141,
+      302
+     ],
+     "pill": [
+      673,
+      678
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ticaret kolonileri, Kral Yolu, para",
+     "fs": 12,
+     "area": [
+      675,
+      800,
+      141,
+      274
+     ],
+     "pill": [
+      829,
+      787
+     ]
+    }
+   ]
+  },
+  {
+   "n": 140,
+   "img": "@IMG:s5-u3/p-43@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Beyin Eseri",
+     "r": [
+      121,
+      82,
+      796,
+      595
+     ]
+    },
+    {
+     "t": "Benzerlikler i ğ Benzerlikler",
+     "r": [
+      93,
+      649,
+      762,
+      515
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Hepsi yazıyı ve tabletleri kullandı",
+     "fs": 12,
+     "area": [
+      118,
+      785,
+      326,
+      112
+     ],
+     "pill": [
+      374,
+      772
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hepsi yazılı kanun ve antlaşma yaptı",
+     "fs": 12,
+     "area": [
+      506,
+      785,
+      326,
+      112
+     ],
+     "pill": [
+      762,
+      772
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sümerler çivi yazısını icat etti; Hititler yıllıklar yazdı",
+     "fs": 12,
+     "area": [
+      118,
+      970,
+      326,
+      112
+     ],
+     "pill": [
+      374,
+      957
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hammurabi kısas anlayışı; Hititler barış antlaşması",
+     "fs": 12,
+     "area": [
+      506,
+      970,
+      326,
+      112
+     ],
+     "pill": [
+      762,
+      957
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      580,
+      60,
+      60
+     ],
+     "panel": "kontrol",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 141,
+   "img": "@IMG:s5-u3/p-44@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Medeniyetlerin",
+     "r": [
+      33,
+      0,
+      669,
+      603
+     ]
+    },
+    {
+     "t": "Benzerlikler Benzerlikler",
+     "r": [
+      34,
+      575,
+      821,
+      589
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Takvim, matematik, astronomi çalışmaları",
+     "fs": 12,
+     "area": [
+      118,
+      785,
+      326,
+      112
+     ],
+     "pill": [
+      374,
+      772
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ticaret ve tarıma dayalı ekonomi",
+     "fs": 12,
+     "area": [
+      505,
+      785,
+      327,
+      112
+     ],
+     "pill": [
+      761,
+      772
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sümerler takvim ve astronomi; İyonyalılar tıp ve felsefe",
+     "fs": 12,
+     "area": [
+      118,
+      970,
+      326,
+      112
+     ],
+     "pill": [
+      374,
+      957
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Lidyalılar parayı icat etti; Asurlular ticaret kolonileri kurdu",
+     "fs": 12,
+     "area": [
+      506,
+      970,
+      326,
+      112
+     ],
+     "pill": [
+      762,
+      957
+     ]
+    }
+   ]
+  },
+  {
+   "n": 142,
+   "img": "@IMG:s5-u3/p-45@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Şemadaki cümlelerden bazıları…",
+     "r": [
+      38,
+      55,
+      878,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      120,
+      220,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru çıkış: 3. ÇIKIŞ\nİlk yazılı kanunlar Sümerlerindir (D). İlk kütüphaneyi Asurlular yapmıştır (Y). İyonyalılardaki özgür düşünce bilim insanlarının yetişmesini sağlamıştır (D).",
+     "pill": [
+      676,
+      140
+     ],
+     "qx": 145,
+     "qt": 71,
+     "qb": 219,
+     "qr": 820,
+     "bal": [
+      145,
+      197,
+      675,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 143,
+   "img": "@IMG:s5-u3/p-46@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Verilen tarih şeritlerini…",
+     "r": [
+      92,
+      84,
+      766,
+      1145
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Sümerler",
+     "fs": 14,
+     "area": [
+      588,
+      725,
+      206,
+      28
+     ],
+     "pill": [
+      760,
+      688
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Babilliler ve Asurlular",
+     "fs": 14,
+     "area": [
+      588,
+      777,
+      206,
+      28
+     ],
+     "pill": [
+      820,
+      764
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hititler",
+     "fs": 14,
+     "area": [
+      588,
+      830,
+      206,
+      28
+     ],
+     "pill": [
+      820,
+      817
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sümerler",
+     "fs": 14,
+     "area": [
+      588,
+      883,
+      206,
+      28
+     ],
+     "pill": [
+      820,
+      870
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Babilliler",
+     "fs": 14,
+     "area": [
+      588,
+      935,
+      206,
+      28
+     ],
+     "pill": [
+      820,
+      922
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İyonyalılar",
+     "fs": 14,
+     "area": [
+      588,
+      988,
+      206,
+      28
+     ],
+     "pill": [
+      724,
+      975
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sümerler, Babilliler",
+     "fs": 14,
+     "area": [
+      588,
+      1040,
+      206,
+      28
+     ],
+     "pill": [
+      820,
+      1027
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      600,
+      1155,
+      64,
+      60
+     ],
+     "panel": "medeniyetler",
+     "label": "\"Mezopotamya ve Anadolu Medeniyetleri\" etkinliği"
+    }
+   ]
+  },
+  {
+   "n": 144,
+   "img": "@IMG:s5-u3/p-47@",
+   "section": "Değerler",
+   "steps": [
+    {
+     "t": "3. ÖĞRENME ALANI - DEĞERLER",
+     "r": [
+      38,
+      62,
+      790,
+      869
+     ]
+    },
+    {
+     "t": "Yukarıdaki metinde hangi…",
+     "r": [
+      153,
+      903,
+      675,
+      261
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "3 (Sorumluluk)",
+     "fs": 15,
+     "area": [
+      191,
+      785,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      772
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "2 (Duyarlılık), 3 (Sorumluluk)",
+     "fs": 15,
+     "area": [
+      191,
+      944,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      931
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "3 (Sorumluluk), 6 (Saygı)",
+     "fs": 15,
+     "area": [
+      191,
+      1102,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      1089
+     ]
+    }
+   ]
+  },
+  {
+   "n": 145,
+   "img": "@IMG:s5-u3/p-48@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "3. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      34,
+      63,
+      820,
+      676
+     ]
+    },
+    {
+     "t": "MEZOPOTAMYA VE ANADOLU",
+     "r": [
+      90,
+      711,
+      771,
+      453
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Nemrut, Kapadokya, Pamukkale, çay kültürü, Mostar Köprüsü",
+     "fs": 12,
+     "area": [
+      145,
+      432,
+      196,
+      90
+     ],
+     "pill": [
+      383,
+      419
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İldeki kale, cami, müze, el sanatları",
+     "fs": 12,
+     "city": "tarihi",
+     "area": [
+      145,
+      597,
+      196,
+      90
+     ],
+     "pill": [
+      383,
+      584
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tahıl, evcil hayvan, avcılık, toplayıcılık",
+     "fs": 12,
+     "area": [
+      600,
+      411,
+      195,
+      90
+     ],
+     "pill": [
+      838,
+      398
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çayönü, Hacılar, Göbeklitepe",
+     "fs": 12,
+     "area": [
+      600,
+      609,
+      196,
+      90
+     ],
+     "pill": [
+      838,
+      596
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hititler, Lidyalılar, İyonyalılar",
+     "fs": 12,
+     "area": [
+      135,
+      862,
+      195,
+      90
+     ],
+     "pill": [
+      373,
+      849
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sümerler, Babilliler, Asurlular",
+     "fs": 12,
+     "area": [
+      618,
+      862,
+      196,
+      90
+     ],
+     "pill": [
+      856,
+      849
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yazı, para, kanun, takvim",
+     "fs": 12,
+     "area": [
+      377,
+      1033,
+      196,
+      90
+     ],
+     "pill": [
+      615,
+      1020
+     ]
+    }
+   ]
+  },
+  {
+   "n": 146,
+   "img": "@IMG:s5-u3/p-49@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "1. Ali, yaşadığı ilde bulunan",
+     "r": [
+      121,
+      83,
+      708,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      630,
+      470,
+      180,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A\nTarihî bir minare (mimari) insanlık tarihinde önemli bir aşamayı gösterir.",
+     "pill": [
+      682,
+      469
+     ],
+     "qx": 163,
+     "qt": 451,
+     "qb": 490,
+     "qr": 815,
+     "bal": [
+      163,
+      498,
+      652,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Asurlular Anadolu'ya yazıyı getirdi, ticaret kolonileri ve ilk kütüphaneyi kurdu. İyonyalılar bilim ve felsefede gelişti; Hipokrat, Pisagor, Thales ve Heredot'u yetiştirdi.",
+     "fs": 13,
+     "area": [
+      163,
+      1040,
+      652,
+      89
+     ],
+     "pill": [
+      779,
+      1027
+     ]
+    }
+   ]
+  },
+  {
+   "n": 147,
+   "img": "@IMG:s5-u3/p-50@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "3. Çatalhöyük'te yaşayan…",
+     "r": [
+      122,
+      83,
+      707,
+      677
+     ]
+    },
+    {
+     "t": "Çatalhöyük'te yaşayan toplumun…",
+     "r": [
+      122,
+      732,
+      706,
+      432
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Tahıl öğütme, ekmek pişirme, buğday-arpa tarımı, avcılık, balıkçılık",
+     "fs": 14,
+     "area": [
+      163,
+      658,
+      652,
+      61
+     ],
+     "pill": [
+      779,
+      645
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kerpiç evler, damdan giriş, sekiler, ocak ve depolar",
+     "fs": 14,
+     "area": [
+      163,
+      775,
+      652,
+      62
+     ],
+     "pill": [
+      779,
+      762
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarım, hayvancılık, alet yapımı, dokumacılık, obsidiyen ticareti",
+     "fs": 14,
+     "area": [
+      163,
+      892,
+      652,
+      62
+     ],
+     "pill": [
+      779,
+      879
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çatalhöyük'te evler bitişikti, giriş damdandı; bugün evlerde kapı, pencere, sokak ve apartmanlar vardır.",
+     "fs": 13,
+     "area": [
+      163,
+      1052,
+      652,
+      63
+     ],
+     "pill": [
+      779,
+      1039
+     ]
+    }
+   ]
+  },
+  {
+   "n": 148,
+   "img": "@IMG:s5-u3/p-51@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "Aşağıdaki metinleri okuyunuz ve…",
+     "r": [
+      38,
+      83,
+      797,
+      889
+     ]
+    },
+    {
+     "t": "6. Hititlerle ilgili verilen…",
+     "r": [
+      122,
+      944,
+      690,
+      220
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      850,
+      200,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Ekonomi\nBilgilerde kültür (yazı, yıllıklar), hukuk (kanun, antlaşma) ve bilim (rasathane, okul) vurgulanmıştır.",
+     "pill": [
+      664,
+      852
+     ],
+     "qx": 138,
+     "qt": 832,
+     "qb": 874,
+     "qr": 815,
+     "bal": [
+      34,
+      882,
+      805,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      985,
+      200,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Yazının Mısır coğrafyasına yayılmasına katkıda bulunmuşlardır.",
+     "pill": [
+      664,
+      1005
+     ],
+     "qx": 134,
+     "qt": 981,
+     "qb": 1009,
+     "qr": 800,
+     "bal": [
+      118,
+      1017,
+      698,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 149,
+   "img": "@IMG:s5-u3/p-52@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "7. Aşağıdaki metinleri okuyunuz ve",
+     "r": [
+      122,
+      67,
+      790,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Somut ve somut olmayan kültürel miras ögeleri bir toplumun kimliğini, tarihini ve değerlerini taşır. Korunmaları geçmişle bağ kurmamızı, barış ve kardeşliğin güçlenmesini, kültürel çeşitliliğin gelecek nesillere aktarılmasını sağlar.",
+     "fs": 14,
+     "area": [
+      156,
+      876,
+      634,
+      179
+     ],
+     "pill": [
+      820,
+      863
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      299,
+      1097,
+      56,
+      60
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      757,
+      1097,
+      58,
+      60
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

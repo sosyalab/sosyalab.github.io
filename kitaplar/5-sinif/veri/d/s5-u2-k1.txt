@@ -1,0 +1,793 @@
+// 5. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 48–97)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: İlimizin göreceli konumu (s. 50–57)
+window.BOOK = {
+ "id": "s5-u2-k1",
+ "title": "İlimizin göreceli konumu",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u2-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 48,
+   "img": "@IMG:s5-u2/p-01@",
+   "section": "2. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      85,
+      884,
+      463
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      520,
+      884,
+      644
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      314,
+      1066,
+      67,
+      64
+     ],
+     "panel": "alan",
+     "label": "2. Öğrenme alanı"
+    },
+    {
+     "area": [
+      570,
+      975,
+      64,
+      64
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "img": "@IMG:s5-u2/p-02@",
+   "section": "Evimiz Dünya",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      90,
+      797,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 50,
+   "img": "@IMG:s5-u2/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "GÖRECELİ KONUMU",
+     "r": [
+      38,
+      55,
+      879,
+      869
+     ]
+    },
+    {
+     "t": "Görsel inceleyiniz ve soruları…",
+     "r": [
+      89,
+      833,
+      739,
+      331
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      800,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek sorular: \"Şehir hangi bölgededir?\", \"Denize kıyısı var mı?\", \"Hangi illerle komşudur?\"",
+     "pill": [
+      646,
+      811
+     ],
+     "qx": 106,
+     "qt": 791,
+     "qb": 828,
+     "qr": 820,
+     "bal": [
+      34,
+      836,
+      887,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Türkiye fiziki haritası",
+     "fs": 16,
+     "area": [
+      134,
+      921,
+      682,
+      28
+     ],
+     "pill": [
+      780,
+      908
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Renklerle yükseltiyi gösterir; il sınırları, akarsular, göller ve denizler yer alır; lejant ve ölçek bulunur.",
+     "fs": 13,
+     "area": [
+      134,
+      983,
+      682,
+      28
+     ],
+     "pill": [
+      780,
+      970
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ana yönler (kuzey, güney, doğu, batı) ve ara yönler (kuzeydoğu, güneybatı vb.)",
+     "fs": 15,
+     "area": [
+      134,
+      1044,
+      682,
+      57
+     ],
+     "pill": [
+      822,
+      1031
+     ]
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "img": "@IMG:s5-u2/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Aşağıda bazı illerimiz ile ilgili",
+     "r": [
+      34,
+      55,
+      811,
+      544
+     ]
+    },
+    {
+     "t": "sşsziniminininininininininininin…",
+     "r": [
+      105,
+      571,
+      740,
+      637
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      150,
+      292,
+      280,
+      30
+     ],
+     "mode": "ink",
+     "text": "MERSİN",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      382,
+      279
+     ]
+    },
+    {
+     "area": [
+      520,
+      292,
+      280,
+      30
+     ],
+     "mode": "ink",
+     "text": "SİVAS",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      752,
+      279
+     ]
+    },
+    {
+     "area": [
+      150,
+      633,
+      280,
+      30
+     ],
+     "mode": "ink",
+     "text": "ORDU",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      382,
+      620
+     ]
+    },
+    {
+     "area": [
+      520,
+      633,
+      280,
+      30
+     ],
+     "mode": "ink",
+     "text": "AĞRI",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      752,
+      620
+     ]
+    },
+    {
+     "area": [
+      600,
+      1015,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Mersin: Akdeniz kıyısı, limanı, seracılık. Sivas: yüz ölçümü büyük, Kızılırmak, Divriği Ulu Camii. Ordu: Karadeniz, fındık, yaylalar. Ağrı: yüksek dağlar, İran sınırı. Hepsinin konumu ekonomisini ve ulaşımını etkiler.",
+     "pill": [
+      634,
+      1014
+     ],
+     "qx": 600,
+     "qt": 1015,
+     "qb": 1037,
+     "qr": 800,
+     "bal": [
+      289,
+      1045,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1075,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek: İlimizin doğal güzelliklerini, tarihî mekânlarını, yöresel yemeklerini ve ulaşım kolaylığını ön plana çıkarırdım.",
+     "city": "tanitim",
+     "pill": [
+      634,
+      1092
+     ],
+     "qx": 138,
+     "qt": 1050,
+     "qb": 1097,
+     "qr": 816,
+     "bal": [
+      138,
+      1105,
+      678,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "img": "@IMG:s5-u2/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Göreceli konum ile ilgili…",
+     "r": [
+      33,
+      57,
+      795,
+      1107
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      455,
+      1038,
+      60,
+      60
+     ],
+     "panel": "bursa",
+     "label": "Bir ilin göreceli konumu (Bursa)"
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "img": "@IMG:s5-u2/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Yaşadığınız ili harita üzerinde…",
+     "r": [
+      121,
+      81,
+      707,
+      651
+     ]
+    },
+    {
+     "t": "Yer altı ve yer",
+     "r": [
+      122,
+      704,
+      705,
+      460
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Ankara",
+     "fs": 16,
+     "city": "ilAdi",
+     "area": [
+      380,
+      594,
+      306,
+      28
+     ],
+     "pill": [
+      648,
+      557
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kara yolu, demir yolu, hava yolu bağlantıları",
+     "fs": 15,
+     "area": [
+      346,
+      646,
+      452,
+      52
+     ],
+     "pill": [
+      716,
+      636
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yer altı ve yer üstü kaynaklarına dayalı ekonomik faaliyetler",
+     "fs": 14,
+     "city": "ekonomi",
+     "area": [
+      346,
+      741,
+      452,
+      53
+     ],
+     "pill": [
+      818,
+      728
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dağlar, ovalar, göller",
+     "fs": 14,
+     "city": "yerSekli",
+     "area": [
+      346,
+      836,
+      452,
+      53
+     ],
+     "pill": [
+      818,
+      823
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarihî mekânlar",
+     "fs": 14,
+     "city": "tarihi",
+     "area": [
+      346,
+      932,
+      452,
+      52
+     ],
+     "pill": [
+      716,
+      922
+     ]
+    },
+    {
+     "area": [
+      400,
+      1112,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Çevreyi temiz tutmak, tarihî eserlere zarar vermemek, ağaç dikmek, kurallara uymak ve çevremizi bilinçlendirmek.",
+     "pill": [
+      560,
+      1117
+     ],
+     "qx": 134,
+     "qt": 1098,
+     "qb": 1215,
+     "qr": 815,
+     "bal": [
+      118,
+      1010,
+      713,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      501,
+      1023,
+      61,
+      57
+     ],
+     "panel": "tarihi",
+     "label": "Tarihî mekânların korunması"
+    },
+    {
+     "area": [
+      756,
+      1021,
+      58,
+      59
+     ],
+     "panel": "haritalar",
+     "label": "Konu ile ilgili haritalar"
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "img": "@IMG:s5-u2/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      99,
+      61,
+      752,
+      230
+     ]
+    },
+    {
+     "t": "Haritadan faydalanarak…",
+     "r": [
+      99,
+      263,
+      752,
+      603
+     ]
+    },
+    {
+     "t": "Aşağıdaki illerin göreceli…",
+     "r": [
+      122,
+      838,
+      707,
+      326
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      400,
+      543,
+      170,
+      26
+     ],
+     "mode": "ink",
+     "text": "Ankara",
+     "fs": 16,
+     "city": "ilAdi",
+     "pill": [
+      620,
+      530
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yeryüzü şekilleri",
+     "fs": 14,
+     "city": "yerSekli",
+     "area": [
+      321,
+      595,
+      475,
+      80
+     ],
+     "pill": [
+      811,
+      582
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Akarsular, göller, barajlar ve yer altı suları",
+     "fs": 15,
+     "area": [
+      321,
+      744,
+      475,
+      80
+     ],
+     "pill": [
+      817,
+      731
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kara ve demir yolu bağlantısı, sınır kapıları, sınır komşuları (Yunanistan, Bulgaristan)",
+     "fs": 12,
+     "area": [
+      163,
+      1073,
+      275,
+      28
+     ],
+     "pill": [
+      401,
+      1111
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Doğal ve tarihî güzellikler (peribacaları, yer altı şehirleri, kiliseler)",
+     "fs": 12,
+     "area": [
+      515,
+      1073,
+      275,
+      28
+     ],
+     "pill": [
+      741,
+      1036
+     ]
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "img": "@IMG:s5-u2/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıda verilen haritalardan…",
+     "r": [
+      121,
+      83,
+      721,
+      566
+     ]
+    },
+    {
+     "t": "Harita Kars Fiziki İl Haritası",
+     "r": [
+      121,
+      621,
+      726,
+      543
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kars; Ardahan'ın güneyinde, Erzurum ve Ağrı'nın kuzeydoğusunda, Iğdır'ın kuzeybatısında yer alır. Doğusunda Ermenistan bulunur, Gürcistan'a yakındır.",
+     "fs": 14,
+     "area": [
+      625,
+      253,
+      191,
+      307
+     ],
+     "pill": [
+      755,
+      240
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kuzeydoğu Anadolu'da yüksek platolar üzerindedir. Allahuekber ve Kısır Dağları ile çevrilidir. Kars Çayı, Arpaçay ve Aras Nehri ilden geçer; Çıldır Gölü yakınındadır.",
+     "fs": 14,
+     "area": [
+      625,
+      742,
+      191,
+      307
+     ],
+     "pill": [
+      755,
+      729
+     ]
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "img": "@IMG:s5-u2/p-09@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Yaşadığım İlin Göreceli",
+     "r": [
+      38,
+      55,
+      879,
+      626
+     ]
+    },
+    {
+     "t": "Bilgi Kartı",
+     "r": [
+      84,
+      653,
+      745,
+      511
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      133,
+      1081,
+      68,
+      58
+     ],
+     "panel": "kartrubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    },
+    {
+     "area": [
+      583,
+      1080,
+      61,
+      60
+     ],
+     "panel": "illeribul",
+     "label": "\"Göreceli Konuma Göre İlleri Buluyorum\" etkinliği"
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "img": "@IMG:s5-u2/p-10@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Verilen yönergeye göre…",
+     "r": [
+      34,
+      55,
+      794,
+      433
+     ]
+    },
+    {
+     "t": "alaka kk inkeknin yere",
+     "r": [
+      122,
+      460,
+      707,
+      704
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Örnek: İlimizin doğal güzellikleri, tarihî mekânları, ulaşım yolları ve komşu illeri ile konumu tanıtılır.",
+     "fs": 16,
+     "city": "tanitim",
+     "area": [
+      151,
+      639,
+      613,
+      276
+     ],
+     "pill": [
+      689,
+      629
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      756,
+      954,
+      61,
+      59
+     ],
+     "panel": "gozlem",
+     "label": "Gözlem formu"
+    }
+   ]
+  }
+ ]
+};

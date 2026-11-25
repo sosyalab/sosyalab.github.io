@@ -1,0 +1,1169 @@
+// 5. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–47)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Kültürel zenginliklerin birlikte yaşamaya katkısı (s. 20–33)
+window.BOOK = {
+ "id": "s5-u1-k2",
+ "title": "Kültürel zenginliklerin birlikte yaşamaya katkısı",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u1-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 20,
+   "img": "@IMG:s5-u1/p-11@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ZENGİNLİKLERİN",
+     "r": [
+      38,
+      35,
+      879,
+      764
+     ]
+    },
+    {
+     "t": "TÜR) (kültür) kavramının…",
+     "r": [
+      122,
+      731,
+      706,
+      433
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "BAYRAM",
+     "fs": 18,
+     "center": true,
+     "area": [
+      231,
+      894,
+      207,
+      28
+     ],
+     "pill": [
+      151,
+      881
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "GELENEK",
+     "fs": 18,
+     "center": true,
+     "area": [
+      512,
+      894,
+      208,
+      28
+     ],
+     "pill": [
+      738,
+      881
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "SANAT",
+     "fs": 18,
+     "center": true,
+     "area": [
+      231,
+      1006,
+      207,
+      28
+     ],
+     "pill": [
+      403,
+      1083
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "HALK OYUNU",
+     "fs": 18,
+     "center": true,
+     "area": [
+      512,
+      1006,
+      207,
+      28
+     ],
+     "pill": [
+      738,
+      993
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dil, yemek, kıyafet, müzik, mimari, el sanatları, örf ve adetler",
+     "fs": 15,
+     "area": [
+      134,
+      1103,
+      682,
+      28
+     ],
+     "pill": [
+      780,
+      1090
+     ]
+    },
+    {
+     "area": [
+      560,
+      700,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Görsel 1.4'te sema gösterisi, zeybek halk oyunu ve Türk kahvesi yer almaktadır.",
+     "pill": [
+      624,
+      675
+     ],
+     "qx": 133,
+     "qt": 694,
+     "qb": 728,
+     "qr": 806,
+     "bal": [
+      34,
+      736,
+      887,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "img": "@IMG:s5-u1/p-12@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Çevremizde kendi kültürümüzden…",
+     "r": [
+      34,
+      55,
+      804,
+      466
+     ]
+    },
+    {
+     "t": "Türk kültürünü, örf ve adetlerini",
+     "r": [
+      102,
+      493,
+      746,
+      671
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Yaz tatilinde gittiğimiz otelde",
+     "fs": 15,
+     "area": [
+      500,
+      213,
+      318,
+      48
+     ],
+     "pill": [
+      834,
+      200
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Farklı dili ve geleneksel kıyafetleri",
+     "fs": 15,
+     "area": [
+      437,
+      288,
+      381,
+      48
+     ],
+     "pill": [
+      831,
+      275
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Merak ettim, onları tanımak istedim.",
+     "fs": 15,
+     "area": [
+      374,
+      364,
+      444,
+      48
+     ],
+     "pill": [
+      834,
+      351
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Farklı kültürlere saygı duyulmalı; farklılıklar zenginliktir.",
+     "fs": 15,
+     "area": [
+      312,
+      440,
+      506,
+      48
+     ],
+     "pill": [
+      832,
+      427
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Saklambaç, körebe, mendil kapmaca, istop",
+     "fs": 15,
+     "area": [
+      387,
+      965,
+      422,
+      28
+     ],
+     "pill": [
+      733,
+      952
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yakan top, seksek, beştaş, ip atlama",
+     "fs": 15,
+     "area": [
+      388,
+      1031,
+      421,
+      28
+     ],
+     "pill": [
+      734,
+      1018
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kültürler arasında etkileşim ve ortak noktalar olduğunu gösterir.",
+     "fs": 14,
+     "area": [
+      387,
+      1098,
+      422,
+      28
+     ],
+     "pill": [
+      739,
+      1085
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      758,
+      875,
+      60,
+      57
+     ],
+     "panel": "mangala",
+     "label": "Mangala oyunu"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "img": "@IMG:s5-u1/p-13@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Metin, görsel ve dijital…",
+     "r": [
+      38,
+      55,
+      790,
+      259
+     ]
+    },
+    {
+     "t": "TRT Uluslararası 23 Nisan Çocuk",
+     "r": [
+      38,
+      286,
+      811,
+      878
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      565,
+      452,
+      68,
+      61
+     ],
+     "panel": "nisan",
+     "label": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı videosu"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "img": "@IMG:s5-u1/p-14@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Merhaba, ben Ata.…",
+     "r": [
+      84,
+      84,
+      767,
+      644
+     ]
+    },
+    {
+     "t": "Merhaba, ben Atiye. Kuzey Kıbrıs",
+     "r": [
+      82,
+      700,
+      747,
+      464
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      756,
+      1030,
+      60,
+      59
+     ],
+     "panel": "ulkeler",
+     "label": "Ülkelerin kültürel özellikleri"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "img": "@IMG:s5-u1/p-15@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Kuzey Kıbrıs Türk Cumhuriyeti…",
+     "r": [
+      33,
+      70,
+      813,
+      528
+     ]
+    },
+    {
+     "t": "Kıbrıslı Türkler, uzun yıllar…",
+     "r": [
+      33,
+      570,
+      805,
+      594
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      380,
+      1120,
+      280,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türkiye ile KKTC aynı millettir; ortak tarih, dil, din ve kültüre sahiptir. \"Bir millet, iki devlet\" anlayışıyla birbirlerine destek olurlar. Önemli günlerin birlikte kutlanması kardeşliği, birlik ve beraberliği güçlendirir.",
+     "pill": [
+      552,
+      1116
+     ],
+     "qx": 106,
+     "qt": 1099,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      29,
+      986,
+      813,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "img": "@IMG:s5-u1/p-16@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Kıbrıs Türkleri Anadolu'dan…",
+     "r": [
+      122,
+      101,
+      795,
+      401
+     ]
+    },
+    {
+     "t": "Aydın, Muğla gibi Ege illerimizde",
+     "r": [
+      122,
+      474,
+      795,
+      690
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 26,
+   "img": "@IMG:s5-u1/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İncelediğiniz video, görseller…",
+     "r": [
+      111,
+      80,
+      728,
+      731
+     ]
+    },
+    {
+     "t": "Kültürel mirasımızı tanımak ve…",
+     "r": [
+      94,
+      783,
+      734,
+      386
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      145,
+      260,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Ebru, zeybek, cumbalı evler",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      377,
+      271
+     ]
+    },
+    {
+     "area": [
+      605,
+      260,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Kalayıcılık, keten lefkara nakışı",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      819,
+      247
+     ]
+    },
+    {
+     "area": [
+      145,
+      352,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Kayseri mantısı, kebap, baklava",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      371,
+      372
+     ]
+    },
+    {
+     "area": [
+      605,
+      352,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Türkmen pilavı, vinegret salatası, hellim",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      819,
+      339
+     ]
+    },
+    {
+     "area": [
+      145,
+      446,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Cepken, zeybek kıyafeti",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      59,
+      433
+     ]
+    },
+    {
+     "area": [
+      605,
+      446,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Telpek, sarafan, kokoşnik, kukeri",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      819,
+      433
+     ]
+    },
+    {
+     "area": [
+      145,
+      538,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "23 Nisan, ramazanda mahya",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      245,
+      534
+     ]
+    },
+    {
+     "area": [
+      605,
+      538,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Halı Bayramı, Maslenitsa, martenitsa",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      819,
+      525
+     ]
+    },
+    {
+     "area": [
+      145,
+      630,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Bağlama, zurna, davul",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      377,
+      641
+     ]
+    },
+    {
+     "area": [
+      605,
+      630,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Kaval, gadulka, balalayka, Türkmen sazı",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      813,
+      617
+     ]
+    },
+    {
+     "area": [
+      145,
+      722,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Kız tarafına başlık, misafire kahve ikramı",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      251,
+      715
+     ]
+    },
+    {
+     "area": [
+      605,
+      722,
+      200,
+      60
+     ],
+     "mode": "ink",
+     "text": "Damadın bahşiş vermesi, testi oyunu",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      819,
+      709
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Türk kahvesi, zeybek, ebru, hellim, cepken; dil, din ve tarih birliği.",
+     "fs": 14,
+     "area": [
+      130,
+      975,
+      299,
+      86
+     ],
+     "pill": [
+      392,
+      962
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarabulus kuşağı, yöresel ürünler; KKTC'nin ayrı bir devlet olması.",
+     "fs": 14,
+     "area": [
+      499,
+      975,
+      299,
+      86
+     ],
+     "pill": [
+      761,
+      962
+     ]
+    },
+    {
+     "area": [
+      600,
+      836,
+      210,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kültürel mirasımız bizi biz yapan değerlerdir. Gelecek nesillere aktarılmazsa unutulur ve millî kimliğimiz zayıflar. Aktarıldığında toplumsal birlik güçlenir, ortak bir hafıza oluşur.",
+     "pill": [
+      598,
+      835
+     ],
+     "qx": 458,
+     "qt": 816,
+     "qb": 897,
+     "qr": 816,
+     "bal": [
+      412,
+      905,
+      420,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1128,
+      210,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek sloganlar:\n\"Bir millet, iki devlet; tek yürek, ortak kültür!\"\n\"Kıbrıs Türk'tür, Türk kalacak!\"\n\"Kahvemiz ortak, zeybeğimiz ortak, kalbimiz bir!\"",
+     "pill": [
+      640,
+      1127
+     ],
+     "qx": 499,
+     "qt": 1128,
+     "qb": 1215,
+     "qr": 810,
+     "bal": [
+      272,
+      1015,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "img": "@IMG:s5-u1/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Haber kaynaklarını okuyunuz ve…",
+     "r": [
+      78,
+      0,
+      834,
+      814
+     ]
+    },
+    {
+     "t": "Türk ve Suriyeli aileler dostluk",
+     "r": [
+      78,
+      786,
+      834,
+      378
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 28,
+   "img": "@IMG:s5-u1/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "AN! GÜNDEM DÜNYA EKONOMİ SPOR",
+     "r": [
+      123,
+      45,
+      728,
+      311
+     ]
+    },
+    {
+     "t": "yılları arasında Almanya'dan…",
+     "r": [
+      38,
+      328,
+      878,
+      836
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Turizm (tatil, dalış eğitimi)",
+     "fs": 14,
+     "center": true,
+     "area": [
+      130,
+      890,
+      128,
+      106
+     ],
+     "pill": [
+      170,
+      880
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eğitim (tıp eğitimi için Rize'ye gelmek)",
+     "fs": 14,
+     "center": true,
+     "area": [
+      307,
+      986,
+      128,
+      106
+     ],
+     "pill": [
+      461,
+      994
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bayram ve ramazanda dostluk sofrası",
+     "fs": 14,
+     "center": true,
+     "area": [
+      453,
+      850,
+      128,
+      106
+     ],
+     "pill": [
+      493,
+      840
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çalışmak için Almanya'ya göç",
+     "fs": 14,
+     "center": true,
+     "area": [
+      574,
+      1037,
+      128,
+      106
+     ],
+     "pill": [
+      728,
+      1024
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yurt dışında eğitim almak",
+     "fs": 14,
+     "center": true,
+     "area": [
+      691,
+      847,
+      127,
+      106
+     ],
+     "pill": [
+      731,
+      837
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "img": "@IMG:s5-u1/p-20@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ülkemize yurt dışından eğitim veya",
+     "r": [
+      94,
+      56,
+      818,
+      1108
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      480,
+      706,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Okulu ve çevreyi tanıtırdım, Türkçe öğrenmesine yardım ederdim, teneffüslerde yalnız bırakmaz, oyunlarımıza katardım; kültürünü merak edip sorar, ona saygı gösterirdim.",
+     "pill": [
+      514,
+      705
+     ],
+     "qx": 134,
+     "qt": 639,
+     "qb": 772,
+     "qr": 816,
+     "bal": [
+      134,
+      780,
+      682,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Her milletin kendine ait dili, yemeği, giyimi ve gelenekleri vardır. Farklı kültürlere saygı duyduğumuzda ön yargılar ortadan kalkar, insanlar birbirini tanır ve anlar. Türk misafirperverliği de bu saygının en güzel örneğidir. Kültürel zenginlikleri paylaşmak dostluğu artırır, toplumda huzur ve barış içinde birlikte yaşamamızı sağlar.",
+     "fs": 16,
+     "area": [
+      155,
+      803,
+      611,
+      209
+     ],
+     "pill": [
+      825,
+      790
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      487,
+      339,
+      59,
+      57
+     ],
+     "panel": "yabanci",
+     "label": "Yabancıların gözünden Türkiye"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "img": "@IMG:s5-u1/p-21@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Kukla Oyunu",
+     "r": [
+      38,
+      55,
+      790,
+      657
+     ]
+    },
+    {
+     "t": "Ankara'da bulunan Avusturya…",
+     "r": [
+      101,
+      684,
+      748,
+      480
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "... yemeklerimizi, oyunlarımızı ve bayramlarımızı öğreniyor. Arkadaşları ona Türkçe öğretiyor, onu doğum gününe davet ediyor. Stefan da kendi ülkesinin geleneklerini anlatıyor; böylece hepsi birbirini daha iyi tanıyor.",
+     "fs": 14,
+     "area": [
+      135,
+      944,
+      680,
+      107
+     ],
+     "pill": [
+      847,
+      931
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "img": "@IMG:s5-u1/p-22@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "İstanbul doğumlu yetenekli bir…",
+     "r": [
+      34,
+      119,
+      815,
+      424
+     ]
+    },
+    {
+     "t": "Senaryoyu, gittiğiniz ülkedeki…",
+     "r": [
+      101,
+      515,
+      749,
+      649
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "... ve misafirperverliği İspanyol arkadaşlarına anlattığını, onlara Türk yemeklerini tattırdığını belirtti. İspanyolca öğrenerek takım arkadaşlarıyla kaynaştı, onların kültürüne de saygı gösterdi.",
+     "fs": 14,
+     "area": [
+      135,
+      388,
+      679,
+      134
+     ],
+     "pill": [
+      841,
+      375
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "... birbirimizin farklılıklarına saygı gösteriyoruz. Komşuları Kore yemeklerini tadıyor, Jae ailesi de Türk mutfağını öğreniyor. Farklılıklar onları ayırmıyor, aksine zenginleştiriyor.",
+     "fs": 14,
+     "area": [
+      135,
+      838,
+      679,
+      159
+     ],
+     "pill": [
+      847,
+      825
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "img": "@IMG:s5-u1/p-23@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki bulmacayı çözünüz.",
+     "r": [
+      38,
+      55,
+      794,
+      1114
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      480,
+      72,
+      180,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevaplar",
+     "text": "1. KÜLTÜR\n2. MANGALA\n3. CEPKEN\n4. EBRU\n5. HORON\n6. ATATÜRK\n7. ZEYBEK\n8. RAUF DENKTAŞ\n9. TURİZM\n10. BENZERLİK\n11. DÖNER",
+     "pill": [
+      526,
+      68
+     ],
+     "qx": 228,
+     "qt": 70,
+     "qb": 236,
+     "qr": 820,
+     "bal": [
+      228,
+      149,
+      592,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      132,
+      1091,
+      62,
+      59
+     ],
+     "panel": "bulmaca",
+     "label": "Bulmacanın cevap anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "img": "@IMG:s5-u1/p-24@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki metinleri okuyunuz ve…",
+     "r": [
+      90,
+      29,
+      827,
+      686
+     ]
+    },
+    {
+     "t": "Türk kültüründe bireylerin…",
+     "r": [
+      94,
+      687,
+      818,
+      477
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Aşurede farklı malzemeler bir kazanda birleşip güzel bir tat oluşturur. Farklı kültürler de bir arada saygıyla yaşadığında toplum zenginleşir.",
+     "fs": 15,
+     "area": [
+      135,
+      559,
+      453,
+      115
+     ],
+     "pill": [
+      607,
+      546
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İnsanlar arasında saygı ve sevgiyi artırır, dostluk kurulmasını sağlar. Farklı selamlaşma biçimlerini bilmek ön yargıları azaltır.",
+     "fs": 15,
+     "area": [
+      136,
+      997,
+      453,
+      115
+     ],
+     "pill": [
+      608,
+      984
+     ]
+    }
+   ]
+  }
+ ]
+};

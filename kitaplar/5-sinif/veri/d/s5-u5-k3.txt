@@ -1,0 +1,1562 @@
+// 5. Sınıf Sosyal Bilgiler · 5. Öğrenme Alanı: Hayatımızdaki Ekonomi (s. 66–117)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: İlimizdeki ekonomik faaliyetler (s. 100–117)
+window.BOOK = {
+ "id": "s5-u5-k3",
+ "title": "İlimizdeki ekonomik faaliyetler",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u5-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 100,
+   "img": "@IMG:s5-u5/p-35@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "İLİMİZDEKİ EKONOMİK",
+     "r": [
+      38,
+      55,
+      806,
+      422
+     ]
+    },
+    {
+     "t": "Kaynakta geçen ekonomik zaferle…",
+     "r": [
+      89,
+      350,
+      739,
+      814
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Toprak",
+     "fs": 13,
+     "center": true,
+     "area": [
+      179,
+      629,
+      153,
+      28
+     ],
+     "pill": [
+      309,
+      664
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Petrol",
+     "fs": 13,
+     "center": true,
+     "area": [
+      392,
+      629,
+      153,
+      28
+     ],
+     "pill": [
+      522,
+      664
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Rüzgâr",
+     "fs": 13,
+     "center": true,
+     "area": [
+      606,
+      629,
+      153,
+      28
+     ],
+     "pill": [
+      784,
+      616
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Güneş",
+     "fs": 13,
+     "center": true,
+     "area": [
+      179,
+      843,
+      153,
+      28
+     ],
+     "pill": [
+      309,
+      878
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Deniz (su)",
+     "fs": 13,
+     "center": true,
+     "area": [
+      392,
+      843,
+      153,
+      28
+     ],
+     "pill": [
+      474,
+      734
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Toprak (kil)",
+     "fs": 13,
+     "center": true,
+     "area": [
+      606,
+      843,
+      153,
+      28
+     ],
+     "pill": [
+      784,
+      830
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Orman",
+     "fs": 13,
+     "center": true,
+     "area": [
+      179,
+      1063,
+      153,
+      28
+     ],
+     "pill": [
+      297,
+      1131
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hayvanlar",
+     "fs": 13,
+     "center": true,
+     "area": [
+      392,
+      1063,
+      153,
+      28
+     ],
+     "pill": [
+      606,
+      1098
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Maden (kömür)",
+     "fs": 13,
+     "center": true,
+     "area": [
+      606,
+      1063,
+      153,
+      28
+     ],
+     "pill": [
+      784,
+      1050
+     ]
+    },
+    {
+     "area": [
+      600,
+      330,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Askerî zaferlerin kalıcı olması için ekonominin de güçlü olması gerekir; bağımsızlık ancak ekonomik bağımsızlıkla tamamlanır.",
+     "pill": [
+      646,
+      344
+     ],
+     "qx": 600,
+     "qt": 259,
+     "qb": 356,
+     "qr": 832,
+     "bal": [
+      288,
+      364,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "img": "@IMG:s5-u5/p-36@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Verilen yönergeye göre…",
+     "r": [
+      34,
+      55,
+      794,
+      225
+     ]
+    },
+    {
+     "t": "Tartışmayı öğretmeninizin…",
+     "r": [
+      34,
+      252,
+      878,
+      708
+     ]
+    },
+    {
+     "t": "Bölüm 3",
+     "r": [
+      34,
+      932,
+      878,
+      232
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      380,
+      720,
+      190,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek: İlimizin ekonomik faaliyetleri ilin yeryüzü şekilleri ve kaynaklarına göre şekillenir.",
+     "city": "ekonomi",
+     "pill": [
+      414,
+      776
+     ],
+     "qx": 382,
+     "qt": 637,
+     "qb": 844,
+     "qr": 900,
+     "bal": [
+      382,
+      795,
+      518,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 102,
+   "img": "@IMG:s5-u5/p-37@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsanların temel ihtiyaçlarını…",
+     "r": [
+      38,
+      55,
+      821,
+      498
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      83,
+      525,
+      786,
+      639
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Tarım ve hayvancılık (kahvaltılık ürünler), sanayi (mutfak eşyaları), ticaret.",
+     "fs": 14,
+     "area": [
+      365,
+      315,
+      432,
+      181
+     ],
+     "pill": [
+      825,
+      302
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ulaşım (servis), eğitim (hizmet), sanayi (otomotiv).",
+     "fs": 14,
+     "area": [
+      128,
+      584,
+      473,
+      181
+     ],
+     "pill": [
+      522,
+      571
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ticaret, tarım, sanayi, hizmet (market çalışanları).",
+     "fs": 14,
+     "area": [
+      365,
+      853,
+      432,
+      181
+     ],
+     "pill": [
+      825,
+      840
+     ]
+    }
+   ]
+  },
+  {
+   "n": 103,
+   "img": "@IMG:s5-u5/p-38@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsanın yaşamını sürdürebilmesi…",
+     "r": [
+      122,
+      19,
+      790,
+      489
+     ]
+    },
+    {
+     "t": "Hayvancılık; ürünleri ve…",
+     "r": [
+      122,
+      480,
+      790,
+      684
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 104,
+   "img": "@IMG:s5-u5/p-39@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sanayi; ham maddeye makinelerle…",
+     "r": [
+      38,
+      67,
+      878,
+      434
+     ]
+    },
+    {
+     "t": "Turizm; dinlenme, eğlenme,…",
+     "r": [
+      38,
+      473,
+      878,
+      691
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 105,
+   "img": "@IMG:s5-u5/p-40@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ekonomik faaliyetler beş alana…",
+     "r": [
+      34,
+      83,
+      878,
+      466
+     ]
+    },
+    {
+     "t": "Ekonomik Faaliyetler",
+     "r": [
+      34,
+      521,
+      878,
+      643
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 106,
+   "img": "@IMG:s5-u5/p-41@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Yer şekilleri, iklim, bitki örtüsü",
+     "r": [
+      103,
+      83,
+      770,
+      798
+     ]
+    },
+    {
+     "t": "Muğla gibi yaz mevsiminin",
+     "r": [
+      121,
+      853,
+      679,
+      318
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      135,
+      1093,
+      60,
+      59
+     ],
+     "panel": "koruma",
+     "label": "Ekonomik faaliyetleri koruma bilinci"
+    }
+   ]
+  },
+  {
+   "n": 107,
+   "img": "@IMG:s5-u5/p-42@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Rize gibi ormanlık alanların",
+     "r": [
+      78,
+      72,
+      757,
+      493
+     ]
+    },
+    {
+     "t": "Kar yağışının bol olduğu",
+     "r": [
+      78,
+      537,
+      772,
+      627
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 108,
+   "img": "@IMG:s5-u5/p-43@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Yaşadığım İldeki Ekonomik",
+     "r": [
+      38,
+      56,
+      878,
+      684
+     ]
+    },
+    {
+     "t": "Faaliyetler",
+     "r": [
+      33,
+      712,
+      883,
+      452
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Tarım, hayvancılık, ormancılık",
+     "fs": 14,
+     "city": "ekonomi",
+     "area": [
+      133,
+      620,
+      370,
+      87
+     ],
+     "pill": [
+      467,
+      580
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Fabrikalar, inşaat, enerji üretimi",
+     "fs": 14,
+     "area": [
+      457,
+      977,
+      370,
+      86
+     ],
+     "pill": [
+      791,
+      934
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      574,
+      571,
+      55,
+      57
+     ],
+     "panel": "kontrol108",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "img": "@IMG:s5-u5/p-44@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Faaliyetler",
+     "r": [
+      332,
+      0,
+      585,
+      343
+     ]
+    },
+    {
+     "t": "Dördüncül",
+     "r": [
+      34,
+      315,
+      878,
+      849
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Okullar, hastaneler, ticaret, turizm, ulaşım",
+     "fs": 14,
+     "area": [
+      143,
+      694,
+      370,
+      87
+     ],
+     "pill": [
+      555,
+      603
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yazılım, AR-GE, reklam ve tasarım",
+     "fs": 14,
+     "area": [
+      316,
+      858,
+      370,
+      86
+     ],
+     "pill": [
+      638,
+      809
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Valilik, belediye, şirket yönetimleri",
+     "fs": 14,
+     "area": [
+      436,
+      1021,
+      371,
+      86
+     ],
+     "pill": [
+      824,
+      1008
+     ]
+    }
+   ]
+  },
+  {
+   "n": 110,
+   "img": "@IMG:s5-u5/p-45@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki tabloda verilen…",
+     "r": [
+      38,
+      56,
+      879,
+      452
+     ]
+    },
+    {
+     "t": "Belediye Başkanı",
+     "r": [
+      100,
+      480,
+      817,
+      684
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      544,
+      434,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      542,
+      400
+     ]
+    },
+    {
+     "area": [
+      766,
+      520,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      764,
+      489
+     ]
+    },
+    {
+     "area": [
+      544,
+      606,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      542,
+      578
+     ]
+    },
+    {
+     "area": [
+      432,
+      694,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      430,
+      666
+     ]
+    },
+    {
+     "area": [
+      654,
+      780,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      652,
+      752
+     ]
+    },
+    {
+     "area": [
+      544,
+      868,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      542,
+      840
+     ]
+    },
+    {
+     "area": [
+      320,
+      954,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      318,
+      929
+     ]
+    },
+    {
+     "area": [
+      654,
+      1044,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      652,
+      1016
+     ]
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "img": "@IMG:s5-u5/p-46@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda Mehmet'in yaşadığı…",
+     "r": [
+      97,
+      80,
+      815,
+      357
+     ]
+    },
+    {
+     "t": "Ekonomik Faaliyet Alanları…",
+     "r": [
+      34,
+      409,
+      883,
+      755
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Hayvancılık, yayla turizmi",
+     "fs": 14,
+     "area": [
+      197,
+      261,
+      406,
+      82
+     ],
+     "pill": [
+      555,
+      221
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Güneş enerjisi santrali, tahıl tarımı",
+     "fs": 14,
+     "area": [
+      349,
+      505,
+      406,
+      80
+     ],
+     "pill": [
+      773,
+      492
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ulaşım, ticaret, lojistik",
+     "fs": 14,
+     "area": [
+      197,
+      690,
+      406,
+      80
+     ],
+     "pill": [
+      561,
+      650
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Deniz turizmi, otelcilik",
+     "fs": 14,
+     "area": [
+      349,
+      933,
+      406,
+      80
+     ],
+     "pill": [
+      767,
+      920
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      797,
+      194,
+      49,
+      53
+     ],
+     "panel": "faaliyet",
+     "label": "\"Ekonomik Faaliyet Alanları\" etkinliği"
+    }
+   ]
+  },
+  {
+   "n": 112,
+   "img": "@IMG:s5-u5/p-47@",
+   "section": "Değerler",
+   "steps": [
+    {
+     "t": "5. ÖĞRENME ALANI - DEĞERLER",
+     "r": [
+      38,
+      63,
+      790,
+      790
+     ]
+    },
+    {
+     "t": "Suyu korumak, vatanı korumak…",
+     "r": [
+      153,
+      825,
+      675,
+      339
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "1 (Tasarruf), 3 (Sorumluluk)",
+     "fs": 15,
+     "area": [
+      191,
+      804,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      791
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "4 (Vatanseverlik), 1 (Tasarruf)",
+     "fs": 15,
+     "area": [
+      191,
+      892,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      879
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "2 (Duyarlılık), 3 (Sorumluluk)",
+     "fs": 15,
+     "area": [
+      191,
+      1062,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      1049
+     ]
+    }
+   ]
+  },
+  {
+   "n": 113,
+   "img": "@IMG:s5-u5/p-48@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "5. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      34,
+      63,
+      820,
+      659
+     ]
+    },
+    {
+     "t": "Birincil Ekonomik Faaliyetlerdir.",
+     "r": [
+      98,
+      694,
+      745,
+      470
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Barınma, giyinme",
+     "fs": 12,
+     "area": [
+      143,
+      382,
+      196,
+      90
+     ],
+     "pill": [
+      381,
+      369
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Oyuncak, yeni telefon, sinema",
+     "fs": 12,
+     "area": [
+      143,
+      530,
+      196,
+      90
+     ],
+     "pill": [
+      381,
+      517
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Rüzgâr",
+     "fs": 12,
+     "area": [
+      600,
+      379,
+      195,
+      28
+     ],
+     "pill": [
+      838,
+      366
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Su, toprak, orman",
+     "fs": 12,
+     "area": [
+      600,
+      416,
+      195,
+      57
+     ],
+     "pill": [
+      838,
+      403
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Petrol, kömür, doğal gaz",
+     "fs": 12,
+     "area": [
+      600,
+      530,
+      195,
+      90
+     ],
+     "pill": [
+      838,
+      517
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hayvancılık, ormancılık",
+     "fs": 12,
+     "area": [
+      143,
+      752,
+      196,
+      90
+     ],
+     "pill": [
+      381,
+      739
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sanayi, inşaat, enerji",
+     "fs": 12,
+     "area": [
+      600,
+      752,
+      196,
+      90
+     ],
+     "pill": [
+      838,
+      739
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eğitim, sağlık, ticaret, turizm",
+     "fs": 12,
+     "area": [
+      143,
+      896,
+      196,
+      90
+     ],
+     "pill": [
+      381,
+      883
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "AR-GE, yazılım",
+     "fs": 12,
+     "area": [
+      600,
+      896,
+      196,
+      90
+     ],
+     "pill": [
+      838,
+      883
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yönetim ve karar verme",
+     "fs": 12,
+     "area": [
+      377,
+      1038,
+      195,
+      90
+     ],
+     "pill": [
+      615,
+      1025
+     ]
+    }
+   ]
+  },
+  {
+   "n": 114,
+   "img": "@IMG:s5-u5/p-49@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "1. Doğal kaynakların verimli…",
+     "r": [
+      108,
+      83,
+      731,
+      396
+     ]
+    },
+    {
+     "t": "Yaşadığım il farklı coğrafi…",
+     "r": [
+      123,
+      451,
+      706,
+      391
+     ]
+    },
+    {
+     "t": "3. Builde hangi ekonomik alanla",
+     "r": [
+      122,
+      814,
+      664,
+      350
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      494,
+      162,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "d",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      414,
+      185
+     ]
+    },
+    {
+     "area": [
+      494,
+      218,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "b",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      540,
+      217
+     ]
+    },
+    {
+     "area": [
+      494,
+      276,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "c",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      408,
+      293
+     ]
+    },
+    {
+     "area": [
+      494,
+      332,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "ç",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      408,
+      352
+     ]
+    },
+    {
+     "area": [
+      494,
+      390,
+      32,
+      32
+     ],
+     "mode": "ink",
+     "text": "a",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      492,
+      434
+     ]
+    },
+    {
+     "area": [
+      500,
+      690,
+      200,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Madencilik",
+     "pill": [
+      564,
+      701
+     ],
+     "qx": 134,
+     "qt": 682,
+     "qb": 808,
+     "qr": 784,
+     "bal": [
+      134,
+      773,
+      650,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      500,
+      855,
+      200,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Dördüncül ekonomik faaliyet",
+     "pill": [
+      564,
+      872
+     ],
+     "qx": 134,
+     "qt": 848,
+     "qb": 972,
+     "qr": 775,
+     "bal": [
+      118,
+      938,
+      672,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 115,
+   "img": "@IMG:s5-u5/p-50@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "4. Aşağıda arıcılık ve arı",
+     "r": [
+      93,
+      83,
+      768,
+      318
+     ]
+    },
+    {
+     "t": "Merhaba, ben Sinem. İzmir'de…",
+     "r": [
+      93,
+      373,
+      768,
+      791
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "a. Birincil ekonomik faaliyet",
+     "fs": 15,
+     "area": [
+      273,
+      326,
+      334,
+      28
+     ],
+     "pill": [
+      571,
+      364
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "b. Üçüncül ekonomik faaliyet",
+     "fs": 15,
+     "area": [
+      336,
+      504,
+      335,
+      28
+     ],
+     "pill": [
+      622,
+      542
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "c. Dördüncül ekonomik faaliyet",
+     "fs": 15,
+     "area": [
+      273,
+      709,
+      334,
+      28
+     ],
+     "pill": [
+      625,
+      687
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "ç. İkincil ekonomik faaliyet",
+     "fs": 15,
+     "area": [
+      336,
+      895,
+      334,
+      28
+     ],
+     "pill": [
+      628,
+      933
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "d. Beşincil ekonomik faaliyet",
+     "fs": 15,
+     "area": [
+      273,
+      1088,
+      334,
+      28
+     ],
+     "pill": [
+      571,
+      1126
+     ]
+    }
+   ]
+  },
+  {
+   "n": 116,
+   "img": "@IMG:s5-u5/p-51@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "5. Aşağıdaki tabloda Begüm'ün anne",
+     "r": [
+      109,
+      84,
+      732,
+      1080
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 117,
+   "img": "@IMG:s5-u5/p-52@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "Gelir - Gider Gider Miktarı",
+     "r": [
+      88,
+      50,
+      751,
+      835
+     ]
+    },
+    {
+     "t": "Daha fazla örnek sorı",
+     "r": [
+      118,
+      785,
+      714,
+      379
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      100,
+      690,
+      260,
+      24
+     ],
+     "mode": "card",
+     "label": "Bütçe",
+     "text": "Gelirler: 39.750 + 43.000 + 1.000 + 9.800 = 93.550 TL\nGiderler: 71.430 TL\nTatile ayrılabilecek: 22.120 TL\n\nÖrnek plan (3 kişi): Gidiş uçak 2.250, dönüş otobüs 1.500; Kütük Orman Evleri 3 gece 6.000; yemek günde 2 öğün 6.300; Zilkale 600, Huser 1.500, Çeçeva 1.050, Ayder 2.250.\nToplam: 21.450 TL (bütçe içinde).",
+     "pill": [
+      182,
+      695
+     ],
+     "qx": 100,
+     "qt": 657,
+     "qb": 714,
+     "qr": 816,
+     "bal": [
+      84,
+      722,
+      759,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Uçakla Rize'ye varış, Kütük Orman Evleri'ne yerleşme, Zilkale gezisi",
+     "fs": 14,
+     "area": [
+      215,
+      727,
+      594,
+      56
+     ],
+     "pill": [
+      741,
+      714
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Huser Yaylası gezisi ve Çeçeva Saklı Bahçe",
+     "fs": 14,
+     "area": [
+      215,
+      818,
+      594,
+      56
+     ],
+     "pill": [
+      735,
+      808
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ayder Yaylası gezisi",
+     "fs": 14,
+     "area": [
+      215,
+      908,
+      594,
+      56
+     ],
+     "pill": [
+      825,
+      895
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "otobüsle",
+     "fs": 13,
+     "area": [
+      416,
+      995,
+      393,
+      28
+     ],
+     "pill": [
+      822,
+      982
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      296,
+      1073,
+      55,
+      60
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      755,
+      1072,
+      61,
+      62
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

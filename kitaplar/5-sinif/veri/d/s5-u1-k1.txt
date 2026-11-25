@@ -1,0 +1,983 @@
+// 5. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–47)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Gruplar ve rollerimiz (s. 12–19)
+window.BOOK = {
+ "id": "s5-u1-k1",
+ "title": "Gruplar ve rollerimiz",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u1-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 10,
+   "img": "@IMG:s5-u1/p-01@",
+   "section": "1. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      84,
+      883,
+      457
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      513,
+      884,
+      651
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      318,
+      1069,
+      60,
+      60
+     ],
+     "panel": "alan",
+     "label": "1. Öğrenme alanı"
+    },
+    {
+     "area": [
+      576,
+      997,
+      66,
+      62
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "img": "@IMG:s5-u1/p-02@",
+   "section": "Birlikte Yaşamak",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      796,
+      398
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      460,
+      879,
+      704
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 12,
+   "img": "@IMG:s5-u1/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "GRUPLAR VE ROLLERİMİZ",
+     "r": [
+      38,
+      55,
+      790,
+      845
+     ]
+    },
+    {
+     "t": "Yukarıda yöneltilen sorulara…",
+     "r": [
+      38,
+      872,
+      804,
+      292
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      520,
+      778,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Taylan ailesi, okul servisi şoförü ve arkadaşları, öğretmeni ve sınıf arkadaşları, futbol oynadığı arkadaşlarıyla iletişim içindedir.\nGruplar: aile, servis, okul/sınıf, arkadaş (spor) grubu. Ortak amaçlar: aile içinde birlikte yaşamak, okulda öğrenmek, arkadaşlarla oyun oynayıp eğlenmek.",
+     "pill": [
+      584,
+      774
+     ],
+     "qx": 137,
+     "qt": 778,
+     "qb": 870,
+     "qr": 770,
+     "bal": [
+      137,
+      615,
+      633,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      958,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Biz de gün içinde ailemizle, okulumuzda ve arkadaşlarımızla farklı gruplarda yer alırız.\nGrup: Ortak amaç ve değerler etrafında bir araya gelen insan topluluğudur.\nRol: Bir grupta üstlendiğimiz görev ve konumdur (çocuk, öğrenci, kaptan gibi).",
+     "pill": [
+      658,
+      957
+     ],
+     "qx": 175,
+     "qt": 902,
+     "qb": 980,
+     "qr": 820,
+     "bal": [
+      175,
+      988,
+      645,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      640,
+      1050,
+      190,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek: Ailemde çocuk ve kardeş, sınıfımda öğrenci ve nöbetçi, okul korosunda üye, mahalle futbol takımında oyuncu rolüm vardı.",
+     "pill": [
+      674,
+      1016
+     ],
+     "qx": 135,
+     "qt": 992,
+     "qb": 1212,
+     "qr": 830,
+     "bal": [
+      135,
+      1125,
+      695,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "img": "@IMG:s5-u1/p-04@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Verilen yönergeye göre…",
+     "r": [
+      34,
+      55,
+      794,
+      307
+     ]
+    },
+    {
+     "t": "Dâhil Olduğunuz",
+     "r": [
+      154,
+      334,
+      685,
+      380
+     ]
+    },
+    {
+     "t": "Ortaokul öğrencisi olarak dâhil…",
+     "r": [
+      94,
+      686,
+      745,
+      478
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Aile, akraba, mahalle",
+     "fs": 15,
+     "area": [
+      307,
+      417,
+      230,
+      56
+     ],
+     "pill": [
+      503,
+      323
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çocuk, kardeş, torun, komşu",
+     "fs": 15,
+     "area": [
+      565,
+      417,
+      230,
+      56
+     ],
+     "pill": [
+      809,
+      404
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okul korosu, spor takımı",
+     "fs": 15,
+     "area": [
+      307,
+      514,
+      230,
+      56
+     ],
+     "pill": [
+      227,
+      501
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Öğrenci, üye, oyuncu",
+     "fs": 15,
+     "area": [
+      566,
+      514,
+      229,
+      56
+     ],
+     "pill": [
+      810,
+      501
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sınıf, çalışma grubu",
+     "fs": 15,
+     "area": [
+      307,
+      612,
+      230,
+      55
+     ],
+     "pill": [
+      503,
+      701
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sınıf başkanı, nöbetçi, grup üyesi",
+     "fs": 15,
+     "area": [
+      566,
+      612,
+      229,
+      55
+     ],
+     "pill": [
+      822,
+      599
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eğitim alma, oyun oynama, korunma hakkı",
+     "fs": 14,
+     "area": [
+      150,
+      897,
+      281,
+      55
+     ],
+     "pill": [
+      436,
+      851
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okul meclisinde seçme ve seçilme hakkı",
+     "fs": 14,
+     "area": [
+      519,
+      897,
+      281,
+      55
+     ],
+     "pill": [
+      727,
+      887
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kurallara uymak, derslere hazırlıklı gelmek",
+     "fs": 14,
+     "area": [
+      150,
+      1050,
+      281,
+      56
+     ],
+     "pill": [
+      436,
+      1007
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Nöbetçi olarak sınıfın düzenini sağlamak",
+     "fs": 14,
+     "area": [
+      519,
+      1050,
+      280,
+      56
+     ],
+     "pill": [
+      835,
+      1037
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "img": "@IMG:s5-u1/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Toplum içinde ortak hedef ve",
+     "r": [
+      38,
+      0,
+      878,
+      783
+     ]
+    },
+    {
+     "t": "Rollerin getirdiği hak",
+     "r": [
+      38,
+      755,
+      878,
+      409
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Çocuk, kardeş, torun",
+     "fs": 16,
+     "center": true,
+     "area": [
+      194,
+      1009,
+      202,
+      111
+     ],
+     "pill": [
+      336,
+      996
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sevgi, bakım, eğitim, korunma",
+     "fs": 13,
+     "area": [
+      594,
+      974,
+      238,
+      57
+     ],
+     "pill": [
+      700,
+      904
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ev işlerine yardım etmek, büyüklere saygı göstermek",
+     "fs": 13,
+     "area": [
+      604,
+      1032,
+      227,
+      86
+     ],
+     "pill": [
+      812,
+      1127
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "img": "@IMG:s5-u1/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Arkadaşlık",
+     "r": [
+      34,
+      0,
+      878,
+      646
+     ]
+    },
+    {
+     "t": "Hayatımızdaki",
+     "r": [
+      34,
+      618,
+      878,
+      546
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Arkadaş, takım oyuncusu, oyun lideri",
+     "fs": 14,
+     "center": true,
+     "area": [
+      594,
+      171,
+      206,
+      82
+     ],
+     "pill": [
+      826,
+      80
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Oyun oynama, fikrini söyleme",
+     "fs": 13,
+     "area": [
+      595,
+      458,
+      238,
+      57
+     ],
+     "pill": [
+      701,
+      388
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Oyun kurallarına uymak, arkadaşlarına saygı",
+     "fs": 13,
+     "area": [
+      605,
+      516,
+      227,
+      86
+     ],
+     "pill": [
+      825,
+      602
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Torun, yeğen, kuzen",
+     "fs": 16,
+     "center": true,
+     "area": [
+      205,
+      1042,
+      210,
+      82
+     ],
+     "pill": [
+      437,
+      1020
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sevgi, ilgi, destek görme",
+     "fs": 13,
+     "area": [
+      602,
+      814,
+      239,
+      57
+     ],
+     "pill": [
+      822,
+      738
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Büyükleri ziyaret etmek, saygılı olmak",
+     "fs": 13,
+     "area": [
+      612,
+      872,
+      227,
+      86
+     ],
+     "pill": [
+      826,
+      961
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "img": "@IMG:s5-u1/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Okul grubunda",
+     "r": [
+      38,
+      0,
+      879,
+      657
+     ]
+    },
+    {
+     "t": "Yaşam koşullarının",
+     "r": [
+      38,
+      629,
+      878,
+      535
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Öğrenci, sınıf başkanı, kulüp üyesi, nöbetçi",
+     "fs": 14,
+     "center": true,
+     "area": [
+      579,
+      157,
+      205,
+      111
+     ],
+     "pill": [
+      721,
+      144
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eğitim alma, kulüplere katılma",
+     "fs": 13,
+     "area": [
+      588,
+      463,
+      238,
+      56
+     ],
+     "pill": [
+      826,
+      408
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okul kurallarına uymak, ödevlerini yapmak",
+     "fs": 13,
+     "area": [
+      598,
+      520,
+      227,
+      86
+     ],
+     "pill": [
+      824,
+      600
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gönüllü, üye",
+     "fs": 16,
+     "center": true,
+     "area": [
+      191,
+      1047,
+      209,
+      82
+     ],
+     "pill": [
+      423,
+      1022
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Gönüllü katılma, fikir bildirme",
+     "fs": 13,
+     "area": [
+      588,
+      814,
+      238,
+      58
+     ],
+     "pill": [
+      826,
+      759
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Görevini zamanında yapmak, çevreyi korumak",
+     "fs": 13,
+     "area": [
+      598,
+      873,
+      228,
+      86
+     ],
+     "pill": [
+      812,
+      962
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "img": "@IMG:s5-u1/p-08@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı o: Rol Kartları",
+     "r": [
+      33,
+      55,
+      726,
+      243
+     ]
+    },
+    {
+     "t": "Oluşturduğunuz gruplara aşağıda…",
+     "r": [
+      125,
+      270,
+      704,
+      908
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      757,
+      1099,
+      60,
+      60
+     ],
+     "panel": "rolkartlari",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "img": "@IMG:s5-u1/p-09@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda verilen rollerin…",
+     "r": [
+      38,
+      55,
+      790,
+      767
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      108,
+      794,
+      733,
+      370
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "1, 9, 10",
+     "fs": 20,
+     "center": true,
+     "area": [
+      130,
+      1020,
+      141,
+      86
+     ],
+     "pill": [
+      188,
+      1010
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "4, 7",
+     "fs": 20,
+     "center": true,
+     "area": [
+      314,
+      1020,
+      141,
+      86
+     ],
+     "pill": [
+      372,
+      1010
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "3, 5, 12",
+     "fs": 20,
+     "center": true,
+     "area": [
+      495,
+      1020,
+      141,
+      86
+     ],
+     "pill": [
+      553,
+      1010
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "2, 6, 8, 11",
+     "fs": 19,
+     "center": true,
+     "area": [
+      676,
+      1023,
+      141,
+      86
+     ],
+     "pill": [
+      740,
+      1013
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "img": "@IMG:s5-u1/p-10@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda rollerimiz ile…",
+     "r": [
+      120,
+      83,
+      730,
+      612
+     ]
+    },
+    {
+     "t": "Aile içinde sahip olduğumuz rol",
+     "r": [
+      125,
+      667,
+      700,
+      239
+     ]
+    },
+    {
+     "t": "Etkinlik sonucunda…",
+     "r": [
+      120,
+      878,
+      708,
+      286
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "11 (çocuk) → 2, 7, 8",
+     "fs": 15,
+     "area": [
+      162,
+      741,
+      650,
+      28
+     ],
+     "pill": [
+      790,
+      728
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "9 (öğrenci) → 1, 4, 5, 10, 12",
+     "fs": 15,
+     "area": [
+      162,
+      798,
+      650,
+      28
+     ],
+     "pill": [
+      778,
+      785
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "6 (oyun arkadaşı) → 3, 4, 10",
+     "fs": 15,
+     "area": [
+      162,
+      855,
+      650,
+      28
+     ],
+     "pill": [
+      814,
+      842
+     ]
+    },
+    {
+     "area": [
+      132,
+      932,
+      28,
+      28
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      58,
+      919
+     ]
+    },
+    {
+     "area": [
+      132,
+      970,
+      28,
+      28
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      58,
+      957
+     ]
+    },
+    {
+     "area": [
+      132,
+      1008,
+      28,
+      28
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      58,
+      995
+     ]
+    },
+    {
+     "area": [
+      132,
+      1046,
+      28,
+      28
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      58,
+      1033
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      750,
+      1070,
+      66,
+      60
+     ],
+     "panel": "gruplar",
+     "label": "\"Gruplar ve Roller\" etkinliği"
+    }
+   ]
+  }
+ ]
+};

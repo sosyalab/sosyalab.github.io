@@ -1,0 +1,822 @@
+// 5. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–65)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Etkin vatandaşın özellikleri (s. 24–33)
+window.BOOK = {
+ "id": "s5-u4-k2",
+ "title": "Etkin vatandaşın özellikleri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u4-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 24,
+   "img": "@IMG:s5-u4/p-15@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ETKİN VATANDAŞIN",
+     "r": [
+      38,
+      55,
+      812,
+      680
+     ]
+    },
+    {
+     "t": "Kerem ve Çağan bisiklet kullanmayı",
+     "r": [
+      89,
+      644,
+      761,
+      310
+     ]
+    },
+    {
+     "t": "Dp) Vatandaş, bir devletin…",
+     "r": [
+      89,
+      926,
+      739,
+      238
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      560,
+      574,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Lütfi Bey'e yaptırırdım; çünkü işini planlı, hesaplı ve özenle yapmaktadır. Etkin zanaatkâr işini en iyi şekilde yapan, sorumluluk sahibi kişidir.",
+     "pill": [
+      588,
+      573
+     ],
+     "qx": 135,
+     "qt": 556,
+     "qb": 734,
+     "qr": 838,
+     "bal": [
+      34,
+      647,
+      820,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      220,
+      910,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kerem; kask takarak ve kurallara uyarak hem kendi güvenliğini hem başkalarının haklarını korumaktadır.",
+     "pill": [
+      254,
+      912
+     ],
+     "qx": 101,
+     "qt": 888,
+     "qb": 930,
+     "qr": 786,
+     "bal": [
+      101,
+      800,
+      685,
+      "above",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hak ve sorumluluklarını bilen, kurallara uyan, sorunların çözümüne katkı sağlayan, topluma duyarlı kişidir. Örnek: Kızılay gönüllüleri, çevre için fidan diken öğrenciler.",
+     "fs": 14,
+     "area": [
+      134,
+      1028,
+      682,
+      92
+     ],
+     "pill": [
+      780,
+      1015
+     ]
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "img": "@IMG:s5-u4/p-16@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Verilen yönergeye göre…",
+     "r": [
+      34,
+      55,
+      794,
+      216
+     ]
+    },
+    {
+     "t": "Tablolara yazdığınız…",
+     "r": [
+      34,
+      243,
+      794,
+      341
+     ]
+    },
+    {
+     "t": "Melike, mahallesindeki",
+     "r": [
+      90,
+      556,
+      739,
+      608
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Ödevlerimizi aksatmadan yaparız, kantin çalışanlarına bildiririz.",
+     "fs": 13,
+     "area": [
+      473,
+      359,
+      319,
+      140
+     ],
+     "pill": [
+      759,
+      346
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okul idaresine veya öğretmene haber veririz.",
+     "fs": 13,
+     "area": [
+      498,
+      501,
+      260,
+      28
+     ],
+     "pill": [
+      796,
+      488
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Faturasıyla mağazaya başvurur, ürünü değiştirmesini isteriz.",
+     "fs": 13,
+     "area": [
+      473,
+      614,
+      319,
+      138
+     ],
+     "pill": [
+      759,
+      601
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çözülmezse Tüketici Hakem Heyetine başvururuz.",
+     "fs": 13,
+     "area": [
+      496,
+      754,
+      260,
+      28
+     ],
+     "pill": [
+      764,
+      753
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Durumu muhtarlığa veya belediyeye bildiririz.",
+     "fs": 13,
+     "area": [
+      473,
+      866,
+      319,
+      136
+     ],
+     "pill": [
+      735,
+      853
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarihî eserleri korumak için çevremizi bilinçlendiririz.",
+     "fs": 13,
+     "area": [
+      498,
+      1004,
+      260,
+      28
+     ],
+     "pill": [
+      838,
+      991
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "img": "@IMG:s5-u4/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      0,
+      878,
+      264
+     ]
+    },
+    {
+     "t": "Vatanı veya vatanına ait hisleri",
+     "r": [
+      38,
+      236,
+      878,
+      330
+     ]
+    },
+    {
+     "t": "Vatandaşlık; dünyaya gelinen…",
+     "r": [
+      100,
+      538,
+      750,
+      626
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Haklarımı ve sorumluluklarımı bilirim, okulda karar süreçlerine katılırım, sorunlara duyarlıyım ve kurallara uyarım.",
+     "fs": 16,
+     "area": [
+      148,
+      962,
+      623,
+      150
+     ],
+     "pill": [
+      824,
+      949
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "img": "@IMG:s5-u4/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aybüke Öğretmen, öğrencilerine…",
+     "r": [
+      34,
+      0,
+      880,
+      353
+     ]
+    },
+    {
+     "t": "Verilen kaynakları inceleyerek…",
+     "r": [
+      81,
+      325,
+      765,
+      839
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 28,
+   "img": "@IMG:s5-u4/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Dedektif öğrenciler iyiliğin…",
+     "r": [
+      81,
+      64,
+      758,
+      707
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      121,
+      743,
+      720,
+      430
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Haklarını bilir ve korur; sorumluluklarını yerine getirir; kurallara uyar;",
+     "fs": 13,
+     "area": [
+      139,
+      847,
+      600,
+      116
+     ],
+     "pill": [
+      689,
+      834
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "çevresindeki sorunlara duyarlıdır; sosyal sorumluluk projelerine katılır;",
+     "fs": 13,
+     "area": [
+      139,
+      964,
+      600,
+      28
+     ],
+     "pill": [
+      833,
+      951
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "sorunların çözümü için yetkili kurumlara başvurur ve topluma faydalı olmaya çalışır.",
+     "fs": 13,
+     "area": [
+      139,
+      993,
+      600,
+      58
+     ],
+     "pill": [
+      809,
+      983
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1095,
+      58,
+      59
+     ],
+     "panel": "oyun",
+     "label": "Etkin vatandaşlık oyunu"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "img": "@IMG:s5-u4/p-20@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki kartlarda yer alan tutum",
+     "r": [
+      48,
+      59,
+      864,
+      379
+     ]
+    },
+    {
+     "t": "Alışverişlerimden",
+     "r": [
+      74,
+      410,
+      838,
+      754
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      376,
+      322,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      376,
+      285
+     ]
+    },
+    {
+     "area": [
+      792,
+      248,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✗",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      492,
+      235
+     ]
+    },
+    {
+     "area": [
+      118,
+      492,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      118,
+      467
+     ]
+    },
+    {
+     "area": [
+      822,
+      582,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      678,
+      575
+     ]
+    },
+    {
+     "area": [
+      548,
+      618,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      416,
+      626
+     ]
+    },
+    {
+     "area": [
+      276,
+      752,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      396,
+      721
+     ]
+    },
+    {
+     "area": [
+      362,
+      886,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      62,
+      936
+     ]
+    },
+    {
+     "area": [
+      622,
+      856,
+      36,
+      36
+     ],
+     "mode": "ink",
+     "text": "✗",
+     "center": true,
+     "fs": 28,
+     "pill": [
+      742,
+      849
+     ]
+    },
+    {
+     "area": [
+      60,
+      120,
+      300,
+      22
+     ],
+     "mode": "card",
+     "label": "Açıklama",
+     "text": "Uygun olmayanlar:\n• \"İthal ürünlerin her zaman daha kaliteli olduğunu düşünürüm.\" Yerli üretimi desteklemek ülke ekonomisine katkı sağlar.\n• \"Ailemde kararlar alınırken düşüncelerimi ifade etmeye çekinirim.\" Etkin vatandaş fikrini saygı çerçevesinde açıkça ifade eder.",
+     "pill": [
+      162,
+      68
+     ],
+     "qx": 60,
+     "qt": 97,
+     "qb": 216,
+     "qr": 900,
+     "bal": [
+      60,
+      195,
+      840,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "img": "@IMG:s5-u4/p-21@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Siz Olsaydınız Ne Yapardınız?",
+     "r": [
+      38,
+      55,
+      803,
+      471
+     ]
+    },
+    {
+     "t": "Sosyal medyada görülen bir",
+     "r": [
+      100,
+      498,
+      746,
+      676
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      132,
+      1098,
+      60,
+      57
+     ],
+     "panel": "kontrol30",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "img": "@IMG:s5-u4/p-22@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Etkin Vatandaş",
+     "r": [
+      122,
+      80,
+      722,
+      633
+     ]
+    },
+    {
+     "t": "Etkin bir vatandaş",
+     "r": [
+      103,
+      685,
+      742,
+      479
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Okul bahçesine çöplerin atılması",
+     "fs": 14,
+     "area": [
+      372,
+      593,
+      434,
+      80
+     ],
+     "pill": [
+      724,
+      580
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okul bahçesine geri dönüşüm kutuları konmasını idareden isteriz.",
+     "fs": 14,
+     "area": [
+      372,
+      728,
+      434,
+      79
+     ],
+     "pill": [
+      736,
+      718
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okul daha temiz olur, öğrenciler çevreye duyarlı hâle gelir.",
+     "fs": 14,
+     "area": [
+      372,
+      862,
+      434,
+      80
+     ],
+     "pill": [
+      736,
+      852
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "\"Temiz çevre, mutlu gelecek!\"",
+     "fs": 16,
+     "center": true,
+     "area": [
+      372,
+      996,
+      434,
+      80
+     ],
+     "pill": [
+      736,
+      986
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "img": "@IMG:s5-u4/p-23@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki tabloyu uygun…",
+     "r": [
+      38,
+      54,
+      790,
+      589
+     ]
+    },
+    {
+     "t": "9 Bir toplumda etkin vatandaş",
+     "r": [
+      121,
+      615,
+      707,
+      549
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kızılay gönüllüleri, fidan diken öğrenciler, kan bağışçıları",
+     "fs": 14,
+     "area": [
+      424,
+      200,
+      343,
+      87
+     ],
+     "pill": [
+      794,
+      187
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Haklarını bilmek, kurallara uymak, yardımlaşmak, çevreyi korumak",
+     "fs": 14,
+     "area": [
+      425,
+      349,
+      343,
+      87
+     ],
+     "pill": [
+      795,
+      336
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Toplumda düzen, güven ve dayanışma artar.",
+     "fs": 14,
+     "area": [
+      424,
+      499,
+      343,
+      86
+     ],
+     "pill": [
+      794,
+      486
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Etkin vatandaş az olursa kurallara uyulmaz, sorunlar çözülmez, haklar ihlal edilir ve toplumsal düzen bozulur. İnsanlar birbirine güvenmez, yaşam kalitesi düşer. Bu nedenle her birey hak ve sorumluluklarını bilmeli ve topluma katkı sağlamalıdır.",
+     "fs": 16,
+     "area": [
+      153,
+      737,
+      636,
+      363
+     ],
+     "pill": [
+      823,
+      724
+     ]
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "img": "@IMG:s5-u4/p-24@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki form, etkin…",
+     "r": [
+      101,
+      83,
+      727,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  }
+ ]
+};

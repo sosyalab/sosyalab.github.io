@@ -1,0 +1,879 @@
+// 5. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 48–97)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: İlimizde yaşanabilecek afetler ve etkileri (s. 70–81)
+window.BOOK = {
+ "id": "s5-u2-k3",
+ "title": "İlimizde yaşanabilecek afetler ve etkileri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u2-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 70,
+   "img": "@IMG:s5-u2/p-23@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "İLİMİZDE YAŞANABİLECEK",
+     "r": [
+      38,
+      55,
+      879,
+      545
+     ]
+    },
+    {
+     "t": "Gelen mesajda boş bırakılan yerde",
+     "r": [
+      38,
+      588,
+      879,
+      576
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Ailemle birlikte tedbir alırdım: dere yatakları ve eğimli yamaçlardan uzak dururdum, afet çantamızı hazırlardım, gerekirse güvenli bir yere geçer, AFAD ve yetkililerin uyarılarını takip ederdim. Komşularımızı da uyarırdım.",
+     "fs": 15,
+     "area": [
+      476,
+      274,
+      339,
+      303
+     ],
+     "pill": [
+      780,
+      261
+     ]
+    },
+    {
+     "area": [
+      640,
+      628,
+      175,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Sel, su baskını, heyelan (toprak kayması), dolu ve fırtına gibi olumsuzluklar yazıyor olabilir.",
+     "pill": [
+      746,
+      630
+     ],
+     "qx": 448,
+     "qt": 612,
+     "qb": 650,
+     "qr": 816,
+     "bal": [
+      448,
+      658,
+      420,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Heyelan (toprak kayması): eğimli yamaçlarda yağışla birlikte toprak kayar ve evlere zarar verir. Bu nedenle yamaçlara yerleşilmemeli, ağaçlandırma yapılmalıdır.",
+     "fs": 15,
+     "area": [
+      476,
+      728,
+      339,
+      388
+     ],
+     "pill": [
+      780,
+      715
+     ]
+    }
+   ],
+   "manual": true
+  },
+  {
+   "n": 71,
+   "img": "@IMG:s5-u2/p-24@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Tarihimizdeki büyük ve yıkıcı…",
+     "r": [
+      34,
+      55,
+      814,
+      236
+     ]
+    },
+    {
+     "t": "Yaşadığınız ilde gerçekleşme…",
+     "r": [
+      34,
+      279,
+      814,
+      519
+     ]
+    },
+    {
+     "t": "Aşağıdaki haber metnini…",
+     "r": [
+      34,
+      786,
+      814,
+      378
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      232,
+      215,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Depremin can ve mal kaybına yol açmasının nedeni insanlardır: depreme dayanıksız binalar, fay hatları üzerine yerleşme, denetimsizlik. Gerekli önlemler alınırsa kayıplar azaltılabilir.",
+     "pill": [
+      646,
+      228
+     ],
+     "qx": 357,
+     "qt": 197,
+     "qb": 252,
+     "qr": 816,
+     "bal": [
+      292,
+      260,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Afet çantası hazırlamak, eşyaları sabitlemek, toplanma alanını öğrenmek, tatbikatlara katılmak.",
+     "fs": 15,
+     "area": [
+      326,
+      413,
+      452,
+      135
+     ],
+     "pill": [
+      798,
+      400
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Binaları depreme dayanıklı yapmak, afet eğitimleri vermek, toplanma alanları oluşturmak, ağaçlandırma yapmak.",
+     "fs": 15,
+     "area": [
+      326,
+      619,
+      452,
+      136
+     ],
+     "pill": [
+      798,
+      606
+     ]
+    },
+    {
+     "area": [
+      600,
+      868,
+      215,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Erken uyarı sistemleri, dere yataklarında yapılaşmanın önlenmesi, afet planları, eğitimler ve tatbikatlar, sağlam altyapı ve ulaşım projeleri.",
+     "pill": [
+      646,
+      873
+     ],
+     "qx": 123,
+     "qt": 830,
+     "qb": 888,
+     "qr": 815,
+     "bal": [
+      30,
+      896,
+      822,
+      "below",
+      1
+     ]
+    }
+   ],
+   "manual": true
+  },
+  {
+   "n": 72,
+   "img": "@IMG:s5-u2/p-25@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Görsel",
+     "r": [
+      33,
+      56,
+      795,
+      578
+     ]
+    },
+    {
+     "t": "Görsel (2)",
+     "r": [
+      33,
+      622,
+      795,
+      542
+     ]
+    }
+   ],
+   "answers": [],
+   "manual": true
+  },
+  {
+   "n": 73,
+   "img": "@IMG:s5-u2/p-26@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki haritalar ile AFAD İl",
+     "r": [
+      122,
+      80,
+      710,
+      1084
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1085,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Düzce: Haritaya göre ilimizde en büyük risk depremdir. İlimiz Kuzey Anadolu Fay Hattı üzerinde ya da çok yakınında olduğu için deprem tehlikesi yüksek (kırmızı) bölgededir. Bu afete yer kabuğu hareketleri (fay hatlarının kırılması) neden olur.",
+     "city": "afetRisk",
+     "pill": [
+      688,
+      1093
+     ],
+     "qx": 134,
+     "qt": 1076,
+     "qb": 1122,
+     "qr": 820,
+     "bal": [
+      118,
+      938,
+      718,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      416,
+      151,
+      60,
+      59
+     ],
+     "panel": "riskharita",
+     "label": "Türkiye'nin Afet Risk Haritası"
+    },
+    {
+     "area": [
+      757,
+      149,
+      60,
+      60
+     ],
+     "panel": "afad",
+     "label": "AFAD İl Afet Risk Azaltma Planları"
+    }
+   ]
+  },
+  {
+   "n": 74,
+   "img": "@IMG:s5-u2/p-27@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Verilen bilgiler doğrultusunda…",
+     "r": [
+      38,
+      102,
+      790,
+      377
+     ]
+    },
+    {
+     "t": "Erozyon, toprağın üst…",
+     "r": [
+      38,
+      467,
+      790,
+      314
+     ]
+    },
+    {
+     "t": "Orman yangını, doğal ya da",
+     "r": [
+      38,
+      769,
+      790,
+      395
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Bitki örtüsünün az olduğu eğimli yerlerde, şiddetli yağış ve rüzgârla toprağın taşınması.",
+     "fs": 13,
+     "area": [
+      333,
+      591,
+      482,
+      86
+     ],
+     "pill": [
+      781,
+      584
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Verimli toprak kaybolur, tarım alanları azalır, çölleşme başlar.",
+     "fs": 13,
+     "area": [
+      333,
+      687,
+      483,
+      85
+     ],
+     "pill": [
+      781,
+      680
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sıcak ve kurak yaz aylarında, ormanda ateş yakmak veya cam şişe gibi atıklar bırakmak.",
+     "fs": 13,
+     "area": [
+      333,
+      898,
+      482,
+      86
+     ],
+     "pill": [
+      781,
+      885
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ağaçlar ve canlılar zarar görür, bitki örtüsü yok olur, erozyon ve hava kirliliği artar.",
+     "fs": 13,
+     "area": [
+      333,
+      994,
+      483,
+      85
+     ],
+     "pill": [
+      781,
+      987
+     ]
+    }
+   ],
+   "manual": true
+  },
+  {
+   "n": 75,
+   "img": "@IMG:s5-u2/p-28@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Heyelan (toprak kayması) ya da",
+     "r": [
+      122,
+      49,
+      790,
+      395
+     ]
+    },
+    {
+     "t": "Sel; aşırı yağışlar veya karın",
+     "r": [
+      122,
+      416,
+      790,
+      748
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Eğimli ve yağışlı yamaçlarda, bitki örtüsünün yok edildiği yerlerde yerleşmek.",
+     "fs": 13,
+     "area": [
+      135,
+      204,
+      482,
+      85
+     ],
+     "pill": [
+      583,
+      191
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Evler, yollar ve tarım alanları zarar görür, can kaybı yaşanabilir.",
+     "fs": 13,
+     "area": [
+      135,
+      299,
+      483,
+      86
+     ],
+     "pill": [
+      571,
+      292
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dere yataklarına yapılaşma, ani ve aşırı yağışlar, karların hızla erimesi.",
+     "fs": 13,
+     "area": [
+      135,
+      521,
+      482,
+      85
+     ],
+     "pill": [
+      583,
+      508
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Evleri, yolları, köprüleri su basar; can ve mal kaybı yaşanır.",
+     "fs": 13,
+     "area": [
+      135,
+      616,
+      483,
+      85
+     ],
+     "pill": [
+      571,
+      609
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dik ve ağaçsız yamaçlarda kar birikmesi, kar tabakalarının kayması.",
+     "fs": 13,
+     "area": [
+      135,
+      895,
+      482,
+      85
+     ],
+     "pill": [
+      571,
+      882
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yollar kapanır, yerleşim yerleri zarar görür, can kaybı olabilir.",
+     "fs": 13,
+     "area": [
+      135,
+      991,
+      483,
+      85
+     ],
+     "pill": [
+      583,
+      984
+     ]
+    }
+   ]
+  },
+  {
+   "n": 76,
+   "img": "@IMG:s5-u2/p-29@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Obruk, erozyon ve kuraklığın…",
+     "r": [
+      38,
+      83,
+      809,
+      320
+     ]
+    },
+    {
+     "t": "Hortum, ani hava değişimlerine…",
+     "r": [
+      38,
+      391,
+      809,
+      312
+     ]
+    },
+    {
+     "t": "Ülkemizde meydana gelebilecek…",
+     "r": [
+      38,
+      691,
+      809,
+      473
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Yer altı sularının aşırı kullanılması, kuraklık ve erozyon.",
+     "fs": 13,
+     "area": [
+      333,
+      203,
+      482,
+      85
+     ],
+     "pill": [
+      781,
+      190
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarım alanları ve binalar çöker, insanlar ve hayvanlar zarar görebilir.",
+     "fs": 13,
+     "area": [
+      333,
+      299,
+      483,
+      85
+     ],
+     "pill": [
+      781,
+      292
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ani hava değişimleri, sıcak ve soğuk hava kütlelerinin karşılaşması.",
+     "fs": 13,
+     "area": [
+      332,
+      492,
+      482,
+      85
+     ],
+     "pill": [
+      780,
+      479
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Binaların çatıları uçar, ağaçlar devrilir, can ve mal kaybı olur.",
+     "fs": 13,
+     "area": [
+      332,
+      587,
+      482,
+      86
+     ],
+     "pill": [
+      780,
+      580
+     ]
+    }
+   ],
+   "manual": true
+  },
+  {
+   "n": 77,
+   "img": "@IMG:s5-u2/p-30@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ülkemizde meydana gelebilecek…",
+     "r": [
+      122,
+      81,
+      706,
+      604
+     ]
+    },
+    {
+     "t": "Aşağıda Burcu ve arkadaşlarının…",
+     "r": [
+      122,
+      657,
+      706,
+      507
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 78,
+   "img": "@IMG:s5-u2/p-31@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "plana son hâlini verdik.…",
+     "r": [
+      87,
+      81,
+      755,
+      491
+     ]
+    },
+    {
+     "t": "Etkinliğin Aşamaları",
+     "r": [
+      105,
+      544,
+      762,
+      620
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 79,
+   "img": "@IMG:s5-u2/p-32@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Burcu ve arkadaşlarının",
+     "r": [
+      122,
+      27,
+      790,
+      542
+     ]
+    },
+    {
+     "t": "Pet şişeleri eğim verdiğimiz bir",
+     "r": [
+      120,
+      541,
+      792,
+      623
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      490,
+      98,
+      64,
+      59
+     ],
+     "panel": "deney",
+     "label": "Burcu ve arkadaşlarının yaptığı deneyin videosu"
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "img": "@IMG:s5-u2/p-33@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      55,
+      879,
+      1125
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      132,
+      1101,
+      69,
+      60
+     ],
+     "panel": "afetrubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ],
+   "manual": true
+  },
+  {
+   "n": 81,
+   "img": "@IMG:s5-u2/p-34@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Yaşadığınız ilde meydana…",
+     "r": [
+      34,
+      55,
+      878,
+      602
+     ]
+    },
+    {
+     "t": "Afetin etkilerini",
+     "r": [
+      34,
+      629,
+      883,
+      535
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      270,
+      180,
+      280,
+      30
+     ],
+     "mode": "ink",
+     "text": "DEPREM",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      514,
+      167
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yer kabuğundaki kırılmalar; dayanıksız binalar, fay hatları üzerine yerleşme",
+     "fs": 13,
+     "area": [
+      244,
+      237,
+      403,
+      86
+     ],
+     "pill": [
+      524,
+      224
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yer kabuğu hareketleri (fay hatlarının kırılması)",
+     "fs": 13,
+     "area": [
+      306,
+      383,
+      403,
+      86
+     ],
+     "pill": [
+      676,
+      370
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Binalar yıkılır, can ve mal kaybı olur, ulaşım ve iletişim kesilir",
+     "fs": 13,
+     "area": [
+      244,
+      528,
+      403,
+      86
+     ],
+     "pill": [
+      530,
+      515
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Depreme dayanıklı bina, eşyaları sabitleme, afet çantası, tatbikat",
+     "fs": 13,
+     "area": [
+      306,
+      674,
+      403,
+      86
+     ],
+     "pill": [
+      784,
+      661
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "AFAD, Kızılay, AKUT, belediyeler, Millî Eğitim Bakanlığı",
+     "fs": 13,
+     "area": [
+      244,
+      820,
+      403,
+      85
+     ],
+     "pill": [
+      566,
+      807
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      755,
+      987,
+      61,
+      62
+     ],
+     "panel": "deprem",
+     "label": "\"Deprem\" etkinliği"
+    }
+   ]
+  }
+ ]
+};

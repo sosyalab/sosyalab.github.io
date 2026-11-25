@@ -1,0 +1,851 @@
+// 5. Sınıf Sosyal Bilgiler · 6. Öğrenme Alanı: Teknoloji ve Sosyal Bilimler (s. 118–145)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Teknolojik gelişmelerin toplum hayatına etkileri (s. 120–129)
+window.BOOK = {
+ "id": "s5-u6-k1",
+ "title": "Teknolojik gelişmelerin toplum hayatına etkileri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u6-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 118,
+   "img": "@IMG:s5-u6/p-01@",
+   "section": "6. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      0,
+      883,
+      505
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      477,
+      884,
+      687
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      313,
+      1066,
+      68,
+      63
+     ],
+     "panel": "alan",
+     "label": "6. Öğrenme alanı"
+    },
+    {
+     "area": [
+      570,
+      975,
+      64,
+      64
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 119,
+   "img": "@IMG:s5-u6/p-02@",
+   "section": "Teknoloji ve Sosyal Bilimler",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      878,
+      596
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      568,
+      878,
+      596
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 120,
+   "img": "@IMG:s5-u6/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "TEKNOLOJİK GELİŞMELERİN",
+     "r": [
+      38,
+      55,
+      802,
+      1153
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1050,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Tekerlek → otomobil, tren, bisiklet. Saban → traktör, biçerdöver. Matbaa → bilgisayar yazıcısı, dijital yayıncılık. Telefon → cep telefonu, görüntülü görüşme.",
+     "pill": [
+      646,
+      1097
+     ],
+     "qx": 133,
+     "qt": 1027,
+     "qb": 1111,
+     "qr": 820,
+     "bal": [
+      34,
+      914,
+      810,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1090,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ulaşım ve iletişim çok yavaş olurdu, işler kas gücüyle ve uzun sürede yapılır, bilgiye ulaşmak zorlaşırdı.",
+     "pill": [
+      646,
+      1131
+     ],
+     "qx": 167,
+     "qt": 1075,
+     "qb": 1112,
+     "qr": 820,
+     "bal": [
+      34,
+      1120,
+      810,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 121,
+   "img": "@IMG:s5-u6/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Teknolojik araçların…",
+     "r": [
+      34,
+      55,
+      841,
+      304
+     ]
+    },
+    {
+     "t": "Sahip olduğunuz",
+     "r": [
+      78,
+      331,
+      834,
+      379
+     ]
+    },
+    {
+     "t": "Sahip olduğunuz (2)",
+     "r": [
+      76,
+      682,
+      836,
+      482
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      360,
+      192,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Örnek cevaplar:\nAraçlar: cep telefonu, bilgisayar, televizyon.\nKullanım alanları: iletişim, eğitim, eğlence.\nSıklık: telefonu her gün, bilgisayarı ödev için haftada birkaç gün, televizyonu akşamları.\nAmaç: ailemle haberleşmek, ödev araştırmak, belgesel izlemek.\nSorunlar: göz yorgunluğu, zaman kaybı, boyun ağrısı.",
+     "pill": [
+      406,
+      191
+     ],
+     "qx": 117,
+     "qt": 72,
+     "qb": 352,
+     "qr": 863,
+     "bal": [
+      30,
+      265,
+      849,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "img": "@IMG:s5-u6/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "(Kaynak",
+     "r": [
+      38,
+      55,
+      805,
+      617
+     ]
+    },
+    {
+     "t": "Türkiye KültürPortalı",
+     "r": [
+      38,
+      644,
+      790,
+      520
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      500,
+      1100,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek: İlimizdeki tarihî eserler ve müzeler Türkiye Kültür Portalı ve Sanal Müze uygulamalarında yer almaktadır.",
+     "city": "tarihi",
+     "pill": [
+      552,
+      1114
+     ],
+     "qx": 420,
+     "qt": 1054,
+     "qb": 1122,
+     "qr": 816,
+     "bal": [
+      272,
+      941,
+      560,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      421,
+      674,
+      57,
+      58
+     ],
+     "panel": "kultur",
+     "label": "Türkiye Kültür Portalı"
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "img": "@IMG:s5-u6/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki görselleri…",
+     "r": [
+      116,
+      89,
+      728,
+      251
+     ]
+    },
+    {
+     "t": "Drone teknolojisi, görsel…",
+     "r": [
+      106,
+      312,
+      722,
+      345
+     ]
+    },
+    {
+     "t": "Görsel teknolojik gelişmelerin…",
+     "r": [
+      94,
+      629,
+      734,
+      535
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Tarımda ilaçlama, haritacılık, kargo taşımacılığı, afetlerde arama kurtarma, film çekimi.",
+     "fs": 14,
+     "area": [
+      135,
+      576,
+      680,
+      58
+     ],
+     "pill": [
+      781,
+      563
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Genel ağ ve kredi kartı ile evden çıkmadan alışveriş (e-ticaret) yapılabilmekte, zaman tasarrufu sağlanmaktadır.",
+     "fs": 14,
+     "area": [
+      135,
+      695,
+      680,
+      92
+     ],
+     "pill": [
+      781,
+      682
+     ]
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "img": "@IMG:s5-u6/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsanlar, genel ağ…",
+     "r": [
+      50,
+      82,
+      778,
+      665
+     ]
+    },
+    {
+     "t": "Kullandım Kullanmadım",
+     "r": [
+      124,
+      719,
+      705,
+      445
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 125,
+   "img": "@IMG:s5-u6/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Eğitim sektöründe kullanılan…",
+     "r": [
+      94,
+      83,
+      818,
+      532
+     ]
+    },
+    {
+     "t": "Sağlık ve iletişim alanında…",
+     "r": [
+      104,
+      487,
+      808,
+      677
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      300,
+      446,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Doğru oturma pozisyonu, ekrana uygun mesafe, belirli aralıklarla mola vermek, süreyi sınırlamak ve güvenli içerik kullanmak.",
+     "pill": [
+      358,
+      376
+     ],
+     "qx": 135,
+     "qt": 407,
+     "qb": 494,
+     "qr": 665,
+     "bal": [
+      135,
+      502,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      560,
+      1112,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Tahlil sonuçlarını görme, hastane randevusu alma, reçete ve aşı bilgilerine ulaşma, sağlık geçmişini tek yerde görme.",
+     "pill": [
+      594,
+      1111
+     ],
+     "qx": 479,
+     "qt": 1089,
+     "qb": 1215,
+     "qr": 760,
+     "bal": [
+      479,
+      951,
+      420,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 126,
+   "img": "@IMG:s5-u6/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilgisayar, tablet, akıllı…",
+     "r": [
+      33,
+      41,
+      884,
+      1123
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      420,
+      1067,
+      61,
+      57
+     ],
+     "panel": "etkiler",
+     "label": "Teknolojik gelişmelerin hayatımıza etkileri"
+    }
+   ]
+  },
+  {
+   "n": 127,
+   "img": "@IMG:s5-u6/p-10@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Teknolojik Ürünlerin Toplum",
+     "r": [
+      34,
+      55,
+      777,
+      213
+     ]
+    },
+    {
+     "t": "Kültür, ekonomi, eğitim,…",
+     "r": [
+      34,
+      240,
+      878,
+      494
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      120,
+      706,
+      792,
+      458
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "İletişim teknolojileri insanları birbirine yaklaştırmıştır.",
+     "fs": 14,
+     "area": [
+      381,
+      515,
+      437,
+      60
+     ],
+     "pill": [
+      739,
+      505
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Görüntülü görüşmeyle uzaktaki akrabalarla konuşabiliyoruz.",
+     "fs": 14,
+     "area": [
+      381,
+      632,
+      437,
+      60
+     ],
+     "pill": [
+      745,
+      622
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Haberleşme hızlandı, mesafeler önemini yitirdi.",
+     "fs": 14,
+     "area": [
+      379,
+      750,
+      437,
+      60
+     ],
+     "pill": [
+      743,
+      740
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Pandemide uzaktan eğitim ve iş toplantıları yapıldı.",
+     "fs": 14,
+     "area": [
+      379,
+      864,
+      437,
+      60
+     ],
+     "pill": [
+      743,
+      854
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yüz yüze iletişim azaldı ve aile içi sohbetler kısaldı.",
+     "fs": 14,
+     "area": [
+      379,
+      979,
+      437,
+      60
+     ],
+     "pill": [
+      743,
+      969
+     ]
+    }
+   ]
+  },
+  {
+   "n": 128,
+   "img": "@IMG:s5-u6/p-11@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki tabloda buluşlar ve…",
+     "r": [
+      38,
+      55,
+      878,
+      509
+     ]
+    },
+    {
+     "t": "Doktor, karın ağrısı…",
+     "r": [
+      93,
+      536,
+      823,
+      628
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kültür",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      364,
+      118,
+      28
+     ],
+     "pill": [
+      734,
+      357
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İletişim",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      434,
+      118,
+      28
+     ],
+     "pill": [
+      734,
+      427
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ekonomi",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      503,
+      118,
+      28
+     ],
+     "pill": [
+      836,
+      490
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sağlık",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      573,
+      118,
+      28
+     ],
+     "pill": [
+      734,
+      566
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eğitim",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      643,
+      118,
+      28
+     ],
+     "pill": [
+      734,
+      636
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İletişim",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      712,
+      118,
+      28
+     ],
+     "pill": [
+      836,
+      699
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ekonomi",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      782,
+      118,
+      28
+     ],
+     "pill": [
+      734,
+      775
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ulaşım",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      852,
+      118,
+      28
+     ],
+     "pill": [
+      734,
+      845
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sağlık",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      921,
+      118,
+      28
+     ],
+     "pill": [
+      830,
+      896
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sağlık",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      991,
+      118,
+      28
+     ],
+     "pill": [
+      734,
+      984
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eğitim",
+     "fs": 14,
+     "center": true,
+     "area": [
+      694,
+      1061,
+      118,
+      28
+     ],
+     "pill": [
+      734,
+      1054
+     ]
+    }
+   ]
+  },
+  {
+   "n": 129,
+   "img": "@IMG:s5-u6/p-12@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda kültür, ekonomi,…",
+     "r": [
+      121,
+      83,
+      711,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      830,
+      220,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Olumlu etkiler: 1, 2, 3, 4, 8, 9, 11, 13, 14\nOlumsuz etkiler: 5, 6, 7, 10, 12, 15",
+     "pill": [
+      676,
+      805
+     ],
+     "qx": 564,
+     "qt": 830,
+     "qb": 873,
+     "qr": 820,
+     "bal": [
+      416,
+      881,
+      420,
+      "below",
+      1
+     ]
+    }
+   ]
+  }
+ ]
+};

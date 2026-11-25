@@ -1,0 +1,1248 @@
+// 5. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 98–149)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Anadolu'nun ilk yerleşim yerlerinde sosyal hayat (s. 110–127)
+window.BOOK = {
+ "id": "s5-u3-k2",
+ "title": "Anadolu'nun ilk yerleşim yerlerinde sosyal hayat",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u3-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 110,
+   "img": "@IMG:s5-u3/p-13@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      45,
+      784,
+      466
+     ]
+    },
+    {
+     "t": "ANADOLU'NUN",
+     "r": [
+      164,
+      483,
+      664,
+      470
+     ]
+    },
+    {
+     "t": "görsellerdeki tarihi eserler ve…",
+     "r": [
+      74,
+      925,
+      754,
+      239
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1008,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Taş aletler, öğütme taşları, çanak çömlekler ve ok uçları beslenme, avlanma ve yiyecek saklamak için kullanılmıştır. Bu eserler arkeolojik kazılarla gün yüzüne çıkmıştır; bugün müzelerde sergilenmektedir.",
+     "pill": [
+      634,
+      1007
+     ],
+     "qx": 547,
+     "qt": 945,
+     "qb": 1028,
+     "qr": 816,
+     "bal": [
+      412,
+      1036,
+      420,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      560,
+      1100,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Çatalhöyük duvar resminde evlerin dizilişi ve yakındaki Hasan Dağı tasvir edilmiştir.",
+     "pill": [
+      600,
+      1102
+     ],
+     "qx": 462,
+     "qt": 1041,
+     "qb": 1120,
+     "qr": 816,
+     "bal": [
+      272,
+      1128,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "img": "@IMG:s5-u3/p-14@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      55,
+      823,
+      373
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      110,
+      400,
+      718,
+      447
+     ]
+    },
+    {
+     "t": "Geçmişte yaşayan insanlar,…",
+     "r": [
+      90,
+      819,
+      738,
+      345
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Su kaynaklarına yakınlık, verimli toprak, güvenlik, iklim, avlanma ve toplayıcılık imkânları",
+     "fs": 15,
+     "area": [
+      135,
+      896,
+      679,
+      61
+     ],
+     "pill": [
+      781,
+      883
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Göbeklitepe tapınak, Çatalhöyük bitişik evler, Çayönü ızgara planlı yapılar",
+     "fs": 15,
+     "area": [
+      135,
+      1013,
+      679,
+      60
+     ],
+     "pill": [
+      781,
+      1000
+     ]
+    }
+   ]
+  },
+  {
+   "n": 112,
+   "img": "@IMG:s5-u3/p-15@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Telgraf ) ( Cep telefonu",
+     "r": [
+      38,
+      51,
+      787,
+      399
+     ]
+    },
+    {
+     "t": "Aşağıdaki metni okuyunuz ve…",
+     "r": [
+      100,
+      422,
+      750,
+      791
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Çivi yazılı tablet → Mektup → Telgraf → Cep telefonu",
+     "fs": 16,
+     "area": [
+      135,
+      394,
+      677,
+      28
+     ],
+     "pill": [
+      775,
+      381
+     ]
+    },
+    {
+     "area": [
+      600,
+      1000,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Tarih şeridi (eskiden yeniye):\nGöbeklitepe – MÖ 10000\nÇayönü – MÖ 8200\nÇatalhöyük – MÖ 7500\nHacılar – MÖ 7000\nHz. İsa'nın doğumu – 0 (milat)\nGöbeklitepe'nin keşfi – 2026'dan 12.000 yıl önce",
+     "pill": [
+      592,
+      1011
+     ],
+     "qx": 560,
+     "qt": 860,
+     "qb": 1078,
+     "qr": 827,
+     "bal": [
+      294,
+      1075,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 113,
+   "img": "@IMG:s5-u3/p-16@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      347,
+      0,
+      565,
+      195
+     ]
+    },
+    {
+     "t": "İnsanlar, üretim yapmaya…",
+     "r": [
+      90,
+      167,
+      822,
+      757
+     ]
+    },
+    {
+     "t": "İnsanların, MÖ 10 000 yıllarında",
+     "r": [
+      122,
+      896,
+      790,
+      268
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "1. Avlanmak ve yiyecek toplamak için uygun olması\n2. Barınma ve korunma imkânı sağlaması\n3. Su kaynaklarına yakınlık",
+     "fs": 13,
+     "area": [
+      157,
+      635,
+      414,
+      82
+     ],
+     "pill": [
+      533,
+      622
+     ]
+    }
+   ]
+  },
+  {
+   "n": 114,
+   "img": "@IMG:s5-u3/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Göbeklitepe; Şanlıurfa'nın 20…",
+     "r": [
+      38,
+      84,
+      811,
+      800
+     ]
+    },
+    {
+     "t": "Göbeklitepe'nin keşfi…",
+     "r": [
+      38,
+      856,
+      790,
+      308
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      133,
+      1045,
+      60,
+      59
+     ],
+     "panel": "gobeklitepe",
+     "label": "Göbeklitepe belgeseli"
+    }
+   ]
+  },
+  {
+   "n": 115,
+   "img": "@IMG:s5-u3/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İncelediğiniz kaynaklara göre…",
+     "r": [
+      122,
+      80,
+      706,
+      253
+     ]
+    },
+    {
+     "t": "Göbeklitepe'nin gün yüzüne…",
+     "r": [
+      81,
+      305,
+      831,
+      669
+     ]
+    },
+    {
+     "t": "Höyük; tarih boyunca türlü…",
+     "r": [
+      122,
+      882,
+      790,
+      282
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Evet; günümüzde cami, kilise, sinagog gibi ibadethaneler vardır.",
+     "fs": 15,
+     "area": [
+      134,
+      147,
+      682,
+      55
+     ],
+     "pill": [
+      804,
+      134
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Taş işçiliği, mühendislik, sanat ve iş birliği becerileri",
+     "fs": 15,
+     "area": [
+      134,
+      253,
+      682,
+      55
+     ],
+     "pill": [
+      804,
+      240
+     ]
+    },
+    {
+     "area": [
+      240,
+      352,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Arkeoloji",
+     "pill": [
+      280,
+      354
+     ],
+     "qx": 106,
+     "qt": 332,
+     "qb": 372,
+     "qr": 816,
+     "bal": [
+      77,
+      380,
+      839,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      210,
+      858,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Arkeolojik kazılar geçmişte yaşayan insanların barınma, beslenme ve inançlarını gösterir; yazının olmadığı dönemleri aydınlatır.",
+     "pill": [
+      244,
+      857
+     ],
+     "qx": 106,
+     "qt": 835,
+     "qb": 878,
+     "qr": 900,
+     "bal": [
+      77,
+      886,
+      839,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 116,
+   "img": "@IMG:s5-u3/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Çayönü yerleşimi Diyarbakır…",
+     "r": [
+      84,
+      0,
+      744,
+      530
+     ]
+    },
+    {
+     "t": "Çayönü'nün bulunduğu coğrafya,…",
+     "r": [
+      84,
+      502,
+      744,
+      662
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 117,
+   "img": "@IMG:s5-u3/p-20@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Kaynak",
+     "r": [
+      107,
+      0,
+      742,
+      422
+     ]
+    },
+    {
+     "t": "Kaynak (2)",
+     "r": [
+      105,
+      394,
+      744,
+      770
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 118,
+   "img": "@IMG:s5-u3/p-21@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "ÇATALHÖYÜK",
+     "r": [
+      84,
+      0,
+      744,
+      508
+     ]
+    },
+    {
+     "t": "Çatalhöyük, Neolitik Çağ'da…",
+     "r": [
+      84,
+      480,
+      744,
+      684
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 119,
+   "img": "@IMG:s5-u3/p-22@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "kaynak",
+     "r": [
+      107,
+      0,
+      742,
+      457
+     ]
+    },
+    {
+     "t": "Çatalhöyük'te yaşayan insanlar;…",
+     "r": [
+      122,
+      429,
+      727,
+      735
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 120,
+   "img": "@IMG:s5-u3/p-23@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "HACILAR",
+     "r": [
+      84,
+      0,
+      766,
+      711
+     ]
+    },
+    {
+     "t": "Kaynak",
+     "r": [
+      84,
+      683,
+      833,
+      481
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 121,
+   "img": "@IMG:s5-u3/p-24@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Hacılar'da yiyeceklerin…",
+     "r": [
+      107,
+      0,
+      743,
+      529
+     ]
+    },
+    {
+     "t": "Kaynak",
+     "r": [
+      33,
+      501,
+      817,
+      676
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1138,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bir vatandaşın duyarlı davranışı sayesinde höyük koruma altına alınmıştır. Vatandaşlar da kültürel mirasın korunmasında sorumluluk sahibidir.",
+     "pill": [
+      634,
+      1140
+     ],
+     "qx": 489,
+     "qt": 1098,
+     "qb": 1215,
+     "qr": 815,
+     "bal": [
+      294,
+      985,
+      560,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      508,
+      774,
+      64,
+      60
+     ],
+     "panel": "yerlesim",
+     "label": "Anadolu'nun ilk yerleşim yerleri"
+    },
+    {
+     "area": [
+      753,
+      774,
+      66,
+      61
+     ],
+     "panel": "sanalmuze",
+     "label": "Anadolu'nun ilk yerleşim yerleri sanal müzesi"
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "img": "@IMG:s5-u3/p-25@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Anadolu'nun İlk…",
+     "r": [
+      33,
+      55,
+      884,
+      393
+     ]
+    },
+    {
+     "t": "Anadolu'nun ilk yerleşim…",
+     "r": [
+      122,
+      420,
+      706,
+      744
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Mağaralar, kerpiç evler, ızgara planlı yapılar; evler bitişik ve damdan girişli",
+     "fs": 14,
+     "area": [
+      320,
+      539,
+      439,
+      136
+     ],
+     "pill": [
+      726,
+      502
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Avcılık, toplayıcılık, buğday-arpa tarımı, evcil hayvanlar",
+     "fs": 14,
+     "area": [
+      320,
+      715,
+      439,
+      136
+     ],
+     "pill": [
+      780,
+      702
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarım, hayvancılık, avcılık, alet yapımı, obsidiyen ticareti",
+     "fs": 14,
+     "area": [
+      320,
+      891,
+      439,
+      136
+     ],
+     "pill": [
+      780,
+      878
+     ]
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "img": "@IMG:s5-u3/p-26@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "ADIMZ e e i Se.",
+     "r": [
+      34,
+      47,
+      876,
+      493
+     ]
+    },
+    {
+     "t": "Dönemin ve mekânın",
+     "r": [
+      116,
+      512,
+      698,
+      652
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "MÖ 8200, Diyarbakır Ergani; Dicle'nin kolu Boğazçay",
+     "fs": 13,
+     "area": [
+      261,
+      339,
+      243,
+      142
+     ],
+     "pill": [
+      487,
+      263
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Izgara planlı evler, tarım ve evcil hayvancılık, bakır işleme",
+     "fs": 13,
+     "area": [
+      547,
+      339,
+      243,
+      142
+     ],
+     "pill": [
+      809,
+      326
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "MÖ 7500, Konya Çumra; Çarşamba Çayı kenarı",
+     "fs": 13,
+     "area": [
+      261,
+      619,
+      243,
+      141
+     ],
+     "pill": [
+      469,
+      534
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bitişik, damdan girişli evler; duvar resimleri; obsidiyen ticareti",
+     "fs": 13,
+     "area": [
+      547,
+      619,
+      243,
+      141
+     ],
+     "pill": [
+      809,
+      606
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "MÖ 7000, Burdur; göl kenarı",
+     "fs": 13,
+     "area": [
+      261,
+      898,
+      243,
+      142
+     ],
+     "pill": [
+      487,
+      822
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kerpiç evler, çömlekçilik, tahıl ambarları",
+     "fs": 13,
+     "area": [
+      547,
+      898,
+      243,
+      142
+     ],
+     "pill": [
+      809,
+      885
+     ]
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "img": "@IMG:s5-u3/p-27@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "AMİ O Ş...",
+     "r": [
+      122,
+      31,
+      794,
+      535
+     ]
+    },
+    {
+     "t": "Benzerlikler Farklılıklar",
+     "r": [
+      119,
+      538,
+      695,
+      626
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kerpiç ve taş evler yaptılar",
+     "fs": 13,
+     "area": [
+      261,
+      357,
+      243,
+      142
+     ],
+     "pill": [
+      487,
+      299
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çatalhöyük'te evlere damdan girildi; Çayönü'nde ızgara planlıydı",
+     "fs": 13,
+     "area": [
+      547,
+      357,
+      243,
+      142
+     ],
+     "pill": [
+      809,
+      344
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarım ürünleri ve evcil hayvanlar",
+     "fs": 13,
+     "area": [
+      261,
+      637,
+      243,
+      141
+     ],
+     "pill": [
+      469,
+      570
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Hacılar'da tahıl ambarları; Çayönü'nde yabani bitkiler",
+     "fs": 13,
+     "area": [
+      547,
+      637,
+      243,
+      141
+     ],
+     "pill": [
+      809,
+      624
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarım ve hayvancılık",
+     "fs": 13,
+     "area": [
+      261,
+      917,
+      243,
+      141
+     ],
+     "pill": [
+      469,
+      850
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çatalhöyük'te obsidiyen ticareti; Çayönü'nde bakır işleme",
+     "fs": 13,
+     "area": [
+      547,
+      917,
+      243,
+      141
+     ],
+     "pill": [
+      809,
+      904
+     ]
+    }
+   ]
+  },
+  {
+   "n": 125,
+   "img": "@IMG:s5-u3/p-28@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "......., ...",
+     "r": [
+      34,
+      61,
+      879,
+      765
+     ]
+    },
+    {
+     "t": "Beslenme, Barınma ve Temel Geçim",
+     "r": [
+      102,
+      798,
+      749,
+      366
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Kuraklık, hastalıklar, iklim değişikliği",
+     "fs": 13,
+     "area": [
+      225,
+      715,
+      286,
+      83
+     ],
+     "pill": [
+      601,
+      627
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ambarlarda yiyecek saklamak, kanallar açmak",
+     "fs": 13,
+     "area": [
+      542,
+      715,
+      285,
+      83
+     ],
+     "pill": [
+      846,
+      702
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kalabalık nüfus, kaynakların hızla tükenmesi",
+     "fs": 13,
+     "area": [
+      225,
+      877,
+      286,
+      83
+     ],
+     "pill": [
+      139,
+      858
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarım ve hayvancılığı geliştirmek, çevreyi korumak",
+     "fs": 13,
+     "area": [
+      542,
+      877,
+      285,
+      83
+     ],
+     "pill": [
+      846,
+      864
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yırtıcı hayvanlar, doğal afetler",
+     "fs": 13,
+     "area": [
+      225,
+      1038,
+      286,
+      83
+     ],
+     "pill": [
+      565,
+      1133
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Savunma duvarları, sağlam evler yapmak",
+     "fs": 13,
+     "area": [
+      542,
+      1038,
+      285,
+      83
+     ],
+     "pill": [
+      846,
+      1025
+     ]
+    }
+   ]
+  },
+  {
+   "n": 126,
+   "img": "@IMG:s5-u3/p-29@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "..... s.s...",
+     "r": [
+      123,
+      85,
+      793,
+      676
+     ]
+    },
+    {
+     "t": "Bütüncül dereceli",
+     "r": [
+      121,
+      733,
+      706,
+      496
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      133,
+      1155,
+      68,
+      60
+     ],
+     "panel": "urunrubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 127,
+   "img": "@IMG:s5-u3/p-30@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Anadolu'daki ilk yerleşim…",
+     "r": [
+      34,
+      55,
+      878,
+      627
+     ]
+    },
+    {
+     "t": "Tarih boyunca türlü nedenlerle…",
+     "r": [
+      125,
+      654,
+      695,
+      510
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "2",
+     "fs": 16,
+     "area": [
+      157,
+      746,
+      651,
+      28
+     ],
+     "pill": [
+      773,
+      733
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "1",
+     "fs": 16,
+     "area": [
+      157,
+      799,
+      651,
+      28
+     ],
+     "pill": [
+      773,
+      786
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "7, 10",
+     "fs": 16,
+     "area": [
+      157,
+      852,
+      650,
+      28
+     ],
+     "pill": [
+      773,
+      839
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "4",
+     "fs": 16,
+     "area": [
+      157,
+      904,
+      651,
+      28
+     ],
+     "pill": [
+      773,
+      891
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "5",
+     "fs": 16,
+     "area": [
+      157,
+      958,
+      651,
+      28
+     ],
+     "pill": [
+      773,
+      945
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "8",
+     "fs": 16,
+     "area": [
+      157,
+      1031,
+      650,
+      28
+     ],
+     "pill": [
+      773,
+      1018
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "11",
+     "fs": 16,
+     "area": [
+      157,
+      1104,
+      650,
+      28
+     ],
+     "pill": [
+      773,
+      1091
+     ]
+    }
+   ]
+  }
+ ]
+};

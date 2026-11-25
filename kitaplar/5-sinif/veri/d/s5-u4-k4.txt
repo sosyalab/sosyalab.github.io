@@ -1,0 +1,1401 @@
+// 5. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–65)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Sorunlarımızın çözümünde kurumlar (s. 50–65)
+window.BOOK = {
+ "id": "s5-u4-k4",
+ "title": "Sorunlarımızın çözümünde kurumlar",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u4-k4@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 50,
+   "img": "@IMG:s5-u4/p-41@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "SORUNLARIMIZIN",
+     "r": [
+      38,
+      55,
+      791,
+      687
+     ]
+    },
+    {
+     "t": "Karşılaştığınız bu sorunları…",
+     "r": [
+      38,
+      714,
+      819,
+      450
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Engelli rampasının kullanılamaması",
+     "fs": 13,
+     "area": [
+      164,
+      875,
+      297,
+      51
+     ],
+     "pill": [
+      390,
+      835
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediyeye başvurup rampanın düzeltilmesini istemek",
+     "fs": 13,
+     "area": [
+      509,
+      875,
+      297,
+      51
+     ],
+     "pill": [
+      849,
+      862
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Fabrika atıklarının dereyi kirletmesi",
+     "fs": 13,
+     "area": [
+      164,
+      958,
+      297,
+      50
+     ],
+     "pill": [
+      510,
+      834
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "İl çevre müdürlüğüne şikâyet etmek",
+     "fs": 13,
+     "area": [
+      508,
+      958,
+      297,
+      50
+     ],
+     "pill": [
+      848,
+      945
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sokak hayvanlarının bakımsız kalması",
+     "fs": 13,
+     "area": [
+      164,
+      1039,
+      297,
+      51
+     ],
+     "pill": [
+      378,
+      1128
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediyenin barınağına ve STK'lara haber vermek",
+     "fs": 13,
+     "area": [
+      508,
+      1039,
+      297,
+      51
+     ],
+     "pill": [
+      848,
+      1026
+     ]
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "img": "@IMG:s5-u4/p-42@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Sınıf, okul, mahalle veya yolda",
+     "r": [
+      34,
+      55,
+      794,
+      351
+     ]
+    },
+    {
+     "t": "Ferhat",
+     "r": [
+      108,
+      378,
+      804,
+      786
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "1. Sorunu belirleme\n2. Sorun hakkında bilgi toplama\n3. Toplanan bilgilerden yola çıkarak sorunu inceleme\n4. İncelemelerden hareketle çözüm yolları geliştirme\n5. Çözüm yollarını geliştirme ve karar verme\n6. Sorun ile ilgilenecek kişi, kurum veya kuruluşa başvurma\n7. Sorunun çözülüp çözülmediğini takip etme",
+     "fs": 15,
+     "area": [
+      219,
+      896,
+      585,
+      233
+     ],
+     "pill": [
+      823,
+      883
+     ]
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "img": "@IMG:s5-u4/p-43@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bireylerin ve toplumun eğitim,…",
+     "r": [
+      38,
+      0,
+      791,
+      743
+     ]
+    },
+    {
+     "t": "Belirlediğiniz ihtiyaç ve…",
+     "r": [
+      122,
+      715,
+      727,
+      449
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Mahallemizdeki parkta oyun alanlarının bakımsız olması",
+     "fs": 14,
+     "area": [
+      455,
+      831,
+      362,
+      59
+     ],
+     "pill": [
+      837,
+      818
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediye ve muhtarlık genel ağ siteleri, ALO 153, mahalle sakinleri",
+     "fs": 14,
+     "area": [
+      455,
+      938,
+      362,
+      59
+     ],
+     "pill": [
+      843,
+      925
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Parkların bakımından belediyenin sorumlu olduğunu, dilekçe veya ALO 153 ile başvurabileceğimizi öğrendik.",
+     "fs": 13,
+     "area": [
+      455,
+      1046,
+      362,
+      59
+     ],
+     "pill": [
+      837,
+      1033
+     ]
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "img": "@IMG:s5-u4/p-44@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki haber, metin, görsel ve",
+     "r": [
+      81,
+      0,
+      836,
+      1164
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 54,
+   "img": "@IMG:s5-u4/p-45@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Uludereli öğrenciler…",
+     "r": [
+      38,
+      55,
+      791,
+      637
+     ]
+    },
+    {
+     "t": "Başvurunun İletilmesi",
+     "r": [
+      121,
+      664,
+      708,
+      500
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 55,
+   "img": "@IMG:s5-u4/p-46@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Muhtarlık, beledi",
+     "r": [
+      94,
+      86,
+      818,
+      1086
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      352,
+      1100,
+      63,
+      53
+     ],
+     "panel": "kurumlar",
+     "label": "Muhtarlık, belediye ve kaymakamlık gibi kurumların görevleri"
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "img": "@IMG:s5-u4/p-47@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bireysel ve toplumsal…",
+     "r": [
+      95,
+      83,
+      822,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      545,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Sorunları ilgili kurumlara bildirmeli, kurallara uymalı, gönüllü çalışmalara katılmalı ve çevremizi bilinçlendirmeliyiz.",
+     "pill": [
+      634,
+      547
+     ],
+     "qx": 600,
+     "qt": 504,
+     "qb": 565,
+     "qr": 815,
+     "bal": [
+      501,
+      573,
+      420,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      318,
+      429,
+      60,
+      57
+     ],
+     "panel": "kdk",
+     "label": "KDK Çocuk tanıtımı"
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "img": "@IMG:s5-u4/p-48@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı . : Sorunlarımı Çözüyorum",
+     "r": [
+      34,
+      55,
+      781,
+      202
+     ]
+    },
+    {
+     "t": "Önceden belirlediğiniz bir…",
+     "r": [
+      34,
+      229,
+      878,
+      935
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      420,
+      640,
+      420
+     ],
+     "mode": "ink",
+     "text": "... BELEDİYE BAŞKANLIĞINA\nMahallemizdeki parkta bulunan oyun aletleri bozuk ve tehlikeli durumdadır. Çocukların güvenliği için aletlerin onarılması ya da yenilenmesi konusunda gereğinin yapılmasını arz ederim.\n\nAdres: ...         Tarih / İmza\nAd Soyad",
+     "fs": 16,
+     "pill": [
+      738,
+      407
+     ]
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "img": "@IMG:s5-u4/p-49@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      54,
+      879,
+      316
+     ]
+    },
+    {
+     "t": "Belirlediğiniz kurum ve…",
+     "r": [
+      90,
+      342,
+      827,
+      822
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Parktaki bozuk aletler",
+     "fs": 12,
+     "area": [
+      166,
+      539,
+      190,
+      51
+     ],
+     "pill": [
+      304,
+      499
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediye",
+     "fs": 12,
+     "area": [
+      392,
+      539,
+      190,
+      50
+     ],
+     "pill": [
+      518,
+      499
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dilekçe, ALO 153",
+     "fs": 12,
+     "area": [
+      617,
+      539,
+      191,
+      50
+     ],
+     "pill": [
+      743,
+      499
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sokak lambası arızası",
+     "fs": 12,
+     "area": [
+      166,
+      621,
+      190,
+      51
+     ],
+     "pill": [
+      28,
+      608
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediye, elektrik şirketi",
+     "fs": 12,
+     "area": [
+      392,
+      621,
+      190,
+      51
+     ],
+     "pill": [
+      602,
+      497
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "ALO 186, dilekçe",
+     "fs": 12,
+     "area": [
+      618,
+      621,
+      190,
+      51
+     ],
+     "pill": [
+      828,
+      503
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okula ulaşımda servis sorunu",
+     "fs": 12,
+     "area": [
+      166,
+      703,
+      190,
+      51
+     ],
+     "pill": [
+      28,
+      690
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okul idaresi, il millî eğitim",
+     "fs": 12,
+     "area": [
+      392,
+      703,
+      190,
+      51
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dilekçe, MEB ALO 147",
+     "fs": 12,
+     "area": [
+      618,
+      703,
+      190,
+      52
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çevre kirliliği",
+     "fs": 12,
+     "area": [
+      166,
+      785,
+      190,
+      51
+     ],
+     "pill": [
+      28,
+      772
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Çevre müdürlüğü, TEMA",
+     "fs": 12,
+     "area": [
+      392,
+      785,
+      190,
+      51
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "ALO 181, CİMER",
+     "fs": 12,
+     "area": [
+      617,
+      785,
+      191,
+      51
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yaşlı komşunun ihtiyaçları",
+     "fs": 12,
+     "area": [
+      166,
+      867,
+      190,
+      51
+     ],
+     "pill": [
+      28,
+      854
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Muhtarlık, Vefa Programı",
+     "fs": 12,
+     "area": [
+      392,
+      867,
+      190,
+      51
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Telefon, dilekçe",
+     "fs": 12,
+     "area": [
+      618,
+      867,
+      190,
+      51
+     ]
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "img": "@IMG:s5-u4/p-50@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Oluşturduğunuz tablodan hareke",
+     "r": [
+      34,
+      83,
+      878,
+      451
+     ]
+    },
+    {
+     "t": "Kuruma veya kuruluşa nasıl",
+     "r": [
+      34,
+      506,
+      878,
+      662
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Mahallemize kütüphane",
+     "fs": 13,
+     "area": [
+      134,
+      242,
+      297,
+      49
+     ],
+     "pill": [
+      438,
+      187
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediye, kaymakamlık",
+     "fs": 13,
+     "area": [
+      134,
+      353,
+      297,
+      49
+     ],
+     "pill": [
+      384,
+      340
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediye kültür hizmetleri sunar; kaymakamlık ilçedeki kurumları denetler.",
+     "fs": 12,
+     "area": [
+      134,
+      464,
+      298,
+      50
+     ],
+     "pill": [
+      384,
+      517
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dilekçe, e-dilekçe, ALO 153",
+     "fs": 13,
+     "area": [
+      134,
+      574,
+      297,
+      49
+     ],
+     "pill": [
+      384,
+      561
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Okul önünde trafik yoğunluğu",
+     "fs": 13,
+     "area": [
+      517,
+      242,
+      298,
+      49
+     ],
+     "pill": [
+      821,
+      244
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediye, emniyet (trafik)",
+     "fs": 13,
+     "area": [
+      517,
+      353,
+      298,
+      49
+     ],
+     "pill": [
+      803,
+      343
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Belediye yaya geçidi ve işaret yapar; trafik polisi denetler.",
+     "fs": 12,
+     "area": [
+      517,
+      464,
+      298,
+      50
+     ],
+     "pill": [
+      779,
+      454
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dilekçe, ALO 153, CİMER",
+     "fs": 13,
+     "area": [
+      517,
+      574,
+      298,
+      49
+     ],
+     "pill": [
+      821,
+      576
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      755,
+      1091,
+      58,
+      58
+     ],
+     "panel": "rubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "img": "@IMG:s5-u4/p-51@",
+   "section": "Değerler",
+   "steps": [
+    {
+     "t": "4. ÖĞRENME ALANI - DEĞERLER",
+     "r": [
+      38,
+      62,
+      790,
+      816
+     ]
+    },
+    {
+     "t": "Yukarıdaki metinde hangi…",
+     "r": [
+      153,
+      850,
+      675,
+      314
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "9 (Adalet)",
+     "fs": 15,
+     "area": [
+      191,
+      780,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      767
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "3 (Sorumluluk)",
+     "fs": 15,
+     "area": [
+      191,
+      889,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      876
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "6 (Saygı), 3 (Sorumluluk)",
+     "fs": 15,
+     "area": [
+      191,
+      997,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      984
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "4 (Vatanseverlik)",
+     "fs": 15,
+     "area": [
+      191,
+      1105,
+      624,
+      28
+     ],
+     "pill": [
+      777,
+      1092
+     ]
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "img": "@IMG:s5-u4/p-52@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "4. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      34,
+      63,
+      820,
+      646
+     ]
+    },
+    {
+     "t": "Etkin vatandaşların sahip",
+     "r": [
+      147,
+      681,
+      656,
+      483
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Yaşama hakkı",
+     "fs": 12,
+     "area": [
+      241,
+      355,
+      100,
+      28
+     ],
+     "pill": [
+      383,
+      342
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Seyahat, düşünce özgürlüğü",
+     "fs": 12,
+     "area": [
+      145,
+      393,
+      195,
+      57
+     ],
+     "pill": [
+      383,
+      380
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kurallara uymak, ödevleri yapmak",
+     "fs": 12,
+     "area": [
+      145,
+      501,
+      195,
+      90
+     ],
+     "pill": [
+      383,
+      488
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sorunu belirleme, bilgi toplama, çözüm yolu geliştirme",
+     "fs": 11,
+     "area": [
+      602,
+      359,
+      196,
+      90
+     ],
+     "pill": [
+      840,
+      346
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kaymakamlık, CİMER, STK'lar",
+     "fs": 12,
+     "area": [
+      600,
+      552,
+      195,
+      57
+     ],
+     "pill": [
+      838,
+      539
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sınıf başkanı seçimi, dilekçe",
+     "fs": 12,
+     "area": [
+      193,
+      745,
+      196,
+      90
+     ],
+     "pill": [
+      431,
+      732
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Eşitlik, özgürlük, katılım",
+     "fs": 12,
+     "area": [
+      193,
+      904,
+      196,
+      90
+     ],
+     "pill": [
+      431,
+      891
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Demokratik, laik, sosyal, hukuk devleti",
+     "fs": 11,
+     "area": [
+      193,
+      1046,
+      196,
+      90
+     ],
+     "pill": [
+      431,
+      1033
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Haklarını bilir, kurallara uyar",
+     "fs": 12,
+     "area": [
+      560,
+      745,
+      196,
+      123
+     ],
+     "pill": [
+      798,
+      732
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Düzen, güven, dayanışma",
+     "fs": 12,
+     "area": [
+      560,
+      936,
+      195,
+      90
+     ],
+     "pill": [
+      798,
+      923
+     ]
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "img": "@IMG:s5-u4/p-53@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "1. Aşağıdaki tabloda…",
+     "r": [
+      108,
+      83,
+      741,
+      705
+     ]
+    },
+    {
+     "t": "2. Demokrasinin nitelikleri ile…",
+     "r": [
+      123,
+      760,
+      709,
+      404
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      560,
+      220,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "1. → b (hukuk üstünlüğü)\n2. → a (çoğulculuk)\n3. → c (katılım)\n4. → b (hukuk üstünlüğü)\n5. → ç (özgürlük)",
+     "pill": [
+      676,
+      517
+     ],
+     "qx": 416,
+     "qt": 560,
+     "qb": 649,
+     "qr": 837,
+     "bal": [
+      293,
+      637,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1110,
+      220,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) I, III ve IV",
+     "pill": [
+      676,
+      1109
+     ],
+     "qx": 600,
+     "qt": 1110,
+     "qb": 1134,
+     "qr": 820,
+     "bal": [
+      416,
+      1047,
+      420,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "img": "@IMG:s5-u4/p-54@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "3. Aşağıdaki tabloda Mustafa Kemal",
+     "r": [
+      97,
+      83,
+      764,
+      489
+     ]
+    },
+    {
+     "t": "4. Cumhuriyet ve demokrasinin…",
+     "r": [
+      122,
+      544,
+      706,
+      620
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Laik devlet",
+     "fs": 16,
+     "area": [
+      167,
+      250,
+      243,
+      54
+     ],
+     "pill": [
+      411,
+      174
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sosyal devlet",
+     "fs": 16,
+     "area": [
+      167,
+      354,
+      243,
+      54
+     ],
+     "pill": [
+      429,
+      452
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Demokratik devlet",
+     "fs": 16,
+     "area": [
+      167,
+      459,
+      243,
+      54
+     ],
+     "pill": [
+      507,
+      452
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Cumhuriyet bir devlet şeklidir ve halkın kendi kendini yönetmesini sağlar. Demokrasi ise bu yönetimin işleyiş biçimidir; özgürlük, eşitlik ve katılım ilkelerine dayanır. Atatürk, demokrasinin en güzel şekilde cumhuriyetle uygulanabileceğini vurgulamıştır.",
+     "fs": 16,
+     "area": [
+      153,
+      691,
+      649,
+      363
+     ],
+     "pill": [
+      823,
+      678
+     ]
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "img": "@IMG:s5-u4/p-55@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "5. Etkin bir vatandaşın sahip",
+     "r": [
+      122,
+      83,
+      705,
+      292
+     ]
+    },
+    {
+     "t": "Aşağıda örnek olaylar ile bu",
+     "r": [
+      68,
+      347,
+      783,
+      817
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Toplumsal sorunların çözümünde yetkili kişi ve kurumlarla iş birliği yapmaya özen göstermemiştir.",
+     "fs": 14,
+     "area": [
+      135,
+      579,
+      680,
+      77
+     ],
+     "pill": [
+      763,
+      566
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Haklarını korumak için başvuracağı kişi ve kurumları bilmemektedir (fişi saklamamıştır).",
+     "fs": 14,
+     "area": [
+      135,
+      803,
+      680,
+      77
+     ],
+     "pill": [
+      763,
+      790
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yaşadığı toplumun daha yaşanabilir olması için sorumluluklarının bilincinde değildir (kurallara uymamıştır).",
+     "fs": 14,
+     "area": [
+      135,
+      1025,
+      680,
+      77
+     ],
+     "pill": [
+      763,
+      1012
+     ]
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "img": "@IMG:s5-u4/p-56@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "6. Temelinsan hak ve…",
+     "r": [
+      122,
+      83,
+      706,
+      899
+     ]
+    },
+    {
+     "t": "gibi kurumlardan hangilerine…",
+     "r": [
+      122,
+      954,
+      770,
+      210
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Temel insan hakları her insanın doğuştan sahip olduğu, eşitlik ve özgürlüğe dayanan haklardır. Bu hakları korumak devletin görevidir. İnsanın en temel hakkı yaşama hakkıdır ve diğer hakların temelini oluşturur.",
+     "fs": 15,
+     "area": [
+      164,
+      454,
+      651,
+      281
+     ],
+     "pill": [
+      780,
+      441
+     ]
+    },
+    {
+     "area": [
+      700,
+      1028,
+      180,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) I, II ve III",
+     "pill": [
+      752,
+      1021
+     ],
+     "qx": 638,
+     "qt": 1010,
+     "qb": 1112,
+     "qr": 880,
+     "bal": [
+      476,
+      1107,
+      420,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      293,
+      1056,
+      62,
+      59
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      757,
+      1054,
+      60,
+      60
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

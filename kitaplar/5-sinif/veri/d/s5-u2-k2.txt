@@ -1,0 +1,1097 @@
+// 5. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 48–97)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Doğal ve beşerî çevremizdeki değişim (s. 58–69)
+window.BOOK = {
+ "id": "s5-u2-k2",
+ "title": "Doğal ve beşerî çevremizdeki değişim",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s5-u2-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 58,
+   "img": "@IMG:s5-u2/p-11@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      55,
+      878,
+      272
+     ]
+    },
+    {
+     "t": "DOĞAL VE BEŞERİ",
+     "r": [
+      119,
+      299,
+      775,
+      614
+     ]
+    },
+    {
+     "t": "Tabii oğlum. Değişmez mi? Birçok",
+     "r": [
+      122,
+      885,
+      706,
+      279
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 59,
+   "img": "@IMG:s5-u2/p-12@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "Baba, dedemle neler yapardınız?",
+     "r": [
+      34,
+      83,
+      794,
+      244
+     ]
+    },
+    {
+     "t": "Hayır oğlum. O zaman insanlar",
+     "r": [
+      34,
+      299,
+      794,
+      476
+     ]
+    },
+    {
+     "t": "Metinde doğal ve beşeri çevre",
+     "r": [
+      117,
+      747,
+      711,
+      417
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Doğal: göl, dağlar, ağaçlar, kuşlar, balıklar. Beşerî: tarihî köprü ve cami, katlı binalar, fabrikalar, yollar, okul, alışveriş merkezi, siteler.",
+     "fs": 14,
+     "area": [
+      162,
+      816,
+      653,
+      118
+     ],
+     "pill": [
+      778,
+      803
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Dağlar, akarsular, ormanlar, ovalar",
+     "fs": 14,
+     "city": "dogalUnsur",
+     "area": [
+      162,
+      983,
+      653,
+      118
+     ],
+     "pill": [
+      778,
+      970
+     ]
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "img": "@IMG:s5-u2/p-13@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Yaşadığınız çevrenin geçmişi…",
+     "r": [
+      38,
+      55,
+      790,
+      538
+     ]
+    },
+    {
+     "t": "Yaşadığınız çevrede meydana…",
+     "r": [
+      94,
+      565,
+      738,
+      599
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Eskiden mahallede bahçeli evler vardı, çocuklar sokakta oynardı, dere temizdi ve balık tutulurdu.",
+     "fs": 14,
+     "area": [
+      314,
+      301,
+      483,
+      87
+     ],
+     "pill": [
+      816,
+      291
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Bugün katlı binalar ve geniş yollar var, araç sayısı arttı, yeşil alanlar azaldı, parklar ve okullar yapıldı.",
+     "fs": 14,
+     "area": [
+      314,
+      451,
+      483,
+      87
+     ],
+     "pill": [
+      810,
+      438
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ormanlar ve tarım alanları azaldı, dere kirlendi.",
+     "fs": 14,
+     "area": [
+      142,
+      1012,
+      299,
+      86
+     ],
+     "pill": [
+      368,
+      999
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yeni yollar, binalar, alışveriş merkezleri yapıldı.",
+     "fs": 14,
+     "area": [
+      509,
+      1013,
+      299,
+      86
+     ],
+     "pill": [
+      771,
+      1003
+     ]
+    },
+    {
+     "area": [
+      700,
+      612,
+      120,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Nüfus artışı, göç, sanayileşme, şehirleşme, teknolojik gelişmeler ve iklim değişikliği.",
+     "pill": [
+      698,
+      593
+     ],
+     "qx": 108,
+     "qt": 612,
+     "qb": 704,
+     "qr": 820,
+     "bal": [
+      108,
+      687,
+      712,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "img": "@IMG:s5-u2/p-14@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Dağ, ova, vadi, akarsu, göl",
+     "r": [
+      34,
+      55,
+      883,
+      628
+     ]
+    },
+    {
+     "t": "Yaşam alanlarımızda ev,…",
+     "r": [
+      122,
+      655,
+      795,
+      509
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      380,
+      624,
+      140,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Su kaynakları (akarsu, göl), verimli topraklar, düz alanlar, uygun iklim ve savunmaya elverişli yükseltiler.",
+     "city": "yerlesme",
+     "pill": [
+      384,
+      629
+     ],
+     "qx": 106,
+     "qt": 592,
+     "qb": 644,
+     "qr": 524,
+     "bal": [
+      540,
+      553,
+      381,
+      "right",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "img": "@IMG:s5-u2/p-15@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Yaşadığınız ile ait eski ve",
+     "r": [
+      123,
+      83,
+      705,
+      371
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      94,
+      426,
+      734,
+      738
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Doğal çevrede: ormanlar azalmış, akarsular kirlenmiştir. Beşerî çevrede: binalar çoğalmış, yollar genişlemiş, yeni okul ve hastaneler yapılmıştır. Değişimin nedenleri nüfus artışı, göç ve sanayileşmedir.",
+     "fs": 15,
+     "area": [
+      151,
+      928,
+      613,
+      178
+     ],
+     "pill": [
+      821,
+      915
+     ]
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "img": "@IMG:s5-u2/p-16@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıda Konya'nın doğal ve beşeri",
+     "r": [
+      94,
+      83,
+      734,
+      866
+     ]
+    },
+    {
+     "t": "Yaşadığınız ile ait getirmiş…",
+     "r": [
+      89,
+      820,
+      752,
+      344
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      230,
+      808,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Değişen: Meke Gölü'nün suyu çekilmiş, cadde genişlemiş, binalar ve araçlar artmıştır. Değişmeyen: Meke Gölü'nün volkanik konisi ve şehrin konumu.",
+     "pill": [
+      402,
+      810
+     ],
+     "qx": 106,
+     "qt": 790,
+     "qb": 828,
+     "qr": 817,
+     "bal": [
+      90,
+      836,
+      742,
+      "below",
+      1
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Göl suyu, bitki örtüsü, binalar, yollar, nüfus",
+     "fs": 15,
+     "area": [
+      134,
+      1005,
+      323,
+      117
+     ],
+     "pill": [
+      420,
+      962
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Konum, dağlar, volkanik koni, bazı tarihî yapılar",
+     "fs": 15,
+     "area": [
+      493,
+      1005,
+      323,
+      117
+     ],
+     "pill": [
+      833,
+      992
+     ]
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "img": "@IMG:s5-u2/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıda verilen bilgi görselini…",
+     "r": [
+      89,
+      83,
+      768,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      680,
+      990,
+      160,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Petrol sanayi gelişti, nüfus ve yerleşim alanları arttı, ilçe iken il oldu, yollar, okullar ve iş yerleri çoğaldı.",
+     "pill": [
+      714,
+      989
+     ],
+     "qx": 106,
+     "qt": 989,
+     "qb": 1035,
+     "qr": 840,
+     "bal": [
+      85,
+      1093,
+      776,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      680,
+      1022,
+      160,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ilısu Barajı ile baraj gölü oluştu, Hasankeyf'teki bazı eserler taşındı; yeni köprüler, sanayi tesisleri ve üniversite yapıldı.",
+     "pill": [
+      696,
+      1066
+     ],
+     "qx": 106,
+     "qt": 989,
+     "qb": 1085,
+     "qr": 840,
+     "bal": [
+      85,
+      1093,
+      776,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      680,
+      1052,
+      160,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Elektrik üretimi, sulama, ulaşım kolaylığı, turizm ve ticaretin gelişmesi.",
+     "pill": [
+      696,
+      1120
+     ],
+     "qx": 135,
+     "qt": 1048,
+     "qb": 1085,
+     "qr": 840,
+     "bal": [
+      85,
+      1093,
+      776,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      680,
+      1112,
+      160,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Doğal: tarım ve orman alanları azaldı. Beşerî: nüfus, yerleşim alanları, iş imkânları ve eğitim olanakları arttı.",
+     "pill": [
+      696,
+      1153
+     ],
+     "qx": 135,
+     "qt": 1097,
+     "qb": 1215,
+     "qr": 840,
+     "bal": [
+      85,
+      1009,
+      776,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "img": "@IMG:s5-u2/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Doğal ve beşeri çevremizde yaşanan",
+     "r": [
+      122,
+      0,
+      790,
+      370
+     ]
+    },
+    {
+     "t": "Yaşadığınız ile ait eski ve",
+     "r": [
+      34,
+      342,
+      812,
+      822
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Tarım alanları konut ve sanayi alanlarına dönüştü.",
+     "fs": 14,
+     "area": [
+      626,
+      520,
+      192,
+      209
+     ],
+     "pill": [
+      750,
+      456
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ormanlar azaldı, yeşil alanlar küçüldü.",
+     "fs": 14,
+     "area": [
+      381,
+      559,
+      191,
+      209
+     ],
+     "pill": [
+      493,
+      549
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Su kaynakları kirlendi ve azaldı, barajlar yapıldı.",
+     "fs": 14,
+     "area": [
+      132,
+      598,
+      192,
+      210
+     ],
+     "pill": [
+      286,
+      522
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Göçle nüfus arttı.",
+     "fs": 14,
+     "area": [
+      626,
+      836,
+      192,
+      210
+     ],
+     "pill": [
+      744,
+      826
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yollar genişledi, metro ve köprüler yapıldı.",
+     "fs": 14,
+     "area": [
+      381,
+      874,
+      191,
+      210
+     ],
+     "pill": [
+      493,
+      864
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yerleşim alanları genişledi, katlı binalar arttı.",
+     "fs": 14,
+     "area": [
+      133,
+      914,
+      191,
+      209
+     ],
+     "pill": [
+      245,
+      901
+     ]
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "img": "@IMG:s5-u2/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki haberleri okuyunuz ve…",
+     "r": [
+      89,
+      83,
+      828,
+      565
+     ]
+    },
+    {
+     "t": "Görüldüğü üzere çevremizde…",
+     "r": [
+      82,
+      526,
+      750,
+      638
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      470,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Toz fırtınaları, erozyon, kuraklık ve su kaynaklarının azalması gibi olumsuz sonuçlar ortaya çıkmıştır.\nÖrnek: İlimizde ormanlar ve sulak alanlar azalmış, bazı dereler kurumuştur.",
+     "pill": [
+      646,
+      514
+     ],
+     "qx": 106,
+     "qt": 468,
+     "qb": 527,
+     "qr": 820,
+     "bal": [
+      85,
+      535,
+      836,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      600,
+      1105,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ağaç dikmek, suyu ve enerjiyi tasarruflu kullanmak, geri dönüşüme katkı sağlamak, tarihî eserleri korumak, çevre projelerine katılmak.",
+     "pill": [
+      646,
+      1137
+     ],
+     "qx": 408,
+     "qt": 1075,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      276,
+      962,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "img": "@IMG:s5-u2/p-20@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Yaşadığım İldeki Değişim",
+     "r": [
+      34,
+      55,
+      794,
+      523
+     ]
+    },
+    {
+     "t": "Faydalı ve olumlu",
+     "r": [
+      143,
+      550,
+      673,
+      614
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 68,
+   "img": "@IMG:s5-u2/p-21@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki haberi okuyunuz,…",
+     "r": [
+      38,
+      55,
+      792,
+      522
+     ]
+    },
+    {
+     "t": "Yusufeli Barajı'nın yapılma…",
+     "r": [
+      38,
+      549,
+      789,
+      318
+     ]
+    },
+    {
+     "t": "Barajın yapımı doğal ve beşeri",
+     "r": [
+      117,
+      839,
+      710,
+      325
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "Elektrik enerjisi üretmek, Çoruh Nehri'nin suyundan yararlanmak, sulama ve taşkınları önlemek.",
+     "fs": 13,
+     "area": [
+      163,
+      660,
+      527,
+      57
+     ],
+     "pill": [
+      653,
+      647
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Vadi sular altında kaldı (doğal); köyler, yollar ve tarım alanları sular altında kaldı, yeni yerleşim kuruldu (beşerî).",
+     "fs": 13,
+     "area": [
+      163,
+      783,
+      652,
+      57
+     ],
+     "pill": [
+      779,
+      770
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Su kaynakları: baraj gölü oluştu. Bitki örtüsü: ağaçlar sular altında kaldı. Yerleşim: köyler taşındı. Nüfus: halk yeni yerlere göç etti.",
+     "fs": 13,
+     "area": [
+      163,
+      910,
+      652,
+      81
+     ],
+     "pill": [
+      779,
+      897
+     ]
+    },
+    {
+     "area": [
+      600,
+      1050,
+      215,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Olumlu: elektrik üretimi, turizm, yeni yollar ve konutlar. Olumsuz: köylerin taşınması, tarım alanlarının ve tarihî yerlerin sular altında kalması.",
+     "pill": [
+      640,
+      1049
+     ],
+     "qx": 600,
+     "qt": 1030,
+     "qb": 1070,
+     "qr": 815,
+     "bal": [
+      271,
+      1078,
+      560,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      137,
+      1088,
+      64,
+      55
+     ],
+     "panel": "degisim",
+     "label": "Doğal ve Beşerî Çevrede Değişim"
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "img": "@IMG:s5-u2/p-22@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Yaşadığınız ile ait eski ve",
+     "r": [
+      122,
+      83,
+      706,
+      289
+     ]
+    },
+    {
+     "t": "Beşeri çevrenizde yaşanan…",
+     "r": [
+      129,
+      344,
+      783,
+      820
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "mode": "ink",
+     "text": "İklim değişikliği",
+     "fs": 13,
+     "area": [
+      141,
+      565,
+      298,
+      28
+     ],
+     "pill": [
+      367,
+      558
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Kuraklık",
+     "fs": 13,
+     "area": [
+      158,
+      605,
+      281,
+      28
+     ],
+     "pill": [
+      510,
+      559
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Doğal afetler",
+     "fs": 13,
+     "area": [
+      185,
+      646,
+      254,
+      28
+     ],
+     "pill": [
+      291,
+      558
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Ormanlar azaldı",
+     "fs": 13,
+     "area": [
+      510,
+      565,
+      299,
+      28
+     ],
+     "pill": [
+      784,
+      552
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Su kaynakları azaldı",
+     "fs": 13,
+     "area": [
+      510,
+      605,
+      282,
+      28
+     ],
+     "pill": [
+      796,
+      595
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Erozyon arttı",
+     "fs": 13,
+     "area": [
+      510,
+      646,
+      254,
+      28
+     ],
+     "pill": [
+      778,
+      636
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Nüfus artışı, göç",
+     "fs": 13,
+     "area": [
+      141,
+      768,
+      298,
+      28
+     ],
+     "pill": [
+      367,
+      761
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Sanayileşme",
+     "fs": 13,
+     "area": [
+      158,
+      808,
+      281,
+      28
+     ],
+     "pill": [
+      510,
+      762
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Şehirleşme",
+     "fs": 13,
+     "area": [
+      185,
+      848,
+      254,
+      28
+     ],
+     "pill": [
+      369,
+      889
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Katlı binalar arttı",
+     "fs": 13,
+     "area": [
+      510,
+      768,
+      299,
+      28
+     ],
+     "pill": [
+      748,
+      755
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Yollar genişledi",
+     "fs": 13,
+     "area": [
+      510,
+      808,
+      282,
+      28
+     ],
+     "pill": [
+      826,
+      795
+     ]
+    },
+    {
+     "mode": "ink",
+     "text": "Tarım alanları azaldı",
+     "fs": 13,
+     "area": [
+      510,
+      848,
+      254,
+      28
+     ],
+     "pill": [
+      808,
+      835
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      1078,
+      55,
+      52
+     ],
+     "panel": "baliktrubrik",
+     "label": "Dereceli puanlama anahtarı"
+    }
+   ]
+  }
+ ]
+};
