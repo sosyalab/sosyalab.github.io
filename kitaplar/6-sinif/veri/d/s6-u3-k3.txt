@@ -1,0 +1,1244 @@
+// 6. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 106–179)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: İSLAMİYET'İN KABULÜYLE (s. 142–159)
+window.BOOK = {
+ "id": "s6-u3-k3",
+ "title": "İslamiyet'in kabulüyle Türklerin sosyal ve kültürel hayatındaki değişimler",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u3-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 142,
+   "img": "@IMG:s6-u3/p-37@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "İSLAMİYET'İN KABULÜYLE",
+     "r": [
+      38,
+      55,
+      819,
+      559
+     ]
+    },
+    {
+     "t": "Akrabalık",
+     "r": [
+      115,
+      586,
+      740,
+      578
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      219,
+      461,
+      450,
+      101
+     ],
+     "mode": "ink",
+     "text": "Birlikte iftar ve sahur yaparız, büyüklerimize saygı gösteririz, bayramlarda el öperiz.",
+     "pill": [
+      631,
+      358
+     ]
+    },
+    {
+     "area": [
+      219,
+      641,
+      450,
+      101
+     ],
+     "mode": "ink",
+     "text": "Arkadaşlarıma yardım ederim, yalan söylemem, komşularımızla yemek paylaşırız.",
+     "pill": [
+      631,
+      598
+     ]
+    },
+    {
+     "area": [
+      219,
+      820,
+      450,
+      101
+     ],
+     "mode": "ink",
+     "text": "Bayramlarda akraba ziyareti yaparız, hasta akrabalarımızı ziyaret ederiz.",
+     "pill": [
+      631,
+      777
+     ]
+    },
+    {
+     "area": [
+      219,
+      993,
+      450,
+      101
+     ],
+     "mode": "ink",
+     "text": "Mahallede cuma ve bayram namazında buluşuruz, ihtiyaç sahiplerine yardım ederiz.",
+     "pill": [
+      631,
+      950
+     ]
+    }
+   ]
+  },
+  {
+   "n": 143,
+   "img": "@IMG:s6-u3/p-38@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "İslamiyet ile ilgili bazı…",
+     "r": [
+      34,
+      55,
+      794,
+      401
+     ]
+    },
+    {
+     "t": "8) Resfebe şeklinde verilen…",
+     "r": [
+      87,
+      428,
+      741,
+      736
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      144,
+      313,
+      219,
+      48
+     ],
+     "mode": "ink",
+     "text": "MİNARE",
+     "pill": [
+      322,
+      327
+     ]
+    },
+    {
+     "area": [
+      500,
+      313,
+      219,
+      48
+     ],
+     "mode": "ink",
+     "text": "HELAL",
+     "pill": [
+      690,
+      291
+     ]
+    },
+    {
+     "area": [
+      144,
+      526,
+      219,
+      48
+     ],
+     "mode": "ink",
+     "text": "SEVAP",
+     "pill": [
+      328,
+      531
+     ]
+    },
+    {
+     "area": [
+      500,
+      526,
+      219,
+      48
+     ],
+     "mode": "ink",
+     "text": "SADAKA",
+     "pill": [
+      684,
+      531
+     ]
+    },
+    {
+     "area": [
+      144,
+      738,
+      219,
+      48
+     ],
+     "mode": "ink",
+     "text": "ZEKÂT",
+     "pill": [
+      328,
+      755
+     ]
+    },
+    {
+     "area": [
+      500,
+      738,
+      219,
+      48
+     ],
+     "mode": "ink",
+     "text": "BAYRAM",
+     "pill": [
+      684,
+      716
+     ]
+    },
+    {
+     "area": [
+      144,
+      954,
+      219,
+      48
+     ],
+     "mode": "ink",
+     "text": "KUTSAL",
+     "pill": [
+      328,
+      956
+     ]
+    },
+    {
+     "area": [
+      500,
+      954,
+      219,
+      48
+     ],
+     "mode": "ink",
+     "text": "İBADET",
+     "pill": [
+      684,
+      956
+     ]
+    },
+    {
+     "area": [
+      138,
+      1039,
+      675,
+      48
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Bayram, sadaka, zekât, helal, sevap ve ibadet günlük hayatımızda sıkça kullandığımız kavramlardır. İslamiyet; bayramlarda akraba ziyaretleri, ihtiyaç sahiplerine yardım, helal kazanç, dürüstlük, temizlik ve komşuluk ilişkileri gibi alanlarda günlük hayatımızı etkiler.",
+     "pill": [
+      418,
+      1026
+     ],
+     "qx": 99,
+     "qt": 1039,
+     "qb": 1123,
+     "qr": 816,
+     "bal": [
+      83,
+      901,
+      749,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 144,
+   "img": "@IMG:s6-u3/p-39@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Öğretmeninizin rehberliğinde…",
+     "r": [
+      38,
+      55,
+      790,
+      279
+     ]
+    },
+    {
+     "t": "İslamiyet öncesi Türk…",
+     "r": [
+      38,
+      306,
+      790,
+      858
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      881,
+      675,
+      38
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Anıtkabir (Atatürk, Ankara), İnönü Anıt Mezarı (Ankara), Anıt Mezar ve Demokrasi Müzesi'ndeki (Adnan Menderes, Fatin Rüştü Zorlu, Hasan Polatkan; İstanbul Topkapı) ve Turgut Özal'ın anıt mezarı (İstanbul) bu mezarlara örnektir.",
+     "pill": [
+      412,
+      928
+     ],
+     "qx": 107,
+     "qt": 741,
+     "qb": 925,
+     "qr": 816,
+     "bal": [
+      34,
+      933,
+      798,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 145,
+   "img": "@IMG:s6-u3/p-40@",
+   "steps": [
+    {
+     "t": "Asya Hun Devleti ve Göktürklerde",
+     "r": [
+      94,
+      22,
+      818,
+      1142
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      1000,
+      413,
+      63
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Uygurlar Maniheizm'i benimseyerek et yemeyi ve savaşçılığı bırakmış, yerleşik hayata geçmiştir. Bu nedenle tarım yapmış, şehirler, tapınaklar ve kütüphaneler kurmuşlardır. Kâğıt ve matbaa kullanmaları, minyatür ve mimarinin gelişmesi diğer Türk devletlerinden farklılaşmalarını sağlamıştır.",
+     "pill": [
+      280,
+      966
+     ],
+     "qx": 106,
+     "qt": 995,
+     "qb": 1121,
+     "qr": 558,
+     "bal": [
+      574,
+      892,
+      342,
+      "right",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      498,
+      1064,
+      59,
+      59
+     ],
+     "panel": "ergenekon",
+     "label": "Ergenekon Destanı"
+    }
+   ]
+  },
+  {
+   "n": 146,
+   "img": "@IMG:s6-u3/p-41@",
+   "steps": [
+    {
+     "t": "İslamiyet'in Kabulünden Sonraki…",
+     "r": [
+      122,
+      81,
+      706,
+      546
+     ]
+    },
+    {
+     "t": "Türklerin İslamiyet öncesi…",
+     "r": [
+      38,
+      525,
+      791,
+      639
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      163,
+      394,
+      650,
+      44
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Emeviler Arap olmayan Müslümanları (mevali) Araplardan aşağı görmüş, onlara eşit davranmamıştır. Abbasiler ise Arap olan ve olmayan Müslümanlar arasında ayrım yapmamış, eşitlik ve adalet politikası izlemiştir. Bu nedenle Türkler Abbasileri desteklemiş ve İslamiyet'i daha hızlı kabul etmiştir.",
+     "pill": [
+      425,
+      390
+     ],
+     "qx": 136,
+     "qt": 293,
+     "qb": 456,
+     "qr": 816,
+     "bal": [
+      118,
+      464,
+      714,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      363,
+      913,
+      450,
+      38
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ulaşımda, hayvancılıkta (sürüleri yönetmek), savaşta binek ve savaş aracı olarak, ekonomide değerli bir mal ve zenginlik ölçüsü olarak, ticarette (at satışı) ve sanatta (halı ve kilimlerdeki at figürleri) attan yararlanmışlardır.",
+     "pill": [
+      523,
+      939
+     ],
+     "qx": 336,
+     "qt": 913,
+     "qb": 954,
+     "qr": 817,
+     "bal": [
+      336,
+      962,
+      481,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 147,
+   "img": "@IMG:s6-u3/p-42@",
+   "steps": [
+    {
+     "t": "VİL yüzyılın sonlarında…",
+     "r": [
+      94,
+      28,
+      823,
+      840
+     ]
+    },
+    {
+     "t": "Kaynak",
+     "r": [
+      102,
+      840,
+      814,
+      324
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      381,
+      588,
+      38
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Mevlâna Türbesi (Konya), Hacı Bektaş Veli Türbesi (Nevşehir), Zincirkıran Mehmet Bey Türbesi (Antalya), Döner Kümbet (Kayseri), Emir Saltuk Kümbetleri (Erzurum), Halime Hatun Kümbeti (Gevaş), Ahlat Selçuklu Mezarlığı (Bitlis).",
+     "pill": [
+      376,
+      353
+     ],
+     "qx": 106,
+     "qt": 241,
+     "qb": 559,
+     "qr": 904,
+     "bal": [
+      90,
+      472,
+      831,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 148,
+   "img": "@IMG:s6-u3/p-43@",
+   "steps": [
+    {
+     "t": "İlk Türk devletlerinde yaygın olan",
+     "r": [
+      122,
+      0,
+      794,
+      518
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      101,
+      490,
+      815,
+      684
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      135,
+      1098,
+      57,
+      57
+     ],
+     "panel": "dedekorkut",
+     "label": "Dede Korkut hikâyeleri"
+    }
+   ]
+  },
+  {
+   "n": 149,
+   "img": "@IMG:s6-u3/p-44@",
+   "steps": [
+    {
+     "t": "İslamiyet'in kabulünden sonra…",
+     "r": [
+      122,
+      83,
+      706,
+      325
+     ]
+    },
+    {
+     "t": "Yusuf Has Hâcib, Kutadgu Bilig",
+     "r": [
+      122,
+      380,
+      707,
+      784
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      757,
+      898,
+      60,
+      60
+     ],
+     "panel": "divanu",
+     "label": "Divanü Lügati't-Türk"
+    }
+   ]
+  },
+  {
+   "n": 150,
+   "img": "@IMG:s6-u3/p-45@",
+   "steps": [
+    {
+     "t": "Aşağıdaki tabloları tahtaya…",
+     "r": [
+      103,
+      84,
+      747,
+      545
+     ]
+    },
+    {
+     "t": "Tablo 2 : İslamiyet'in Kabulü",
+     "r": [
+      94,
+      601,
+      756,
+      563
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      119,
+      281,
+      338,
+      101
+     ],
+     "mode": "ink",
+     "text": "Konargöçer yaşam, hayvancılık, çadır (otağ), at kültürü, töre ve askerî yaşam",
+     "pill": [
+      39,
+      268
+     ]
+    },
+    {
+     "area": [
+      488,
+      281,
+      338,
+      101
+     ],
+     "mode": "ink",
+     "text": "Kerpiç ve ahşap evler; Uygurlarda tapınak ve şehirler; anıt mezar (kurgan)",
+     "pill": [
+      846,
+      268
+     ]
+    },
+    {
+     "area": [
+      119,
+      461,
+      338,
+      101
+     ],
+     "mode": "ink",
+     "text": "Taşınabilir eşyalarda hayvan motifleri, balballar, Pazırık halısı, Uygur minyatürü",
+     "pill": [
+      423,
+      598
+     ]
+    },
+    {
+     "area": [
+      488,
+      461,
+      338,
+      101
+     ],
+     "mode": "ink",
+     "text": "Göktürk ve Uygur alfabesi, Orhun Kitabeleri, destanlar, Uygur matbaası",
+     "pill": [
+      846,
+      448
+     ]
+    },
+    {
+     "area": [
+      119,
+      758,
+      338,
+      101
+     ],
+     "mode": "ink",
+     "text": "Şehirler ve yerleşik hayat yaygınlaştı; ticaret ve esnaflık gelişti, vakıflar kuruldu",
+     "pill": [
+      39,
+      745
+     ]
+    },
+    {
+     "area": [
+      488,
+      758,
+      338,
+      101
+     ],
+     "mode": "ink",
+     "text": "Cami, medrese, türbe, kervansaray (ribat), hamam ve hastaneler",
+     "pill": [
+      846,
+      745
+     ]
+    },
+    {
+     "area": [
+      119,
+      938,
+      338,
+      101
+     ],
+     "mode": "ink",
+     "text": "Hat, tezhip, ebru, çini; geometrik ve bitkisel süslemeler",
+     "pill": [
+      39,
+      925
+     ]
+    },
+    {
+     "area": [
+      488,
+      938,
+      338,
+      101
+     ],
+     "mode": "ink",
+     "text": "Arap alfabesi; Arapça-Farsça kelimeler; Kutadgu Bilig, Divanü Lügati't-Türk, menkıbeler",
+     "pill": [
+      846,
+      925
+     ]
+    },
+    {
+     "area": [
+      138,
+      1086,
+      675,
+      48
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İslamiyet'in kabulüyle Türkler konargöçer yaşamdan yerleşik hayata geçmeye başlamış, şehirler kurmuştur. Kurgan yerine türbe, çadır yerine cami, medrese ve kervansaray gibi kalıcı yapılar inşa etmişlerdir. Sanatta hat ve tezhip gelişmiş, Arap alfabesi benimsenmiş, Türkçeye Arapça ve Farsça kelimeler girmiştir. Vakıf geleneğiyle dayanışma ve yardımlaşma güçlenmiştir.",
+     "pill": [
+      316,
+      1130
+     ],
+     "qx": 106,
+     "qt": 1086,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      90,
+      923,
+      764,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 151,
+   "img": "@IMG:s6-u3/p-46@",
+   "steps": [
+    {
+     "t": "İLK MÜSLÜMAN TÜRK DEVLETLERİ",
+     "r": [
+      91,
+      80,
+      771,
+      496
+     ]
+    },
+    {
+     "t": "Karahanlı Devleti",
+     "r": [
+      112,
+      548,
+      726,
+      616
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 152,
+   "img": "@IMG:s6-u3/p-47@",
+   "steps": [
+    {
+     "t": "Karahanlılar Dönemi'nin sosyal…",
+     "r": [
+      94,
+      83,
+      755,
+      516
+     ]
+    },
+    {
+     "t": "Kaşgarlı Mahmud'un Divanü…",
+     "r": [
+      85,
+      431,
+      743,
+      539
+     ]
+    },
+    {
+     "t": "Yusuf Has Hâcib, Kutadgu Bilig",
+     "r": [
+      139,
+      833,
+      688,
+      331
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      364,
+      688,
+      63
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Benzerlik: Karahanlı Dönemi'nde de halkın büyük kısmı çobanlık ve hayvancılık yapmış, meralar önemini korumuştur. Farklılık: Karahanlılar Müslüman olduktan sonra Semerkant, Buhara ve Kaşgar gibi şehirler gelişmiş; ticaret ve şehir hayatı yaygınlaşmıştır. Toprağı ekip biçmekle uğraşmayan konargöçerler yanında yerleşik halk da artmıştır.",
+     "pill": [
+      405,
+      342
+     ],
+     "qx": 106,
+     "qt": 364,
+     "qb": 428,
+     "qr": 816,
+     "bal": [
+      90,
+      436,
+      763,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      338,
+      786,
+      313,
+      63
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Türkler 11. yüzyılda coğrafya ve haritacılıkta (dünyanın yuvarlak olduğunu bilmeleri), dil biliminde (Türkçenin ilk sözlüğü), takvim ve astronomide (On İki Hayvanlı Türk Takvimi) gelişme göstermiştir.",
+     "pill": [
+      408,
+      845
+     ],
+     "qx": 164,
+     "qt": 646,
+     "qb": 849,
+     "qr": 816,
+     "bal": [
+      81,
+      857,
+      751,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      338,
+      1039,
+      313,
+      63
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kut anlayışının İslamiyet'ten sonra da devam ettiği, hükümdarın halka karşı sorumlu olduğu ve devletin adaletle yönetilmesi gerektiği; yöneticilerin halka hizmet etmesi ve halkın da yöneticilere itaat etmesi gerektiği bilgisi verilmektedir.",
+     "pill": [
+      432,
+      1095
+     ],
+     "qx": 151,
+     "qt": 899,
+     "qb": 1215,
+     "qr": 815,
+     "bal": [
+      135,
+      841,
+      696,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 153,
+   "img": "@IMG:s6-u3/p-48@",
+   "steps": [
+    {
+     "t": "Gazneliler",
+     "r": [
+      98,
+      83,
+      755,
+      312
+     ]
+    },
+    {
+     "t": "Hlümatüy a Piğlf",
+     "r": [
+      98,
+      367,
+      755,
+      797
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 154,
+   "img": "@IMG:s6-u3/p-49@",
+   "steps": [
+    {
+     "t": "Büyük Selçuklular",
+     "r": [
+      93,
+      83,
+      757,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      680,
+      688,
+      48
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Büyük Selçuklular, İslamiyet'in Anadolu'ya yayılmasını sağlamıştır. Malazgirt Savaşı'ndan (1071) sonra Anadolu kapıları Türklere açılmış ve Anadolu bir Türk-İslam yurdu hâline gelmiştir.",
+     "pill": [
+      567,
+      766
+     ],
+     "qx": 105,
+     "qt": 540,
+     "qb": 728,
+     "qr": 837,
+     "bal": [
+      89,
+      736,
+      765,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 155,
+   "img": "@IMG:s6-u3/p-50@",
+   "steps": [
+    {
+     "t": "Tuğrul Bey'den sonra tahta geçen",
+     "r": [
+      112,
+      83,
+      804,
+      679
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      111,
+      734,
+      805,
+      430
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 156,
+   "img": "@IMG:s6-u3/p-51@",
+   "section": "Haber",
+   "steps": [
+    {
+     "t": "Verilen genel ağ haberlerinde…",
+     "r": [
+      83,
+      28,
+      745,
+      839
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      38,
+      839,
+      702,
+      325
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 157,
+   "img": "@IMG:s6-u3/p-52@",
+   "steps": [
+    {
+     "t": "Obruk Gölü manzaralı…",
+     "r": [
+      95,
+      15,
+      817,
+      623
+     ]
+    },
+    {
+     "t": "Türklerin İslamiyet'i kabulüyle…",
+     "r": [
+      111,
+      610,
+      727,
+      554
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      851,
+      325,
+      250
+     ],
+     "mode": "ink",
+     "text": "• Cami, medrese, kervansaray inşa edildi\n• İslami isim ve unvanlar kullanıldı\n• Hat, tezhip, çini sanatları gelişti\n• Yerleşik hayat ve şehirler yaygınlaştı",
+     "pill": [
+      375,
+      838
+     ]
+    },
+    {
+     "area": [
+      500,
+      851,
+      325,
+      250
+     ],
+     "mode": "ink",
+     "text": "• Büyük Çamlıca Camii gibi yeni camiler\n• Kervansaraylar otel olarak kullanılıyor\n• Yusuf, Zeynep gibi isimler hâlâ en çok tercih ediliyor\n• Hat, çini sanatları yaşatılıyor",
+     "pill": [
+      750,
+      838
+     ]
+    }
+   ]
+  },
+  {
+   "n": 158,
+   "img": "@IMG:s6-u3/p-53@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      54,
+      879,
+      657
+     ]
+    },
+    {
+     "t": "Eşleştirme oyunu Derecelendirme…",
+     "r": [
+      122,
+      683,
+      706,
+      496
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      350,
+      606,
+      450,
+      48
+     ],
+     "mode": "ink",
+     "text": "Bozkırdan Şehre",
+     "pill": [
+      822,
+      593
+     ]
+    },
+    {
+     "area": [
+      138,
+      743,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Karahanlı Dönemi'nde İslamiyet'i kabul eden bir ailenin yerleşik hayata geçişi",
+     "pill": [
+      820,
+      730
+     ]
+    },
+    {
+     "area": [
+      138,
+      855,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Konargöçer çoban Aybars, babası, medrese hocası Yusuf Efendi",
+     "pill": [
+      820,
+      842
+     ]
+    },
+    {
+     "area": [
+      138,
+      969,
+      650,
+      70
+     ],
+     "mode": "ink",
+     "text": "Aile birliği, yardımlaşma, ilme saygı, dürüstlük, vatan sevgisi",
+     "pill": [
+      718,
+      956
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      134,
+      1096,
+      60,
+      60
+     ],
+     "panel": "eslestirme",
+     "label": "Eşleştirme oyunu"
+    },
+    {
+     "area": [
+      597,
+      1097,
+      63,
+      63
+     ],
+     "panel": "hikaye",
+     "label": "Derecelendirme ölçeği"
+    }
+   ]
+  },
+  {
+   "n": 159,
+   "img": "@IMG:s6-u3/p-54@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "İslamiyet'in kabulüyle…",
+     "r": [
+      34,
+      55,
+      794,
+      879
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      123,
+      906,
+      703,
+      258
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      144,
+      726,
+      263,
+      141
+     ],
+     "mode": "ink",
+     "text": "2, 6, 7",
+     "pill": [
+      370,
+      713
+     ]
+    },
+    {
+     "area": [
+      500,
+      726,
+      263,
+      141
+     ],
+     "mode": "ink",
+     "text": "1, 4, 11",
+     "pill": [
+      726,
+      713
+     ]
+    },
+    {
+     "area": [
+      144,
+      976,
+      263,
+      141
+     ],
+     "mode": "ink",
+     "text": "5, 9, 10",
+     "pill": [
+      370,
+      963
+     ]
+    },
+    {
+     "area": [
+      500,
+      976,
+      263,
+      141
+     ],
+     "mode": "ink",
+     "text": "3, 8, 12",
+     "pill": [
+      726,
+      963
+     ]
+    }
+   ]
+  }
+ ]
+};

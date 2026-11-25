@@ -1,0 +1,1181 @@
+// 6. Sınıf Sosyal Bilgiler · 5. Öğrenme Alanı: Hayatımızdaki Ekonomi (s. 46–85)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Ekonomik faaliyetler ve meslekler (s. 64–73)
+window.BOOK = {
+ "id": "s6-u5-k2",
+ "title": "Ekonomik faaliyetler ve meslekler",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u5-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 64,
+   "img": "@IMG:s6-u5/p-19@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "EKONOMİK FAALİYETLER",
+     "r": [
+      38,
+      55,
+      819,
+      633
+     ]
+    },
+    {
+     "t": "Balıkçılık Ormancılık )…",
+     "r": [
+      94,
+      660,
+      721,
+      504
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      365,
+      155,
+      450,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ekonomik faaliyetler, insanların ihtiyaçlarını karşılamak ve gelir elde etmek için yaptıkları üretim, dağıtım ve tüketim çalışmalarıdır. Örnekler: tarım, hayvancılık, ormancılık, madencilik, balıkçılık, sanayi, ticaret, ulaşım, turizm ve hizmet.",
+     "pill": [
+      525,
+      148
+     ],
+     "qx": 186,
+     "qt": 74,
+     "qb": 203,
+     "qr": 816,
+     "bal": [
+      186,
+      211,
+      630,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      573,
+      575,
+      60,
+      30
+     ],
+     "mode": "ink",
+     "text": "1-G",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      631,
+      454
+     ]
+    },
+    {
+     "area": [
+      766,
+      575,
+      60,
+      30
+     ],
+     "mode": "ink",
+     "text": "6-E",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      848,
+      562
+     ]
+    },
+    {
+     "area": [
+      286,
+      745,
+      60,
+      30
+     ],
+     "mode": "ink",
+     "text": "8-C",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      128,
+      732
+     ]
+    },
+    {
+     "area": [
+      479,
+      745,
+      60,
+      30
+     ],
+     "mode": "ink",
+     "text": "4-D",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      639,
+      801
+     ]
+    },
+    {
+     "area": [
+      674,
+      745,
+      60,
+      30
+     ],
+     "mode": "ink",
+     "text": "5-Ğ",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      756,
+      732
+     ]
+    },
+    {
+     "area": [
+      193,
+      916,
+      60,
+      30
+     ],
+     "mode": "ink",
+     "text": "9-F",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      215,
+      969
+     ]
+    },
+    {
+     "area": [
+      385,
+      916,
+      60,
+      30
+     ],
+     "mode": "ink",
+     "text": "2-B",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      407,
+      969
+     ]
+    },
+    {
+     "area": [
+      576,
+      916,
+      60,
+      30
+     ],
+     "mode": "ink",
+     "text": "7-A",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      664,
+      903
+     ]
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "img": "@IMG:s6-u5/p-20@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Merhaba, ben Küb",
+     "r": [
+      34,
+      0,
+      883,
+      802
+     ]
+    },
+    {
+     "t": "Gelecekte yapmayı düşündüğünüz…",
+     "r": [
+      104,
+      774,
+      742,
+      390
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      666,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Dede",
+     "pill": [
+      290,
+      632
+     ]
+    },
+    {
+     "area": [
+      130,
+      704,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Baba",
+     "pill": [
+      260,
+      772
+     ]
+    },
+    {
+     "area": [
+      130,
+      741,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Teyze",
+     "pill": [
+      182,
+      773
+     ]
+    },
+    {
+     "area": [
+      374,
+      666,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Çiftçi",
+     "pill": [
+      546,
+      632
+     ]
+    },
+    {
+     "area": [
+      374,
+      704,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Balıkçı",
+     "pill": [
+      510,
+      778
+     ]
+    },
+    {
+     "area": [
+      374,
+      741,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Otel işletmecisi",
+     "pill": [
+      588,
+      773
+     ]
+    },
+    {
+     "area": [
+      618,
+      666,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Tarım",
+     "pill": [
+      772,
+      632
+     ]
+    },
+    {
+     "area": [
+      618,
+      704,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Balıkçılık",
+     "pill": [
+      820,
+      691
+     ]
+    },
+    {
+     "area": [
+      618,
+      741,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Turizm",
+     "pill": [
+      820,
+      728
+     ]
+    },
+    {
+     "area": [
+      125,
+      820,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Doktor olmak istiyorum; bu meslek hizmet sektöründe yer alır. Mühendis olursam sanayide makine ve araç tasarlayabilirim. Yazılımcı olarak teknoloji ve bilişim alanında, ziraat mühendisi olarak ise tarım alanında çalışabilirim.",
+     "pill": [
+      411,
+      852
+     ],
+     "qx": 125,
+     "qt": 810,
+     "qb": 850,
+     "qr": 816,
+     "bal": [
+      100,
+      858,
+      750,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      1100,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Yapay zekâ mühendisliği, veri analistliği, siber güvenlik uzmanlığı, dron pilotluğu, robot teknisyenliği, dijital içerik üreticiliği, yenilenebilir enerji (güneş, rüzgâr) teknisyenliği, akıllı tarım uzmanlığı ve uzay teknolojileri gibi alanlar ortaya çıkabilir.",
+     "pill": [
+      411,
+      1069
+     ],
+     "qx": 125,
+     "qt": 1099,
+     "qb": 1212,
+     "qr": 816,
+     "bal": [
+      100,
+      961,
+      750,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "img": "@IMG:s6-u5/p-21@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Meslek; belli bir eğitim ile",
+     "r": [
+      38,
+      55,
+      805,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      180,
+      330,
+      250,
+      28
+     ],
+     "mode": "ink",
+     "text": "Öğretmen",
+     "pill": [
+      436,
+      308
+     ]
+    },
+    {
+     "area": [
+      180,
+      376,
+      250,
+      28
+     ],
+     "mode": "ink",
+     "text": "Aşçı",
+     "pill": [
+      436,
+      276
+     ]
+    },
+    {
+     "area": [
+      180,
+      421,
+      250,
+      28
+     ],
+     "mode": "ink",
+     "text": "Ziraat mühendisi",
+     "pill": [
+      394,
+      471
+     ]
+    },
+    {
+     "area": [
+      510,
+      330,
+      250,
+      28
+     ],
+     "mode": "ink",
+     "text": "Hizmet (eğitim)",
+     "pill": [
+      802,
+      308
+     ]
+    },
+    {
+     "area": [
+      510,
+      376,
+      250,
+      28
+     ],
+     "mode": "ink",
+     "text": "Turizm",
+     "pill": [
+      838,
+      363
+     ]
+    },
+    {
+     "area": [
+      510,
+      421,
+      250,
+      28
+     ],
+     "mode": "ink",
+     "text": "Tarım",
+     "pill": [
+      838,
+      408
+     ]
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "img": "@IMG:s6-u5/p-22@",
+   "steps": [
+    {
+     "t": "Ülkemizde birçok tarihi varlık ve",
+     "r": [
+      35,
+      87,
+      877,
+      853
+     ]
+    },
+    {
+     "t": "Hayvancılığa dayalı meslekler…",
+     "r": [
+      122,
+      912,
+      790,
+      252
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 68,
+   "img": "@IMG:s6-u5/p-23@",
+   "steps": [
+    {
+     "t": "Ülkemizde verimli ovalar…",
+     "r": [
+      38,
+      62,
+      790,
+      816
+     ]
+    },
+    {
+     "t": "Verilen haberde olduğu gibi…",
+     "r": [
+      122,
+      850,
+      706,
+      314
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      393,
+      442,
+      65,
+      65
+     ],
+     "panel": "meslekler",
+     "label": "Ekonomik faaliyetler ve meslekler"
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "img": "@IMG:s6-u5/p-24@",
+   "steps": [
+    {
+     "t": "Verilen görsellerin hangi…",
+     "r": [
+      100,
+      83,
+      749,
+      553
+     ]
+    },
+    {
+     "t": "Pazarlamacı",
+     "r": [
+      100,
+      608,
+      750,
+      561
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      285,
+      327,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Tarım",
+     "pill": [
+      415,
+      368
+     ]
+    },
+    {
+     "area": [
+      470,
+      327,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Ulaşım",
+     "pill": [
+      660,
+      314
+     ]
+    },
+    {
+     "area": [
+      285,
+      561,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Sanayi",
+     "pill": [
+      415,
+      596
+     ]
+    },
+    {
+     "area": [
+      470,
+      561,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Turizm",
+     "pill": [
+      654,
+      560
+     ]
+    },
+    {
+     "area": [
+      285,
+      796,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Hizmet (sağlık)",
+     "pill": [
+      415,
+      831
+     ]
+    },
+    {
+     "area": [
+      470,
+      796,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Ticaret",
+     "pill": [
+      654,
+      795
+     ]
+    },
+    {
+     "area": [
+      285,
+      1030,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Ormancılık",
+     "pill": [
+      367,
+      1062
+     ]
+    },
+    {
+     "area": [
+      470,
+      1030,
+      165,
+      26
+     ],
+     "mode": "ink",
+     "text": "Madencilik",
+     "pill": [
+      660,
+      1017
+     ]
+    },
+    {
+     "area": [
+      125,
+      90,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "İşaretlenecek meslekler",
+     "text": "Tarım: Ziraat Mühendisi, Çiftçi\nUlaşım: Vatman, Taksici (Hostes de olabilir)\nSanayi: Makine Mühendisi, Fabrika İşçisi, Moda Tasarımcısı\nTurizm: Turist Rehberi\nHizmet (sağlık): Diş Hekimi\nTicaret: Pazarlamacı, Kuyumcu\nOrmancılık: Keresteci\nMadencilik: Maden İşçisi, Maden Mühendisi",
+     "pill": [
+      363,
+      68
+     ],
+     "qx": 125,
+     "qt": 90,
+     "qb": 134,
+     "qr": 819,
+     "bal": [
+      96,
+      142,
+      757,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      754,
+      1087,
+      63,
+      63
+     ],
+     "panel": "eslestirme",
+     "label": "Ekonomik faaliyetler ve meslekler eşleştirme oyunu"
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "img": "@IMG:s6-u5/p-25@",
+   "steps": [
+    {
+     "t": "Teknolojik gelişmeler, üretim…",
+     "r": [
+      106,
+      84,
+      738,
+      258
+     ]
+    },
+    {
+     "t": "Merhaba dede. Sosyal bilgiler…",
+     "r": [
+      38,
+      314,
+      790,
+      850
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      270,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Metinde geçen geçmişteki meslekler: bakkal, at arabacısı, semerci, nalbant, kunduracı (ayakkabıcı), yorgancı.",
+     "pill": [
+      399,
+      245
+     ],
+     "qx": 125,
+     "qt": 270,
+     "qb": 311,
+     "qr": 813,
+     "bal": [
+      102,
+      319,
+      746,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "img": "@IMG:s6-u5/p-26@",
+   "steps": [
+    {
+     "t": "tırnakları acımasın diye…",
+     "r": [
+      94,
+      84,
+      734,
+      893
+     ]
+    },
+    {
+     "t": "Ekonomik faaliyetler ve…",
+     "r": [
+      89,
+      770,
+      740,
+      410
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      925,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Evet. Çevremizde çiftçilik, çobanlık, demircilik, terzilik, ayakkabı tamirciliği (kunduracılık), yorgancılık, bakırcılık, fırıncılık ve halı-kilim dokumacılığı gibi geçmişten gelen meslekler günümüzde de sürdürülmektedir.",
+     "pill": [
+      411,
+      939
+     ],
+     "qx": 106,
+     "qt": 916,
+     "qb": 955,
+     "qr": 816,
+     "bal": [
+      90,
+      778,
+      742,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      980,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kasiyerlik, otobüs ve dolmuş şoförlüğü, fabrika işçiliği ve mühendislik, ihracat uzmanlığı, emlakçılık, apartman ve site görevliliği, tarım işletmeciliği, besicilik; hizmet sektöründe doktorluk, hemşirelik, avukatlık ve mimarlık gibi meslekler ortaya çıkmış ya da yaygınlaşmıştır.",
+     "pill": [
+      399,
+      886
+     ],
+     "qx": 106,
+     "qt": 972,
+     "qb": 1010,
+     "qr": 816,
+     "bal": [
+      85,
+      778,
+      748,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      1040,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Yapay zekâ mühendisliği ve eğitmenliği, veri bilimciliği, siber güvenlik uzmanlığı, robot ve dron teknisyenliği, sanal gerçeklik tasarımcılığı, akıllı tarım uzmanlığı, iklim mühendisliği, uzay turizmi rehberliği, dijital sağlık danışmanlığı gibi meslekler ortaya çıkabilir.",
+     "pill": [
+      381,
+      1090
+     ],
+     "qx": 101,
+     "qt": 1028,
+     "qb": 1084,
+     "qr": 816,
+     "bal": [
+      85,
+      778,
+      748,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      272,
+      1099,
+      62,
+      62
+     ],
+     "panel": "gelecek",
+     "label": "Geleceğin meslekleri"
+    },
+    {
+     "area": [
+      757,
+      1100,
+      60,
+      60
+     ],
+     "panel": "gozlem",
+     "label": "Gözlem formu"
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "img": "@IMG:s6-u5/p-27@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      48,
+      879,
+      522
+     ]
+    },
+    {
+     "t": "Yaşadığınız dönemde ( 50 yıl",
+     "r": [
+      121,
+      542,
+      795,
+      636
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      520,
+      760,
+      210,
+      260
+     ],
+     "mode": "ink",
+     "text": "Sevgili 2026 insanları,\nBen 2076 yılında yapay zekâ etik uzmanıyım. Robotların ve yapay zekânın insanlara zarar vermeden, adil çalışmasını denetliyorum. Sizin döneminizde atılan adımlar bugünün temelini oluşturdu. Sevgiyle!",
+     "pill": [
+      692,
+      747
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      134,
+      1091,
+      68,
+      68
+     ],
+     "panel": "mektup",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "img": "@IMG:s6-u5/p-28@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Verilen mesleklerin hangi…",
+     "r": [
+      34,
+      55,
+      816,
+      316
+     ]
+    },
+    {
+     "t": "(dıron)",
+     "r": [
+      108,
+      343,
+      740,
+      821
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      610,
+      429,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      668,
+      416
+     ]
+    },
+    {
+     "area": [
+      744,
+      429,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      802,
+      416
+     ]
+    },
+    {
+     "area": [
+      477,
+      588,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      535,
+      575
+     ]
+    },
+    {
+     "area": [
+      610,
+      588,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      668,
+      575
+     ]
+    },
+    {
+     "area": [
+      477,
+      747,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      541,
+      734
+     ]
+    },
+    {
+     "area": [
+      610,
+      747,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      674,
+      734
+     ]
+    },
+    {
+     "area": [
+      744,
+      747,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      808,
+      734
+     ]
+    },
+    {
+     "area": [
+      610,
+      903,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      674,
+      890
+     ]
+    },
+    {
+     "area": [
+      744,
+      903,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      802,
+      890
+     ]
+    },
+    {
+     "area": [
+      477,
+      1060,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      535,
+      1047
+     ]
+    },
+    {
+     "area": [
+      610,
+      1060,
+      68,
+      68
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 46,
+     "pill": [
+      668,
+      1047
+     ]
+    }
+   ]
+  }
+ ]
+};

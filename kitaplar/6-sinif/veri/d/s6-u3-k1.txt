@@ -1,0 +1,1423 @@
+// 6. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 106–179)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: TÜRKİSTAN'DA KURULAN (s. 108–127)
+window.BOOK = {
+ "id": "s6-u3-k1",
+ "title": "Türkistan'da kurulan ilk Türk devletlerinin medeniyetimize katkıları",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u3-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 106,
+   "img": "@IMG:s6-u3/p-01@",
+   "section": "3. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      94,
+      879,
+      466
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      532,
+      884,
+      632
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      361,
+      1054,
+      66,
+      66
+     ],
+     "panel": "alan",
+     "label": "3. Öğrenme alanı"
+    },
+    {
+     "area": [
+      596,
+      991,
+      68,
+      66
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 107,
+   "img": "@IMG:s6-u3/p-02@",
+   "section": "Ortak Mirasımız",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      878,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      613,
+      879,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 108,
+   "img": "@IMG:s6-u3/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "TÜRKİSTAN'DA KURULAN",
+     "r": [
+      38,
+      55,
+      809,
+      626
+     ]
+    },
+    {
+     "t": "Sizce insanlar göç edecekleri…",
+     "r": [
+      103,
+      653,
+      744,
+      511
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      206,
+      210,
+      613,
+      88
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Görsel 3.1 ve Görsel 3.4'teki yerler uygundur. Geniş, düz ve yeşil otlaklar ile yayla çayırları hayvanları beslemek için bol mera sunar. Görsel 3.2'deki sarp dağlık alan ve Görsel 3.3'teki kalabalık şehir hayvancılığa elverişli değildir.",
+     "pill": [
+      450,
+      305
+     ],
+     "qx": 207,
+     "qt": 201,
+     "qb": 299,
+     "qr": 819,
+     "bal": [
+      34,
+      307,
+      817,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      163,
+      1028,
+      650,
+      48
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "İnsanlar göç edecekleri yerde verimli toprak, bol su ve mera, uygun iklim, güvenlik, iş imkânı, ulaşım kolaylığı ile eğitim ve sağlık hizmetlerinin bulunmasını isterler.",
+     "pill": [
+      431,
+      1057
+     ],
+     "qx": 133,
+     "qt": 1028,
+     "qb": 1076,
+     "qr": 816,
+     "bal": [
+      99,
+      915,
+      752,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "img": "@IMG:s6-u3/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki genel",
+     "r": [
+      34,
+      55,
+      788,
+      427
+     ]
+    },
+    {
+     "t": "Konargöçer bir hayat süren,…",
+     "r": [
+      90,
+      454,
+      822,
+      710
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      131,
+      985,
+      688,
+      38
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Barınma için çadır kurarlar; beslenmede hayvanlarının sütünden, yoğurdundan ve peynirinden yararlanırlar. Temizlik için akarsu ve kaynak sularını kullanırlar. Sürekli yer değiştirdikleri için çocuklar okula düzenli devam edemez, sağlık hizmetine ulaşmak güçleşir, kötü hava koşullarında hayvanlar ve eşyalar zarar görebilir.",
+     "pill": [
+      411,
+      957
+     ],
+     "qx": 102,
+     "qt": 983,
+     "qb": 1025,
+     "qr": 819,
+     "bal": [
+      86,
+      845,
+      830,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      131,
+      1035,
+      688,
+      38
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Sürekli yer değiştirseydim okulumu ve arkadaşlarımı sık sık değiştirmek zorunda kalırdım. Kalıcı arkadaşlıklar kurmak, düzenli ders çalışmak ve kulüp ya da takımlara katılmak zorlaşırdı. Buna karşılık yeni yerler görür, doğayla iç içe yaşar ve aile bağlarım daha güçlü olurdu.",
+     "pill": [
+      465,
+      1058
+     ],
+     "qx": 134,
+     "qt": 987,
+     "qb": 1074,
+     "qr": 819,
+     "bal": [
+      86,
+      845,
+      830,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      131,
+      1083,
+      688,
+      38
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Evet, yerleşik hayata geçmek isterdim. Böylece düzenli eğitim alır, sağlık hizmetlerine kolayca ulaşır ve kalıcı bir evde yaşardım. (Hayır diyen öğrenciler doğayla iç içe ve özgür yaşamayı tercih ettiklerini söyleyebilir.)",
+     "pill": [
+      417,
+      1109
+     ],
+     "qx": 135,
+     "qt": 1037,
+     "qb": 1124,
+     "qr": 819,
+     "bal": [
+      86,
+      870,
+      830,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 110,
+   "img": "@IMG:s6-u3/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Tarihte bilinen ilk Türk…",
+     "r": [
+      38,
+      55,
+      803,
+      412
+     ]
+    },
+    {
+     "t": "Türkistan",
+     "r": [
+      95,
+      439,
+      758,
+      725
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      373,
+      731,
+      456,
+      73
+     ],
+     "mode": "ink",
+     "text": "Geniş bozkırlar, platolar ve çöller; çevresi yüksek dağlarla (Altay, Tanrı, Himalaya) çevrili.",
+     "pill": [
+      845,
+      718
+     ]
+    },
+    {
+     "area": [
+      373,
+      835,
+      456,
+      73
+     ],
+     "mode": "ink",
+     "text": "Aral ve Balkaş gölleri, Hazar Denizi, Seyhun ve Ceyhun nehirleri.",
+     "pill": [
+      839,
+      822
+     ]
+    },
+    {
+     "area": [
+      373,
+      944,
+      456,
+      73
+     ],
+     "mode": "ink",
+     "text": "Karasal iklim: yazlar sıcak ve kurak, kışlar soğuk ve sert; bozkır bitki örtüsü.",
+     "pill": [
+      827,
+      925
+     ]
+    },
+    {
+     "area": [
+      373,
+      1050,
+      456,
+      73
+     ],
+     "mode": "ink",
+     "text": "Kazakistan, Kırgızistan, Özbekistan, Türkmenistan; Moğolistan ve Çin'in kuzeybatısı.",
+     "pill": [
+      839,
+      1037
+     ]
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "img": "@IMG:s6-u3/p-06@",
+   "steps": [
+    {
+     "t": "Türkistan'ın coğrafi şartları…",
+     "r": [
+      70,
+      83,
+      780,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 112,
+   "img": "@IMG:s6-u3/p-07@",
+   "steps": [
+    {
+     "t": "Altın Dağları",
+     "r": [
+      100,
+      57,
+      781,
+      803
+     ]
+    },
+    {
+     "t": "Mukan Kağan'ın ölümünden sonra…",
+     "r": [
+      122,
+      832,
+      706,
+      332
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 113,
+   "img": "@IMG:s6-u3/p-08@",
+   "steps": [
+    {
+     "t": "TANG. İMPARATO'",
+     "r": [
+      69,
+      57,
+      776,
+      406
+     ]
+    },
+    {
+     "t": "744 yılında Kutluk Bilge Kül",
+     "r": [
+      80,
+      435,
+      770,
+      729
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      163,
+      1085,
+      650,
+      48
+     ],
+     "mode": "ink",
+     "text": "Geçmişimizi öğrenerek millî kimliğimizi tanırız; atalarımızın başarılarından güç alır, hatalarından ders çıkarırız.",
+     "pill": [
+      779,
+      1066
+     ]
+    }
+   ]
+  },
+  {
+   "n": 114,
+   "img": "@IMG:s6-u3/p-09@",
+   "steps": [
+    {
+     "t": "Tarihçiler, Türkistan'da…",
+     "r": [
+      38,
+      83,
+      804,
+      895
+     ]
+    },
+    {
+     "t": "devletlerin medeniyetimize…",
+     "r": [
+      108,
+      833,
+      740,
+      331
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      131,
+      723,
+      688,
+      38
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Orhun Kitabeleri'nden Göktürklerin yönetim anlayışını, kağanın halka karşı görevlerini, Çin'le ilişkileri ve Çin'in Türkleri nasıl kandırdığını, Türk töresinin önemini, devletin yıkılış ve yeniden kuruluş sebeplerini öğrenebiliriz. Ayrıca Türkçenin bilinen en eski yazılı örneğine ulaşırız.",
+     "pill": [
+      393,
+      833
+     ],
+     "qx": 100,
+     "qt": 723,
+     "qb": 762,
+     "qr": 819,
+     "bal": [
+      34,
+      840,
+      812,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      131,
+      780,
+      688,
+      38
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bu devletler kurultay ve töre gibi yönetim anlayışlarıyla, ordu-millet anlayışı ve onlu sistemle, ilk Türk alfabesiyle, Uygurların yerleşik hayata geçerek şehirler kurmasıyla, matbaa ve kâğıt kullanımıyla, ticaret ve İpek Yolu ile medeniyetimize katkı sağlamıştır.",
+     "pill": [
+      573,
+      818
+     ],
+     "qx": 104,
+     "qt": 775,
+     "qb": 832,
+     "qr": 819,
+     "bal": [
+      104,
+      840,
+      715,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      131,
+      960,
+      206,
+      150
+     ],
+     "mode": "ink",
+     "text": "Mete Han'ın onlu sistemi bugün de kullanılıyor mu?",
+     "pill": [
+      315,
+      911
+     ]
+    },
+    {
+     "area": [
+      378,
+      960,
+      206,
+      150
+     ],
+     "mode": "ink",
+     "text": "Orhun Kitabeleri neden dikildi, ne anlatıyor?",
+     "pill": [
+      562,
+      923
+     ]
+    },
+    {
+     "area": [
+      625,
+      960,
+      206,
+      150
+     ],
+     "mode": "ink",
+     "text": "Uygurlar yerleşik hayata geçince neler değişti?",
+     "pill": [
+      839,
+      947
+     ]
+    }
+   ]
+  },
+  {
+   "n": 115,
+   "img": "@IMG:s6-u3/p-10@",
+   "steps": [
+    {
+     "t": "Aşağıda tekniğine göre…",
+     "r": [
+      115,
+      83,
+      713,
+      746
+     ]
+    },
+    {
+     "t": "Türk ordu siste",
+     "r": [
+      127,
+      801,
+      696,
+      363
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      313,
+      263,
+      131
+     ],
+     "mode": "ink",
+     "text": "Kurultay, kut anlayışı, ordu-millet anlayışı, onlu sistem ve ilk yazılı belgeler.",
+     "pill": [
+      344,
+      288
+     ]
+    },
+    {
+     "area": [
+      519,
+      288,
+      281,
+      138
+     ],
+     "mode": "ink",
+     "text": "Moğolistan'da Orhun Nehri vadisindeki Orhun Kitabeleri'nde.",
+     "pill": [
+      817,
+      275
+     ]
+    },
+    {
+     "area": [
+      138,
+      613,
+      269,
+      144
+     ],
+     "mode": "ink",
+     "text": "Uygurlar döneminde, Bögü Kağan'ın Maniheizm'i kabul etmesiyle (8. yüzyıl).",
+     "pill": [
+      436,
+      600
+     ]
+    },
+    {
+     "area": [
+      519,
+      598,
+      281,
+      150
+     ],
+     "mode": "ink",
+     "text": "Çin kaynakları, Orhun Kitabeleri ve destanlar sayesinde.",
+     "pill": [
+      805,
+      585
+     ]
+    },
+    {
+     "area": [
+      148,
+      928,
+      263,
+      144
+     ],
+     "mode": "ink",
+     "text": "Geniş bozkırlar hayvancılığa uygundu; hayvanlarına mera ve su bulmak için.",
+     "pill": [
+      350,
+      900
+     ]
+    },
+    {
+     "area": [
+      519,
+      944,
+      281,
+      138
+     ],
+     "mode": "ink",
+     "text": "Asya Hun Hükümdarı Mete Han.",
+     "pill": [
+      811,
+      931
+     ]
+    }
+   ]
+  },
+  {
+   "n": 116,
+   "img": "@IMG:s6-u3/p-11@",
+   "steps": [
+    {
+     "t": "Asya Hun devleti, Göktürkler ve",
+     "r": [
+      39,
+      83,
+      810,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 117,
+   "img": "@IMG:s6-u3/p-12@",
+   "steps": [
+    {
+     "t": "Sayfa tırnak içinde sunulan…",
+     "r": [
+      122,
+      83,
+      712,
+      428
+     ]
+    },
+    {
+     "t": "Türkistan'da kurulan ilk Türk…",
+     "r": [
+      113,
+      483,
+      724,
+      681
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      306,
+      188,
+      506,
+      44
+     ],
+     "mode": "ink",
+     "text": "Hükümdara yönetme yetkisinin Tanrı tarafından verildiği inancı (günümüzde kullanılmıyor).",
+     "pill": [
+      778,
+      160
+     ]
+    },
+    {
+     "area": [
+      306,
+      263,
+      506,
+      44
+     ],
+     "mode": "ink",
+     "text": "Hükümdar unvanı; bugün \"kağan\" yerine devlet başkanı denir.",
+     "pill": [
+      826,
+      250
+     ]
+    },
+    {
+     "area": [
+      306,
+      338,
+      506,
+      44
+     ],
+     "mode": "ink",
+     "text": "Devlet meclisi ✓ (bugün TBMM ve \"kurultay\" sözcüğü kullanılıyor).",
+     "pill": [
+      826,
+      325
+     ]
+    },
+    {
+     "area": [
+      306,
+      413,
+      506,
+      44
+     ],
+     "mode": "ink",
+     "text": "Kağanın eşi; yönetimde söz sahibiydi (bugün kullanılmıyor).",
+     "pill": [
+      826,
+      400
+     ]
+    },
+    {
+     "area": [
+      125,
+      656,
+      319,
+      413
+     ],
+     "mode": "ink",
+     "text": "• Devlet işleri bir mecliste görüşülür (kurultay - TBMM).\n• Yönetenlerin yetkisi sınırsız değildir; töre - anayasa ve kanunlar.\n• Halkın güvenliği, refahı ve adalet esastır.\n• Kadınlar yönetimde söz sahibidir.",
+     "pill": [
+      363,
+      643
+     ]
+    },
+    {
+     "area": [
+      494,
+      656,
+      319,
+      413
+     ],
+     "mode": "ink",
+     "text": "• Eskiden hükümdarlık babadan oğula geçerdi; bugün cumhurbaşkanı ve milletvekillerini halk seçer.\n• Kut anlayışı vardı; bugün egemenlik kayıtsız şartsız milletindir.\n• Kurultayda son söz kağanındı; bugün kararları seçilmiş meclis alır.",
+     "pill": [
+      780,
+      643
+     ]
+    }
+   ]
+  },
+  {
+   "n": 118,
+   "img": "@IMG:s6-u3/p-13@",
+   "steps": [
+    {
+     "t": "ASKERİ YAPI",
+     "r": [
+      115,
+      80,
+      728,
+      557
+     ]
+    },
+    {
+     "t": "Atlı jandarmalara zorlu eğitim",
+     "r": [
+      115,
+      609,
+      727,
+      555
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 119,
+   "img": "@IMG:s6-u3/p-14@",
+   "steps": [
+    {
+     "t": "aiigi Kutusu",
+     "r": [
+      89,
+      76,
+      823,
+      1103
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      131,
+      531,
+      425,
+      56
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Benzerlikler: Ordunun kademeli birliklere ayrılması (onlu sistem; tümen, tabur, bölük gibi), vatan savunmasının herkesin görevi sayılması (ordu-millet anlayışı, zorunlu askerlik), atlı birliklerin bugün de jandarmada kullanılması, ordunun daimî olması ve Kara Kuvvetleri'nin kuruluş yılının Mete Han'ın tahta çıkışı (MÖ 209) kabul edilmesi.",
+     "pill": [
+      261,
+      515
+     ],
+     "qx": 101,
+     "qt": 531,
+     "qb": 602,
+     "qr": 556,
+     "bal": [
+      101,
+      610,
+      455,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      754,
+      1096,
+      64,
+      64
+     ],
+     "panel": "turan",
+     "label": "Turan taktiği"
+    }
+   ]
+  },
+  {
+   "n": 120,
+   "img": "@IMG:s6-u3/p-15@",
+   "steps": [
+    {
+     "t": "SOSYAL HAYAT VE HUKUK",
+     "r": [
+      38,
+      83,
+      790,
+      595
+     ]
+    },
+    {
+     "t": "Akrabalıkla ilgili kavramların…",
+     "r": [
+      38,
+      650,
+      790,
+      514
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      144,
+      531,
+      663,
+      113
+     ],
+     "mode": "ink",
+     "text": "Anne, baba, dede, nine, amca, hala, dayı, teyze, yenge, enişte, kuzen, yeğen, torun, kayınpeder, kayınvalide, görümce, baldız, elti, bacanak",
+     "pill": [
+      772,
+      512
+     ]
+    },
+    {
+     "area": [
+      163,
+      685,
+      650,
+      44
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türklerde aile ve kan bağı sosyal yapının temelidir. Akrabalar birlik ve dayanışma içinde birlikte yaşamış, boylar ailelerin birleşmesiyle oluşmuştur. Akrabalık ilişkilerine verilen bu önem, her yakınlık derecesi için ayrı bir kelime oluşmasını sağlamıştır.",
+     "pill": [
+      461,
+      705
+     ],
+     "qx": 137,
+     "qt": 685,
+     "qb": 729,
+     "qr": 817,
+     "bal": [
+      34,
+      737,
+      798,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 121,
+   "img": "@IMG:s6-u3/p-16@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      73,
+      878,
+      229
+     ]
+    },
+    {
+     "t": "Her bir boyun kendine ait",
+     "r": [
+      34,
+      274,
+      814,
+      890
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      898,
+      669,
+      206
+     ],
+     "mode": "ink",
+     "text": "Töre; adalet (könilik), iyilik ve faydalılık (uzluk), eşitlik (tüzlük) ve insanlık (kişilik) değerlerine dayanır. Ayrıca aile birliği, büyüklere saygı, dayanışma ve misafirperverlik de töreyle korunur.",
+     "pill": [
+      820,
+      885
+     ]
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "img": "@IMG:s6-u3/p-17@",
+   "steps": [
+    {
+     "t": "Türkistan'ın coğrafi koşulları…",
+     "r": [
+      38,
+      83,
+      810,
+      665
+     ]
+    },
+    {
+     "t": "Uygurların yerleşik hayata…",
+     "r": [
+      38,
+      720,
+      801,
+      444
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      413,
+      1038,
+      400,
+      75
+     ],
+     "mode": "ink",
+     "text": "Benzer: hayvan motifleri, maden ve taş işçiliği hâlâ var. Farklı: eskiden eşyalar taşınabilirdi, bugün kalıcı yapılar ve müzeler var.",
+     "pill": [
+      831,
+      1025
+     ]
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "img": "@IMG:s6-u3/p-18@",
+   "steps": [
+    {
+     "t": "Toplumların ekonomik…",
+     "r": [
+      101,
+      81,
+      811,
+      588
+     ]
+    },
+    {
+     "t": "Kaynak",
+     "r": [
+      101,
+      641,
+      811,
+      523
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 124,
+   "img": "@IMG:s6-u3/p-19@",
+   "steps": [
+    {
+     "t": "Kutusu",
+     "r": [
+      38,
+      92,
+      790,
+      281
+     ]
+    },
+    {
+     "t": "Türkistan'da kurulan ilk Türk…",
+     "r": [
+      38,
+      345,
+      793,
+      315
+     ]
+    },
+    {
+     "t": "Türkistan'da mimari eserlere en…",
+     "r": [
+      103,
+      632,
+      726,
+      532
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      106,
+      413,
+      713,
+      23
+     ],
+     "mode": "ink",
+     "text": "Konargöçer yaşadıkları için kolay taşınabilen eşyalar ürettiler.",
+     "pill": [
+      782,
+      400
+     ]
+    },
+    {
+     "area": [
+      106,
+      485,
+      713,
+      23
+     ],
+     "mode": "ink",
+     "text": "Hızlı hareket eden güçlü bir ordu, silah üretimi, ulaşım ve ticaret.",
+     "pill": [
+      782,
+      463
+     ]
+    },
+    {
+     "area": [
+      106,
+      544,
+      713,
+      23
+     ],
+     "mode": "ink",
+     "text": "Uygurlar yerleşik hayata geçip şehirler kurdukları için.",
+     "pill": [
+      824,
+      531
+     ]
+    },
+    {
+     "area": [
+      106,
+      616,
+      713,
+      23
+     ],
+     "mode": "ink",
+     "text": "Geniş bozkırlar ve karasal iklim tarıma değil, otlak hayvancılığına uygundu.",
+     "pill": [
+      782,
+      597
+     ]
+    }
+   ]
+  },
+  {
+   "n": 125,
+   "img": "@IMG:s6-u3/p-20@",
+   "steps": [
+    {
+     "t": "Türkistan'da kurulan",
+     "r": [
+      122,
+      68,
+      721,
+      554
+     ]
+    },
+    {
+     "t": "Kitabınızdaki kaynak ile…",
+     "r": [
+      94,
+      594,
+      743,
+      570
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      188,
+      298,
+      619,
+      86
+     ],
+     "mode": "ink",
+     "text": "Evet. Kaynak resmî bir kurum sitesidir (\".gov.tr\" ya da \".edu.tr\" uzantılı); yazarı ve tarihi bellidir.",
+     "pill": [
+      828,
+      285
+     ]
+    },
+    {
+     "area": [
+      188,
+      498,
+      619,
+      86
+     ],
+     "mode": "ink",
+     "text": "Avrupa Hun Devleti, Ak Hunlar (Eftalitler), Hazarlar, Avarlar ve Kırgızlar.",
+     "pill": [
+      834,
+      485
+     ]
+    },
+    {
+     "area": [
+      125,
+      726,
+      325,
+      289
+     ],
+     "mode": "ink",
+     "text": "• Asya Hun, Göktürk ve Uygur devletlerinin kuruluş ve yıkılış tarihleri\n• Kurultay, kut, töre\n• Orhun Kitabeleri\n• Hayvancılığın önemi",
+     "pill": [
+      429,
+      704
+     ]
+    },
+    {
+     "area": [
+      494,
+      726,
+      325,
+      289
+     ],
+     "mode": "ink",
+     "text": "• Dijital kaynakta daha fazla harita ve görsel var\n• Diğer Türk devletleri de anlatılıyor\n• Kitapta 5N 1K ve günümüzle karşılaştırma var",
+     "pill": [
+      792,
+      713
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      753,
+      81,
+      63,
+      63
+     ],
+     "panel": "ilkdevletler",
+     "label": "Türkistan'da kurulan ilk Türk devletleri"
+    }
+   ]
+  },
+  {
+   "n": 126,
+   "img": "@IMG:s6-u3/p-21@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : İlk Türk Devletlerinde",
+     "r": [
+      33,
+      55,
+      795,
+      762
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      121,
+      789,
+      690,
+      385
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      331,
+      563,
+      456,
+      50
+     ],
+     "mode": "ink",
+     "text": "Kurultayda danışarak karar alma; kağanın yetkisinin töreyle sınırlı olması.",
+     "pill": [
+      797,
+      550
+     ]
+    },
+    {
+     "area": [
+      331,
+      648,
+      456,
+      50
+     ],
+     "mode": "ink",
+     "text": "Yazısız hukuk kuralları (töre); adalet, eşitlik ve insanlık değerleri.",
+     "pill": [
+      797,
+      635
+     ]
+    },
+    {
+     "area": [
+      331,
+      735,
+      456,
+      50
+     ],
+     "mode": "ink",
+     "text": "Ordu-millet anlayışı, onlu sistem, atlı birlikler ve turan taktiği.",
+     "pill": [
+      803,
+      722
+     ]
+    },
+    {
+     "area": [
+      331,
+      823,
+      456,
+      50
+     ],
+     "mode": "ink",
+     "text": "Taşınabilir eşyalarda hayvan motifleri, balballar, Uygur minyatürü.",
+     "pill": [
+      803,
+      810
+     ]
+    },
+    {
+     "area": [
+      331,
+      910,
+      456,
+      50
+     ],
+     "mode": "ink",
+     "text": "Hayvancılık, at yetiştiriciliği, demircilik, İpek Yolu ticareti.",
+     "pill": [
+      779,
+      897
+     ]
+    },
+    {
+     "area": [
+      331,
+      998,
+      456,
+      50
+     ],
+     "mode": "ink",
+     "text": "Güçlü aile yapısı, oguş-urug-boy-budun-il düzeni, konargöçer yaşam.",
+     "pill": [
+      803,
+      985
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      135,
+      1097,
+      58,
+      58
+     ],
+     "panel": "kontrol1",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 127,
+   "img": "@IMG:s6-u3/p-22@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      55,
+      765,
+      415
+     ]
+    },
+    {
+     "t": "Yukarıdaki bulmacayı çözünüz.",
+     "r": [
+      109,
+      442,
+      754,
+      740
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      840,
+      425,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevapları göster",
+     "text": "1. Türkistan\n2. Orhun Kitabeleri\n3. Konargöçer\n4. Minyatür\n5. Onlu sistem\n6. Kurultay\n7. Maniheizm",
+     "pill": [
+      274,
+      815
+     ],
+     "qx": 138,
+     "qt": 840,
+     "qb": 896,
+     "qr": 589,
+     "bal": [
+      105,
+      904,
+      762,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      752,
+      1097,
+      66,
+      66
+     ],
+     "panel": "bulmaca1",
+     "label": "Bulmacanın cevap anahtarı"
+    }
+   ]
+  }
+ ]
+};

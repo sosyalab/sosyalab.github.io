@@ -1,0 +1,1280 @@
+// 6. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 106–179)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: XI- XI. YÜZYILLAR ARASINDA MEYDANA (s. 160–179)
+window.BOOK = {
+ "id": "s6-u3-k4",
+ "title": "XI-XIII. yüzyıllarda askerî mücadeleler ve Anadolu'nun Türkleşmesi",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u3-k4@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 160,
+   "img": "@IMG:s6-u3/p-55@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "XI- XI. YÜZYILLAR ARASINDA MEYDANA",
+     "r": [
+      38,
+      55,
+      878,
+      609
+     ]
+    },
+    {
+     "t": "ağa Kiye",
+     "r": [
+      82,
+      636,
+      834,
+      528
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      1079,
+      600,
+      63
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Alaeddin ve İplikçi camileri ibadet, İnce Minareli Medrese ve Sahip Ata Külliyesi eğitim ve sosyal hizmet, Selçuklu Köşkü yönetim, Mevlâna Dergâhı ise tasavvuf ve manevi eğitim amacıyla yapılmıştır. Bu eserler Anadolu'nun İslamlaşmasını ve Türkleşmesini hızlandırmış; Konya'yı bir ilim, kültür ve sanat merkezine dönüştürmüş, Türk-İslam mimarisinin Anadolu'ya yerleşmesini sağlamıştır.",
+     "pill": [
+      297,
+      1141
+     ],
+     "qx": 125,
+     "qt": 1078,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      78,
+      915,
+      842,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 161,
+   "img": "@IMG:s6-u3/p-56@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "8) XI. Yüzyılda Anadolu'da Bir",
+     "r": [
+      34,
+      55,
+      882,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      1039,
+      675,
+      48
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Tandır ekmeği, peynir, bal, yoğurt ve tereyağıyla kahvaltı; aşık, çelik-çomak, mangala, ceviz gibi çocuk oyunları; çeyiz hazırlamak, halı-kilim sermek; nazar boncuğu; düğünde keşkek ve ayran ikram etmek; davul ve kopuzla müzik; gelin ve damada dua edilmesi günümüzde de devam etmektedir.",
+     "pill": [
+      412,
+      981
+     ],
+     "qx": 134,
+     "qt": 1039,
+     "qb": 1087,
+     "qr": 816,
+     "bal": [
+      30,
+      901,
+      890,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      138,
+      1094,
+      675,
+      48
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Bu özellikler aile içinde büyüklerden küçüklere aktarıldığı, bayram ve düğün gibi ortak törenlerde yaşatıldığı, toplumu bir arada tutan değerler olduğu ve günlük hayatın ihtiyaçlarını karşıladığı için nesiller boyunca devam etmiştir.",
+     "pill": [
+      334,
+      1120
+     ],
+     "qx": 129,
+     "qt": 1049,
+     "qb": 1220,
+     "qr": 816,
+     "bal": [
+      30,
+      926,
+      890,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 162,
+   "img": "@IMG:s6-u3/p-57@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türklerin Anadolu'yu yurt…",
+     "r": [
+      38,
+      55,
+      790,
+      304
+     ]
+    },
+    {
+     "t": "Anadolu'nun Türkleşme ve…",
+     "r": [
+      38,
+      331,
+      790,
+      833
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 163,
+   "img": "@IMG:s6-u3/p-58@",
+   "steps": [
+    {
+     "t": "çadırlarını, hayvanlarını,…",
+     "r": [
+      89,
+      55,
+      827,
+      673
+     ]
+    },
+    {
+     "t": "(...) Türkler Anadolu'ya…",
+     "r": [
+      100,
+      575,
+      816,
+      589
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      469,
+      400,
+      63
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Doğu Roma imparatorları sınır bölgelerindeki kaleleri güçlendirmiş, yeni kaleler yaptırmış, paralı askerlerden ve Peçenek, Uz gibi Türk boylarından asker toplamış, Türklerle anlaşmalar yapmaya çalışmış ve sonunda Romen Diyojen gibi büyük ordularla Anadolu'dan Türkleri çıkarmak için seferler düzenlemiştir.",
+     "pill": [
+      250,
+      528
+     ],
+     "qx": 101,
+     "qt": 466,
+     "qb": 532,
+     "qr": 539,
+     "bal": [
+      101,
+      540,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 164,
+   "img": "@IMG:s6-u3/p-59@",
+   "steps": [
+    {
+     "t": "Görsel Ani Surları (Kars)",
+     "r": [
+      34,
+      0,
+      882,
+      799
+     ]
+    },
+    {
+     "t": "Malazgirt Savaşı Ağustos 1071)",
+     "r": [
+      122,
+      771,
+      706,
+      393
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 165,
+   "img": "@IMG:s6-u3/p-60@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      880,
+      270
+     ]
+    },
+    {
+     "t": "Görsel Malazgirt Savaşı…",
+     "r": [
+      34,
+      242,
+      878,
+      922
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      880,
+      740,
+      220
+     ],
+     "mode": "ink",
+     "text": "Sevgili Sultan Alp Arslan,\nMalazgirt'te kazandığınız zafer sayesinde bugün Anadolu'da özgürce yaşıyoruz. Askerlerinizle birlikte gösterdiğiniz cesaret, akıllıca kullandığınız turan taktiği ve esir düşen imparatora gösterdiğiniz merhamet bizim için büyük bir örnektir. Anadolu'yu bize vatan yaptığınız için size minnettarım. Bu toprakları korumak ve geliştirmek için çok çalışacağım.\nSaygılarımla.",
+     "pill": [
+      840,
+      867
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      725,
+      66,
+      66
+     ],
+     "panel": "malazgirt",
+     "label": "Malazgirt Zaferi ve Anadolu"
+    }
+   ]
+  },
+  {
+   "n": 166,
+   "img": "@IMG:s6-u3/p-61@",
+   "steps": [
+    {
+     "t": "Birinci Beylikler Dönemi",
+     "r": [
+      95,
+      80,
+      776,
+      448
+     ]
+    },
+    {
+     "t": "60 120 180 2401",
+     "r": [
+      95,
+      500,
+      776,
+      664
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 167,
+   "img": "@IMG:s6-u3/p-62@",
+   "steps": [
+    {
+     "t": "Danişmentliler",
+     "r": [
+      78,
+      80,
+      777,
+      467
+     ]
+    },
+    {
+     "t": "Divriği Ulu Camii ve Da",
+     "r": [
+      78,
+      519,
+      771,
+      645
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      757,
+      368,
+      60,
+      60
+     ],
+     "panel": "beylikler",
+     "label": "İlk Türk beylikleri"
+    }
+   ]
+  },
+  {
+   "n": 168,
+   "img": "@IMG:s6-u3/p-63@",
+   "steps": [
+    {
+     "t": "Türkiye Selçuklu Devleti",
+     "r": [
+      90,
+      83,
+      770,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 169,
+   "img": "@IMG:s6-u3/p-64@",
+   "steps": [
+    {
+     "t": "Böylece Malazgirt'ten sonra…",
+     "r": [
+      122,
+      83,
+      706,
+      460
+     ]
+    },
+    {
+     "t": "Miryokefalon Zaferi'nden sonra…",
+     "r": [
+      122,
+      515,
+      707,
+      649
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      1086,
+      675,
+      48
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Moğol istilası ve devletin zayıflaması nedeniyle güvenlik ortamı bozulmuş, ekonomik kaynaklar azalmıştır. Bu durum yeni cami, medrese ve kervansaray yapımını yavaşlatmış; ticaret yolları güvensiz hâle gelmiştir. Ancak Anadolu'da kurulan yeni Türk beylikleri imar ve iskân faaliyetlerini kendi bölgelerinde sürdürmüştür.",
+     "pill": [
+      412,
+      1100
+     ],
+     "qx": 134,
+     "qt": 1057,
+     "qb": 1220,
+     "qr": 815,
+     "bal": [
+      118,
+      894,
+      715,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      750,
+      721,
+      66,
+      66
+     ],
+     "panel": "miryokefalon",
+     "label": "Miryokefalon Savaşı ve Zaferi"
+    }
+   ]
+  },
+  {
+   "n": 170,
+   "img": "@IMG:s6-u3/p-65@",
+   "steps": [
+    {
+     "t": "Malazgirt Zaferi sonrasında…",
+     "r": [
+      101,
+      83,
+      747,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 171,
+   "img": "@IMG:s6-u3/p-66@",
+   "steps": [
+    {
+     "t": "1. Haçlı Saldırısı",
+     "r": [
+      122,
+      83,
+      794,
+      232
+     ]
+    },
+    {
+     "t": "II. Haçlı Saldırısı",
+     "r": [
+      102,
+      287,
+      815,
+      877
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 172,
+   "img": "@IMG:s6-u3/p-67@",
+   "steps": [
+    {
+     "t": "Haçlı Saldırıları'nın sebep ve…",
+     "r": [
+      92,
+      83,
+      757,
+      1100
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      219,
+      173,
+      600,
+      31
+     ],
+     "mode": "ink",
+     "text": "Doğu'nun ipek ve baharat yollarını ele geçirmek",
+     "pill": [
+      841,
+      160
+     ]
+    },
+    {
+     "area": [
+      219,
+      211,
+      600,
+      31
+     ],
+     "mode": "ink",
+     "text": "Kudüs'ü Müslümanlardan almak (kutsal savaş)",
+     "pill": [
+      841,
+      198
+     ]
+    },
+    {
+     "area": [
+      219,
+      250,
+      600,
+      31
+     ],
+     "mode": "ink",
+     "text": "Türklerin ilerleyişini durdurmak, yeni ülkeler fethetmek",
+     "pill": [
+      841,
+      237
+     ]
+    },
+    {
+     "area": [
+      219,
+      333,
+      600,
+      31
+     ],
+     "mode": "ink",
+     "text": "Akdeniz limanları gelişti, tüccar sınıfı güçlendi",
+     "pill": [
+      841,
+      320
+     ]
+    },
+    {
+     "area": [
+      219,
+      373,
+      600,
+      31
+     ],
+     "mode": "ink",
+     "text": "Fethedilen yerlerde Hristiyanlık yayılmaya çalışıldı",
+     "pill": [
+      841,
+      360
+     ]
+    },
+    {
+     "area": [
+      219,
+      410,
+      600,
+      31
+     ],
+     "mode": "ink",
+     "text": "Doğu'nun ürünleri ve İslam eserleri Avrupa'ya ulaştı",
+     "pill": [
+      841,
+      397
+     ]
+    },
+    {
+     "area": [
+      219,
+      448,
+      600,
+      31
+     ],
+     "mode": "ink",
+     "text": "Selçuklu fetihleri yavaşladı, Doğu Roma'nın ömrü uzadı",
+     "pill": [
+      841,
+      435
+     ]
+    },
+    {
+     "area": [
+      219,
+      485,
+      600,
+      31
+     ],
+     "mode": "ink",
+     "text": "Pusula, barut, kâğıt, matbaa Avrupa'ya geçti",
+     "pill": [
+      841,
+      472
+     ]
+    },
+    {
+     "area": [
+      125,
+      1004,
+      206,
+      31
+     ],
+     "mode": "card",
+     "label": "Doğru sıra",
+     "text": "1048 · E (Pasinler Savaşı)\n1071 · C (Malazgirt Savaşı)\n1096 · A (I. Haçlı Saldırısı)\n1147 · Ç (II. Haçlı Saldırısı)\n1176 · B (Miryokefalon Savaşı)\n1189 · D (III. Haçlı Saldırısı)",
+     "pill": [
+      93,
+      1003
+     ],
+     "qx": 116,
+     "qt": 987,
+     "qb": 1083,
+     "qr": 500,
+     "bal": [
+      88,
+      1088,
+      765,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      135,
+      1104,
+      60,
+      60
+     ],
+     "panel": "tarihseridi",
+     "label": "Tarih şeridi"
+    }
+   ]
+  },
+  {
+   "n": 173,
+   "img": "@IMG:s6-u3/p-68@",
+   "steps": [
+    {
+     "t": "İkinci Haçlı Saldırısı'nın kara…",
+     "r": [
+      94,
+      80,
+      734,
+      448
+     ]
+    },
+    {
+     "t": "Anadolu'nun fethi sonrasında…",
+     "r": [
+      102,
+      351,
+      758,
+      813
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      313,
+      675,
+      44
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Malazgirt, Miryokefalon ve Haçlılara karşı savunma; Çanakkale Savaşı ve Kurtuluş Savaşı'nda tüm milletin seferber olması; Kurtuluş Savaşı'nda cephane taşıyan kadınlar; 15 Temmuz 2016'da darbe girişimine karşı halkın direnişi ve şehitlerimiz, milletimizin vatanını ve millî kimliğini korumak için verdiği mücadelelere örnektir.",
+     "pill": [
+      418,
+      396
+     ],
+     "qx": 106,
+     "qt": 313,
+     "qb": 357,
+     "qr": 815,
+     "bal": [
+      90,
+      365,
+      742,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 174,
+   "img": "@IMG:s6-u3/p-69@",
+   "steps": [
+    {
+     "t": "Türkiye Selçuklu sultanları, 12 ve",
+     "r": [
+      38,
+      83,
+      790,
+      384
+     ]
+    },
+    {
+     "t": "(..) Kümbetler, Selçuklular…",
+     "r": [
+      38,
+      439,
+      811,
+      735
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      313,
+      1019,
+      500,
+      70
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Askerî zaferler Anadolu'da güvenli bir ortam oluşturmuş, Türklerin kalıcı olarak yerleşmesini sağlamıştır. Bu sayede sultanlar cami, medrese, kervansaray, darüşşifa ve külliye gibi kalıcı eserler yaptırmış; ticaret yolları güvenli hâle gelmiş, şehirler büyümüş ve Anadolu bir Türk-İslam yurduna dönüşmüştür.",
+     "pill": [
+      575,
+      1003
+     ],
+     "qx": 50,
+     "qt": 879,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      34,
+      821,
+      819,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      300,
+      1087,
+      61,
+      61
+     ],
+     "panel": "kartoyunu",
+     "label": "Kartal oyunu"
+    },
+    {
+     "area": [
+      636,
+      1089,
+      66,
+      66
+     ],
+     "panel": "selcukeser",
+     "label": "Türkiye Selçuklu eserleri"
+    }
+   ]
+  },
+  {
+   "n": 175,
+   "img": "@IMG:s6-u3/p-70@",
+   "steps": [
+    {
+     "t": "İncelediğiniz kaynaklardan…",
+     "r": [
+      119,
+      71,
+      699,
+      455
+     ]
+    },
+    {
+     "t": "yüzyıllar arasında",
+     "r": [
+      119,
+      498,
+      696,
+      666
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      131,
+      250,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Pasinler Savaşı",
+     "pill": [
+      207,
+      237
+     ]
+    },
+    {
+     "area": [
+      631,
+      250,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Malazgirt Savaşı",
+     "pill": [
+      713,
+      237
+     ]
+    },
+    {
+     "area": [
+      500,
+      423,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Miryokefalon Savaşı",
+     "pill": [
+      606,
+      410
+     ]
+    },
+    {
+     "area": [
+      163,
+      656,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Büyük Selçuklular",
+     "pill": [
+      269,
+      643
+     ]
+    },
+    {
+     "area": [
+      500,
+      656,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Türkiye Selçukluları",
+     "pill": [
+      606,
+      643
+     ]
+    },
+    {
+     "area": [
+      131,
+      820,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Saltuklular",
+     "pill": [
+      201,
+      807
+     ]
+    },
+    {
+     "area": [
+      631,
+      820,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Danişmentliler",
+     "pill": [
+      707,
+      807
+     ]
+    },
+    {
+     "area": [
+      163,
+      993,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Mengücekliler",
+     "pill": [
+      269,
+      980
+     ]
+    },
+    {
+     "area": [
+      500,
+      993,
+      144,
+      48
+     ],
+     "mode": "ink",
+     "text": "Artuklular",
+     "pill": [
+      612,
+      980
+     ]
+    }
+   ]
+  },
+  {
+   "n": 176,
+   "img": "@IMG:s6-u3/p-71@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      54,
+      790,
+      1112
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      445,
+      656,
+      469
+     ],
+     "mode": "ink",
+     "text": "XI-XIII. yüzyıllarda Anadolu'da kazanılan zaferler bu toprakların Türk yurdu olmasını sağlamıştır. 1048'de Pasinler ilk büyük zafer oldu. 1071'de Sultan Alp Arslan Malazgirt'te Doğu Roma ordusunu yendi ve Anadolu'nun kapıları Türklere açıldı. Saltuklular, Danişmentliler, Mengücekliler, Artuklular ve Çaka Beyliği gibi beylikler kuruldu.\nTürkiye Selçukluları Haçlı Saldırıları'na karşı Anadolu'yu savundu. 1176 Miryokefalon Zaferi ile Türklerin Anadolu'dan atılamayacağı kesinleşti.\nGüvenli ortamla birlikte camiler, medreseler, kervansaraylar, kümbetler ve darüşşifalar yapıldı. Böylece Anadolu hem Türkleşti hem de İslamlaştı.",
+     "pill": [
+      825,
+      432
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1083,
+      64,
+      64
+     ],
+     "panel": "anadolu",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 177,
+   "img": "@IMG:s6-u3/p-72@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Şemadaki ifadelerden bazıları…",
+     "r": [
+      34,
+      55,
+      832,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      313,
+      94,
+      513,
+      63
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Doğru çıkış: 2. ÇIKIŞ\n1) \"Pasinler Savaşı, Selçukluların Doğu Roma'ya karşı kazandıkları ilk büyük zaferdir.\" → Doğru (D)\n2) \"Malazgirt Zaferi, Türkler için 'devlet ve vatan kuran zafer' olarak adlandırılır.\" → Doğru (D)\n3) \"UNESCO Dünya Mirası Listesi'nde yer alan Divriği Ulu Camii ve Darüşşifası Saltuklular tarafından inşa edilmiştir.\" → Yanlış (Y). Mengücekliler yaptırmıştır.",
+     "pill": [
+      509,
+      138
+     ],
+     "qx": 122,
+     "qt": 70,
+     "qb": 297,
+     "qr": 826,
+     "bal": [
+      122,
+      210,
+      704,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 178,
+   "img": "@IMG:s6-u3/p-73@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "3. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      38,
+      63,
+      790,
+      373
+     ]
+    },
+    {
+     "t": "1. Uygurlar hangi ekonomik…",
+     "r": [
+      113,
+      408,
+      724,
+      534
+     ]
+    },
+    {
+     "t": "4. Verilen örnek metinlerde İslam",
+     "r": [
+      113,
+      914,
+      724,
+      250
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      461,
+      700,
+      31
+     ],
+     "mode": "ink",
+     "text": "Tarım, sulama, ticaret, para ve borç verme işleri",
+     "pill": [
+      789,
+      448
+     ]
+    },
+    {
+     "area": [
+      125,
+      539,
+      700,
+      31
+     ],
+     "mode": "ink",
+     "text": "Minyatür, duvar resimleri (fresk), mimari",
+     "pill": [
+      789,
+      526
+     ]
+    },
+    {
+     "area": [
+      125,
+      649,
+      650,
+      31
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Siyasi\nMetinde Maniheizm'in Uygurların beslenme (sosyal hayat), tarım (ekonomi) ve savaşçılık (askerî) özelliklerini etkilediği anlatılmış; siyasi alandaki etkisinden söz edilmemiştir.",
+     "pill": [
+      435,
+      651
+     ],
+     "qx": 125,
+     "qt": 649,
+     "qb": 680,
+     "qr": 775,
+     "bal": [
+      109,
+      688,
+      732,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      976,
+      700,
+      31
+     ],
+     "mode": "ink",
+     "text": "Bilim (bilimsel çalışmalar)",
+     "pill": [
+      789,
+      966
+     ]
+    },
+    {
+     "area": [
+      125,
+      1079,
+      650,
+      31
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Eğitim\nMescid-i Nebevî'deki suffe bölümünde öğrencilere ders verilmiştir.",
+     "pill": [
+      417,
+      1084
+     ],
+     "qx": 125,
+     "qt": 1045,
+     "qb": 1121,
+     "qr": 816,
+     "bal": [
+      125,
+      1129,
+      691,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 179,
+   "img": "@IMG:s6-u3/p-74@",
+   "steps": [
+    {
+     "t": "Aşağıdaki metni okuyunuz. 7 ve",
+     "r": [
+      125,
+      83,
+      703,
+      443
+     ]
+    },
+    {
+     "t": "6. Bu metne göre Selçukluların",
+     "r": [
+      122,
+      498,
+      706,
+      406
+     ]
+    },
+    {
+     "t": "8. Bu metne göre aşağıdaki",
+     "r": [
+      122,
+      876,
+      707,
+      301
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      586,
+      650,
+      31
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Pasinler Savaşı (1048)",
+     "pill": [
+      430,
+      588
+     ],
+     "qx": 138,
+     "qt": 586,
+     "qb": 686,
+     "qr": 788,
+     "bal": [
+      138,
+      670,
+      650,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      138,
+      774,
+      650,
+      31
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Malazgirt Savaşı (1071)",
+     "pill": [
+      430,
+      776
+     ],
+     "qx": 138,
+     "qt": 774,
+     "qb": 876,
+     "qr": 788,
+     "bal": [
+      138,
+      858,
+      650,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      138,
+      961,
+      650,
+      31
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Miryokefalon Savaşı (1176)",
+     "pill": [
+      430,
+      963
+     ],
+     "qx": 138,
+     "qt": 961,
+     "qb": 1057,
+     "qr": 788,
+     "bal": [
+      138,
+      1051,
+      650,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      287,
+      1097,
+      60,
+      60
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      757,
+      1098,
+      60,
+      60
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

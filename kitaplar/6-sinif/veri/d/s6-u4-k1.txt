@@ -1,0 +1,1234 @@
+// 6. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–45)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Yönetimin karar alma sürecini etkileyen unsurlar (s. 12–23)
+window.BOOK = {
+ "id": "s6-u4-k1",
+ "title": "Yönetimin karar alma sürecini etkileyen unsurlar",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u4-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 10,
+   "img": "@IMG:s6-u4/p-01@",
+   "section": "4. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      96,
+      879,
+      465
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      533,
+      884,
+      631
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      362,
+      1054,
+      63,
+      63
+     ],
+     "panel": "alan",
+     "label": "4. Öğrenme alanı"
+    },
+    {
+     "area": [
+      597,
+      991,
+      66,
+      66
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "img": "@IMG:s6-u4/p-02@",
+   "section": "Yaşayan Demokrasimiz",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      796,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 12,
+   "img": "@IMG:s6-u4/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "YÖNETİMİN KARAR ALMA",
+     "r": [
+      38,
+      55,
+      879,
+      588
+     ]
+    },
+    {
+     "t": "Deniz Eymen ve sınıf…",
+     "r": [
+      38,
+      615,
+      789,
+      549
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      175,
+      935,
+      170,
+      30
+     ],
+     "mode": "ink",
+     "text": "Katılım",
+     "pill": [
+      305,
+      922
+     ]
+    },
+    {
+     "area": [
+      530,
+      935,
+      170,
+      30
+     ],
+     "mode": "ink",
+     "text": "Eşitlik",
+     "pill": [
+      654,
+      925
+     ]
+    },
+    {
+     "area": [
+      115,
+      985,
+      210,
+      30
+     ],
+     "mode": "ink",
+     "text": "Hukukun üstünlüğü",
+     "pill": [
+      275,
+      972
+     ]
+    },
+    {
+     "area": [
+      550,
+      985,
+      210,
+      30
+     ],
+     "mode": "ink",
+     "text": "Millî egemenlik",
+     "pill": [
+      722,
+      972
+     ]
+    },
+    {
+     "area": [
+      175,
+      1040,
+      170,
+      30
+     ],
+     "mode": "ink",
+     "text": "Çoğulculuk",
+     "pill": [
+      311,
+      1048
+     ]
+    },
+    {
+     "area": [
+      530,
+      1040,
+      170,
+      30
+     ],
+     "mode": "ink",
+     "text": "Seçme seçilme hakkı",
+     "pill": [
+      654,
+      1048
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "img": "@IMG:s6-u4/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Tarihimizde demokrasiyle ilgili…",
+     "r": [
+      34,
+      56,
+      794,
+      399
+     ]
+    },
+    {
+     "t": "Milli bayram olarak…",
+     "r": [
+      94,
+      427,
+      734,
+      550
+     ]
+    },
+    {
+     "t": "Medyanın kamuoyu oluşturmadaki…",
+     "r": [
+      92,
+      795,
+      736,
+      384
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      215,
+      400,
+      180,
+      36
+     ],
+     "mode": "ink",
+     "text": "Ulusal Egemenlik ve Çocuk Bayramı",
+     "pill": [
+      357,
+      405
+     ]
+    },
+    {
+     "area": [
+      400,
+      400,
+      180,
+      36
+     ],
+     "mode": "ink",
+     "text": "Cumhuriyet Bayramı",
+     "pill": [
+      542,
+      405
+     ]
+    },
+    {
+     "area": [
+      110,
+      478,
+      690,
+      50
+     ],
+     "mode": "ink",
+     "text": "23 Nisan 1920'de TBMM açıldı; 29 Ekim 1923'te Cumhuriyet ilan edildi.",
+     "pill": [
+      822,
+      465
+     ]
+    },
+    {
+     "area": [
+      110,
+      580,
+      690,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "TBMM'nin açılmasıyla egemenlik millete geçti, halk temsilcileri aracılığıyla yönetime katıldı. Cumhuriyetin ilanıyla yönetim şekli belirlendi; devlet başkanını millet seçmeye başladı. Bu gelişmeler millî egemenlik, eşitlik ve seçme-seçilme gibi demokratik ilkelerin temelini attı.",
+     "pill": [
+      390,
+      582
+     ],
+     "qx": 106,
+     "qt": 557,
+     "qb": 649,
+     "qr": 816,
+     "bal": [
+      106,
+      657,
+      710,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      110,
+      775,
+      690,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "STK'lar devletin ve toplumun ihtiyaçlarını belirleyip çözüm önerir; projelerle istihdamı artırır, gençlerin meslek edinmesini sağlar. Gönüllülüğü ve dayanışmayı güçlendirir, vatandaşların karar alma süreçlerine katılımını artırır.",
+     "pill": [
+      432,
+      855
+     ],
+     "qx": 106,
+     "qt": 758,
+     "qb": 831,
+     "qr": 816,
+     "bal": [
+      90,
+      839,
+      742,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      110,
+      1130,
+      690,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Medya; bilgiyi hızla geniş kitlelere ulaştırır, insanları bir konuda bilgilendirir ve harekete geçirebilir. 15 Temmuz'da canlı yayın sayesinde millet darbeye karşı sokaklara çıkmıştır. Medya kamuoyunun oluşmasında çok etkilidir; bu yüzden haberlerin doğru ve tarafsız olması, bizim de bilgiyi güvenilir kaynaklardan doğrulamamız gerekir.",
+     "pill": [
+      318,
+      1138
+     ],
+     "qx": 110,
+     "qt": 1099,
+     "qb": 1220,
+     "qr": 815,
+     "bal": [
+      88,
+      936,
+      744,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "img": "@IMG:s6-u4/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Çocuklar, zihinsel ve bedensel…",
+     "r": [
+      38,
+      55,
+      794,
+      773
+     ]
+    },
+    {
+     "t": "Çocuk Haklarına Dair Sözleşme…",
+     "r": [
+      38,
+      800,
+      789,
+      364
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      575,
+      690,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Çocuklar için güvenli oyun alanları, parklar ve kütüphaneler yapardım. Okullarda sağlıklı beslenme ve ücretsiz sağlık taramaları sağlar, çocuk işçiliğini ve şiddeti önlemek için denetimleri artırırdım. Çocukların fikirlerini söyleyebileceği çocuk meclisleri kurardım.",
+     "pill": [
+      446,
+      586
+     ],
+     "qx": 134,
+     "qt": 566,
+     "qb": 605,
+     "qr": 820,
+     "bal": [
+      34,
+      613,
+      802,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "img": "@IMG:s6-u4/p-06@",
+   "steps": [
+    {
+     "t": "Çocuklar bu maddelere dayanarak…",
+     "r": [
+      69,
+      85,
+      812,
+      305
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      68,
+      362,
+      813,
+      802
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      152,
+      680,
+      32
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Katılım düzeyi en yüksek olan Örnek Durum 3'tür. Çocuk kararı tamamen kendisi almış ve uygulamıştır. Örnek Durum 2'de karar aileyle birlikte alınmış, Örnek Durum 1'de ise çocuğun fikri sorulmuş ama dikkate alınmamıştır.",
+     "pill": [
+      366,
+      142
+     ],
+     "qx": 103,
+     "qt": 99,
+     "qb": 209,
+     "qr": 816,
+     "bal": [
+      103,
+      217,
+      713,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "img": "@IMG:s6-u4/p-07@",
+   "steps": [
+    {
+     "t": "Ailede veya okuldaki karar alma",
+     "r": [
+      89,
+      85,
+      752,
+      1079
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      275,
+      520,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Azimli ve kararlı davranır; zorluklar karşısında vazgeçmez, sabırlı olur ve hedefine adım adım ilerler. Yorulduğunda dinlenir ama çalışmayı bırakmaz; başarısız olduğunda yeniden dener.",
+     "pill": [
+      326,
+      277
+     ],
+     "qx": 134,
+     "qt": 247,
+     "qb": 394,
+     "qr": 816,
+     "bal": [
+      85,
+      364,
+      760,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      705,
+      520,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Başkalarının hak ve özgürlüklerine saygı göstermeli, kurallara ve yasalara uymalı, kimseye zarar vermemeli, farklı düşüncelere hoşgörüyle yaklaşmalı ve sorumluluklarımızı yerine getirmeliyiz.",
+     "pill": [
+      326,
+      740
+     ],
+     "qx": 130,
+     "qt": 667,
+     "qb": 736,
+     "qr": 815,
+     "bal": [
+      130,
+      744,
+      685,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1115,
+      520,
+      30
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Ailede tatil yeri, hafta sonu etkinliği, ev işlerinin paylaşımı; okulda sınıf başkanı seçimi, sınıf kuralları ve gezi yeri gibi kararlara katılabiliriz. Katılım süreci doğru uygulanırsa önce bilgi edinilir, sonra fikir özgürce söylenir ve son olarak geri bildirim alınır.",
+     "pill": [
+      302,
+      1117
+     ],
+     "qx": 134,
+     "qt": 1060,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      85,
+      922,
+      760,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "img": "@IMG:s6-u4/p-08@",
+   "steps": [
+    {
+     "t": "Demokratik aileler, tüm aile…",
+     "r": [
+      93,
+      67,
+      814,
+      512
+     ]
+    },
+    {
+     "t": "1 Sorunun ya da konunun",
+     "r": [
+      122,
+      551,
+      582,
+      312
+     ]
+    },
+    {
+     "t": "Tüm bu süreçlere toplumun bir",
+     "r": [
+      94,
+      835,
+      748,
+      329
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      265,
+      520,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Akşam yemeğini birlikte yer, gün içinde yaşadıklarımızı paylaşırız. Sorunları bağırmadan konuşarak çözeriz, birbirimizi dinleriz. Hafta sonu yapacağımız etkinliğe birlikte karar veririz. Ailecek tatil yerine ve evcil hayvan sahiplenmeye birlikte karar verdik.",
+     "pill": [
+      8,
+      291
+     ],
+     "qx": 105,
+     "qt": 125,
+     "qb": 325,
+     "qr": 890,
+     "bal": [
+      89,
+      333,
+      822,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1020,
+      700,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Seçme ve seçilme hakkı, oy kullanma, siyasi parti kurma ve partilere üye olma, dilekçe hakkı, kamu hizmetine girme hakkı, halk oylamasına (referandum) katılma. Ödevler: vatan hizmeti (askerlik), vergi ödeme, oy kullanma sorumluluğu.",
+     "pill": [
+      416,
+      983
+     ],
+     "qx": 106,
+     "qt": 1008,
+     "qb": 1096,
+     "qr": 830,
+     "bal": [
+      90,
+      870,
+      756,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1065,
+      700,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Cumhurbaşkanı ve milletvekilleri 5 yılda bir yapılan genel seçimlerle; belediye başkanları ve muhtarlar 5 yılda bir yapılan mahalli idareler seçimleriyle halk tarafından gizli oy, açık sayım ilkesine göre seçilir.",
+     "pill": [
+      596,
+      1079
+     ],
+     "qx": 134,
+     "qt": 1008,
+     "qb": 1096,
+     "qr": 830,
+     "bal": [
+      90,
+      895,
+      756,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1100,
+      700,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "18 yaşını dolduran her Türk vatandaşı seçimlerde oy kullanabilir.",
+     "pill": [
+      320,
+      1129
+     ],
+     "qx": 130,
+     "qt": 1008,
+     "qb": 1220,
+     "qr": 830,
+     "bal": [
+      90,
+      945,
+      756,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      749,
+      931,
+      64,
+      64
+     ],
+     "panel": "siyasihaklar",
+     "label": "Siyasi haklar ve ödevler"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "img": "@IMG:s6-u4/p-09@",
+   "steps": [
+    {
+     "t": "Mahalli idareler genel…",
+     "r": [
+      91,
+      82,
+      739,
+      367
+     ]
+    },
+    {
+     "t": "Yaşadığınız yerde yapılan…",
+     "r": [
+      72,
+      421,
+      756,
+      743
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      380,
+      540,
+      40
+     ],
+     "mode": "ink",
+     "text": "Halk, kendisini yönetecek kişileri belirlemek ve yönetime katılmak için seçimlere katılır.",
+     "pill": [
+      612,
+      322
+     ]
+    },
+    {
+     "area": [
+      110,
+      465,
+      540,
+      30
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Seçilen yöneticilerin aldığı kararlar; okullar, parklar, yollar, toplu taşıma, temizlik ve sosyal hizmetler gibi günlük hayatımızı doğrudan etkiler. Seçimlere katılım yüksek olursa çoğunluğun isteği yönetime daha iyi yansır.",
+     "pill": [
+      294,
+      473
+     ],
+     "qx": 101,
+     "qt": 450,
+     "qb": 495,
+     "qr": 816,
+     "bal": [
+      68,
+      503,
+      764,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      110,
+      590,
+      540,
+      70
+     ],
+     "mode": "ink",
+     "text": "Oy kullananlar ülkenin geleceğinde söz sahibi olur ve vatandaşlık sorumluluğunu yerine getirir. Oy kullanmayanlar kendilerini yönetecek kişileri belirleme fırsatını kaçırır; demokraside herkesin katılımı önemlidir.",
+     "pill": [
+      732,
+      541
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "img": "@IMG:s6-u4/p-10@",
+   "steps": [
+    {
+     "t": "Hak ve özgürlüklerimizi…",
+     "r": [
+      87,
+      83,
+      757,
+      526
+     ]
+    },
+    {
+     "t": "Verilen kaynakları ve…",
+     "r": [
+      101,
+      581,
+      816,
+      583
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      100,
+      505,
+      720,
+      80
+     ],
+     "mode": "ink",
+     "text": "Muhterem Hanım, komşusunun bahçesine zarar veren tavuklar için kümes yapılmasını ve zararın birlikte karşılanmasını önermiştir. Böylece iki komşunun da hakları korunmuş, sorun kavga etmeden çözülmüştür.",
+     "pill": [
+      782,
+      489
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "img": "@IMG:s6-u4/p-11@",
+   "steps": [
+    {
+     "t": "(...) Halkı ilgilendiren belli bir",
+     "r": [
+      38,
+      62,
+      812,
+      820
+     ]
+    },
+    {
+     "t": "Belirli bir görüşü savunan ve",
+     "r": [
+      121,
+      854,
+      707,
+      322
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      720,
+      520,
+      50
+     ],
+     "mode": "ink",
+     "text": "Seçimlerde oy kullanarak, siyasi partilere ve sivil toplum kuruluşlarına üye olarak, medya ve kamuoyu aracılığıyla görüş bildirerek.",
+     "pill": [
+      638,
+      632
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      400,
+      581,
+      66,
+      66
+     ],
+     "panel": "kararalma",
+     "label": "Yönetimin karar alma sürecini etkileyen unsurlar"
+    },
+    {
+     "area": [
+      135,
+      1098,
+      59,
+      59
+     ],
+     "panel": "bulmaca",
+     "label": "Bulmaca oyunu"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "img": "@IMG:s6-u4/p-12@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Yönetime ve karar",
+     "r": [
+      34,
+      55,
+      794,
+      401
+     ]
+    },
+    {
+     "t": "Ambulansların hastaları…",
+     "r": [
+      122,
+      428,
+      693,
+      387
+     ]
+    },
+    {
+     "t": "Yönetimin karar alma sürecine etki",
+     "r": [
+      108,
+      787,
+      734,
+      377
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      150,
+      505,
+      600,
+      75
+     ],
+     "mode": "ink",
+     "text": "Trafik yoğunluğu ve sürücülerin yol vermemesi. Çözüm: Fermuar sistemi, ambulans şeritleri, akıllı trafik ışıkları ve yol vermeyenlere ceza.",
+     "pill": [
+      766,
+      501
+     ]
+    },
+    {
+     "area": [
+      150,
+      690,
+      600,
+      75
+     ],
+     "mode": "ink",
+     "text": "Medya ve kamuoyu farkındalık oluşturmada; siyasi partiler kanun ve düzenleme yapmada daha etkilidir.",
+     "pill": [
+      760,
+      677
+     ]
+    },
+    {
+     "area": [
+      120,
+      960,
+      300,
+      105
+     ],
+     "mode": "ink",
+     "text": "Hepsi halkın isteklerini yönetime iletir; demokrasiye katılımı artırır.",
+     "pill": [
+      394,
+      893
+     ]
+    },
+    {
+     "area": [
+      480,
+      960,
+      300,
+      105
+     ],
+     "mode": "ink",
+     "text": "Partiler seçime girer; STK'lar gönüllüdür; medya bilgilendirir; kamuoyu ortak görüştür.",
+     "pill": [
+      820,
+      947
+     ]
+    },
+    {
+     "area": [
+      130,
+      1115,
+      700,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Doğrudan: Siyasi partiler seçimlere katılarak yönetimde yer alır ve kanun yapar; vatandaşlar seçimlerde oy kullanır.\nDolaylı: STK'lar, medya ve kamuoyu yönetime görüş, öneri ve baskı yoluyla etki eder; kararları kendileri almaz ama karar alınmasını sağlar.",
+     "pill": [
+      320,
+      1141
+     ],
+     "qx": 134,
+     "qt": 1099,
+     "qb": 1220,
+     "qr": 830,
+     "bal": [
+      104,
+      961,
+      742,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "img": "@IMG:s6-u4/p-13@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Yönetimin karar alma…",
+     "r": [
+      38,
+      54,
+      789,
+      519
+     ]
+    },
+    {
+     "t": "YÖNETİMİN",
+     "r": [
+      112,
+      545,
+      729,
+      619
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      330,
+      230,
+      140
+     ],
+     "mode": "ink",
+     "text": "Meclis, seçim, milletvekili, program, iktidar, muhalefet, oy",
+     "pill": [
+      308,
+      305
+     ]
+    },
+    {
+     "area": [
+      555,
+      330,
+      230,
+      140
+     ],
+     "mode": "ink",
+     "text": "Gönüllülük, dernek, vakıf, sendika, dayanışma, proje",
+     "pill": [
+      751,
+      305
+     ]
+    },
+    {
+     "area": [
+      130,
+      945,
+      230,
+      140
+     ],
+     "mode": "ink",
+     "text": "Birey, ortak kanaat, genel yargı, görüş, anket, istek",
+     "pill": [
+      302,
+      920
+     ]
+    },
+    {
+     "area": [
+      555,
+      945,
+      230,
+      140
+     ],
+     "mode": "ink",
+     "text": "İletişim, haber, gazete, televizyon, radyo, genel ağ",
+     "pill": [
+      733,
+      920
+     ]
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "img": "@IMG:s6-u4/p-14@",
+   "steps": [
+    {
+     "t": "Yönetimin karar alma süreci ile",
+     "r": [
+      97,
+      85,
+      757,
+      435
+     ]
+    },
+    {
+     "t": "YÖNETİMİN",
+     "r": [
+      103,
+      492,
+      736,
+      672
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      565,
+      180,
+      205,
+      55
+     ],
+     "mode": "ink",
+     "text": "Çözüm önerileri geliştirilmesi",
+     "pill": [
+      707,
+      152
+     ]
+    },
+    {
+     "area": [
+      115,
+      298,
+      205,
+      55
+     ],
+     "mode": "ink",
+     "text": "Karar verme",
+     "pill": [
+      287,
+      270
+     ]
+    },
+    {
+     "area": [
+      590,
+      298,
+      205,
+      55
+     ],
+     "mode": "ink",
+     "text": "Kararın uygulanması",
+     "pill": [
+      732,
+      270
+     ]
+    },
+    {
+     "area": [
+      140,
+      415,
+      205,
+      55
+     ],
+     "mode": "ink",
+     "text": "Kararın değerlendirilmesi",
+     "pill": [
+      300,
+      387
+     ]
+    },
+    {
+     "area": [
+      565,
+      415,
+      205,
+      55
+     ],
+     "mode": "ink",
+     "text": "Gerekirse yeniden çözüm yolları",
+     "pill": [
+      707,
+      387
+     ]
+    },
+    {
+     "area": [
+      115,
+      712,
+      170,
+      120
+     ],
+     "mode": "ink",
+     "text": "Seçimlere katılır, meclise girer, kanun yapar, halkın isteklerini yönetime taşır.",
+     "pill": [
+      317,
+      699
+     ]
+    },
+    {
+     "area": [
+      628,
+      712,
+      170,
+      120
+     ],
+     "mode": "ink",
+     "text": "Gönüllülükle sorunlara çözüm üretir, projeler yapar, yönetime öneri sunar.",
+     "pill": [
+      830,
+      699
+     ]
+    },
+    {
+     "area": [
+      115,
+      893,
+      170,
+      120
+     ],
+     "mode": "ink",
+     "text": "Ortak görüş oluşturur, yönetimin kararlarını etkiler ve yönlendirir.",
+     "pill": [
+      53,
+      880
+     ]
+    }
+   ]
+  }
+ ]
+};

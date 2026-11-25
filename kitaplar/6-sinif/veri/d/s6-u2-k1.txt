@@ -1,0 +1,1434 @@
+// 6. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 52–105)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Ülkemizin, kıtaların ve okyanusların konum özellikleri (s. 54–75)
+window.BOOK = {
+ "id": "s6-u2-k1",
+ "title": "Ülkemizin, kıtaların ve okyanusların konum özellikleri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u2-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 52,
+   "img": "@IMG:s6-u2/p-01@",
+   "section": "2. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      96,
+      879,
+      465
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      533,
+      884,
+      631
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      360,
+      1054,
+      65,
+      65
+     ],
+     "panel": "alan",
+     "label": "2. Öğrenme alanı"
+    },
+    {
+     "area": [
+      596,
+      991,
+      66,
+      66
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "img": "@IMG:s6-u2/p-02@",
+   "section": "Evimiz Dünya",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      796,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      613,
+      879,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 54,
+   "img": "@IMG:s6-u2/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ÜLKENİZİN, KITALARIN",
+     "r": [
+      38,
+      19,
+      879,
+      434
+     ]
+    },
+    {
+     "t": "ÇANAKKALE",
+     "r": [
+      53,
+      425,
+      791,
+      739
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      123,
+      262,
+      202,
+      82
+     ],
+     "mode": "ink",
+     "text": "Marmara Denizi'ne ve Ege Denizi'ne kıyısı vardır.",
+     "pill": [
+      385,
+      255
+     ]
+    },
+    {
+     "area": [
+      596,
+      262,
+      202,
+      82
+     ],
+     "mode": "ink",
+     "text": "Çanakkale, Bursa, Kütahya, Manisa ve İzmir ile komşudur.",
+     "pill": [
+      828,
+      261
+     ]
+    },
+    {
+     "area": [
+      107,
+      1018,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Kaz Dağı ve Madra Dağı ilin batısında yer alır.",
+     "pill": [
+      345,
+      978
+     ]
+    },
+    {
+     "area": [
+      128,
+      1103,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Balıkesir'in göreceli konumu belirlenirken komşu illerden, kıyısı olduğu denizlerden (Marmara ve Ege), yer şekillerinden (dağlar, yükselti), göllerden ve ulaşım imkânlarından (kara, demir ve deniz yolu) yararlanılmıştır.",
+     "pill": [
+      384,
+      1117
+     ],
+     "qx": 128,
+     "qt": 963,
+     "qb": 1215,
+     "qr": 832,
+     "bal": [
+      49,
+      930,
+      799,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "img": "@IMG:s6-u2/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki görselden…",
+     "r": [
+      34,
+      55,
+      842,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      330,
+      92,
+      500,
+      48
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hastane; okulun doğusunda, Rüzgâr Sitesi'nin hemen kuzeyinde yer alır. Yağmur Apartmanı'nın güneybatısında, Gül Caddesi'ne yakındır. Fabrikaya ve trafoya giden yolun üzerindedir.",
+     "pill": [
+      514,
+      118
+     ],
+     "qx": 151,
+     "qt": 70,
+     "qb": 280,
+     "qr": 830,
+     "bal": [
+      151,
+      193,
+      679,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      133,
+      742,
+      685,
+      360
+     ],
+     "mode": "ink",
+     "text": "Okulumuz Atatürk Caddesi üzerinde, mahallemizin merkezindedir. Kuzeyinde belediye parkı, güneyinde sağlık ocağı, doğusunda cami, batısında ise market bulunur. Okulun hemen yanında otobüs durağı vardır.",
+     "pill": [
+      809,
+      729
+     ]
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "img": "@IMG:s6-u2/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Dünya üzerindeki herhangi bir…",
+     "r": [
+      38,
+      55,
+      878,
+      387
+     ]
+    },
+    {
+     "t": "Güney Amerika",
+     "r": [
+      39,
+      414,
+      877,
+      750
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 57,
+   "img": "@IMG:s6-u2/p-06@",
+   "steps": [
+    {
+     "t": "Bulgaristan",
+     "r": [
+      93,
+      46,
+      809,
+      722
+     ]
+    },
+    {
+     "t": "aratan",
+     "r": [
+      102,
+      740,
+      746,
+      424
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      540,
+      780,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türkiye, enerji kaynakları zengin Rusya, Azerbaycan ve Orta Doğu ile bu kaynaklara ihtiyaç duyan Avrupa arasında köprü konumundadır. Bakü-Tiflis-Ceyhan, TANAP ve Türk Akım gibi boru hatlarıyla petrol ve doğal gazın Avrupa'ya taşınmasında geçiş (transit) ülkesi görevi üstlenir.",
+     "pill": [
+      438,
+      566
+     ],
+     "qx": 105,
+     "qt": 400,
+     "qb": 583,
+     "qr": 890,
+     "bal": [
+      89,
+      591,
+      817,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "img": "@IMG:s6-u2/p-07@",
+   "steps": [
+    {
+     "t": "EGE DENİZİ",
+     "r": [
+      123,
+      62,
+      707,
+      262
+     ]
+    },
+    {
+     "t": "TÜRKİYE İKLİM HARİTASI",
+     "r": [
+      93,
+      296,
+      755,
+      896
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1066,
+      700,
+      36
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türkiye, Asya, Avrupa ve Afrika'nın birbirine yaklaştığı bir konumda, önemli ticaret yollarının kesiştiği yerdedir. Bu nedenle tarih boyunca birçok medeniyete ev sahipliği yapmış, ülkenin dört bir yanında eserler bırakılmıştır. Üç tarafının denizlerle çevrili olması, farklı iklimler ve çeşitli yer şekilleri sayesinde peribacaları, Pamukkale travertenleri, uzun kıyılar ve yaylalar gibi doğal güzellikler oluşmuştur.",
+     "pill": [
+      414,
+      1038
+     ],
+     "qx": 105,
+     "qt": 1066,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      89,
+      878,
+      763,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      135,
+      1107,
+      66,
+      66
+     ],
+     "panel": "goreceli",
+     "label": "Türkiye'nin göreceli konumu"
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "img": "@IMG:s6-u2/p-08@",
+   "steps": [
+    {
+     "t": "Bilgi Kutusu",
+     "r": [
+      34,
+      46,
+      878,
+      556
+     ]
+    },
+    {
+     "t": "Okyanus",
+     "r": [
+      34,
+      574,
+      878,
+      590
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      113,
+      312,
+      207,
+      92
+     ],
+     "mode": "ink",
+     "text": "Asya, Avrupa ve Afrika kıtalarının birbirine en çok yaklaştığı yerdedir.",
+     "pill": [
+      285,
+      224
+     ]
+    },
+    {
+     "area": [
+      342,
+      312,
+      207,
+      92
+     ],
+     "mode": "ink",
+     "text": "Üç tarafı denizlerle çevrilidir; Karadeniz, Ege ve Akdeniz'e kıyısı vardır.",
+     "pill": [
+      586,
+      284
+     ]
+    },
+    {
+     "area": [
+      572,
+      312,
+      207,
+      92
+     ],
+     "mode": "ink",
+     "text": "İstanbul ve Çanakkale boğazlarına sahiptir.",
+     "pill": [
+      744,
+      284
+     ]
+    },
+    {
+     "area": [
+      113,
+      1045,
+      207,
+      92
+     ],
+     "mode": "ink",
+     "text": "Balkanlar ile Kafkasların arasında yer alır.",
+     "pill": [
+      285,
+      1137
+     ]
+    },
+    {
+     "area": [
+      342,
+      1045,
+      207,
+      92
+     ],
+     "mode": "ink",
+     "text": "Enerji kaynakları zengin ülkeler ile Avrupa arasında köprüdür.",
+     "pill": [
+      574,
+      993
+     ]
+    },
+    {
+     "area": [
+      572,
+      1045,
+      207,
+      92
+     ],
+     "mode": "ink",
+     "text": "Önemli ticaret yollarının kesiştiği yerdedir.",
+     "pill": [
+      828,
+      1032
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      753,
+      183,
+      62,
+      62
+     ],
+     "panel": "hgm",
+     "label": "HGM dijital ve atlas küre uygulaması"
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "img": "@IMG:s6-u2/p-09@",
+   "steps": [
+    {
+     "t": "Ülkemizin kara sınırının olduğu…",
+     "r": [
+      122,
+      81,
+      706,
+      1083
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 61,
+   "img": "@IMG:s6-u2/p-10@",
+   "steps": [
+    {
+     "t": "Ülkemizin güneyinde, Akdeniz'e…",
+     "r": [
+      122,
+      114,
+      705,
+      425
+     ]
+    },
+    {
+     "t": "Ülkemizin güneybatısında,…",
+     "r": [
+      122,
+      511,
+      706,
+      653
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 62,
+   "img": "@IMG:s6-u2/p-11@",
+   "steps": [
+    {
+     "t": "Ülkemizin kuzeyinde, Karadeniz…",
+     "r": [
+      122,
+      51,
+      706,
+      408
+     ]
+    },
+    {
+     "t": "aaa ROMANYA",
+     "r": [
+      100,
+      431,
+      750,
+      733
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      112,
+      768,
+      135,
+      362
+     ],
+     "mode": "ink",
+     "text": "Yunanistan\nBulgaristan\nRomanya\nUkrayna\nRusya\nGürcistan\nSuriye\nLübnan\nFilistin\nMısır\nLibya\nKKTC",
+     "pill": [
+      212,
+      722
+     ]
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "img": "@IMG:s6-u2/p-12@",
+   "steps": [
+    {
+     "t": "Göreceli konumun önemli bir…",
+     "r": [
+      122,
+      83,
+      790,
+      810
+     ]
+    },
+    {
+     "t": "Mavi Vatan'ın korunması,…",
+     "r": [
+      122,
+      865,
+      708,
+      320
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      990,
+      640,
+      120
+     ],
+     "mode": "ink",
+     "text": "Mavi Vatan; denizlerimizdeki doğal gaz, petrol, balıkçılık, ulaşım ve ticaret haklarımızı kapsar. Bu alanların korunması ülkemizin güvenliğini sağlar, enerji ihtiyacımızı karşılayarak bizi dışa bağımlılıktan kurtarır ve tam bağımsızlığımızı güçlendirir.",
+     "pill": [
+      824,
+      977
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      756,
+      1104,
+      62,
+      62
+     ],
+     "panel": "mavivatan",
+     "label": "Mavi Vatan"
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "img": "@IMG:s6-u2/p-13@",
+   "steps": [
+    {
+     "t": "Yeryüzünde Asya, Avrupa,…",
+     "r": [
+      72,
+      83,
+      801,
+      303
+     ]
+    },
+    {
+     "t": "Atlas Okyanusu",
+     "r": [
+      71,
+      358,
+      802,
+      806
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      103,
+      1073,
+      64,
+      64
+     ],
+     "panel": "kitalar",
+     "label": "Kıtalar ve okyanuslar"
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "img": "@IMG:s6-u2/p-14@",
+   "steps": [
+    {
+     "t": "Asya Kuzey Okyanusu",
+     "r": [
+      78,
+      82,
+      791,
+      240
+     ]
+    },
+    {
+     "t": "Afrika Hint Okyanusu",
+     "r": [
+      78,
+      294,
+      797,
+      870
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 66,
+   "img": "@IMG:s6-u2/p-15@",
+   "steps": [
+    {
+     "t": "İncelediğiniz kaynaklardan…",
+     "r": [
+      98,
+      50,
+      754,
+      527
+     ]
+    },
+    {
+     "t": "ANTARTİKA KITASI",
+     "r": [
+      98,
+      549,
+      754,
+      615
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      292,
+      171,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Dünya'nın en büyük kıtası. Avrupa ve Afrika'nın doğusunda, Büyük Okyanus'un batısında, Hint Okyanusu'nun kuzeyinde.",
+     "pill": [
+      776,
+      131
+     ]
+    },
+    {
+     "area": [
+      292,
+      253,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Asya'nın batısında, Afrika'nın kuzeyinde, Atlas Okyanusu'nun doğusunda.",
+     "pill": [
+      842,
+      240
+     ]
+    },
+    {
+     "area": [
+      292,
+      334,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Avrupa'nın güneyinde, Asya'nın güneybatısında; batısında Atlas, doğusunda Hint Okyanusu.",
+     "pill": [
+      842,
+      321
+     ]
+    },
+    {
+     "area": [
+      292,
+      415,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Büyük Okyanus'un doğusunda, Atlas Okyanusu'nun batısında, Güney Amerika'nın kuzeyinde.",
+     "pill": [
+      842,
+      402
+     ]
+    },
+    {
+     "area": [
+      292,
+      496,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Kuzey Amerika'nın güneyinde, Büyük Okyanus'un doğusunda, Atlas Okyanusu'nun batısında.",
+     "pill": [
+      842,
+      483
+     ]
+    },
+    {
+     "area": [
+      292,
+      580,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Güney Kutbu'nda, çevresi Güney Okyanus ile çevrili; buzlarla kaplı.",
+     "pill": [
+      842,
+      567
+     ]
+    },
+    {
+     "area": [
+      292,
+      661,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Büyük Okyanus'un batısında, Hint Okyanusu'nun doğusunda; en küçük kıta.",
+     "pill": [
+      842,
+      648
+     ]
+    },
+    {
+     "area": [
+      292,
+      744,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "En büyük okyanus. Asya ve Okyanusya'nın doğusunda, iki Amerika'nın batısında.",
+     "pill": [
+      842,
+      731
+     ]
+    },
+    {
+     "area": [
+      292,
+      826,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Avrupa ve Afrika'nın batısında, iki Amerika'nın doğusunda, Antarktika'nın kuzeyinde.",
+     "pill": [
+      842,
+      813
+     ]
+    },
+    {
+     "area": [
+      292,
+      908,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Afrika'nın doğusunda, Asya'nın güneyinde, Okyanusya'nın batısında.",
+     "pill": [
+      842,
+      895
+     ]
+    },
+    {
+     "area": [
+      292,
+      990,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Antarktika'yı çevreler; Asya, Afrika ve Kuzey Amerika'nın güneyinde.",
+     "pill": [
+      842,
+      977
+     ]
+    },
+    {
+     "area": [
+      292,
+      1073,
+      520,
+      52
+     ],
+     "mode": "ink",
+     "text": "Asya, Avrupa ve Kuzey Amerika'nın kuzeyinde; en küçük okyanus.",
+     "pill": [
+      842,
+      1060
+     ]
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "img": "@IMG:s6-u2/p-16@",
+   "steps": [
+    {
+     "t": "Bazen bulunduğumuz yeri veya…",
+     "r": [
+      108,
+      83,
+      726,
+      1019
+     ]
+    },
+    {
+     "t": "Aşağıdaki soruları sınıfınızın…",
+     "r": [
+      120,
+      888,
+      714,
+      276
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      217,
+      595,
+      101,
+      40
+     ],
+     "mode": "ink",
+     "text": "Ethem",
+     "pill": [
+      257,
+      597
+     ]
+    },
+    {
+     "area": [
+      376,
+      410,
+      104,
+      40
+     ],
+     "mode": "ink",
+     "text": "Emir",
+     "pill": [
+      416,
+      412
+     ]
+    },
+    {
+     "area": [
+      536,
+      322,
+      104,
+      40
+     ],
+     "mode": "ink",
+     "text": "Nesibe",
+     "pill": [
+      576,
+      318
+     ]
+    },
+    {
+     "area": [
+      697,
+      503,
+      104,
+      40
+     ],
+     "mode": "ink",
+     "text": "Ali",
+     "pill": [
+      821,
+      490
+     ]
+    },
+    {
+     "area": [
+      697,
+      322,
+      104,
+      40
+     ],
+     "mode": "ink",
+     "text": "Ayşe",
+     "pill": [
+      737,
+      318
+     ]
+    },
+    {
+     "area": [
+      376,
+      503,
+      104,
+      40
+     ],
+     "mode": "ink",
+     "text": "Aliye",
+     "pill": [
+      416,
+      505
+     ]
+    },
+    {
+     "area": [
+      132,
+      865,
+      690,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ahmet, 3. sıra ile C sütununun kesiştiği yerde oturur. Önünde (1C) Nesibe, sağında (3Ç) Ali, solunda (3B) Aliye vardır. Öğretmen masasına göre sağ tarafta, sınıfın ortasındadır.",
+     "pill": [
+      550,
+      864
+     ],
+     "qx": 132,
+     "qt": 865,
+     "qb": 891,
+     "qr": 822,
+     "bal": [
+      104,
+      989,
+      734,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      132,
+      915,
+      690,
+      66
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Sıram öğretmen masasının sol tarafında, ikinci sıradadır; masaya iki sıra uzaklıktadır. Arkadaşım Elif'in sırası benim sıramın hemen arkasında, pencere tarafındadır.",
+     "pill": [
+      418,
+      977
+     ],
+     "qx": 134,
+     "qt": 915,
+     "qb": 981,
+     "qr": 822,
+     "bal": [
+      104,
+      989,
+      734,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 68,
+   "img": "@IMG:s6-u2/p-17@",
+   "steps": [
+    {
+     "t": "Coğrafi koordinat sistemine ait…",
+     "r": [
+      100,
+      75,
+      746,
+      1089
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 69,
+   "img": "@IMG:s6-u2/p-18@",
+   "steps": [
+    {
+     "t": "Paralellerin Özellikleri",
+     "r": [
+      58,
+      76,
+      830,
+      683
+     ]
+    },
+    {
+     "t": "arım küre",
+     "r": [
+      70,
+      731,
+      797,
+      464
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      753,
+      1114,
+      62,
+      62
+     ],
+     "panel": "koordinat",
+     "label": "Coğrafi koordinat sistemi"
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "img": "@IMG:s6-u2/p-19@",
+   "steps": [
+    {
+     "t": "Dünya siyasi haritasından…",
+     "r": [
+      84,
+      83,
+      781,
+      313
+     ]
+    },
+    {
+     "t": "Harita Dünya Siyasi Haritası",
+     "r": [
+      83,
+      368,
+      782,
+      796
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      500,
+      642,
+      330,
+      26
+     ],
+     "mode": "card",
+     "label": "Örnek ülkeler",
+     "text": "Kuzey yarım kürede toprakları olan ülke: Türkiye, Kanada, Rusya\nGüney yarım kürede toprakları olan ülke: Avustralya, Arjantin, Güney Afrika\nBaşlangıç meridyeninin doğusunda: Türkiye, Çin, Hindistan\nBaşlangıç meridyeninin batısında: ABD, Brezilya, Meksika\nEkvator'un kuzeyinde ve başlangıç meridyeninin batısında: ABD, Kanada, Meksika\nEkvator'un güneyinde ve başlangıç meridyeninin doğusunda: Avustralya, Güney Afrika, Madagaskar",
+     "pill": [
+      600,
+      641
+     ],
+     "qx": 142,
+     "qt": 580,
+     "qb": 804,
+     "qr": 830,
+     "bal": [
+      79,
+      721,
+      790,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "img": "@IMG:s6-u2/p-20@",
+   "steps": [
+    {
+     "t": "Bir yerin Ekvator'a ve başlangıç",
+     "r": [
+      46,
+      83,
+      812,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 72,
+   "img": "@IMG:s6-u2/p-21@",
+   "steps": [
+    {
+     "t": "Orta kuşak",
+     "r": [
+      96,
+      45,
+      751,
+      298
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      102,
+      315,
+      745,
+      861
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      635,
+      660,
+      42
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kuzeyden (kuzeybatı, kuzey, kuzeydoğu) esen rüzgârlar soğuk bölgelerden geldiği için ülkemizde sıcaklığı düşürür; kışın kar yağışına ve soğuk havaya neden olur. Güneyden (güneybatı, güney, güneydoğu) esen rüzgârlar Ekvator'a yakın sıcak bölgelerden geldiği için sıcaklığı artırır; lodos gibi ılık hava getirir.",
+     "pill": [
+      428,
+      610
+     ],
+     "qx": 134,
+     "qt": 635,
+     "qb": 678,
+     "qr": 820,
+     "bal": [
+      134,
+      686,
+      686,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1093,
+      64,
+      64
+     ],
+     "panel": "mutlak",
+     "label": "Türkiye'nin mutlak konumu"
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "img": "@IMG:s6-u2/p-22@",
+   "steps": [
+    {
+     "t": "Göreceli konum özelliklerinden…",
+     "r": [
+      122,
+      73,
+      715,
+      777
+     ]
+    },
+    {
+     "t": "Harita",
+     "r": [
+      133,
+      822,
+      695,
+      342
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      345,
+      158,
+      480,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Denizlerimiz: Karadeniz (kuzey), Marmara (iç deniz), Ege (batı), Akdeniz (güney).\nBoğazlarımız: İstanbul ve Çanakkale.\nKara komşularımız: Yunanistan, Bulgaristan, Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran, Irak, Suriye.\nDeniz komşularımız: KKTC, Lübnan, Filistin, Mısır, Libya, Rusya, Ukrayna, Romanya.\nMutlak konum: 36°–42° kuzey paralelleri ile 26°–45° doğu meridyenleri arasındadır. Kuzey yarım kürede ve başlangıç meridyeninin doğusundadır.",
+     "pill": [
+      517,
+      205
+     ],
+     "qx": 134,
+     "qt": 87,
+     "qb": 328,
+     "qr": 825,
+     "bal": [
+      118,
+      241,
+      723,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 74,
+   "img": "@IMG:s6-u2/p-23@",
+   "steps": [
+    {
+     "t": "Dünya dilsiz haritasını…",
+     "r": [
+      108,
+      83,
+      809,
+      1111
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      120,
+      127,
+      520,
+      26
+     ],
+     "mode": "card",
+     "label": "Yerleşim ipucu",
+     "text": "Harita yan çevrilmiş durumdadır (kuzey sola bakıyor).\nKıtalar: Kuzey Amerika, Güney Amerika, Avrupa, Asya, Afrika, Okyanusya, Antarktika.\nOkyanuslar: Büyük Okyanus, Atlas Okyanusu, Hint Okyanusu, Kuzey Okyanusu, Güney Okyanus.",
+     "pill": [
+      310,
+      66
+     ],
+     "qx": 120,
+     "qt": 97,
+     "qb": 155,
+     "qr": 816,
+     "bal": [
+      120,
+      163,
+      696,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1109,
+      66,
+      66
+     ],
+     "panel": "dereceleme",
+     "label": "Derecelendirme ölçeği"
+    }
+   ]
+  },
+  {
+   "n": 75,
+   "img": "@IMG:s6-u2/p-24@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı o : Ülkemizin, Kıtaların",
+     "r": [
+      34,
+      55,
+      807,
+      778
+     ]
+    },
+    {
+     "t": "Harita",
+     "r": [
+      108,
+      805,
+      733,
+      359
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      1012,
+      680,
+      32
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Erzurum. 40° kuzey paraleli ile 42° doğu meridyeninin kesiştiği nokta Erzurum il sınırları içindedir.",
+     "pill": [
+      450,
+      1026
+     ],
+     "qx": 137,
+     "qt": 872,
+     "qb": 1091,
+     "qr": 829,
+     "bal": [
+      137,
+      1097,
+      692,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      135,
+      1092,
+      680,
+      40
+     ],
+     "mode": "ink",
+     "text": "Mutlak: 40° kuzey paraleli ile 42° doğu meridyeni. Göreceli: Doğu Anadolu'da, Kars, Ağrı ve Bingöl'e komşu, yüksek ve soğuk bir ildir.",
+     "pill": [
+      781,
+      1079
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      755,
+      385,
+      62,
+      62
+     ],
+     "panel": "sozlu",
+     "label": "Kontrol listesi"
+    }
+   ]
+  }
+ ]
+};

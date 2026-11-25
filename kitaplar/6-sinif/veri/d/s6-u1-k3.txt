@@ -1,0 +1,1059 @@
+// 6. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–51)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Toplumsal sorunlar ve çözüm önerileri (s. 38–51)
+window.BOOK = {
+ "id": "s6-u1-k3",
+ "title": "Toplumsal sorunlar ve çözüm önerileri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u1-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 38,
+   "img": "@IMG:s6-u1/p-29@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      0,
+      879,
+      274
+     ]
+    },
+    {
+     "t": "TOPLUMSAL SORUNLAR",
+     "r": [
+      38,
+      246,
+      879,
+      918
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      760,
+      690,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Karıncalar dayanışma ve iş birliği içinde hareket eder. Birbirlerine sıkıca tutunup suyun üstünde sal oluşturur, sürekli yer değiştirerek birbirlerini korurlar; böylece hiçbiri boğulmaz.",
+     "pill": [
+      512,
+      738
+     ],
+     "qx": 106,
+     "qt": 759,
+     "qb": 791,
+     "qr": 820,
+     "bal": [
+      34,
+      799,
+      887,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1037,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "TOYTOS orman yangınlarını önceden tahmin eder, riskli bölgeleri belirler ve erken uyarı verir. Böylece yangın çıkmadan önlem alınır; ormanlar, canlılar ve insanlar korunur. Bilim insanları bilgi ve teknolojiyi toplumun yararına kullanmıştır.",
+     "pill": [
+      410,
+      1063
+     ],
+     "qx": 106,
+     "qt": 1037,
+     "qb": 1078,
+     "qr": 820,
+     "bal": [
+      34,
+      924,
+      887,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1096,
+      690,
+      38
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Okulda atık pil ve kâğıt toplama kampanyası düzenlemek, parkın temizliği için gönüllü ekip kurmak, yaşlı komşulara alışverişte yardım etmek, sokak hayvanları için mama ve su kabı koymak, okul önüne yaya geçidi için belediyeye dilekçe yazmak.",
+     "pill": [
+      392,
+      1119
+     ],
+     "qx": 101,
+     "qt": 1096,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      34,
+      924,
+      887,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "img": "@IMG:s6-u1/p-30@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Ecdadımız, kendi kişisel…",
+     "r": [
+      34,
+      0,
+      794,
+      859
+     ]
+    },
+    {
+     "t": "Ecdadımızın karşılaştığı…",
+     "r": [
+      122,
+      831,
+      706,
+      333
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      328,
+      990,
+      435,
+      30
+     ],
+     "mode": "ink",
+     "text": "Sokak hayvanlarının kışın aç ve barınaksız kalması",
+     "pill": [
+      728,
+      959
+     ]
+    },
+    {
+     "area": [
+      328,
+      1031,
+      435,
+      78
+     ],
+     "mode": "ink",
+     "text": "Gönüllü bir grup kurup mama ve su noktaları oluşturmak, belediyeyle kulübe yapmak, sahiplendirme etkinlikleri düzenlemek.",
+     "pill": [
+      770,
+      1018
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "img": "@IMG:s6-u1/p-31@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsanlığın veya bir toplumun…",
+     "r": [
+      33,
+      55,
+      883,
+      1109
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 41,
+   "img": "@IMG:s6-u1/p-32@",
+   "steps": [
+    {
+     "t": "Doğaya bırakılan plastik…",
+     "r": [
+      81,
+      0,
+      836,
+      880
+     ]
+    },
+    {
+     "t": "Hava kirliliği",
+     "r": [
+      34,
+      722,
+      878,
+      442
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      106,
+      666,
+      452,
+      42
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Çöpleri yere ya da denize atmak, tek kullanımlık plastikleri fazla kullanmak, atıkları ayrıştırmamak, fabrika atıklarını arıtmadan doğaya bırakmak, gereksiz araç kullanmak, suyu ve enerjiyi israf etmek, ağaç kesmek, tarımda aşırı ilaç ve gübre kullanmak.",
+     "pill": [
+      266,
+      641
+     ],
+     "qx": 105,
+     "qt": 666,
+     "qb": 709,
+     "qr": 558,
+     "bal": [
+      105,
+      717,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "img": "@IMG:s6-u1/p-33@",
+   "steps": [
+    {
+     "t": "Dünya nüfusunun",
+     "r": [
+      38,
+      0,
+      878,
+      770
+     ]
+    },
+    {
+     "t": "2015 248 milyon",
+     "r": [
+      38,
+      742,
+      790,
+      422
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 43,
+   "img": "@IMG:s6-u1/p-34@",
+   "steps": [
+    {
+     "t": "Dünyada salgın",
+     "r": [
+      59,
+      6,
+      801,
+      677
+     ]
+    },
+    {
+     "t": "Meksika ve ABD'de Orta Afrika'da",
+     "r": [
+      75,
+      655,
+      842,
+      509
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 44,
+   "img": "@IMG:s6-u1/p-35@",
+   "steps": [
+    {
+     "t": "GIDA İSRAFI",
+     "r": [
+      38,
+      73,
+      803,
+      1091
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 45,
+   "img": "@IMG:s6-u1/p-36@",
+   "steps": [
+    {
+     "t": "Türkiye'de her yıl milyonlarca ton",
+     "r": [
+      108,
+      0,
+      809,
+      789
+     ]
+    },
+    {
+     "t": "Yukarıda belirlediğiniz…",
+     "r": [
+      122,
+      761,
+      706,
+      403
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      158,
+      515,
+      635,
+      240
+     ],
+     "mode": "ink",
+     "text": "Sel ve heyelan gibi doğal afetler, orman yangınları, su kıtlığı ve kuraklık, deniz ve çevre kirliliği, hava kirliliği, canlı türlerinin yok olması, göç, salgın hastalıklar, gıda israfı ve açlık.",
+     "pill": [
+      822,
+      502
+     ]
+    },
+    {
+     "area": [
+      158,
+      885,
+      635,
+      230
+     ],
+     "mode": "ink",
+     "text": "Trafik kazaları ve sıkışıklığı, gürültü kirliliği, işsizlik, yoksulluk, akran zorbalığı, ekran bağımlılığı, sokak hayvanlarının bakımsız kalması, parklarda çevre kirliliği, enerji ve su israfı.",
+     "pill": [
+      822,
+      872
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      500,
+      345,
+      58,
+      58
+     ],
+     "panel": "sorunlar",
+     "label": "Toplumsal sorunlar"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "img": "@IMG:s6-u1/p-37@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı o: Çözüm Köşesi",
+     "r": [
+      38,
+      55,
+      784,
+      287
+     ]
+    },
+    {
+     "t": "Öğretmeninizin rehberliğinde…",
+     "r": [
+      105,
+      314,
+      744,
+      419
+     ]
+    },
+    {
+     "t": "Her grubun toplumsal sorunun…",
+     "r": [
+      101,
+      705,
+      748,
+      459
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      355,
+      478,
+      440,
+      30
+     ],
+     "mode": "ink",
+     "text": "Gıda israfı",
+     "pill": [
+      761,
+      444
+     ]
+    },
+    {
+     "area": [
+      152,
+      565,
+      645,
+      95
+     ],
+     "mode": "ink",
+     "text": "Gereğinden fazla alışveriş yapmak, tabağa fazla yemek koymak, son kullanma tarihlerini takip etmemek, artan yemekleri değerlendirmemek.",
+     "pill": [
+      732,
+      546
+     ]
+    },
+    {
+     "area": [
+      355,
+      877,
+      440,
+      30
+     ],
+     "mode": "ink",
+     "text": "Gıda israfı",
+     "pill": [
+      761,
+      843
+     ]
+    },
+    {
+     "area": [
+      146,
+      985,
+      300,
+      110
+     ],
+     "mode": "ink",
+     "text": "Çoğu grup bilinçsiz alışverişi ve tabağa fazla yemek koymayı neden olarak gösterdi.",
+     "pill": [
+      366,
+      939
+     ]
+    },
+    {
+     "area": [
+      502,
+      985,
+      300,
+      110
+     ],
+     "mode": "ink",
+     "text": "Bazı gruplar misafirlikte fazla yemek yapma alışkanlığını, bazıları market indirimlerini öne çıkardı.",
+     "pill": [
+      842,
+      972
+     ]
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "img": "@IMG:s6-u1/p-38@",
+   "steps": [
+    {
+     "t": "Grubunuzla belirlediğiniz…",
+     "r": [
+      101,
+      66,
+      748,
+      836
+     ]
+    },
+    {
+     "t": "Diğer gruplar tarafından…",
+     "r": [
+      101,
+      874,
+      748,
+      295
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      133,
+      222,
+      685,
+      120
+     ],
+     "mode": "ink",
+     "text": "1) Okulda \"Tabağında Bırakma\" kampanyası başlatmak.\n2) Artan ekmekleri hayvan barınaklarına ulaştırmak.\n3) Ailelere alışveriş listesi hazırlamayı anlatan broşürler dağıtmak.",
+     "pill": [
+      761,
+      206
+     ]
+    },
+    {
+     "area": [
+      430,
+      597,
+      365,
+      30
+     ],
+     "mode": "ink",
+     "text": "Gıda israfı",
+     "pill": [
+      758,
+      566
+     ]
+    },
+    {
+     "area": [
+      152,
+      665,
+      195,
+      205
+     ],
+     "mode": "ink",
+     "text": "Güçlü: Uygulaması kolay, masrafı yok.\nZayıf: Takip edilmezse unutulabilir.",
+     "pill": [
+      300,
+      646
+     ]
+    },
+    {
+     "area": [
+      377,
+      665,
+      195,
+      205
+     ],
+     "mode": "ink",
+     "text": "Güçlü: Hem israfı önler hem hayvanlara yardım eder.\nZayıf: Taşıma için gönüllü gerekir.",
+     "pill": [
+      645,
+      565
+     ]
+    },
+    {
+     "area": [
+      602,
+      665,
+      195,
+      205
+     ],
+     "mode": "ink",
+     "text": "Güçlü: Aileleri bilinçlendirir.\nZayıf: Broşür basmak kâğıt harcar.",
+     "pill": [
+      846,
+      652
+     ]
+    },
+    {
+     "area": [
+      133,
+      985,
+      685,
+      72
+     ],
+     "mode": "ink",
+     "text": "\"Tabağında Bırakma\" kampanyasını başlatıp artan ekmekleri gönüllü öğrencilerle barınaklara ulaştırmak; broşür yerine okulun sitesinden dijital alışveriş listesi önerileri paylaşmak.",
+     "pill": [
+      761,
+      966
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      760,
+      1094,
+      56,
+      56
+     ],
+     "panel": "cozumkosesi",
+     "label": "Dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "img": "@IMG:s6-u1/p-39@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "İnsana, topluma ve çevreye değer",
+     "r": [
+      38,
+      55,
+      790,
+      331
+     ]
+    },
+    {
+     "t": "iğde ÇALIŞMA YAPRAĞI",
+     "r": [
+      122,
+      358,
+      794,
+      331
+     ]
+    },
+    {
+     "t": "Toplumsal sorunların oluşmaması…",
+     "r": [
+      121,
+      661,
+      795,
+      503
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      135,
+      600,
+      685,
+      58
+     ],
+     "mode": "ink",
+     "text": "\"Sorunu görme, çözümün parçası ol!\"",
+     "pill": [
+      763,
+      587
+     ]
+    },
+    {
+     "area": [
+      135,
+      725,
+      685,
+      115
+     ],
+     "mode": "ink",
+     "text": "Çöplerimi ayrıştırır, suyu ve elektriği tasarruflu kullanırım. Tabağıma yiyebileceğim kadar yemek alırım. Kısa mesafeleri yürürüm. Arkadaşlarıma nazik davranır, zorbalığa karşı çıkarım.",
+     "pill": [
+      763,
+      712
+     ]
+    },
+    {
+     "area": [
+      135,
+      915,
+      685,
+      115
+     ],
+     "mode": "ink",
+     "text": "Okulda geri dönüşüm ve israf kampanyaları düzenleyebilir, fidan dikme etkinliklerine katılabilir, sokak hayvanları için mama noktaları kurabilir, ihtiyaç sahiplerine yardım edebiliriz.",
+     "pill": [
+      787,
+      902
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      760,
+      1053,
+      58,
+      58
+     ],
+     "panel": "cozumler",
+     "label": "Toplumsal sorunlara çözüm önerilerimiz"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "img": "@IMG:s6-u1/p-40@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      157,
+      92,
+      637,
+      329
+     ]
+    },
+    {
+     "t": "Yukarıdaki bulmacayı çözünüz.",
+     "r": [
+      122,
+      393,
+      707,
+      780
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      150,
+      702,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevapları göster",
+     "text": "1. Toplumsal sorun (soldan sağa)\n2. İsraf (soldan sağa)\n3. Duyarlılık (soldan sağa)\n4. Sorumluluk (yukarıdan aşağı)\n5. Göç (yukarıdan aşağı)\n6. Kirlilik (soldan sağa)\n7. Geri dönüşüm (yukarıdan aşağı)",
+     "pill": [
+      226,
+      680
+     ],
+     "qx": 150,
+     "qt": 702,
+     "qb": 728,
+     "qr": 450,
+     "bal": [
+      118,
+      736,
+      715,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      760,
+      1098,
+      56,
+      56
+     ],
+     "panel": "bulmacacevap",
+     "label": "Bulmacanın cevap anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "img": "@IMG:s6-u1/p-41@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "GRENME ALAN RNEK SORULAR",
+     "r": [
+      38,
+      63,
+      805,
+      632
+     ]
+    },
+    {
+     "t": "2. Bir milletin kâinatı ve",
+     "r": [
+      118,
+      667,
+      710,
+      226
+     ]
+    },
+    {
+     "t": "3. .. Türkiye'de her yıl",
+     "r": [
+      118,
+      865,
+      710,
+      299
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      452,
+      655,
+      28
+     ],
+     "mode": "ink",
+     "text": "Aile, okul (öğrenciler), meslek grubu (doktorlar)",
+     "pill": [
+      782,
+      439
+     ]
+    },
+    {
+     "area": [
+      160,
+      511,
+      655,
+      28
+     ],
+     "mode": "ink",
+     "text": "Çocuk (evlat) rolü",
+     "pill": [
+      782,
+      498
+     ]
+    },
+    {
+     "area": [
+      160,
+      569,
+      655,
+      28
+     ],
+     "mode": "ink",
+     "text": "Bebek, çocuk, öğrenci, doktor, eş ve baba",
+     "pill": [
+      782,
+      556
+     ]
+    },
+    {
+     "area": [
+      160,
+      628,
+      655,
+      28
+     ],
+     "mode": "ink",
+     "text": "Büyümesi, eğitim alması, meslek seçmesi ve aile kurması",
+     "pill": [
+      782,
+      615
+     ]
+    },
+    {
+     "area": [
+      130,
+      806,
+      520,
+      50
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Dil\nDil, bir milletin dünyayı adlandırıp yorumlamasıdır ve bireyler arasında iletişimi sağlar.",
+     "pill": [
+      356,
+      817
+     ],
+     "qx": 130,
+     "qt": 806,
+     "qb": 856,
+     "qr": 650,
+     "bal": [
+      114,
+      864,
+      718,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1068,
+      520,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) İsraf\nHaberde üretilen gıdaların ve ekmeklerin çöpe atılması anlatılmaktadır.",
+     "pill": [
+      356,
+      1076
+     ],
+     "qx": 130,
+     "qt": 1068,
+     "qb": 1112,
+     "qr": 650,
+     "bal": [
+      130,
+      1120,
+      520,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "img": "@IMG:s6-u1/p-42@",
+   "steps": [
+    {
+     "t": "4. Bazı rollerimiz vardır ki",
+     "r": [
+      122,
+      84,
+      705,
+      256
+     ]
+    },
+    {
+     "t": "5. Aşağıdaki ifadeler ve örnek",
+     "r": [
+      122,
+      312,
+      706,
+      479
+     ]
+    },
+    {
+     "t": "6. Toplumsal sorunlar toplumun…",
+     "r": [
+      122,
+      763,
+      707,
+      401
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      162,
+      158,
+      615,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Mete'nin ailede en küçük çocuk olması\nBu rol doğuştan kazanılır; diğerleri sonradan, isteğimizle kazandığımız rollerdir.",
+     "pill": [
+      448,
+      181
+     ],
+     "qx": 162,
+     "qt": 158,
+     "qb": 186,
+     "qr": 777,
+     "bal": [
+      118,
+      194,
+      713,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      190,
+      500,
+      620,
+      28
+     ],
+     "mode": "ink",
+     "text": "Din, gelenek-görenek",
+     "pill": [
+      776,
+      487
+     ]
+    },
+    {
+     "area": [
+      190,
+      617,
+      620,
+      28
+     ],
+     "mode": "ink",
+     "text": "Tarih",
+     "pill": [
+      824,
+      604
+     ]
+    },
+    {
+     "area": [
+      190,
+      724,
+      620,
+      28
+     ],
+     "mode": "ink",
+     "text": "Sanat",
+     "pill": [
+      776,
+      711
+     ]
+    },
+    {
+     "area": [
+      162,
+      866,
+      640,
+      34
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Yiğit'in arabasının arıza yapması sebebiyle toplantıya geç kalması\nBu durum yalnızca bir kişiyi etkiler; toplumsal bir sorun değildir.",
+     "pill": [
+      436,
+      880
+     ],
+     "qx": 161,
+     "qt": 863,
+     "qb": 904,
+     "qr": 817,
+     "bal": [
+      118,
+      912,
+      715,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      298,
+      1060,
+      56,
+      56
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      760,
+      1060,
+      56,
+      56
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

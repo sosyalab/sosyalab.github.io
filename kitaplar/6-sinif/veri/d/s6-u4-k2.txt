@@ -1,0 +1,697 @@
+// 6. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–45)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Temel hak ve sorumlulukların toplumsal düzendeki önemi (s. 24–33)
+window.BOOK = {
+ "id": "s6-u4-k2",
+ "title": "Temel hak ve sorumlulukların toplumsal düzendeki önemi",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u4-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 24,
+   "img": "@IMG:s6-u4/p-15@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "TEMEL HAK VE SORUMLULUKLARIN",
+     "r": [
+      38,
+      55,
+      803,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      365,
+      582,
+      450,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ahıska Türklerinin vatandaşlık elde etmesi; yerleşme, çalışma, eğitim, sağlık, seçme ve seçilme gibi temel haklara sahip olduklarını gösterir. Aynı zamanda vergi ödeme, yasalara uyma ve vatan hizmeti gibi sorumlulukları da üstlenirler.",
+     "pill": [
+      525,
+      554
+     ],
+     "qx": 352,
+     "qt": 582,
+     "qb": 620,
+     "qr": 816,
+     "bal": [
+      34,
+      684,
+      811,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      365,
+      625,
+      450,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Haklarım: eğitim hakkı, sağlık hakkı, oyun ve dinlenme hakkı, düşüncemi ifade etme hakkı. Sorumluluklarım: okul kurallarına uymak, derslerime çalışmak, çevreyi temiz tutmak, başkalarının haklarına saygı göstermek.",
+     "pill": [
+      573,
+      654
+     ],
+     "qx": 50,
+     "qt": 485,
+     "qb": 670,
+     "qr": 829,
+     "bal": [
+      34,
+      678,
+      811,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      220,
+      1050,
+      600,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Aynı kuralların herkese uygulanması adaleti ve eşitliği sağlar. Trafikte herkes kurallara uyarsa kazalar azalır, can ve mal güvenliği korunur; insanlar birbirine ve devlete güvenir.",
+     "pill": [
+      458,
+      1025
+     ],
+     "qx": 201,
+     "qt": 1050,
+     "qb": 1102,
+     "qr": 820,
+     "bal": [
+      34,
+      937,
+      811,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      220,
+      1078,
+      600,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Devletin ihlallere müdahale etmesi kurallara uyulmasını sağlar, başkalarının hakkını çiğneyenlerin cezasız kalmamasıyla toplumda güven ve düzen oluşur. Emniyet şeridi gibi alanların acil durumlar için boş kalması hayat kurtarır.",
+     "pill": [
+      566,
+      1137
+     ],
+     "qx": 198,
+     "qt": 1056,
+     "qb": 1103,
+     "qr": 820,
+     "bal": [
+      34,
+      937,
+      811,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      220,
+      1105,
+      600,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yasaların herkese eşit uygulanması hukukun üstünlüğünün gereğidir. Kimse ayrıcalıklı olmazsa insanlar adalete güvenir, toplumsal barış korunur ve kurallara uyma isteği artar.",
+     "pill": [
+      320,
+      1137
+     ],
+     "qx": 220,
+     "qt": 1085,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      34,
+      937,
+      811,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "img": "@IMG:s6-u4/p-16@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Haberleri inceleyiniz.…",
+     "r": [
+      34,
+      55,
+      878,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      340,
+      140,
+      520,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Sorumluluklarımızı yerine getirmezsek başkalarının haklarına zarar veririz. Trafik kurallarına uymamak kazalara ve can kaybına yol açar. Vergi ödenmezse okul, hastane ve yol gibi kamu hizmetleri aksar. Gıda üreticileri kurallara uymazsa insanların sağlığı tehlikeye girer. Böylece toplumda güven ve düzen bozulur.",
+     "pill": [
+      536,
+      160
+     ],
+     "qx": 91,
+     "qt": 70,
+     "qb": 315,
+     "qr": 900,
+     "bal": [
+      30,
+      228,
+      886,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "img": "@IMG:s6-u4/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsan birey olarak doğar ancak",
+     "r": [
+      38,
+      55,
+      790,
+      549
+     ]
+    },
+    {
+     "t": "Temel hak ve ödevlerimiz…",
+     "r": [
+      116,
+      576,
+      713,
+      600
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      445,
+      300,
+      100
+     ],
+     "mode": "ink",
+     "text": "Sevgi ve bakım görmek, oyun oynamak, fikrimi söylemek",
+     "pill": [
+      390,
+      408
+     ]
+    },
+    {
+     "area": [
+      485,
+      445,
+      300,
+      100
+     ],
+     "mode": "ink",
+     "text": "Büyüklerime saygı, ev işlerine yardım, odamı düzenli tutmak",
+     "pill": [
+      747,
+      408
+     ]
+    },
+    {
+     "area": [
+      128,
+      637,
+      300,
+      100
+     ],
+     "mode": "ink",
+     "text": "Eğitim almak, güvenli ortamda öğrenmek, kulüplere katılmak",
+     "pill": [
+      390,
+      600
+     ]
+    },
+    {
+     "area": [
+      485,
+      637,
+      300,
+      100
+     ],
+     "mode": "ink",
+     "text": "Derslere hazırlıklı gelmek, kurallara uymak, okul eşyalarını korumak",
+     "pill": [
+      747,
+      600
+     ]
+    },
+    {
+     "area": [
+      128,
+      825,
+      300,
+      100
+     ],
+     "mode": "ink",
+     "text": "Parkta oynamak, temiz çevrede yaşamak, sağlık hizmeti almak",
+     "pill": [
+      390,
+      794
+     ]
+    },
+    {
+     "area": [
+      485,
+      825,
+      300,
+      100
+     ],
+     "mode": "ink",
+     "text": "Çevreyi temiz tutmak, komşulara saygı, trafik kurallarına uymak",
+     "pill": [
+      747,
+      794
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      135,
+      1089,
+      68,
+      68
+     ],
+     "panel": "hakozgur",
+     "label": "Hak ve özgürlükleri belirliyorum"
+    },
+    {
+     "area": [
+      607,
+      1088,
+      60,
+      60
+     ],
+     "panel": "temelhak",
+     "label": "Temel hak ve ödevler"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "img": "@IMG:s6-u4/p-18@",
+   "steps": [
+    {
+     "t": "Anayasamızın Temel Haklar ve…",
+     "r": [
+      122,
+      80,
+      735,
+      553
+     ]
+    },
+    {
+     "t": "Herkes, sağlıklı ve dengeli bir",
+     "r": [
+      98,
+      605,
+      759,
+      559
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      1000,
+      315,
+      100
+     ],
+     "mode": "ink",
+     "text": "Madde 17, 20, 24, 25, 27, 42, 56, 72",
+     "pill": [
+      372,
+      984
+     ]
+    },
+    {
+     "area": [
+      490,
+      1000,
+      315,
+      100
+     ],
+     "mode": "ink",
+     "text": "Madde 56 (çevreyi korumak), 72 (vatan hizmeti), 73 (vergi ödemek)",
+     "pill": [
+      752,
+      984
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "img": "@IMG:s6-u4/p-19@",
+   "steps": [
+    {
+     "t": "Hak ve sorumlulukların…",
+     "r": [
+      89,
+      85,
+      748,
+      255
+     ]
+    },
+    {
+     "t": "Ulaştığınız sonuçları…",
+     "r": [
+      38,
+      312,
+      800,
+      852
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      108,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Hak ve sorumluluklarını bilen kişiler kurallara uyar, başkalarının haklarına saygı gösterir. Böylece kazalar, kavgalar ve haksızlıklar azalır; insanlar birbirine güvenir ve toplumsal düzen korunur. Herkes yalnızca kendi hakkını düşünürse düzen bozulur.",
+     "pill": [
+      387,
+      140
+     ],
+     "qx": 101,
+     "qt": 98,
+     "qb": 155,
+     "qr": 825,
+     "bal": [
+      85,
+      163,
+      756,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      145,
+      978,
+      655,
+      50
+     ],
+     "mode": "ink",
+     "text": "Yaşama hakkı, vücut bütünlüğü (sağlık) hakkı, mülkiyet hakkı ve çalışma hakkı ihlal edilmiştir.",
+     "pill": [
+      767,
+      965
+     ]
+    },
+    {
+     "area": [
+      145,
+      1073,
+      655,
+      50
+     ],
+     "mode": "ink",
+     "text": "Trafik kurallarına uymalı, kırmızı ışıkta durmalı; acil durumda 112'yi aramalı ya da ambulans çağırmalıydı.",
+     "pill": [
+      803,
+      1060
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "img": "@IMG:s6-u4/p-20@",
+   "steps": [
+    {
+     "t": "Temel hak ve özgürlükler,…",
+     "r": [
+      118,
+      83,
+      772,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      330,
+      610,
+      720
+     ],
+     "mode": "ink",
+     "text": "SUNUM PLANI\nKonu: Hakkını bil, sorumluluğunu unutma!\nÜrün: 6 slaytlık dijital sunum ve afiş\n1. Temel hak ve özgürlükler nedir? (Anayasa maddeleri)\n2. Hakkını bilmek neden önemli? (Örnek olaylar)\n3. Hakkına sahip çıkmanın yolları: dilekçe, kurumlara başvuru\n4. Sorumluluklarımız: kurallara uymak, vergi, çevreyi korumak\n5. Sorumluluk yerine getirilmezse ne olur? (Trafik kazası haberi)\n6. Sonuç: Hak ve sorumluluk dengesi toplumsal düzeni korur.\nGörseller: trafik, okul, Anayasa, gönüllülük fotoğrafları",
+     "pill": [
+      704,
+      317
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "img": "@IMG:s6-u4/p-21@",
+   "steps": [
+    {
+     "t": "Vatandaşlık hakları ve…",
+     "r": [
+      38,
+      83,
+      879,
+      824
+     ]
+    },
+    {
+     "t": "Anayasamızın 74. maddesi ile…",
+     "r": [
+      34,
+      879,
+      794,
+      285
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      370,
+      548,
+      450,
+      50
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Okulda ve parkta eşyaları özenle kullanıyorum, çevreyi temiz tutuyorum, okuldaki yardım kampanyalarına katılıyorum ve kurallara uyuyorum. Bunları yapıyorum çünkü ortak alanlar hepimizindir; herkes sorumluluğunu yerine getirirse daha düzenli ve mutlu bir toplumda yaşarız.",
+     "pill": [
+      512,
+      523
+     ],
+     "qx": 262,
+     "qt": 545,
+     "qb": 738,
+     "qr": 820,
+     "bal": [
+      34,
+      657,
+      887,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "img": "@IMG:s6-u4/p-22@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      34,
+      55,
+      878,
+      1117
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      400,
+      640,
+      640
+     ],
+     "mode": "ink",
+     "text": "ÇANKAYA BELEDİYE BAŞKANLIĞINA\n                                    ANKARA\nOkulumuzun önündeki caddede yaya geçidi ve trafik ışığı bulunmamaktadır. Araçlar hızlı geçtiği için öğrenciler karşıya geçerken tehlike yaşamaktadır. Geçen ay bir arkadaşımız kaza geçirme tehlikesi atlatmıştır.\nOkulumuzun önüne yaya geçidi çizilmesi, trafik ışığı ya da hız kesici konulması hususunda gereğini saygılarımla arz ederim.\n                                    05.11.2026\n                                    Ad Soyad / İmza\nAdres: ............ Mah. ......... Cad. No: ..\nTelefon: 05.. ... .. ..",
+     "pill": [
+      732,
+      390
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      277,
+      1089,
+      64,
+      64
+     ],
+     "panel": "dilekce",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "img": "@IMG:s6-u4/p-23@",
+   "steps": [
+    {
+     "t": "Adı : Toplumsal Düzenin…",
+     "r": [
+      101,
+      80,
+      748,
+      695
+     ]
+    },
+    {
+     "t": "Kaynak?",
+     "r": [
+      100,
+      747,
+      749,
+      417
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      133,
+      1058,
+      59,
+      59
+     ],
+     "panel": "rapor",
+     "label": "Derecelendirme ölçeği"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "img": "@IMG:s6-u4/p-24@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda toplumsal düzenin…",
+     "r": [
+      34,
+      55,
+      794,
+      680
+     ]
+    },
+    {
+     "t": "Bir devletin yönetim biçimini…",
+     "r": [
+      125,
+      707,
+      703,
+      457
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      600,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevapları göster",
+     "text": "1. Yasalarla sahip olunan hakların herkes tarafından kullanılması → (2) EŞİTLİK\n2. Bir ülkenin parçası olan kişi → (9) VATANDAŞ\n3. Bir dileği bildirmek için resmî makamlara sunulan yazı → (7) DİLEKÇE\n4. Yasa ve düzene uymama → (1) İHLAL\n5. Devletin yönetim biçimini belirten temel yasa → (11) ANAYASA\n6. Araştırılıp çözümlenmesi gereken durum → (6) SORUN\n7. Kanun ve kurallara uygun düşen yapı → (3) TOPLUMSAL DÜZEN\n8. Adaletin birine ayırdığı şey, kazanç → (12) HAK\n9. Bir kısıtlamaya bağlı olmaksızın davranma → (5) ÖZGÜRLÜK\n10. Davranışlarının sonuçlarını üstlenme → (10) SORUMLULUK",
+     "pill": [
+      398,
+      572
+     ],
+     "qx": 130,
+     "qt": 600,
+     "qb": 652,
+     "qr": 810,
+     "bal": [
+      130,
+      337,
+      680,
+      "above",
+      1
+     ]
+    }
+   ]
+  }
+ ]
+};

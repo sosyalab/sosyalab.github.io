@@ -1,0 +1,1010 @@
+// 6. Sınıf Sosyal Bilgiler · 6. Öğrenme Alanı: Teknoloji ve Sosyal Bilimler (s. 86–111)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: ULAŞIM VE İLETİŞİM (s. 88–99)
+window.BOOK = {
+ "id": "s6-u6-k1",
+ "title": "Ulaşım ve iletişim teknolojilerinin kültürel etkileşimdeki rolü",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u6-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 86,
+   "img": "@IMG:s6-u6/p-01@",
+   "section": "6. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      0,
+      878,
+      513
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      485,
+      884,
+      679
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      361,
+      1053,
+      64,
+      64
+     ],
+     "panel": "alan",
+     "label": "6. Öğrenme alanı"
+    },
+    {
+     "area": [
+      598,
+      991,
+      66,
+      66
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "img": "@IMG:s6-u6/p-02@",
+   "section": "Teknoloji ve Sosyal Bilimler",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      878,
+      596
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      568,
+      879,
+      596
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 88,
+   "img": "@IMG:s6-u6/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ULAŞIM VE İLETİŞİM",
+     "r": [
+      38,
+      0,
+      877,
+      980
+     ]
+    },
+    {
+     "t": "Teknoloji ve kültür kavramları ile",
+     "r": [
+      38,
+      808,
+      804,
+      356
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      340,
+      750,
+      480,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Görsellerde: at arabası, yelkenli gemi, buharlı tren (ulaşım); mektup, telgraf, daktilo (iletişim). Bunlardan günümüzde mektup ve daktilo çok az, at arabası turistik amaçlı kullanılmaktadır.\nGünümüzde bunların yerine otomobil, otobüs, hızlı tren, uçak ve gemi; cep telefonu, e-posta, mesajlaşma uygulamaları, görüntülü görüşme ve bilgisayar kullanılmaktadır.",
+     "pill": [
+      518,
+      815
+     ],
+     "qx": 130,
+     "qt": 610,
+     "qb": 809,
+     "qr": 820,
+     "bal": [
+      34,
+      817,
+      885,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      360,
+      905,
+      440,
+      55
+     ],
+     "mode": "ink",
+     "text": "Bilimsel bilginin günlük hayata uygulanması; telefon, bilgisayar, makineler, icatlar",
+     "pill": [
+      838,
+      892
+     ]
+    },
+    {
+     "area": [
+      360,
+      1005,
+      440,
+      55
+     ],
+     "mode": "ink",
+     "text": "Gelenekler, dil, yemekler, müzik, bayramlar, giyim; bir toplumun yaşam biçimi",
+     "pill": [
+      724,
+      995
+     ]
+    },
+    {
+     "area": [
+      110,
+      1100,
+      700,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Teknoloji: İnsanların ihtiyaçlarını karşılamak ve hayatı kolaylaştırmak için bilimsel bilgiyi kullanarak araç, gereç ve yöntemler geliştirmesidir.\nKültür: Bir toplumun tarih boyunca oluşturduğu dil, din, gelenek, sanat, inanç ve yaşam biçimi gibi maddi ve manevi değerlerin bütünüdür.",
+     "pill": [
+      366,
+      1126
+     ],
+     "qx": 110,
+     "qt": 1100,
+     "qb": 1215,
+     "qr": 810,
+     "bal": [
+      34,
+      962,
+      812,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 89,
+   "img": "@IMG:s6-u6/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Görsellerde ulaşım ve iletişim…",
+     "r": [
+      34,
+      0,
+      831,
+      1031
+     ]
+    },
+    {
+     "t": "Şenay okuldan eve geldiğinde…",
+     "r": [
+      90,
+      876,
+      761,
+      288
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      830,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Olumlu: Uzak yerlere kısa sürede gidebiliyor, uzaktaki yakınlarımızla anında görüşebiliyoruz. Bilgiye hızla ulaşıyor, farklı kültürleri tanıyoruz; uzaktan eğitim, uzaktan çalışma ve sağlık hizmetleri kolaylaşıyor.\nOlumsuz: Yüz yüze iletişim azalabiliyor, teknoloji bağımlılığı artabiliyor ve bazı yerel gelenekler unutulabiliyor.",
+     "pill": [
+      399,
+      856
+     ],
+     "qx": 106,
+     "qt": 815,
+     "qb": 860,
+     "qr": 814,
+     "bal": [
+      30,
+      868,
+      839,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      1065,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Şenay, ablası Arzu ile cep telefonundan görüntülü arama yaparak, mesajlaşma uygulamalarıyla yazışarak, sesli mesaj ya da fotoğraf göndererek veya sosyal medya üzerinden iletişim kurmuş olabilir.",
+     "pill": [
+      399,
+      1031
+     ],
+     "qx": 106,
+     "qt": 1058,
+     "qb": 1124,
+     "qr": 814,
+     "bal": [
+      86,
+      945,
+      769,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      1110,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Cep telefonundan görüntülü görüşme ve mesajlaşma uygulamalarıyla iletişim kurardım. Haftada birkaç kez görüntülü konuşur, gün içinde de mesajlaşırdık. Özel günlerde e-posta ya da kart gönderebilirdim.",
+     "pill": [
+      327,
+      1130
+     ],
+     "qx": 125,
+     "qt": 1058,
+     "qb": 1220,
+     "qr": 814,
+     "bal": [
+      86,
+      945,
+      769,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 90,
+   "img": "@IMG:s6-u6/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ulaşım araçlarındaki hızlı…",
+     "r": [
+      38,
+      55,
+      790,
+      297
+     ]
+    },
+    {
+     "t": "(..) Modern öncesi dönemde…",
+     "r": [
+      38,
+      324,
+      878,
+      840
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      1105,
+      600,
+      30
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Gelecekte sürücüsüz otomobiller, elektrikli ve uçan araçlar, çok hızlı Hyperloop trenleri, uzay turizmi ve dronla taşımacılık yaygınlaşabilir. Yolculuk süreleri daha da kısalır, insanlar farklı ülkelere ve kültürlere kolayca ulaşır. Trafik kazaları ve çevre kirliliği azalabilir; ancak bazı meslekler (ör. şoförlük) değişebilir ve enerji ihtiyacı artabilir.",
+     "pill": [
+      284,
+      1137
+     ],
+     "qx": 101,
+     "qt": 1096,
+     "qb": 1214,
+     "qr": 815,
+     "bal": [
+      34,
+      933,
+      886,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 91,
+   "img": "@IMG:s6-u6/p-06@",
+   "steps": [
+    {
+     "t": "Ulaşım teknolojilerinin…",
+     "r": [
+      101,
+      83,
+      748,
+      712
+     ]
+    },
+    {
+     "t": "Johannes Gutenberg'in (Yuhanıs…",
+     "r": [
+      34,
+      767,
+      794,
+      397
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      515,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ulaşım araçları hızlandıkça yolculuklar kısaldı; insanlar başka şehir ve ülkelere kolayca gidebiliyor. Böylece turizm gelişti, farklı toplumların yemekleri, müzikleri, gelenekleri ve el sanatları tanındı. Ticaretle ürünler ve fikirler yayıldı, insanlar başka yerlere göç ederek kültürlerini taşıdı. Bu nedenlerle ulaşımdaki gelişmeler kültürel etkileşimi ve değişimi hızlandırmıştır.",
+     "pill": [
+      399,
+      469
+     ],
+     "qx": 125,
+     "qt": 497,
+     "qb": 635,
+     "qr": 816,
+     "bal": [
+      97,
+      604,
+      756,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      756,
+      419,
+      61,
+      61
+     ],
+     "panel": "ulasim",
+     "label": "Ulaşım araçlarının gelişimi"
+    }
+   ]
+  },
+  {
+   "n": 92,
+   "img": "@IMG:s6-u6/p-07@",
+   "steps": [
+    {
+     "t": "Dijitalleşmenin getirdiği…",
+     "r": [
+      39,
+      83,
+      789,
+      289
+     ]
+    },
+    {
+     "t": "(...) Medya, insanların çeşitli…",
+     "r": [
+      38,
+      344,
+      811,
+      820
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      330,
+      935,
+      480,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Farklı kültürleri tanımak hoşgörümüzü ve empati yeteneğimizi artırır, ön yargılarımızı azaltır. Yeni diller, yemekler, gelenekler ve bakış açıları öğreniriz. Kendi kültürümüzü daha iyi anlar ve tanıtabiliriz; farklı ülkelerden insanlarla dostluk kurar, iş birliği yaparız.",
+     "pill": [
+      508,
+      925
+     ],
+     "qx": 50,
+     "qt": 795,
+     "qb": 1099,
+     "qr": 816,
+     "bal": [
+      34,
+      1024,
+      819,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "img": "@IMG:s6-u6/p-08@",
+   "steps": [
+    {
+     "t": "Sosyal medya uygulamaları…",
+     "r": [
+      94,
+      93,
+      818,
+      1084
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      620,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Sosyal medyada geçirdiğim süreyi sınırlarım, kişisel bilgilerimi ve fotoğraflarımı paylaşmam. Tanımadığım kişilerle iletişim kurmam, bilgileri güvenilir kaynaklardan doğrularım. Gördüğüm her şeyi taklit etmem; zorbalığa uğrarsam ailemle ve öğretmenimle paylaşırım. Ailem ve arkadaşlarımla yüz yüze vakit geçirmeye önem veririm.",
+     "pill": [
+      399,
+      607
+     ],
+     "qx": 109,
+     "qt": 620,
+     "qb": 674,
+     "qr": 814,
+     "bal": [
+      90,
+      682,
+      826,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      1020,
+      600,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Telefon, genel ağ ve sosyal medya sayesinde bilgi, müzik, film, moda ve yemek kültürü dünyanın her yerine anında yayılmaktadır. Farklı kültürlerden insanlar kolayca iletişim kurmakta, popüler akımlar (ör. özçekim) hızla benimsenmektedir. Bu durum kültürler arasındaki etkileşimi artırırken kültürel farklılıkların azalmasına ve benzer yaşam tarzlarının oluşmasına yol açmaktadır.",
+     "pill": [
+      363,
+      1013
+     ],
+     "qx": 125,
+     "qt": 1020,
+     "qb": 1079,
+     "qr": 815,
+     "bal": [
+      90,
+      857,
+      826,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      756,
+      1097,
+      61,
+      61
+     ],
+     "panel": "iletisim",
+     "label": "İletişimin hızı"
+    }
+   ]
+  },
+  {
+   "n": 94,
+   "img": "@IMG:s6-u6/p-09@",
+   "steps": [
+    {
+     "t": "Ulaşım ve iletişim araçlarında…",
+     "r": [
+      38,
+      68,
+      790,
+      588
+     ]
+    },
+    {
+     "t": "Türk kültürünü tanıtmak için ne",
+     "r": [
+      38,
+      480,
+      801,
+      684
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      420,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türk yemeklerini, müziğini, el sanatlarını ve geleneklerimizi sosyal medyada tanıtan içerikler hazırlayabiliriz. Yabancı arkadaşlarımıza Türkçe kelimeler öğretebilir, okulumuzda kültür günleri düzenleyebiliriz. Türk dizileri, filmleri ve belgeselleri aracılığıyla tarihî ve doğal güzelliklerimizi tanıtabiliriz. Yurt dışına gittiğimizde kültürümüzü en iyi şekilde temsil etmeliyiz.",
+     "pill": [
+      404,
+      356
+     ],
+     "qx": 134,
+     "qt": 280,
+     "qb": 485,
+     "qr": 816,
+     "bal": [
+      34,
+      493,
+      798,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 95,
+   "img": "@IMG:s6-u6/p-10@",
+   "steps": [
+    {
+     "t": "Teknolojik gelişmelerin bir…",
+     "r": [
+      103,
+      83,
+      725,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      115,
+      568,
+      300,
+      240
+     ],
+     "mode": "ink",
+     "text": "• Ulaşım araçlarının hızlanması\n• Genel ağ ve sosyal medya\n• Televizyon ve diziler\n• Turizm ve göç\n• Küreselleşme ve ticaret",
+     "pill": [
+      371,
+      552
+     ]
+    },
+    {
+     "area": [
+      480,
+      568,
+      300,
+      240
+     ],
+     "mode": "ink",
+     "text": "• Farklı kültürler tanındı\n• Popüler kültür yayıldı\n• Yabancı kelimeler arttı\n• Yemek ve giyim alışkanlıkları değişti\n• Bazı gelenekler unutuluyor",
+     "pill": [
+      742,
+      552
+     ]
+    },
+    {
+     "area": [
+      130,
+      125,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Nedenler: Ulaşım araçlarının gelişmesiyle mesafelerin kısalması, genel ağ ve sosyal medyanın yaygınlaşması, turizm, göç ve ticaretin artması, küreselleşme.\nSonuçlar: Kültürler arası etkileşim ve hoşgörü artmış; popüler kültür yayılmış, kültürel farklılıklar azalmış; Türkçeye yabancı kelimeler girmiş, millî kültürümüz bazı yönlerden olumsuz etkilenmiştir.",
+     "pill": [
+      386,
+      169
+     ],
+     "qx": 134,
+     "qt": 97,
+     "qb": 164,
+     "qr": 816,
+     "bal": [
+      99,
+      172,
+      733,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "img": "@IMG:s6-u6/p-11@",
+   "steps": [
+    {
+     "t": "Ulaşım ve iletişim…",
+     "r": [
+      38,
+      83,
+      806,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      780,
+      640,
+      250
+     ],
+     "mode": "ink",
+     "text": "Annem yemek tariflerini artık genel ağdaki videolardan öğreniyor; sofralarımızda pizza, hamburger gibi yabancı yemekler de yer alıyor. Bayramlarda uzaktaki akrabalarımızla görüntülü görüşüyoruz. Arkadaşlarımla konuşurken \"okey\", \"selfie\" gibi yabancı kelimeler kullanıyoruz. Alışverişi çevrim içi yapıyor, dizilerden etkilenerek giyim tarzımızı değiştiriyoruz.",
+     "pill": [
+      692,
+      764
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      133,
+      1073,
+      68,
+      68
+     ],
+     "panel": "hayat",
+     "label": "Hayatımız teknoloji"
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "img": "@IMG:s6-u6/p-12@",
+   "steps": [
+    {
+     "t": "Ulaşım ve iletişim araçlarında…",
+     "r": [
+      94,
+      83,
+      752,
+      795
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      98,
+      850,
+      748,
+      314
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      315,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kültür bir milleti millet yapan, onu diğerlerinden ayıran ortak mirastır. Kültürünü kaybeden toplum kimliğini de kaybeder. Duyarlı ve vatansever bireyler Türkçeyi doğru kullanmalı, gelenek ve göreneklerimizi yaşatmalı, kültürel mirasımızı korumalı ve gelecek kuşaklara aktarmalıdır.",
+     "pill": [
+      458,
+      335
+     ],
+     "qx": 106,
+     "qt": 315,
+     "qb": 354,
+     "qr": 815,
+     "bal": [
+      90,
+      443,
+      760,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      360,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Teknolojiyi bilinçli kullanarak, Türkçe ve kültürel içerikler üreterek, yerli ve millî dizi, film, oyun ve uygulamaları destekleyerek, gelenek ve göreneklerimizi aile içinde yaşatarak kültürün devamlılığı sağlanabilir.",
+     "pill": [
+      404,
+      434
+     ],
+     "qx": 134,
+     "qt": 318,
+     "qb": 461,
+     "qr": 817,
+     "bal": [
+      134,
+      443,
+      683,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      110,
+      625,
+      260,
+      160
+     ],
+     "mode": "ink",
+     "text": "kültür bizi millet yapan ortak mirasımızdır; kimliğimizi ve birliğimizi korur, geçmişimizi geleceğe bağlar.",
+     "pill": [
+      360,
+      579
+     ]
+    },
+    {
+     "area": [
+      480,
+      625,
+      260,
+      160
+     ],
+     "mode": "ink",
+     "text": "Yerel ürünleri ve geleneksel el sanatlarını tanıtan kültür turizmini desteklemek; tarihî yerleri korumak; turistlere kültürümüzü doğru tanıtmak.",
+     "pill": [
+      838,
+      612
+     ]
+    },
+    {
+     "area": [
+      110,
+      945,
+      260,
+      160
+     ],
+     "mode": "ink",
+     "text": "Bayram, düğün gibi gelenekleri yaşatmak; Türkçeyi doğru kullanmak; büyüklerimizden masal, türkü ve tarifleri öğrenip aktarmak.",
+     "pill": [
+      336,
+      833
+     ]
+    },
+    {
+     "area": [
+      480,
+      945,
+      260,
+      160
+     ],
+     "mode": "ink",
+     "text": "Türkçe içerikler üretmek, yabancı kelime yerine Türkçesini kullanmak, ekran süresini sınırlamak, yerli uygulamaları tercih etmek.",
+     "pill": [
+      838,
+      932
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      753,
+      404,
+      64,
+      64
+     ],
+     "panel": "milli",
+     "label": "Ulaşım ve iletişim teknolojilerinin gelişmesinin millî kültürümüze etkileri"
+    }
+   ]
+  },
+  {
+   "n": 98,
+   "img": "@IMG:s6-u6/p-13@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Kültürel Değişimde Ulaşım",
+     "r": [
+      38,
+      0,
+      859,
+      633
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      68,
+      605,
+      847,
+      559
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      310,
+      520,
+      330,
+      70
+     ],
+     "mode": "ink",
+     "text": "Yöresel yemek tarifleri videolarla tüm dünyaya yayıldı; çevrim içi yemek siparişi yaygınlaştı.",
+     "pill": [
+      602,
+      507
+     ]
+    },
+    {
+     "area": [
+      380,
+      650,
+      330,
+      70
+     ],
+     "mode": "ink",
+     "text": "Akıllı telefonla alışveriş, ödeme, taksi çağırma ve harita kullanımı günlük hayatın parçası oldu.",
+     "pill": [
+      642,
+      637
+     ]
+    },
+    {
+     "area": [
+      370,
+      775,
+      330,
+      70
+     ],
+     "mode": "ink",
+     "text": "EBA ve çevrim içi derslerle uzaktan eğitim mümkün oldu, bilgiye her yerden ulaşılıyor.",
+     "pill": [
+      656,
+      762
+     ]
+    },
+    {
+     "area": [
+      390,
+      905,
+      330,
+      70
+     ],
+     "mode": "ink",
+     "text": "Türkçeye yabancı kelimeler girdi; kısaltmalar ve emoji ile yeni bir yazışma dili oluştu.",
+     "pill": [
+      682,
+      892
+     ]
+    },
+    {
+     "area": [
+      440,
+      1030,
+      340,
+      70
+     ],
+     "mode": "ink",
+     "text": "Çevrim içi alışveriş ve e-ticaret arttı, el sanatları ürünleri dünyaya satılabiliyor.",
+     "pill": [
+      702,
+      1017
+     ]
+    }
+   ]
+  },
+  {
+   "n": 99,
+   "img": "@IMG:s6-u6/p-14@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Şemadaki ifadelerden bazıları…",
+     "r": [
+      34,
+      55,
+      898,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      340,
+      100,
+      580,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Doğru çıkış: 6. ÇIKIŞ\n1) \"Dünya, ulaşım ve iletişim araçlarındaki gelişmeler sayesinde zaman ve mekân anlamında birbirinden uzaklaşmıştır.\" → Yanlış (Y). Dünya küçülmüş, insanlar birbirine yakınlaşmıştır.\n2) \"Ulaşım ve iletişim araçlarının gelişimi kültürel etkileşimlere zemin hazırlamaktadır.\" → Doğru (D)\n3) \"Kültürel etkileşim millî kültürleri etkilememektedir.\" → Yanlış (Y). Kültürel etkileşim millî kültürleri olumlu ve olumsuz yönde etkiler.",
+     "pill": [
+      566,
+      138
+     ],
+     "qx": 151,
+     "qt": 70,
+     "qb": 280,
+     "qr": 920,
+     "bal": [
+      151,
+      193,
+      769,
+      "below",
+      1
+     ]
+    }
+   ]
+  }
+ ]
+};

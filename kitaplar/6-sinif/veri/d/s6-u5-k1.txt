@@ -1,0 +1,1332 @@
+// 6. Sınıf Sosyal Bilgiler · 5. Öğrenme Alanı: Hayatımızdaki Ekonomi (s. 46–85)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Ülkemizin kaynakları ve ekonomik faaliyetler (s. 48–63)
+window.BOOK = {
+ "id": "s6-u5-k1",
+ "title": "Ülkemizin kaynakları ve ekonomik faaliyetler",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u5-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 46,
+   "img": "@IMG:s6-u5/p-01@",
+   "section": "5. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      96,
+      878,
+      465
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      533,
+      884,
+      631
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      364,
+      1055,
+      60,
+      60
+     ],
+     "panel": "alan",
+     "label": "5. Öğrenme alanı"
+    },
+    {
+     "area": [
+      597,
+      991,
+      64,
+      64
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "img": "@IMG:s6-u5/p-02@",
+   "section": "Hayatımızdaki Ekonomi",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      878,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 48,
+   "img": "@IMG:s6-u5/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ÜLKEMİZİN KAYNAKLARI",
+     "r": [
+      38,
+      55,
+      814,
+      904
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      38,
+      931,
+      785,
+      233
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      225,
+      900,
+      570,
+      30
+     ],
+     "mode": "ink",
+     "text": "Toprak",
+     "pill": [
+      757,
+      869
+     ]
+    },
+    {
+     "area": [
+      225,
+      962,
+      570,
+      30
+     ],
+     "mode": "ink",
+     "text": "Su (akarsu)",
+     "pill": [
+      817,
+      949
+     ]
+    },
+    {
+     "area": [
+      225,
+      1024,
+      570,
+      30
+     ],
+     "mode": "ink",
+     "text": "Orman",
+     "pill": [
+      817,
+      1011
+     ]
+    },
+    {
+     "area": [
+      225,
+      1085,
+      570,
+      30
+     ],
+     "mode": "ink",
+     "text": "Maden (yer altı kaynakları)",
+     "pill": [
+      817,
+      1072
+     ]
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "img": "@IMG:s6-u5/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "9 Yaşadığınız çevrede toprak, su",
+     "r": [
+      34,
+      55,
+      799,
+      560
+     ]
+    },
+    {
+     "t": "ABD'den köyüne döndü, örnek bir",
+     "r": [
+      89,
+      587,
+      739,
+      577
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      100,
+      445,
+      165,
+      120
+     ],
+     "mode": "ink",
+     "text": "Tarım (tahıl, sebze, meyve)",
+     "pill": [
+      50,
+      432
+     ]
+    },
+    {
+     "area": [
+      270,
+      445,
+      165,
+      120
+     ],
+     "mode": "ink",
+     "text": "Balıkçılık, sulama, HES",
+     "pill": [
+      400,
+      576
+     ]
+    },
+    {
+     "area": [
+      445,
+      445,
+      165,
+      120
+     ],
+     "mode": "ink",
+     "text": "Ormancılık, mobilya, kâğıt",
+     "pill": [
+      575,
+      576
+     ]
+    },
+    {
+     "area": [
+      620,
+      445,
+      165,
+      120
+     ],
+     "mode": "ink",
+     "text": "Madencilik, sanayi",
+     "pill": [
+      828,
+      432
+     ]
+    },
+    {
+     "area": [
+      130,
+      640,
+      680,
+      80
+     ],
+     "mode": "ink",
+     "text": "Babam bir fabrikada sanayi işçisi, annem öğretmen (hizmet sektörü). Dedem köyde tarım ve hayvancılık yapıyor.",
+     "pill": [
+      812,
+      624
+     ]
+    },
+    {
+     "area": [
+      130,
+      1050,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Boş kalan tarım arazilerinde organik ve tıbbi bitki yetiştirilebilir, arıcılık yapılabilir. Ürünler kooperatifler aracılığıyla işlenip markalaştırılarak satılabilir. Ormanlardan odun dışı ürünler (kekik, defne, mantar) toplanabilir; doğal güzellikler ekoturizmle değerlendirilebilir. Böylece hem yerel halka iş imkânı sağlanır hem de ülke ekonomisine katkıda bulunulur.",
+     "pill": [
+      416,
+      1031
+     ],
+     "qx": 130,
+     "qt": 1050,
+     "qb": 1080,
+     "qr": 816,
+     "bal": [
+      85,
+      862,
+      747,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "img": "@IMG:s6-u5/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Doğal kaynaklarımızdan biri…",
+     "r": [
+      38,
+      55,
+      790,
+      291
+     ]
+    },
+    {
+     "t": "Tekirdağ ve çevresinde",
+     "r": [
+      87,
+      318,
+      830,
+      846
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 51,
+   "img": "@IMG:s6-u5/p-06@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      77,
+      58,
+      783,
+      616
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      646,
+      820,
+      518
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      749,
+      97,
+      68,
+      68
+     ],
+     "panel": "toprak",
+     "label": "Topraklarımıza dayalı ekonomik faaliyetler"
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "img": "@IMG:s6-u5/p-07@",
+   "steps": [
+    {
+     "t": "tarafı denizlerle çevrili olan…",
+     "r": [
+      100,
+      66,
+      773,
+      802
+     ]
+    },
+    {
+     "t": "Muğla gibi denize kıyısı",
+     "r": [
+      162,
+      840,
+      654,
+      324
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 53,
+   "img": "@IMG:s6-u5/p-08@",
+   "steps": [
+    {
+     "t": "Sularımıza dayalı",
+     "r": [
+      77,
+      83,
+      768,
+      778
+     ]
+    },
+    {
+     "t": "Güneydoğu Anadolu Projesi",
+     "r": [
+      82,
+      833,
+      738,
+      331
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      749,
+      97,
+      68,
+      68
+     ],
+     "panel": "su",
+     "label": "Sularımıza dayalı ekonomik faaliyetler"
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "img": "@IMG:s6-u5/p-09@",
+   "steps": [
+    {
+     "t": "Ülkemizde ormanlar, yağış ve…",
+     "r": [
+      115,
+      81,
+      757,
+      474
+     ]
+    },
+    {
+     "t": "Bursa'da olduğu gibi birçok ili",
+     "r": [
+      109,
+      527,
+      808,
+      637
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 55,
+   "img": "@IMG:s6-u5/p-10@",
+   "steps": [
+    {
+     "t": "Ormanlarımıza dayalı",
+     "r": [
+      77,
+      83,
+      752,
+      542
+     ]
+    },
+    {
+     "t": "Yozgat'ta olduğu gibi orman",
+     "r": [
+      33,
+      597,
+      814,
+      567
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      749,
+      98,
+      68,
+      68
+     ],
+     "panel": "orman",
+     "label": "Ormanlarımıza dayalı ekonomik faaliyetler"
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "img": "@IMG:s6-u5/p-11@",
+   "steps": [
+    {
+     "t": "Ülkemiz, maden kaynakları…",
+     "r": [
+      96,
+      68,
+      777,
+      859
+     ]
+    },
+    {
+     "t": "Konya'da çıkarılan",
+     "r": [
+      122,
+      899,
+      750,
+      265
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 57,
+   "img": "@IMG:s6-u5/p-12@",
+   "steps": [
+    {
+     "t": "Madenlerimize dayalı",
+     "r": [
+      78,
+      53,
+      778,
+      830
+     ]
+    },
+    {
+     "t": "TÜRKİYE MADEN HARİTASI",
+     "r": [
+      78,
+      855,
+      741,
+      309
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      748,
+      98,
+      69,
+      69
+     ],
+     "panel": "maden",
+     "label": "Madenlerimize dayalı ekonomik faaliyetler"
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "img": "@IMG:s6-u5/p-13@",
+   "steps": [
+    {
+     "t": "Örneklerden yararlanarak…",
+     "r": [
+      38,
+      80,
+      794,
+      565
+     ]
+    },
+    {
+     "t": "Turizm",
+     "r": [
+      38,
+      617,
+      794,
+      547
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      355,
+      280,
+      150,
+      18
+     ],
+     "mode": "ink",
+     "text": "Hayvancılık",
+     "pill": [
+      581,
+      297
+     ]
+    },
+    {
+     "area": [
+      330,
+      302,
+      470,
+      60
+     ],
+     "mode": "ink",
+     "text": "Erzurum-Kars Platosu'ndaki çayırlarda büyükbaş hayvancılık yapılır.",
+     "pill": [
+      820,
+      289
+     ]
+    },
+    {
+     "area": [
+      358,
+      388,
+      150,
+      18
+     ],
+     "mode": "ink",
+     "text": "Sanayi",
+     "pill": [
+      584,
+      369
+     ]
+    },
+    {
+     "area": [
+      332,
+      410,
+      470,
+      60
+     ],
+     "mode": "ink",
+     "text": "Kütahya'da toprak ham maddesiyle seramik ve porselen üretilir.",
+     "pill": [
+      822,
+      397
+     ]
+    },
+    {
+     "area": [
+      297,
+      496,
+      150,
+      18
+     ],
+     "mode": "ink",
+     "text": "Ticaret",
+     "pill": [
+      511,
+      513
+     ]
+    },
+    {
+     "area": [
+      270,
+      518,
+      465,
+      60
+     ],
+     "mode": "ink",
+     "text": "Gaziantep'te yetişen Antep fıstığı yurt içinde ve dışında satılır.",
+     "pill": [
+      748,
+      505
+     ]
+    },
+    {
+     "area": [
+      355,
+      785,
+      150,
+      18
+     ],
+     "mode": "ink",
+     "text": "Balıkçılık",
+     "pill": [
+      581,
+      802
+     ]
+    },
+    {
+     "area": [
+      330,
+      808,
+      470,
+      60
+     ],
+     "mode": "ink",
+     "text": "Karadeniz'de hamsi avcılığı, Muğla'da kültür balıkçılığı yapılır.",
+     "pill": [
+      820,
+      795
+     ]
+    },
+    {
+     "area": [
+      358,
+      892,
+      150,
+      18
+     ],
+     "mode": "ink",
+     "text": "Enerji",
+     "pill": [
+      584,
+      909
+     ]
+    },
+    {
+     "area": [
+      332,
+      915,
+      470,
+      60
+     ],
+     "mode": "ink",
+     "text": "Çoruh Nehri üzerindeki Yusufeli Barajı'nda elektrik üretilir.",
+     "pill": [
+      822,
+      902
+     ]
+    },
+    {
+     "area": [
+      297,
+      1000,
+      150,
+      18
+     ],
+     "mode": "ink",
+     "text": "Ulaşım",
+     "pill": [
+      511,
+      1020
+     ]
+    },
+    {
+     "area": [
+      270,
+      1022,
+      465,
+      60
+     ],
+     "mode": "ink",
+     "text": "Türk boğazları deniz ticaretinde, Van Gölü feribot taşımacılığında kullanılır.",
+     "pill": [
+      748,
+      1009
+     ]
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "img": "@IMG:s6-u5/p-14@",
+   "steps": [
+    {
+     "t": "Mobilyacılık",
+     "r": [
+      88,
+      133,
+      829,
+      487
+     ]
+    },
+    {
+     "t": "Kurşun madeni",
+     "r": [
+      88,
+      592,
+      824,
+      583
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      328,
+      262,
+      135,
+      18
+     ],
+     "mode": "ink",
+     "text": "Kâğıt sanayi",
+     "pill": [
+      530,
+      249
+     ]
+    },
+    {
+     "area": [
+      100,
+      285,
+      400,
+      55
+     ],
+     "mode": "ink",
+     "text": "Muğla Dalaman'daki ormanlardan kâğıt üretiminde yararlanılır.",
+     "pill": [
+      614,
+      269
+     ]
+    },
+    {
+     "area": [
+      330,
+      370,
+      135,
+      18
+     ],
+     "mode": "ink",
+     "text": "Arıcılık",
+     "pill": [
+      286,
+      384
+     ]
+    },
+    {
+     "area": [
+      100,
+      392,
+      400,
+      55
+     ],
+     "mode": "ink",
+     "text": "Giresun'daki bal ormanlarında, Artvin'de kestane balı üretilir.",
+     "pill": [
+      206,
+      385
+     ]
+    },
+    {
+     "area": [
+      420,
+      478,
+      135,
+      18
+     ],
+     "mode": "ink",
+     "text": "Turizm",
+     "pill": [
+      634,
+      486
+     ]
+    },
+    {
+     "area": [
+      190,
+      500,
+      400,
+      55
+     ],
+     "mode": "ink",
+     "text": "Isparta Kızıldağ Millî Parkı ve Mersin ormanlarında kamp turizmi yapılır.",
+     "pill": [
+      554,
+      568
+     ]
+    },
+    {
+     "area": [
+      328,
+      768,
+      135,
+      18
+     ],
+     "mode": "ink",
+     "text": "Enerji",
+     "pill": [
+      284,
+      782
+     ]
+    },
+    {
+     "area": [
+      100,
+      790,
+      400,
+      55
+     ],
+     "mode": "ink",
+     "text": "Zonguldak'ta çıkarılan taş kömürü enerji üretiminde kullanılır.",
+     "pill": [
+      206,
+      783
+     ]
+    },
+    {
+     "area": [
+      330,
+      875,
+      135,
+      18
+     ],
+     "mode": "ink",
+     "text": "Ticaret",
+     "pill": [
+      286,
+      892
+     ]
+    },
+    {
+     "area": [
+      100,
+      898,
+      400,
+      55
+     ],
+     "mode": "ink",
+     "text": "Konya'da çıkarılan boksit ve Afyon mermeri ticareti yapılır.",
+     "pill": [
+      290,
+      855
+     ]
+    },
+    {
+     "area": [
+      420,
+      985,
+      135,
+      18
+     ],
+     "mode": "ink",
+     "text": "Teknoloji",
+     "pill": [
+      634,
+      993
+     ]
+    },
+    {
+     "area": [
+      190,
+      1007,
+      400,
+      55
+     ],
+     "mode": "ink",
+     "text": "Bor madeni bilişim teknolojisi ve roket yakıtında kullanılır.",
+     "pill": [
+      554,
+      1075
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      749,
+      1088,
+      68,
+      68
+     ],
+     "panel": "vatanseverlik",
+     "label": "Doğal kaynaklar ve vatanseverlik"
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "img": "@IMG:s6-u5/p-15@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      33,
+      55,
+      840,
+      601
+     ]
+    },
+    {
+     "t": "Derecelendirme",
+     "r": [
+      33,
+      628,
+      839,
+      537
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      134,
+      1078,
+      68,
+      68
+     ],
+     "panel": "harita",
+     "label": "Derecelendirme ölçeği"
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "img": "@IMG:s6-u5/p-16@",
+   "steps": [
+    {
+     "t": "Örneklerde olduğu gibi toprak, su",
+     "r": [
+      78,
+      0,
+      839,
+      1164
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      95,
+      600,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek harita bilgisi",
+     "text": "Örnek iller:\n• Rize (toprak): Çay tarımı, çay fabrikaları.\n• Trabzon (su): Karadeniz'de hamsi avcılığı ve balıkçılık.\n• Artvin (orman): Kestane balı ve arıcılık; Yusufeli Barajı (su).\n• Zonguldak (maden): Taş kömürü ile enerji üretimi.\n• Batman (maden): Petrol çıkarımı.\n• Erzurum (toprak): Çayırlarda büyükbaş hayvancılık.\n• Şanlıurfa (su): GAP barajlarıyla sulu tarım, pamuk.",
+     "pill": [
+      318,
+      76
+     ],
+     "qx": 110,
+     "qt": 95,
+     "qb": 265,
+     "qr": 900,
+     "bal": [
+      74,
+      184,
+      847,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "img": "@IMG:s6-u5/p-17@",
+   "steps": [
+    {
+     "t": "Adı : Doğal kaynaklar ve",
+     "r": [
+      78,
+      80,
+      838,
+      578
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      79,
+      630,
+      837,
+      548
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      810,
+      640,
+      210
+     ],
+     "mode": "ink",
+     "text": "Ülkemizin kaynakları hepimizindir; onları korumak vatanımıza sahip çıkmaktır. Ormanları yangından korumak, suyu israf etmemek, toprağın erozyona uğramasını önlemek ve madenleri bilinçli kullanmak gelecek nesillere temiz ve zengin bir vatan bırakmamızı sağlar. Kaynaklarımızı yerli imkânlarla işlemek ekonomimizi güçlendirir ve dışa bağımlılığı azaltır. Bu yüzden kaynaklarımızı korumak bir vatanseverlik görevidir.",
+     "pill": [
+      822,
+      797
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      135,
+      1099,
+      60,
+      60
+     ],
+     "panel": "tartisma",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "img": "@IMG:s6-u5/p-18@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Ülkemizdeki doğal kaynaklarla…",
+     "r": [
+      34,
+      55,
+      868,
+      371
+     ]
+    },
+    {
+     "t": "ÜLKEMİZİN",
+     "r": [
+      73,
+      398,
+      837,
+      766
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      330,
+      100,
+      560,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek kavram haritası",
+     "text": "TOPRAK → Tarım (tahıl, çay, fındık), Hayvancılık (Erzurum-Kars), Sanayi (seramik, porselen)\nSU → Balıkçılık (Karadeniz), Enerji (barajlar, HES), Turizm (rafting, kıyı turizmi), Ulaşım (boğazlar, feribot)\nORMAN → Kereste ve mobilya (Bursa, Kastamonu), Kâğıt (Dalaman), Arıcılık (Giresun, Artvin)\nMADEN → Enerji (taş kömürü, petrol), Sanayi (demir, krom, bakır), Teknoloji (bor)",
+     "pill": [
+      520,
+      69
+     ],
+     "qx": 171,
+     "qt": 75,
+     "qb": 270,
+     "qr": 890,
+     "bal": [
+      171,
+      183,
+      719,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      489,
+      211,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Hayvancılık",
+     "pill": [
+      643,
+      198
+     ]
+    },
+    {
+     "area": [
+      669,
+      318,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Sanayi",
+     "pill": [
+      823,
+      305
+     ]
+    },
+    {
+     "area": [
+      229,
+      474,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Orman",
+     "pill": [
+      281,
+      470
+     ]
+    },
+    {
+     "area": [
+      104,
+      318,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Mobilya",
+     "pill": [
+      258,
+      305
+     ]
+    },
+    {
+     "area": [
+      335,
+      274,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Kâğıt",
+     "pill": [
+      387,
+      270
+     ]
+    },
+    {
+     "area": [
+      85,
+      555,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Arıcılık",
+     "pill": [
+      137,
+      551
+     ]
+    },
+    {
+     "area": [
+      235,
+      768,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Su",
+     "pill": [
+      287,
+      764
+     ]
+    },
+    {
+     "area": [
+      91,
+      749,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Balıkçılık",
+     "pill": [
+      143,
+      739
+     ]
+    },
+    {
+     "area": [
+      104,
+      918,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Enerji",
+     "pill": [
+      156,
+      908
+     ]
+    },
+    {
+     "area": [
+      279,
+      999,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Turizm",
+     "pill": [
+      331,
+      986
+     ]
+    },
+    {
+     "area": [
+      541,
+      780,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Maden",
+     "pill": [
+      695,
+      767
+     ]
+    },
+    {
+     "area": [
+      685,
+      836,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Demir-çelik",
+     "pill": [
+      839,
+      823
+     ]
+    },
+    {
+     "area": [
+      423,
+      918,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Enerji",
+     "pill": [
+      475,
+      914
+     ]
+    },
+    {
+     "area": [
+      598,
+      1018,
+      130,
+      34
+     ],
+     "mode": "ink",
+     "text": "Teknoloji (bor)",
+     "pill": [
+      752,
+      1005
+     ]
+    }
+   ]
+  }
+ ]
+};

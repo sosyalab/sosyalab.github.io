@@ -1,0 +1,1200 @@
+// 6. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–51)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Kültürel bağlarımız ve millî değerlerimiz (s. 24–37)
+window.BOOK = {
+ "id": "s6-u1-k2",
+ "title": "Kültürel bağlarımız ve millî değerlerimiz",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u1-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 24,
+   "img": "@IMG:s6-u1/p-15@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "KÜLTÜREL BAĞLARIMIZIN",
+     "r": [
+      38,
+      55,
+      789,
+      356
+     ]
+    },
+    {
+     "t": "Türkiye Kültür Yolu Festivali,…",
+     "r": [
+      89,
+      383,
+      757,
+      781
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      727,
+      185,
+      32
+     ],
+     "mode": "ink",
+     "text": "Sema (Mevlevi ayini)",
+     "pill": [
+      224,
+      687
+     ]
+    },
+    {
+     "area": [
+      372,
+      727,
+      186,
+      32
+     ],
+     "mode": "ink",
+     "text": "Bağlama (halk müziği)",
+     "pill": [
+      540,
+      765
+     ]
+    },
+    {
+     "area": [
+      606,
+      727,
+      185,
+      32
+     ],
+     "mode": "ink",
+     "text": "Ebru sanatı",
+     "pill": [
+      798,
+      714
+     ]
+    },
+    {
+     "area": [
+      140,
+      942,
+      185,
+      32
+     ],
+     "mode": "ink",
+     "text": "Halk oyunları",
+     "pill": [
+      56,
+      929
+     ]
+    },
+    {
+     "area": [
+      372,
+      942,
+      186,
+      32
+     ],
+     "mode": "ink",
+     "text": "Hat sanatı",
+     "pill": [
+      324,
+      776
+     ]
+    },
+    {
+     "area": [
+      606,
+      942,
+      185,
+      32
+     ],
+     "mode": "ink",
+     "text": "Bakır işçiliği",
+     "pill": [
+      798,
+      929
+     ]
+    },
+    {
+     "area": [
+      135,
+      1058,
+      680,
+      60
+     ],
+     "mode": "ink",
+     "city": "kultur",
+     "text": "Örnek (Ankara): Ankara Kalesi, Anadolu Medeniyetleri Müzesi, seymen oyunları, tiftik keçisi, Hacı Bayram Veli Camii.",
+     "pill": [
+      843,
+      1045
+     ]
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "img": "@IMG:s6-u1/p-16@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Kültürel bağlar, değerler ve…",
+     "r": [
+      34,
+      55,
+      811,
+      529
+     ]
+    },
+    {
+     "t": "Hayatınızdan ve yakın…",
+     "r": [
+      100,
+      556,
+      744,
+      247
+     ]
+    },
+    {
+     "t": "Toplumsal birliğimize katkıda…",
+     "r": [
+      90,
+      775,
+      755,
+      389
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      258,
+      400,
+      542,
+      157
+     ],
+     "mode": "ink",
+     "text": "Dil: Türkçe, Dede Korkut Hikâyeleri, Yunus Emre'nin şiirleri. Din: Ramazan ve Kurban bayramları. Tarih: Malazgirt Zaferi, Kurtuluş Savaşı. Sanat: ebru, çini, Selimiye Camii. Gelenek-görenek: bayram ziyaretleri, kına gecesi.",
+     "pill": [
+      754,
+      381
+     ]
+    },
+    {
+     "area": [
+      258,
+      637,
+      542,
+      127
+     ],
+     "mode": "ink",
+     "text": "Bayramlarda büyükleri ziyaret etmek, hasta komşuyu yoklamak, afetlerde yardıma koşmak, yaşlılara yer vermek, ailece aynı sofrada buluşmak.",
+     "pill": [
+      838,
+      624
+     ]
+    },
+    {
+     "area": [
+      258,
+      888,
+      542,
+      150
+     ],
+     "mode": "ink",
+     "text": "Kurtuluş Savaşı'nda milletin birlik olması (tarih, vatanseverlik); depremlerde düzenlenen yardım kampanyaları (din, gelenek); millî maçlarda hep birlikte sevinmek (millet sevgisi); 18 Mart Çanakkale anma törenleri (tarih).",
+     "pill": [
+      754,
+      863
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "img": "@IMG:s6-u1/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Kültürel bağlarımız ve milli…",
+     "r": [
+      38,
+      0,
+      879,
+      821
+     ]
+    },
+    {
+     "t": "Türk milleti zor dönemlerde bile",
+     "r": [
+      122,
+      793,
+      706,
+      371
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      390,
+      1084,
+      425,
+      24
+     ],
+     "mode": "ink",
+     "text": "kökleri geçmişe uzanır, dalları geleceği besler.",
+     "pill": [
+      820,
+      1071
+     ]
+    },
+    {
+     "area": [
+      392,
+      1106,
+      423,
+      24
+     ],
+     "mode": "ink",
+     "text": "değerlidir, özenle korunup nesilden nesile aktarılır.",
+     "pill": [
+      822,
+      1105
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "img": "@IMG:s6-u1/p-18@",
+   "steps": [
+    {
+     "t": "Bir milletin dili, o milletin",
+     "r": [
+      33,
+      0,
+      879,
+      386
+     ]
+    },
+    {
+     "t": "Türkiye Cumhuriyeti'ni kuran…",
+     "r": [
+      101,
+      358,
+      748,
+      806
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      350,
+      1090,
+      470,
+      36
+     ],
+     "mode": "ink",
+     "text": "Bağımsızlık, vatanseverlik ve millet sevgisi",
+     "pill": [
+      834,
+      1077
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "img": "@IMG:s6-u1/p-19@",
+   "steps": [
+    {
+     "t": "Kutadgu-Bilig",
+     "r": [
+      141,
+      91,
+      699,
+      675
+     ]
+    },
+    {
+     "t": "Gülü seven dikenine katlanır.",
+     "r": [
+      89,
+      738,
+      751,
+      435
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      356,
+      184,
+      462,
+      36
+     ],
+     "mode": "ink",
+     "text": "Adalet",
+     "pill": [
+      780,
+      153
+     ]
+    },
+    {
+     "area": [
+      356,
+      353,
+      462,
+      36
+     ],
+     "mode": "ink",
+     "text": "Vatanseverlik, bağımsızlık",
+     "pill": [
+      780,
+      322
+     ]
+    },
+    {
+     "area": [
+      356,
+      518,
+      462,
+      36
+     ],
+     "mode": "ink",
+     "text": "Aile birliği, sevgi",
+     "pill": [
+      780,
+      505
+     ]
+    },
+    {
+     "area": [
+      356,
+      684,
+      462,
+      36
+     ],
+     "mode": "ink",
+     "text": "Sevgi, hoşgörü",
+     "pill": [
+      816,
+      671
+     ]
+    },
+    {
+     "area": [
+      356,
+      846,
+      462,
+      36
+     ],
+     "mode": "ink",
+     "text": "Sabır, emek, fedakârlık",
+     "pill": [
+      780,
+      815
+     ]
+    },
+    {
+     "area": [
+      356,
+      1048,
+      462,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Karagöz ile Hacivat'ın atışmalarında komşuluk, yardımlaşma, hoşgörü, dürüstlük ve büyüklere saygı gibi değerler öne çıkar. Oyun, yanlış davranışları mizahla eleştirerek doğruyu gösterir.",
+     "pill": [
+      504,
+      1077
+     ],
+     "qx": 360,
+     "qt": 1048,
+     "qb": 1076,
+     "qr": 818,
+     "bal": [
+      284,
+      910,
+      560,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      642,
+      1098,
+      56,
+      56
+     ],
+     "panel": "karagoz",
+     "label": "Karagöz oyunu"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "img": "@IMG:s6-u1/p-20@",
+   "steps": [
+    {
+     "t": "Din, insanların duygu ve…",
+     "r": [
+      122,
+      76,
+      795,
+      481
+     ]
+    },
+    {
+     "t": "(.). Anadolu'da Türk'ün…",
+     "r": [
+      94,
+      529,
+      823,
+      635
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      1086,
+      712,
+      44
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yunus Emre, Mevlânâ ve Hacı Bektaş Veli sevgi, hoşgörü, kardeşlik ve yardımlaşmayı öğütlemiştir. \"Yaratılanı hoş gördük Yaratandan ötürü\" ve \"Gel, ne olursan ol yine gel\" sözleri insanlara ayrım yapmadan yaklaşmayı öğretir. Bu öğretiler farklı insanların barış içinde bir arada yaşamasına ve toplumsal birliğin güçlenmesine katkı sağlamıştır.",
+     "pill": [
+      402,
+      1061
+     ],
+     "qx": 106,
+     "qt": 946,
+     "qb": 1215,
+     "qr": 841,
+     "bal": [
+      90,
+      863,
+      831,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "img": "@IMG:s6-u1/p-21@",
+   "steps": [
+    {
+     "t": "Kültürel bağların temel…",
+     "r": [
+      122,
+      76,
+      706,
+      263
+     ]
+    },
+    {
+     "t": "Bizim yolumuzu çizen; içinde…",
+     "r": [
+      94,
+      311,
+      755,
+      853
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      108,
+      1047,
+      712,
+      38
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Vatanseverlik, bağımsızlık (özgürlük), fedakârlık, dayanışma ve yardımlaşma, cesaret ve millet sevgisi. Kadınlar, yaşlılar ve çocuklar canları pahasına cephaneyi cepheye taşımıştır.",
+     "pill": [
+      400,
+      1070
+     ],
+     "qx": 106,
+     "qt": 1047,
+     "qb": 1085,
+     "qr": 820,
+     "bal": [
+      90,
+      934,
+      763,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      108,
+      1096,
+      712,
+      38
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Mimar Sinan (Selimiye Camii gibi eserleriyle sanatımızı), Aziz Sancar (Nobel ödüllü bilim insanı), Cahit Arf (matematikçi), Naim Süleymanoğlu (vatan sevgisiyle başarıları) ve Âşık Veysel (türküleriyle dilimizi ve kültürümüzü yaşattı). Bu kişiler millî kimliğimizi dünyaya tanıtmış, gençlere örnek olmuştur.",
+     "pill": [
+      316,
+      1137
+     ],
+     "qx": 108,
+     "qt": 1096,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      90,
+      884,
+      763,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "img": "@IMG:s6-u1/p-22@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      123,
+      0,
+      789,
+      190
+     ]
+    },
+    {
+     "t": "Gazi Mustafa Kemal Atatürk'ün bu",
+     "r": [
+      81,
+      162,
+      831,
+      866
+     ]
+    },
+    {
+     "t": "(...) Ebru, kitap süsleme sanatı",
+     "r": [
+      101,
+      895,
+      749,
+      269
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      106,
+      266,
+      718,
+      38
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Sanat, bir milletin kültürünü, değerlerini ve kimliğini yansıtır. Sanattan uzak kalan toplum geçmişiyle bağını kaybeder, kültürünü gelecek nesillere aktaramaz. Bu yüzden sanat, toplum hayatının vazgeçilmez damarlarından biridir.",
+     "pill": [
+      404,
+      163
+     ],
+     "qx": 105,
+     "qt": 126,
+     "qb": 444,
+     "qr": 846,
+     "bal": [
+      77,
+      363,
+      839,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      106,
+      818,
+      718,
+      44
+     ],
+     "mode": "card",
+     "label": "Örnek motifler",
+     "text": "Elibelinde: annelik, bereket · Koçboynuzu: güç, kahramanlık · Yıldız: mutluluk · Pıtrak: kötülükten korunma · Su yolu: hayatın devamlılığı · Bereket: bolluk ve verimlilik.",
+     "pill": [
+      368,
+      790
+     ],
+     "qx": 106,
+     "qt": 678,
+     "qb": 1002,
+     "qr": 842,
+     "bal": [
+      77,
+      915,
+      839,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "img": "@IMG:s6-u1/p-23@",
+   "steps": [
+    {
+     "t": "Gelenek-Görenek",
+     "r": [
+      38,
+      74,
+      794,
+      1090
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      338,
+      598,
+      482,
+      58
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bayram ziyaretleri, hasta ve cenaze evine yemek götürmek, imece, düğünlerde ve asker uğurlamalarında komşuların yardımlaşması, Ramazan'da iftar sofrası kurmak, ihtiyaç sahiplerine yardım etmek, askıda ekmek.",
+     "pill": [
+      516,
+      642
+     ],
+     "qx": 336,
+     "qt": 598,
+     "qb": 656,
+     "qr": 820,
+     "bal": [
+      34,
+      664,
+      802,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      334,
+      1082,
+      56,
+      56
+     ],
+     "panel": "yardimlasma",
+     "label": "Yardımlaşma geleneklerimiz"
+    },
+    {
+     "area": [
+      614,
+      1082,
+      56,
+      56
+     ],
+     "panel": "kultur",
+     "label": "Kültürel bağlarımız ve millî değerlerimiz"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "img": "@IMG:s6-u1/p-24@",
+   "steps": [
+    {
+     "t": "Kültürel bağlarımız ve milli…",
+     "r": [
+      122,
+      83,
+      795,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      165,
+      397,
+      240,
+      34
+     ],
+     "mode": "ink",
+     "text": "Dil",
+     "pill": [
+      415,
+      384
+     ]
+    },
+    {
+     "area": [
+      165,
+      437,
+      240,
+      34
+     ],
+     "mode": "ink",
+     "text": "Din",
+     "pill": [
+      415,
+      424
+     ]
+    },
+    {
+     "area": [
+      165,
+      477,
+      240,
+      34
+     ],
+     "mode": "ink",
+     "text": "Sanat",
+     "pill": [
+      415,
+      464
+     ]
+    },
+    {
+     "area": [
+      165,
+      518,
+      240,
+      34
+     ],
+     "mode": "ink",
+     "text": "Gelenek-görenek",
+     "pill": [
+      415,
+      505
+     ]
+    },
+    {
+     "area": [
+      558,
+      397,
+      240,
+      34
+     ],
+     "mode": "ink",
+     "text": "Millet sevgisi",
+     "pill": [
+      808,
+      384
+     ]
+    },
+    {
+     "area": [
+      558,
+      437,
+      240,
+      34
+     ],
+     "mode": "ink",
+     "text": "Bağımsızlık",
+     "pill": [
+      808,
+      424
+     ]
+    },
+    {
+     "area": [
+      558,
+      477,
+      240,
+      34
+     ],
+     "mode": "ink",
+     "text": "Adalet",
+     "pill": [
+      808,
+      464
+     ]
+    },
+    {
+     "area": [
+      558,
+      518,
+      240,
+      34
+     ],
+     "mode": "ink",
+     "text": "Saygı ve hoşgörü",
+     "pill": [
+      808,
+      505
+     ]
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "img": "@IMG:s6-u1/p-25@",
+   "steps": [
+    {
+     "t": "Dini bayramlarımız olan Ramazan ve",
+     "r": [
+      38,
+      56,
+      794,
+      768
+     ]
+    },
+    {
+     "t": "28 Kasım 1919 Cuma sabahı",
+     "r": [
+      38,
+      796,
+      812,
+      368
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      420,
+      478,
+      400,
+      44
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bayramlarda büyükler ziyaret edilir, dargınlar barışır, ihtiyaç sahiplerine yardım edilir; insanlar birbirine güvenir. Millî bayramlarda geçmişimizi hatırlar, ortak sevinci paylaşırız. Böylece birlik, beraberlik ve dayanışma duygumuz güçlenir.",
+     "pill": [
+      556,
+      453
+     ],
+     "qx": 420,
+     "qt": 478,
+     "qb": 522,
+     "qr": 820,
+     "bal": [
+      34,
+      530,
+      802,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "img": "@IMG:s6-u1/p-26@",
+   "steps": [
+    {
+     "t": "15 Temmuz hain bir darbe",
+     "r": [
+      122,
+      0,
+      790,
+      551
+     ]
+    },
+    {
+     "t": "Türk milleti, geçmişten…",
+     "r": [
+      122,
+      523,
+      790,
+      641
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      474,
+      465,
+      54,
+      54
+     ],
+     "panel": "temmuz",
+     "label": "15 Temmuz Millî birlik ve demokrasi"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "img": "@IMG:s6-u1/p-27@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      55,
+      790,
+      346
+     ]
+    },
+    {
+     "t": "ütüncül dereceli",
+     "r": [
+      122,
+      373,
+      706,
+      791
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      155,
+      580,
+      640,
+      525
+     ],
+     "mode": "ink",
+     "text": "Kültürel bağlarımız ve millî değerlerimiz bizi bir arada tutan görünmez iplere benzer. Aynı dili konuşur, aynı türküleri söyler, aynı bayramları kutlarız. Atasözleri, ninniler ve destanlar bize adaleti, vatan sevgisini ve yardımlaşmayı öğretir.\nMillî Mücadele'de İnebolu'dan Ankara'ya cephane taşıyan kahraman kadınlar, 15 Temmuz gecesi meydanlara koşan vatandaşlar ve depremde yardıma koşan gönüllüler bu değerlerin gücünü gösterir.\nBu değerleri yaşatırsak zor günlerde birbirine kenetlenen güçlü bir millet olmaya devam ederiz.",
+     "pill": [
+      825,
+      567
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      160,
+      400,
+      58,
+      60
+     ],
+     "panel": "puanlama",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "img": "@IMG:s6-u1/p-28@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda milli değerlerimize…",
+     "r": [
+      34,
+      55,
+      808,
+      577
+     ]
+    },
+    {
+     "t": "Aşağıda kültürel bağlarımıza…",
+     "r": [
+      72,
+      604,
+      806,
+      560
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      262,
+      190,
+      62
+     ],
+     "mode": "ink",
+     "text": "VATAN\nSEVGİSİ",
+     "pill": [
+      290,
+      219
+     ]
+    },
+    {
+     "area": [
+      385,
+      262,
+      190,
+      62
+     ],
+     "mode": "ink",
+     "text": "SEVGİ\nSAYGI",
+     "pill": [
+      521,
+      219
+     ]
+    },
+    {
+     "area": [
+      610,
+      272,
+      200,
+      40
+     ],
+     "mode": "ink",
+     "text": "DÜRÜSTLÜK",
+     "pill": [
+      740,
+      259
+     ]
+    },
+    {
+     "area": [
+      160,
+      400,
+      190,
+      40
+     ],
+     "mode": "ink",
+     "text": "DOĞRULUK",
+     "pill": [
+      278,
+      387
+     ]
+    },
+    {
+     "area": [
+      385,
+      400,
+      190,
+      40
+     ],
+     "mode": "ink",
+     "text": "ADALET",
+     "pill": [
+      509,
+      387
+     ]
+    },
+    {
+     "area": [
+      610,
+      400,
+      200,
+      40
+     ],
+     "mode": "ink",
+     "text": "ÖZGÜRLÜK",
+     "pill": [
+      740,
+      387
+     ]
+    },
+    {
+     "area": [
+      160,
+      529,
+      190,
+      40
+     ],
+     "mode": "ink",
+     "text": "NEZAKET",
+     "pill": [
+      278,
+      516
+     ]
+    },
+    {
+     "area": [
+      385,
+      529,
+      190,
+      40
+     ],
+     "mode": "ink",
+     "text": "KAHRAMANLIK",
+     "pill": [
+      509,
+      516
+     ]
+    },
+    {
+     "area": [
+      610,
+      529,
+      200,
+      40
+     ],
+     "mode": "ink",
+     "text": "BAĞIMSIZLIK",
+     "pill": [
+      740,
+      516
+     ]
+    },
+    {
+     "area": [
+      330,
+      150,
+      490,
+      46
+     ],
+     "mode": "card",
+     "label": "Örnekler",
+     "text": "Vatan sevgisi: Çanakkale Savaşı · Sevgi ve saygı: bayramlarda büyükleri ziyaret etmek · Dürüstlük ve doğruluk: zimem defteri geleneği · Adalet: Kutadgu Bilig'deki öğütler · Özgürlük ve bağımsızlık: Millî Mücadele · Kahramanlık: İstiklal Yolu'nda cephane taşıyan kadınlar, 15 Temmuz · Nezaket: misafiri güler yüzle karşılamak.",
+     "pill": [
+      538,
+      179
+     ],
+     "qx": 329,
+     "qt": 97,
+     "qb": 196,
+     "qr": 820,
+     "bal": [
+      30,
+      204,
+      816,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      565,
+      1092,
+      238,
+      38
+     ],
+     "mode": "ink",
+     "text": "TÜRKİYEM",
+     "pill": [
+      869,
+      1079
+     ]
+    }
+   ]
+  }
+ ]
+};

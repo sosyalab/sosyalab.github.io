@@ -1,0 +1,1061 @@
+// 6. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–45)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Dijitalleşmenin vatandaşlık hak ve sorumluluklarına etkileri (s. 34–45)
+window.BOOK = {
+ "id": "s6-u4-k3",
+ "title": "Dijitalleşmenin vatandaşlık hak ve sorumluluklarına etkileri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u4-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 34,
+   "img": "@IMG:s6-u4/p-25@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "DİJİTALLEŞME VE TEKNOLOJİK",
+     "r": [
+      38,
+      55,
+      879,
+      591
+     ]
+    },
+    {
+     "t": "Ahmet okul çıkışında otobüse…",
+     "r": [
+      38,
+      566,
+      790,
+      393
+     ]
+    },
+    {
+     "t": "8) Dijitalleşme ve teknolojik…",
+     "r": [
+      38,
+      931,
+      789,
+      261
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      280,
+      400,
+      540,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek Olay 1 · Ayşe: PASİF VATANDAŞ. Hijyen kurallarına uyulmadığını fark etmesine rağmen şikâyet hakkını kullanmamış, durumu yetkililere bildirmemiştir.\nÖrnek Olay 2 · Ahmet: ETKİN VATANDAŞ. Sorunu fark etmiş ve dilekçe hakkını kullanarak belediyeye bildirmiştir.\nÖrnek Olay 3 · Mustafa: KARARSIZ. Önce kurallara uyulmasını istemiş, sonra hakkını aramaktan vazgeçip haksızlığa boyun eğmiştir.",
+     "pill": [
+      488,
+      402
+     ],
+     "qx": 224,
+     "qt": 399,
+     "qb": 530,
+     "qr": 820,
+     "bal": [
+      34,
+      483,
+      887,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      330,
+      1025,
+      480,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Dijitalleşme; e-Devlet, e-Nabız ve EBA gibi uygulamalarla zamandan ve paradan tasarruf sağlar, hizmetlere her yerden ulaşmayı kolaylaştırır. Ancak kişisel verilerin korunması, siber zorbalık, sahte haberler ve ekran bağımlılığı gibi riskler de getirir. Teknolojiyi bilinçli ve sorumlu kullanmalıyız.",
+     "pill": [
+      514,
+      1066
+     ],
+     "qx": 313,
+     "qt": 1004,
+     "qb": 1061,
+     "qr": 815,
+     "bal": [
+      34,
+      1069,
+      797,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      167,
+      1103,
+      70,
+      70
+     ],
+     "panel": "dijitaletki",
+     "label": "Dijital ve teknolojik gelişmelerin etkileri"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "img": "@IMG:s6-u4/p-26@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Teknolojinin hızla gelişmesiyle…",
+     "r": [
+      34,
+      54,
+      794,
+      590
+     ]
+    },
+    {
+     "t": "Günlük yaşantınızda dijital…",
+     "r": [
+      94,
+      616,
+      745,
+      548
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      352,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "EBA ve çevrim içi dersler sayesinde okula gidemediğimiz zamanlarda da (salgın, hastalık, kötü hava) eğitime devam edebiliyoruz. Dijital kitaplar, videolar ve etkileşimli içerikler öğrenmeyi kolaylaştırıyor; e-Okul ile notlarımızı ve devamsızlığımızı takip edebiliyoruz.",
+     "pill": [
+      399,
+      330
+     ],
+     "qx": 106,
+     "qt": 351,
+     "qb": 383,
+     "qr": 805,
+     "bal": [
+      30,
+      391,
+      802,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      650,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Güvenilir sitelerden bilgi alırım, şifremi kimseyle paylaşmam, sosyal medyada kişisel bilgilerimi paylaşmam, başkalarına saygılı yorumlar yazarım, siber zorbalığa karşı çıkarım, telif haklarına uyar ve ekran süremi sınırlarım.",
+     "pill": [
+      411,
+      676
+     ],
+     "qx": 106,
+     "qt": 650,
+     "qb": 689,
+     "qr": 816,
+     "bal": [
+      90,
+      697,
+      753,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      110,
+      1005,
+      215,
+      22
+     ],
+     "mode": "ink",
+     "text": "Çalışma hakkı (evden çalışma)",
+     "pill": [
+      264,
+      995
+     ]
+    },
+    {
+     "area": [
+      352,
+      1005,
+      210,
+      22
+     ],
+     "mode": "ink",
+     "text": "Eğitim hakkı (uzaktan eğitim)",
+     "pill": [
+      506,
+      995
+     ]
+    },
+    {
+     "area": [
+      596,
+      1005,
+      210,
+      22
+     ],
+     "mode": "ink",
+     "text": "Eğitim hakkı (EBA)",
+     "pill": [
+      750,
+      995
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      755,
+      1076,
+      61,
+      61
+     ],
+     "panel": "dijitalvat",
+     "label": "Dijital vatandaşlık"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "img": "@IMG:s6-u4/p-27@",
+   "steps": [
+    {
+     "t": "e-Devlet Kapısı'nda kullanıcı…",
+     "r": [
+      121,
+      83,
+      718,
+      358
+     ]
+    },
+    {
+     "t": "Adalet Lİ Çevre, Tarım ve",
+     "r": [
+      118,
+      413,
+      710,
+      751
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      905,
+      660,
+      180
+     ],
+     "mode": "ink",
+     "text": "• Adalet: hak arama hakkı\n• Eğitim: eğitim hakkı\n• Sağlık: sağlık hakkı\n• İş ve Kariyer: çalışma hakkı\n• Sosyal Güvenlik: sosyal güvenlik hakkı\n• Şikâyet ve Bilgi Edinme: dilekçe ve bilgi edinme hakkı\n• Kişisel Bilgiler: özel hayatın gizliliği",
+     "pill": [
+      824,
+      892
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "img": "@IMG:s6-u4/p-28@",
+   "steps": [
+    {
+     "t": "Aşağıdaki genel ağ haberlerini…",
+     "r": [
+      81,
+      94,
+      773,
+      1070
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      210,
+      600,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "e-Nabız sağlık hakkı ve kişisel verilere erişim hakkıyla; e-Okul ve EBA ise eğitim hakkı ve bilgi edinme hakkıyla ilişkilidir.",
+     "pill": [
+      369,
+      233
+     ],
+     "qx": 106,
+     "qt": 137,
+     "qb": 383,
+     "qr": 843,
+     "bal": [
+      77,
+      298,
+      781,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      1030,
+      600,
+      35
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "EBA; ders videoları, dijital kitaplar ve soru havuzlarıyla her yerden ve ücretsiz öğrenmeyi sağlar, eğitimde fırsat eşitliğine katkıda bulunur. e-Okul; öğrencinin notlarını, devamsızlığını ve ders programını veliyle paylaşarak okul-aile iş birliğini güçlendirir.",
+     "pill": [
+      339,
+      1056
+     ],
+     "qx": 124,
+     "qt": 993,
+     "qb": 1205,
+     "qr": 817,
+     "bal": [
+      77,
+      855,
+      781,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      203,
+      1076,
+      57,
+      57
+     ],
+     "panel": "eokul",
+     "label": "e-Okul"
+    },
+    {
+     "area": [
+      759,
+      1076,
+      57,
+      57
+     ],
+     "panel": "eba",
+     "label": "EBA"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "img": "@IMG:s6-u4/p-29@",
+   "steps": [
+    {
+     "t": "Aşağıdaki örnek olayı okuyunuz ve",
+     "r": [
+      118,
+      83,
+      799,
+      653
+     ]
+    },
+    {
+     "t": "Elif Hanım e-Devlet…",
+     "r": [
+      122,
+      507,
+      795,
+      229
+     ]
+    },
+    {
+     "t": "Ahmet Bey küçük bir mahallede",
+     "r": [
+      90,
+      708,
+      738,
+      456
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      470,
+      680,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevapları göster",
+     "text": "Nasıl? Oğlu Emir'in yardımıyla e-Devlet şifresiyle giriş yapıp tapu bilgilerini kontrol etti, belgeleri yükledi ve randevu aldı.\nNereden? Akıllı telefonuna indirdiği e-Devlet uygulamasından.\nNe gibi zorluklar? Birkaç kez şehir merkezine gitmek zorunda kalır, vakit ve para kaybederdi.\nNeden? Zaman ve masraftan tasarruf etmek, işlemleri kolayca yapmak için.\nNe zaman? Tarlanın bir kısmını satmak için tapu işlemi yaparken.\nKim? Okulda dijital vatandaşlık öğrenen oğlu Emir.",
+     "pill": [
+      398,
+      445
+     ],
+     "qx": 130,
+     "qt": 470,
+     "qb": 617,
+     "qr": 810,
+     "bal": [
+      114,
+      548,
+      807,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      780,
+      680,
+      25
+     ],
+     "mode": "card",
+     "label": "Örnek sorular",
+     "text": "Ne? Mahallede çöpler toplanmıyor, sokak lambaları arızalanıyordu.\nKim? Ahmet Bey ve arkadaşı Mustafa Öğretmen.\nNerede? Küçük bir mahallede, belediyenin mobil uygulamasında.\nNe zaman? Sorunlar uzun süre çözülmediğinde.\nNasıl? Fotoğraf çekip belediyenin şikâyet uygulamasına gönderdi.\nNiçin? Mahalle sorunlarının hızlı çözülmesi için.",
+     "pill": [
+      404,
+      734
+     ],
+     "qx": 134,
+     "qt": 763,
+     "qb": 923,
+     "qr": 816,
+     "bal": [
+      86,
+      858,
+      746,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "img": "@IMG:s6-u4/p-30@",
+   "steps": [
+    {
+     "t": "Dijitalleşme ve teknolojik…",
+     "r": [
+      34,
+      85,
+      878,
+      791
+     ]
+    },
+    {
+     "t": "Hızlı bir şekilde gelişen bilgi",
+     "r": [
+      122,
+      825,
+      790,
+      339
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      710,
+      600,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "T.C. kimlik numarası her vatandaşa özeldir. Başvuru yapan kişinin gerçekten kim olduğunun doğrulanması, başkalarının adına işlem yapılmasının önlenmesi ve kişisel verilerin güvenliğinin sağlanması için istenir.",
+     "pill": [
+      363,
+      688
+     ],
+     "qx": 106,
+     "qt": 710,
+     "qb": 755,
+     "qr": 725,
+     "bal": [
+      30,
+      763,
+      886,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      207,
+      619,
+      60,
+      60
+     ],
+     "panel": "cimer",
+     "label": "CİMER"
+    },
+    {
+     "area": [
+      485,
+      619,
+      60,
+      60
+     ],
+     "panel": "enabiz",
+     "label": "e-Nabız"
+    },
+    {
+     "area": [
+      759,
+      618,
+      59,
+      59
+     ],
+     "panel": "edevlet",
+     "label": "e-Devlet"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "img": "@IMG:s6-u4/p-31@",
+   "steps": [
+    {
+     "t": "Kişinin kendisinden daha güçsüz…",
+     "r": [
+      38,
+      43,
+      790,
+      768
+     ]
+    },
+    {
+     "t": "Siber zorbalığa maruz…",
+     "r": [
+      38,
+      783,
+      790,
+      381
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      435,
+      1027,
+      61,
+      61
+     ],
+     "panel": "siberzorbalik",
+     "label": "Siber zorbalık"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "img": "@IMG:s6-u4/p-32@",
+   "steps": [
+    {
+     "t": "Aşağıda Yusuf Ethem ve Taylan",
+     "r": [
+      89,
+      71,
+      823,
+      1093
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      960,
+      460,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Kendimi güvensiz, üzgün ve kızgın hissederim; özel hayatımın ihlal edildiğini düşünürüm. Bu durumu ailemle ve öğretmenimle paylaşır, verinin kaldırılması için platforma ve gerekirse yetkili kurumlara başvururum.",
+     "pill": [
+      513,
+      989
+     ],
+     "qx": 104,
+     "qt": 960,
+     "qb": 1007,
+     "qr": 692,
+     "bal": [
+      85,
+      847,
+      831,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      1010,
+      460,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Herkesin özel hayatının gizliliği Anayasa ile güvence altındadır. Başkalarının fotoğraf ve bilgilerini izinsiz paylaşmak onları üzebilir, tehlikeye atabilir ve suç oluşturabilir. Kendi mahremiyetimizin korunmasını istediğimiz gibi başkalarınınkine de saygı göstermeliyiz.",
+     "pill": [
+      417,
+      1042
+     ],
+     "qx": 125,
+     "qt": 971,
+     "qb": 1055,
+     "qr": 693,
+     "bal": [
+      85,
+      822,
+      831,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      1070,
+      460,
+      30
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Ekran başında uzun süre kalmak hareketsizliğe, uyku bozukluğuna, göz ve duruş sorunlarına, dikkat eksikliğine ve sosyal ilişkilerin zayıflamasına yol açar. Teknoloji kullanımını sınırlamak; spor, kitap okuma ve arkadaşlarla zaman geçirmek sağlıklı yaşamı destekler.",
+     "pill": [
+      297,
+      1105
+     ],
+     "qx": 103,
+     "qt": 1070,
+     "qb": 1119,
+     "qr": 608,
+     "bal": [
+      103,
+      797,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "img": "@IMG:s6-u4/p-33@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Dijital Hayat",
+     "r": [
+      38,
+      55,
+      790,
+      274
+     ]
+    },
+    {
+     "t": "Münazarayı yönetecek bir…",
+     "r": [
+      125,
+      301,
+      703,
+      285
+     ]
+    },
+    {
+     "t": "Vatandaşlık haklarının…",
+     "r": [
+      95,
+      558,
+      760,
+      614
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      905,
+      650,
+      140
+     ],
+     "mode": "ink",
+     "text": "Dijitalleşmenin olumlu etkileri daha belirgindir. e-Devlet, e-Nabız, EBA ve CİMER gibi uygulamalar zaman ve para tasarrufu sağlar, hizmetlere her yerden ulaşmayı kolaylaştırır. Ancak siber zorbalık, veri güvenliği ve bağımlılık gibi riskler için bilinçli kullanım şarttır.",
+     "pill": [
+      692,
+      883
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      135,
+      1093,
+      60,
+      60
+     ],
+     "panel": "gozlem",
+     "label": "Gözlem formu"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "img": "@IMG:s6-u4/p-34@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "sestir olar BEER",
+     "r": [
+      34,
+      49,
+      842,
+      1132
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      705,
+      520,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevapları göster",
+     "text": "1. Dijital vatandaş\n2. Teknoloji bağımlılığı\n3. Siber zorbalık\n4. CİMER\n5. e-Okul\n6. e-Nabız\n7. EBA\n8. e-Devlet",
+     "pill": [
+      314,
+      686
+     ],
+     "qx": 130,
+     "qt": 705,
+     "qb": 734,
+     "qr": 650,
+     "bal": [
+      30,
+      742,
+      850,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      1097,
+      65,
+      65
+     ],
+     "panel": "bulmacacevap",
+     "label": "Bulmacanın cevap anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "img": "@IMG:s6-u4/p-35@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "4. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      38,
+      63,
+      790,
+      339
+     ]
+    },
+    {
+     "t": "1. Ali'nin, ambulansların…",
+     "r": [
+      122,
+      374,
+      706,
+      393
+     ]
+    },
+    {
+     "t": "4. Buna göre Ali'nin yönetimin",
+     "r": [
+      122,
+      739,
+      706,
+      425
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      145,
+      448,
+      650,
+      42
+     ],
+     "mode": "ink",
+     "text": "Ambulansların zamanında hastaneye ulaşamaması, sürücülerin yol vermemesi ve hasta yakınlarının yaşadığı korku.",
+     "pill": [
+      761,
+      435
+     ]
+    },
+    {
+     "area": [
+      145,
+      585,
+      650,
+      36
+     ],
+     "mode": "ink",
+     "text": "STK, medya ve kamuoyu aracılığıyla sorunu gündeme getirerek yönetimi harekete geçirebilir.",
+     "pill": [
+      761,
+      572
+     ]
+    },
+    {
+     "area": [
+      145,
+      693,
+      650,
+      36
+     ],
+     "mode": "ink",
+     "text": "Kamuoyunun (ve sivil toplumun) bir parçasıdır.",
+     "pill": [
+      761,
+      680
+     ]
+    },
+    {
+     "area": [
+      145,
+      770,
+      600,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Gençlik ve Spor Bakanlığı\nBakanlık yönetimin bir parçasıdır; karar alma sürecini etkileyen unsurlardan (medya, STK, siyasi partiler, kamuoyu) biri değildir.",
+     "pill": [
+      407,
+      748
+     ],
+     "qx": 134,
+     "qt": 770,
+     "qb": 818,
+     "qr": 816,
+     "bal": [
+      118,
+      826,
+      714,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      145,
+      1000,
+      600,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Siber zorbalığı belgeleyip yetkili birimlere bildirmeli",
+     "pill": [
+      407,
+      1002
+     ],
+     "qx": 145,
+     "qt": 982,
+     "qb": 1128,
+     "qr": 816,
+     "bal": [
+      118,
+      1078,
+      714,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "img": "@IMG:s6-u4/p-36@",
+   "steps": [
+    {
+     "t": "Aşağıdaki metni okuyunuz. 7 ve",
+     "r": [
+      122,
+      88,
+      706,
+      239
+     ]
+    },
+    {
+     "t": "6. Adil ve huzurlu bir",
+     "r": [
+      118,
+      299,
+      710,
+      279
+     ]
+    },
+    {
+     "t": "8. Metne göre aşağıdaki…",
+     "r": [
+      118,
+      550,
+      715,
+      614
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      368,
+      680,
+      30
+     ],
+     "mode": "ink",
+     "text": "Bireylerin temel hak ve özgürlüklerine saygı göstermek.",
+     "pill": [
+      800,
+      352
+     ]
+    },
+    {
+     "area": [
+      130,
+      475,
+      680,
+      65
+     ],
+     "mode": "ink",
+     "text": "Güvence altındaki insanlar daha duyarlı, yardımsever ve saygılı olur; toplumsal katılım, dayanışma ve sosyal bağlar güçlenir.",
+     "pill": [
+      776,
+      462
+     ]
+    },
+    {
+     "area": [
+      130,
+      585,
+      680,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Toplumsal düzenin sürdürülmesi için kanunların olması yeterlidir.\nMetinde düzen için yalnızca kanunların yeterli olmadığı; katılım, dayanışma ve saygının da gerekli olduğu anlatılmaktadır.",
+     "pill": [
+      416,
+      560
+     ],
+     "qx": 134,
+     "qt": 585,
+     "qb": 610,
+     "qr": 810,
+     "bal": [
+      134,
+      618,
+      676,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      985,
+      680,
+      50
+     ],
+     "mode": "ink",
+     "text": "Eskiden işler için kurum kurum dolaşıp sıra beklenirdi, zaman kaybedilirdi. Bugün e-Devlet, e-Nabız ve e-Okul ile işlemler evden, hızlıca yapılabiliyor.",
+     "pill": [
+      776,
+      972
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      297,
+      1075,
+      59,
+      59
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      759,
+      1072,
+      62,
+      62
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

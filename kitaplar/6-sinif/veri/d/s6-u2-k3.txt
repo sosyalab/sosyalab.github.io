@@ -1,0 +1,1305 @@
+// 6. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 52–105)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Ülkemizin Türk dünyasıyla kültürel iş birlikleri (s. 90–105)
+window.BOOK = {
+ "id": "s6-u2-k3",
+ "title": "Ülkemizin Türk dünyasıyla kültürel iş birlikleri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u2-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 90,
+   "img": "@IMG:s6-u2/p-39@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ÜLKEMİZİN TÜRK DÜNYASIYLA",
+     "r": [
+      38,
+      55,
+      803,
+      399
+     ]
+    },
+    {
+     "t": "Merhaba arkadaşlar, ben Nida öğ)",
+     "r": [
+      76,
+      426,
+      765,
+      540
+     ]
+    },
+    {
+     "t": "Ülkeler arası iş birliğinin başka",
+     "r": [
+      89,
+      938,
+      751,
+      231
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      915,
+      700,
+      30
+     ],
+     "mode": "ink",
+     "text": "İnsani yardım ve afet desteği, sağlık ve eğitim, tarım ve ticaret",
+     "pill": [
+      816,
+      902
+     ]
+    },
+    {
+     "area": [
+      128,
+      1020,
+      700,
+      130
+     ],
+     "mode": "ink",
+     "text": "Ülkeler; enerji, ulaşım, savunma sanayii, bilim ve teknoloji, turizm, kültür-sanat ve spor alanlarında da iş birliği yapabilir. Öğrenci değişim programları, ortak festivaller ve ortak projeler halklar arasındaki dostluğu güçlendirir. İş birliği sayesinde ülkeler ihtiyaçlarını daha kolay karşılar, ekonomileri büyür, afet ve zor zamanlarda birbirlerine destek olurlar. Böylece bölgede barış ve güven ortamı oluşur.",
+     "pill": [
+      822,
+      1007
+     ]
+    }
+   ]
+  },
+  {
+   "n": 91,
+   "img": "@IMG:s6-u2/p-40@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      880,
+      298
+     ]
+    },
+    {
+     "t": "Görseldeki insanlar birlikte ne…",
+     "r": [
+      94,
+      270,
+      818,
+      363
+     ]
+    },
+    {
+     "t": "Günlük hayatta arkadaşlarınız…",
+     "r": [
+      87,
+      605,
+      755,
+      559
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      545,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Görseldeki aile ve çocuklar kış için turşu, salça ve konserve hazırlıyor (kışlık hazırlığı). İş birliği sayesinde iş daha hızlı ve kolay biter, yük paylaşılır; çocuklar büyüklerinden bilgi öğrenir, aile bağları ve dayanışma güçlenir.",
+     "pill": [
+      414,
+      586
+     ],
+     "qx": 106,
+     "qt": 545,
+     "qb": 601,
+     "qr": 828,
+     "bal": [
+      106,
+      407,
+      722,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      738,
+      330,
+      120
+     ],
+     "mode": "ink",
+     "text": "Okulda proje ödevini birlikte hazırladık, sınıf panosunu birlikte süsledik.",
+     "pill": [
+      429,
+      701
+     ]
+    },
+    {
+     "area": [
+      500,
+      738,
+      330,
+      120
+     ],
+     "mode": "ink",
+     "text": "İş daha çabuk bitti, herkes bir şey öğrendi, arkadaşlığımız güçlendi.",
+     "pill": [
+      834,
+      725
+     ]
+    },
+    {
+     "area": [
+      125,
+      938,
+      330,
+      120
+     ],
+     "mode": "ink",
+     "text": "Komşularla apartmanın bahçesini temizledik, düğünde yemek hazırladık.",
+     "pill": [
+      417,
+      925
+     ]
+    },
+    {
+     "area": [
+      500,
+      938,
+      330,
+      120
+     ],
+     "mode": "ink",
+     "text": "Yaşadığımız çevre güzelleşti, komşuluk ilişkilerimiz gelişti, yardımlaştık.",
+     "pill": [
+      822,
+      925
+     ]
+    },
+    {
+     "area": [
+      128,
+      1100,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Ortak amaçları olan kişiler iş birliği yaptığında işler kolaylaştığı gibi, ortak çıkarları olan devletler de birlikte hareket ettiğinde daha güçlü olur. Devletler arası iş birliği ticareti artırır, afetlerde yardımlaşmayı sağlar, ortak kültürü yaşatır ve barışı güçlendirir.",
+     "pill": [
+      330,
+      1129
+     ],
+     "qx": 99,
+     "qt": 1090,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      83,
+      952,
+      763,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 92,
+   "img": "@IMG:s6-u2/p-41@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türk kültürünün yaşandığı geniş…",
+     "r": [
+      38,
+      55,
+      835,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      316,
+      168,
+      140,
+      125
+     ],
+     "mode": "ink",
+     "text": "Türkiye\nAzerbaycan\nKazakistan\nKırgızistan",
+     "pill": [
+      422,
+      209
+     ]
+    },
+    {
+     "area": [
+      520,
+      168,
+      140,
+      90
+     ],
+     "mode": "ink",
+     "text": "Özbekistan\nTürkmenistan\nKKTC",
+     "pill": [
+      626,
+      209
+     ]
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "img": "@IMG:s6-u2/p-42@",
+   "steps": [
+    {
+     "t": "Ülkemizle denizden ve karadan…",
+     "r": [
+      78,
+      80,
+      771,
+      1084
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      98,
+      230,
+      34
+     ],
+     "mode": "ink",
+     "text": "Azerbaycan",
+     "pill": [
+      344,
+      67
+     ]
+    },
+    {
+     "area": [
+      415,
+      98,
+      230,
+      34
+     ],
+     "mode": "ink",
+     "text": "KKTC",
+     "pill": [
+      611,
+      67
+     ]
+    },
+    {
+     "area": [
+      128,
+      150,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Marş; Özbek, Türkmen, Uygur, Tatar, Azeri, Kırgız ve Kazakların aynı soydan geldiğini, kardeş olduklarını vurgular. Sınırlarla ayrılsalar da Türklerin birlik ve beraberlik içinde olması, birbirine sahip çıkması ve oyunlara gelmemesi gerektiği mesajını verir.",
+     "pill": [
+      342,
+      128
+     ],
+     "qx": 131,
+     "qt": 94,
+     "qb": 215,
+     "qr": 828,
+     "bal": [
+      131,
+      223,
+      697,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      476,
+      1074,
+      61,
+      59
+     ],
+     "panel": "anayurt",
+     "label": "\"Anayurt\" marşı"
+    },
+    {
+     "area": [
+      771,
+      1072,
+      66,
+      66
+     ],
+     "panel": "turkdunyasi",
+     "label": "Haritada Türk dünyası oyunu"
+    }
+   ]
+  },
+  {
+   "n": 94,
+   "img": "@IMG:s6-u2/p-43@",
+   "steps": [
+    {
+     "t": "Değişik lehçe, şive ve ağızları",
+     "r": [
+      38,
+      62,
+      810,
+      660
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      38,
+      694,
+      802,
+      470
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1097,
+      700,
+      42
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Demir İpek Yolu, Çin'den Avrupa'ya uzanan ticarette ülkemizi köprü konumuna getirir. Yük taşımacılığı artar, ticaret ve turizm gelişir, yeni iş alanları açılır. Türk devletleriyle ulaşım ve ekonomik bağlarımız güçlenir; Türkiye'nin bölgedeki stratejik önemi artar.",
+     "pill": [
+      414,
+      1078
+     ],
+     "qx": 128,
+     "qt": 1097,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      34,
+      959,
+      810,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 95,
+   "img": "@IMG:s6-u2/p-44@",
+   "steps": [
+    {
+     "t": "Aşağıdaki metni okuyunuz ve soruyu",
+     "r": [
+      94,
+      40,
+      823,
+      945
+     ]
+    },
+    {
+     "t": "birliğimiz olan beş bağımsız Türk",
+     "r": [
+      122,
+      957,
+      706,
+      207
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      862,
+      690,
+      90
+     ],
+     "mode": "ink",
+     "text": "Ortak dil, ortak inanç (din), ortak tarih, gelenek ve görenekler, folklor ve kültürel değerler bağımsız Türk devletleri ile ülkemizi birbirine yakınlaştırır.",
+     "pill": [
+      780,
+      840
+     ]
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "img": "@IMG:s6-u2/p-45@",
+   "steps": [
+    {
+     "t": "kuruluşları ve kuruluşların…",
+     "r": [
+      61,
+      70,
+      780,
+      1094
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      369,
+      340,
+      59,
+      59
+     ],
+     "panel": "tdt",
+     "label": "Türk Devletleri Teşkilatı"
+    },
+    {
+     "area": [
+      368,
+      796,
+      61,
+      61
+     ],
+     "panel": "yee",
+     "label": "Yunus Emre Enstitüsü"
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "img": "@IMG:s6-u2/p-46@",
+   "steps": [
+    {
+     "t": "2010 yılında kurulan Yurtdışı…",
+     "r": [
+      94,
+      0,
+      823,
+      623
+     ]
+    },
+    {
+     "t": "Ülkemiz, yıllarda Türkistan…",
+     "r": [
+      91,
+      595,
+      821,
+      569
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1100,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bu kuruluşlar Türk dünyası ve diğer ülkelerle dostluk ve kardeşlik bağlarını güçlendirir. Türkçenin ve kültürümüzün tanınmasını sağlar, ülkemizin olumlu bir imaj kazanmasına yardımcı olur. Eğitim, sağlık, tarım ve spor projeleriyle ülkeler arasında güven oluşur; ekonomik, siyasi ve kültürel iş birlikleri artar.",
+     "pill": [
+      420,
+      1108
+     ],
+     "qx": 103,
+     "qt": 1086,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      87,
+      948,
+      829,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      538,
+      280,
+      60,
+      56
+     ],
+     "panel": "ytb",
+     "label": "YTB"
+    },
+    {
+     "area": [
+      757,
+      997,
+      61,
+      60
+     ],
+     "panel": "tika",
+     "label": "TİKA"
+    }
+   ]
+  },
+  {
+   "n": 98,
+   "img": "@IMG:s6-u2/p-47@",
+   "steps": [
+    {
+     "t": "kuruluşlar gibi ülkemizin…",
+     "r": [
+      92,
+      83,
+      737,
+      294
+     ]
+    },
+    {
+     "t": "gönüllere taht kuran sanatçı:…",
+     "r": [
+      38,
+      349,
+      791,
+      815
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      100,
+      1098,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Aziz Sancar (Nobel ödüllü bilim insanı), Fazıl Say (piyanist), Selçuk Bayraktar ve Baykar (savunma sanayii), Filenin Sultanları (voleybol), Mete Gazoz (okçuluk), TRT Avaz ve Türk Hava Yolları gibi kurum ve kişiler ülkemizi dünyada başarıyla temsil etmektedir.",
+     "pill": [
+      392,
+      1070
+     ],
+     "qx": 100,
+     "qt": 1098,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      34,
+      960,
+      799,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 99,
+   "img": "@IMG:s6-u2/p-48@",
+   "steps": [
+    {
+     "t": "Mustafa Kemal Atatürk, farklı…",
+     "r": [
+      94,
+      83,
+      856,
+      870
+     ]
+    },
+    {
+     "t": "Kuzey Makedonya'dan Ressamlar…",
+     "r": [
+      94,
+      925,
+      734,
+      239
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      438,
+      780,
+      38
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Vatan ve millet sevgisi, çalışkanlık, azim ve kararlılık, görevini en iyi şekilde yapma, fedakârlık, dürüstlük, millî kültüre sahip çıkma.",
+     "pill": [
+      488,
+      410
+     ],
+     "qx": 106,
+     "qt": 438,
+     "qb": 525,
+     "qr": 940,
+     "bal": [
+      106,
+      529,
+      832,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      328,
+      581,
+      612,
+      50
+     ],
+     "mode": "ink",
+     "text": "Türk dünyasından öğrencilere verilen Türkiye bursları, öğrenci değişim programları",
+     "pill": [
+      872,
+      568
+     ]
+    },
+    {
+     "area": [
+      328,
+      663,
+      612,
+      50
+     ],
+     "mode": "ink",
+     "text": "Dünya Göçebe Oyunları, Türk Devletleri Spor Oyunları",
+     "pill": [
+      872,
+      650
+     ]
+    },
+    {
+     "area": [
+      328,
+      743,
+      612,
+      50
+     ],
+     "mode": "ink",
+     "text": "TÜRKSOY ressamlar buluşması, ortak sergi ve konserler",
+     "pill": [
+      872,
+      730
+     ]
+    },
+    {
+     "area": [
+      328,
+      821,
+      612,
+      50
+     ],
+     "mode": "ink",
+     "text": "Türk Dünyası Turizm Başkenti, ortak turizm rotaları",
+     "pill": [
+      872,
+      808
+     ]
+    }
+   ]
+  },
+  {
+   "n": 100,
+   "img": "@IMG:s6-u2/p-49@",
+   "steps": [
+    {
+     "t": "Ormana köyü En İyi Turizm",
+     "r": [
+      38,
+      84,
+      791,
+      705
+     ]
+    },
+    {
+     "t": "Kaynağını köklü tarihimizden…",
+     "r": [
+      38,
+      761,
+      791,
+      403
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      100,
+      540,
+      700,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Safranbolu evleri, Kapadokya peribacaları, Göbeklitepe, Efes Antik Kenti, Şirince köyü ve Cumalıkızık. Bu değerlerin tanıtılması ve korunması turizmi geliştirir, yerel halka gelir ve iş imkânı sağlar. Kültürel mirasımız gelecek nesillere aktarılır ve ülkemiz dünyada tanınır.",
+     "pill": [
+      392,
+      542
+     ],
+     "qx": 100,
+     "qt": 501,
+     "qb": 570,
+     "qr": 817,
+     "bal": [
+      34,
+      578,
+      799,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "img": "@IMG:s6-u2/p-50@",
+   "steps": [
+    {
+     "t": "Türk Sağlıkçılar, TADD'ın…",
+     "r": [
+      90,
+      0,
+      822,
+      403
+     ]
+    },
+    {
+     "t": "9. Türk Dünyası Belgesel Film",
+     "r": [
+      89,
+      375,
+      861,
+      789
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      1065,
+      780,
+      45
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Türkler tarih boyunca Orta Asya'dan Balkanlara, Kafkasya'dan Afrika'ya kadar geniş bir alanda devletler kurmuş, farklı milletlerle bir arada yaşamıştır. Ortak dil, din, tarih ve kültür bağları sürmektedir. Ülkemiz bugün de ihtiyaç duyan her topluluğa inanç ve köken ayrımı yapmadan yardım ederek bu gönül bağını güçlendirmektedir.",
+     "pill": [
+      464,
+      1097
+     ],
+     "qx": 101,
+     "qt": 1065,
+     "qb": 1112,
+     "qr": 940,
+     "bal": [
+      85,
+      927,
+      853,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 102,
+   "img": "@IMG:s6-u2/p-51@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      55,
+      879,
+      360
+     ]
+    },
+    {
+     "t": "Eğitim Spor Sanat N Turizm",
+     "r": [
+      113,
+      387,
+      715,
+      803
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      298,
+      508,
+      180,
+      34
+     ],
+     "mode": "ink",
+     "text": "Eğitim",
+     "pill": [
+      440,
+      537
+     ]
+    },
+    {
+     "area": [
+      125,
+      568,
+      510,
+      76
+     ],
+     "mode": "ink",
+     "text": "Türk dünyasından öğrencilerle eğitim alanında iş birliği yapılması, ortak kültürün gençler arasında yaşatılmasını ve dostluğun güçlenmesini sağlar.",
+     "pill": [
+      597,
+      546
+     ]
+    },
+    {
+     "area": [
+      130,
+      738,
+      500,
+      30
+     ],
+     "mode": "ink",
+     "text": "Türk Dünyası Kardeş Okullar Projesi",
+     "pill": [
+      596,
+      725
+     ]
+    },
+    {
+     "area": [
+      130,
+      826,
+      500,
+      50
+     ],
+     "mode": "ink",
+     "text": "Türk dünyasındaki öğrencilerin birbirini tanıması ve ortak kültürü öğrenmesi",
+     "pill": [
+      518,
+      729
+     ]
+    },
+    {
+     "area": [
+      130,
+      926,
+      500,
+      50
+     ],
+     "mode": "ink",
+     "text": "Kardeş okul bulmak, çevrim içi buluşmalar, ortak masal ve oyun derlemesi",
+     "pill": [
+      596,
+      1012
+     ]
+    },
+    {
+     "area": [
+      130,
+      1040,
+      500,
+      30
+     ],
+     "mode": "ink",
+     "text": "Millî Eğitim Bakanlığı, YTB, Yunus Emre Enstitüsü",
+     "pill": [
+      674,
+      1027
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      136,
+      1108,
+      63,
+      63
+     ],
+     "panel": "proje",
+     "label": "Dereceli puanlama anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 103,
+   "img": "@IMG:s6-u2/p-52@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda verilen çalışma…",
+     "r": [
+      34,
+      55,
+      848,
+      501
+     ]
+    },
+    {
+     "t": "Edindiğiniz bilgilerden…",
+     "r": [
+      121,
+      435,
+      714,
+      729
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      580,
+      175,
+      290,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "1) Karadan komşumuz olan tek Türk devleti Azerbaycan'dır. → ✓ (Nahçıvan sınırımızla)\n2) Türk dünyasının kökenleri Türkistan'daki Türk boylarına dayanır. → ✓\n3) Yunanistan kültürel iş birliği içinde olduğumuz Türk devletlerinden biridir. → ✗\n4) 2025 yılı Türk dünyası turizm başkenti olarak Aydın ilimiz seçilmiştir. → ✗ (Kırgızistan'ın Celal-Abad şehri seçildi)",
+     "pill": [
+      662,
+      162
+     ],
+     "qx": 278,
+     "qt": 175,
+     "qb": 215,
+     "qr": 870,
+     "bal": [
+      278,
+      223,
+      592,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      580,
+      370,
+      290,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Eğitim → 2 (YTB, Türkiye bursları mezuniyet töreni)\nSpor → 4 (Naim Süleymanoğlu)\nSanat → 1 (Kuzey Makedonya'dan Ressamlar Sergisi)\nHukuk → eşleşen ifade yok\nTurizm → 3 (Türk Devletleri Teşkilatı turist hareketliliği)",
+     "pill": [
+      812,
+      321
+     ],
+     "qx": 193,
+     "qt": 350,
+     "qb": 435,
+     "qr": 870,
+     "bal": [
+      30,
+      443,
+      856,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      133,
+      1000,
+      690,
+      30
+     ],
+     "mode": "ink",
+     "text": "Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkmenistan, Tatarlar, Uygurlar",
+     "pill": [
+      821,
+      987
+     ]
+    },
+    {
+     "area": [
+      133,
+      1085,
+      690,
+      40
+     ],
+     "mode": "ink",
+     "text": "Ortak dil, din, tarih, kültür, gelenek ve görenekler",
+     "pill": [
+      785,
+      1066
+     ]
+    }
+   ]
+  },
+  {
+   "n": 104,
+   "img": "@IMG:s6-u2/p-53@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "RNEK SORULAR",
+     "r": [
+      38,
+      63,
+      791,
+      494
+     ]
+    },
+    {
+     "t": "2. Doğu Karadeniz'de dağlar kıyıya",
+     "r": [
+      118,
+      529,
+      710,
+      453
+     ]
+    },
+    {
+     "t": "Azerbaycan",
+     "r": [
+      118,
+      774,
+      710,
+      390
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      485,
+      520,
+      40
+     ],
+     "mode": "ink",
+     "text": "Kuzey yarım kürede ve başlangıç meridyeninin doğusunda; 36°–42° K paralelleri, 26°–45° D meridyenleri arasında.",
+     "pill": [
+      620,
+      472
+     ]
+    },
+    {
+     "area": [
+      130,
+      700,
+      520,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Bitki örtüsü\nMetinde dağların uzanışı (yer şekilleri), engebeli arazi ve kıyı boyunca nüfus yoğunlaşması anlatılmıştır; bitki örtüsünden söz edilmemiştir.",
+     "pill": [
+      356,
+      669
+     ],
+     "qx": 130,
+     "qt": 698,
+     "qb": 782,
+     "qr": 816,
+     "bal": [
+      114,
+      783,
+      718,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      838,
+      520,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Moğolistan\nMoğolistan bir Türk devleti değildir.",
+     "pill": [
+      356,
+      840
+     ],
+     "qx": 130,
+     "qt": 794,
+     "qb": 886,
+     "qr": 650,
+     "bal": [
+      130,
+      894,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1035,
+      520,
+      30
+     ],
+     "mode": "ink",
+     "text": "Eğitim",
+     "pill": [
+      614,
+      1025
+     ]
+    },
+    {
+     "area": [
+      130,
+      1090,
+      520,
+      40
+     ],
+     "mode": "ink",
+     "text": "Gençler arasında dostluk ve kardeşlik güçlenir, ortak kültür ve Türkçe yaygınlaşır.",
+     "pill": [
+      644,
+      1077
+     ]
+    }
+   ]
+  },
+  {
+   "n": 105,
+   "img": "@IMG:s6-u2/p-54@",
+   "steps": [
+    {
+     "t": "5. Aşağıdaki Dünya dilsiz haritası",
+     "r": [
+      107,
+      83,
+      730,
+      599
+     ]
+    },
+    {
+     "t": "TÜRKİYENİN MÜLKİ İDARE BÖLÜMLERİ",
+     "r": [
+      107,
+      654,
+      730,
+      386
+     ]
+    },
+    {
+     "t": "Harita",
+     "r": [
+      121,
+      877,
+      709,
+      298
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      133,
+      100,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kıtalar: Kuzey Amerika, Güney Amerika, Avrupa, Asya, Afrika, Okyanusya, Antarktika.\nOkyanuslar: Büyük Okyanus, Atlas Okyanusu, Hint Okyanusu, Kuzey Okyanusu, Güney Okyanus.",
+     "pill": [
+      413,
+      66
+     ],
+     "qx": 135,
+     "qt": 97,
+     "qb": 280,
+     "qr": 823,
+     "bal": [
+      103,
+      193,
+      738,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      133,
+      855,
+      690,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Dört farklı denize kıyısı bulunmaktadır.\nHaritada Karadeniz, Marmara, Ege ve Akdeniz görülmektedir. Diğer seçenekler (rüzgâr, dağların uzanışı, iklim tipleri) bu haritadan anlaşılamaz.",
+     "pill": [
+      443,
+      956
+     ],
+     "qx": 133,
+     "qt": 715,
+     "qb": 919,
+     "qr": 825,
+     "bal": [
+      103,
+      927,
+      738,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      299,
+      1095,
+      59,
+      59
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      758,
+      1097,
+      60,
+      59
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

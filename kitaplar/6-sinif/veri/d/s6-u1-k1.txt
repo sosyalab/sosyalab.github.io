@@ -1,0 +1,804 @@
+// 6. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–51)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Zaman içinde değişen gruplar ve roller (s. 12–23)
+window.BOOK = {
+ "id": "s6-u1-k1",
+ "title": "Zaman içinde değişen gruplar ve roller",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u1-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 10,
+   "img": "@IMG:s6-u1/p-01@",
+   "section": "1. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      94,
+      879,
+      463
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      529,
+      884,
+      635
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      355,
+      1048,
+      72,
+      72
+     ],
+     "panel": "alan",
+     "label": "1. Öğrenme alanı"
+    },
+    {
+     "area": [
+      590,
+      985,
+      72,
+      72
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "img": "@IMG:s6-u1/p-02@",
+   "section": "Birlikte Yaşamak",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      878,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 12,
+   "img": "@IMG:s6-u1/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ZAMAN İÇİNDE DEĞİŞEN",
+     "r": [
+      38,
+      55,
+      809,
+      557
+     ]
+    },
+    {
+     "t": "Öznur'un yazdığı kompozisyonu…",
+     "r": [
+      38,
+      584,
+      799,
+      580
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      196,
+      466,
+      268,
+      100
+     ],
+     "mode": "ink",
+     "text": "Ailem\nSınıfım\nOkul futbol takımı",
+     "pill": [
+      404,
+      459
+     ]
+    },
+    {
+     "area": [
+      508,
+      466,
+      270,
+      100
+     ],
+     "mode": "ink",
+     "text": "Çocuk, kardeş\nÖğrenci, nöbetçi\nOyuncu",
+     "pill": [
+      806,
+      453
+     ]
+    },
+    {
+     "area": [
+      215,
+      1078,
+      610,
+      52
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Öznur'un grupları: ailesi, okulu ve sınıfı, okulun futbol (spor) takımı ve dedesinin evinde buluşan akraba grubu. Rolleri: ailesinde çocuk ve abla; okulda öğrenci, bu hafta sınıf başkanı; takımda oyuncu; akraba grubunda torun.",
+     "pill": [
+      369,
+      1125
+     ],
+     "qx": 219,
+     "qt": 1078,
+     "qb": 1215,
+     "qr": 825,
+     "bal": [
+      34,
+      965,
+      807,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "img": "@IMG:s6-u1/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "8 Aşağıdaki görselleri…",
+     "r": [
+      34,
+      52,
+      878,
+      396
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      420,
+      865,
+      744
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      250,
+      262,
+      290,
+      120
+     ],
+     "mode": "ink",
+     "text": "Okulun çevre kulübü (fuar ekibi)\nTanıtım görevlisi, gönüllü",
+     "pill": [
+      506,
+      249
+     ]
+    },
+    {
+     "area": [
+      470,
+      488,
+      292,
+      120
+     ],
+     "mode": "ink",
+     "text": "Üniversite öğrencileri\nÖğrenci, mezun",
+     "pill": [
+      726,
+      475
+     ]
+    },
+    {
+     "area": [
+      250,
+      763,
+      290,
+      120
+     ],
+     "mode": "ink",
+     "text": "Meslek grubu (çalışanlar)\nAşçı, garson, doktor, teknisyen",
+     "pill": [
+      506,
+      750
+     ]
+    },
+    {
+     "area": [
+      470,
+      993,
+      292,
+      120
+     ],
+     "mode": "ink",
+     "text": "Resim kursu (sanat kulübü)\nÖğrenci, ressam",
+     "pill": [
+      726,
+      980
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "img": "@IMG:s6-u1/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Zaman içinde değişen gruplar ve",
+     "r": [
+      38,
+      55,
+      878,
+      1109
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 15,
+   "img": "@IMG:s6-u1/p-06@",
+   "steps": [
+    {
+     "t": "Hayatımızın önemli bir bölümünü…",
+     "r": [
+      35,
+      0,
+      877,
+      908
+     ]
+    },
+    {
+     "t": "Yetişkinlik döneminde ise…",
+     "r": [
+      122,
+      783,
+      790,
+      390
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      380,
+      672,
+      445,
+      45
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Ailede kardeş ve abla/ağabey rolünü; sınıfta öğrenci, nöbetçi ve sınıf başkanı rollerini üstlendim. Okul takımında oyuncu, okul korosunda solist ya da bir proje grubunda araştırmacı olarak görev aldım.",
+     "pill": [
+      546,
+      713
+     ],
+     "qx": 379,
+     "qt": 672,
+     "qb": 857,
+     "qr": 905,
+     "bal": [
+      356,
+      770,
+      560,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      760,
+      1098,
+      56,
+      56
+     ],
+     "panel": "roller",
+     "label": "Sahip olduğum roller"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "img": "@IMG:s6-u1/p-07@",
+   "steps": [
+    {
+     "t": "Gelecekte sahip olabileceğiniz…",
+     "r": [
+      99,
+      83,
+      750,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 17,
+   "img": "@IMG:s6-u1/p-08@",
+   "steps": [
+    {
+     "t": "İncelediğiniz örneklerden…",
+     "r": [
+      107,
+      80,
+      727,
+      515
+     ]
+    },
+    {
+     "t": "anda dâhil olduğunuz gruplar ve",
+     "r": [
+      122,
+      567,
+      706,
+      597
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      135,
+      228,
+      195,
+      305
+     ],
+     "mode": "ink",
+     "text": "Üniversite öğrencileri:\nÖğrenci olarak derslerime çalışır, kulüplere katılırım.",
+     "pill": [
+      289,
+      209
+     ]
+    },
+    {
+     "area": [
+      378,
+      203,
+      195,
+      300
+     ],
+     "mode": "ink",
+     "text": "Öğretmenler (meslek grubu):\nÖğrencilerime rehberlik eder, onlara örnek olurum.",
+     "pill": [
+      508,
+      190
+     ]
+    },
+    {
+     "area": [
+      622,
+      172,
+      200,
+      300
+     ],
+     "mode": "ink",
+     "text": "Bir çevre derneği (STK):\nGönüllü olarak fidan diker, çevre temizliğine katılırım.",
+     "pill": [
+      752,
+      156
+     ]
+    },
+    {
+     "area": [
+      160,
+      705,
+      640,
+      290
+     ],
+     "mode": "ink",
+     "text": "Şu an ailede çocuk, okulda öğrenciyim. Büyüdüğümde kendi ailemde anne/baba, iş yerimde çalışan olabilirim. Kardeşlikten ebeveynliğe geçince sorumluluklarım artar. Öğrencilikten mesleğe geçince para kazanma ve işimi iyi yapma sorumluluğu gelir. Arkadaş grubum ve takımlarım da yaşla birlikte değişebilir.",
+     "pill": [
+      824,
+      692
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "img": "@IMG:s6-u1/p-09@",
+   "steps": [
+    {
+     "t": "Söyleşi yaptığınız kişinin…",
+     "r": [
+      92,
+      83,
+      777,
+      457
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      84,
+      512,
+      789,
+      652
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      150,
+      296,
+      700,
+      42
+     ],
+     "mode": "card",
+     "label": "Örnek söyleşi",
+     "text": "Söyleşi yapılan kişi: Dedem\n• Aile → çocuk, sonra baba ve dede\n• Köydeki ilkokul → öğrenci\n• Askerlik → asker\n• Çalıştığı fabrika → işçi, sonra ustabaşı\n• Mahalle derneği → üye\n• Köy kahvesindeki arkadaş grubu → arkadaş",
+     "pill": [
+      412,
+      259
+     ],
+     "qx": 104,
+     "qt": 245,
+     "qb": 478,
+     "qr": 854,
+     "bal": [
+      88,
+      397,
+      785,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      135,
+      1020,
+      690,
+      95
+     ],
+     "mode": "ink",
+     "text": "Ev işlerinde yardımlaşmak, birlikte yemek yiyip sohbet etmek, birbirimizi dinlemek, kardeşlerle paylaşmak, büyüklere saygı göstermek, sorunları konuşarak çözmek.",
+     "pill": [
+      787,
+      1007
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "img": "@IMG:s6-u1/p-10@",
+   "steps": [
+    {
+     "t": "Söyleşi yaptığınız kişinin…",
+     "r": [
+      52,
+      83,
+      860,
+      523
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      35,
+      578,
+      863,
+      586
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      112,
+      287,
+      720,
+      44
+     ],
+     "mode": "card",
+     "label": "Örnek: Geçmiş",
+     "text": "• Aile | çocuk | sevgi ve bakım görme | büyüklerine yardım etme\n• Okul | öğrenci | eğitim alma | derslerine çalışma\n• Köy | çiftçi yardımcısı | ürününden pay alma | tarlada çalışma\n• Askerlik | asker | barınma ve beslenme | vatanını korumak",
+     "pill": [
+      506,
+      247
+     ],
+     "qx": 92,
+     "qt": 235,
+     "qb": 331,
+     "qr": 832,
+     "bal": [
+      92,
+      339,
+      740,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      112,
+      781,
+      720,
+      44
+     ],
+     "mode": "card",
+     "label": "Örnek: Günümüz",
+     "text": "• Aile | dede | saygı görme | torunlarına deneyimlerini aktarma\n• Emekliler derneği | üye | etkinliklere katılma | aidat ödeme\n• Mahalle | komşu | huzurlu yaşama | çevreyi temiz tutma\n• Cami cemaati | cemaat üyesi | ibadet etme | kurallara uyma",
+     "pill": [
+      518,
+      726
+     ],
+     "qx": 114,
+     "qt": 781,
+     "qb": 825,
+     "qr": 832,
+     "bal": [
+      114,
+      833,
+      718,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "img": "@IMG:s6-u1/p-11@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : Gelecekte dâhil olacağım",
+     "r": [
+      38,
+      55,
+      830,
+      384
+     ]
+    },
+    {
+     "t": "Öğretmeninizin rehberliğinde…",
+     "r": [
+      38,
+      411,
+      830,
+      753
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      325,
+      598,
+      400,
+      72
+     ],
+     "mode": "ink",
+     "text": "Hastane çalışanları, kendi ailem, gönüllüler derneği",
+     "pill": [
+      689,
+      549
+     ]
+    },
+    {
+     "area": [
+      325,
+      704,
+      400,
+      72
+     ],
+     "mode": "ink",
+     "text": "Doktor, anne/baba, gönüllü",
+     "pill": [
+      767,
+      688
+     ]
+    },
+    {
+     "area": [
+      325,
+      810,
+      400,
+      72
+     ],
+     "mode": "ink",
+     "text": "Çalışıp ücret almak, izin kullanmak, mesleğimde ilerlemek",
+     "pill": [
+      761,
+      788
+     ]
+    },
+    {
+     "area": [
+      325,
+      916,
+      400,
+      72
+     ],
+     "mode": "ink",
+     "text": "Hastaları özenle tedavi etmek, meslek kurallarına uymak, ailemle ilgilenmek",
+     "pill": [
+      767,
+      903
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "img": "@IMG:s6-u1/p-12@",
+   "steps": [
+    {
+     "t": "Karton veya büyük boy kâğıtlar",
+     "r": [
+      125,
+      84,
+      704,
+      312
+     ]
+    },
+    {
+     "t": "Dâhil olduğunuz grupları ve bu",
+     "r": [
+      119,
+      368,
+      714,
+      796
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      131,
+      400,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Örnek tarih şeridi",
+     "text": "• 0–5 yaş · Aile · bebek, çocuk · Hak: bakım ve sevgi · Sorumluluk: yok denecek kadar az\n• 6 yaş · Okul · öğrenci · Hak: eğitim · Sorumluluk: ödev yapmak, kurallara uymak\n• 9 yaş · Spor kulübü · oyuncu · Hak: antrenmana katılmak · Sorumluluk: takım arkadaşlarına saygı\n• 11 yaş · Sınıf · sınıf başkanı · Hak: sınıfı temsil etmek · Sorumluluk: arkadaşlarının sözcüsü olmak\n• Gelecek · Meslek grubu · çalışan · Hak: ücret · Sorumluluk: işini iyi yapmak",
+     "pill": [
+      393,
+      474
+     ],
+     "qx": 135,
+     "qt": 400,
+     "qb": 440,
+     "qr": 821,
+     "bal": [
+      135,
+      448,
+      686,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "img": "@IMG:s6-u1/p-13@",
+   "steps": [
+    {
+     "t": "Dâhil olduğunuz gruplar ve bu",
+     "r": [
+      122,
+      83,
+      706,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      155,
+      203,
+      640,
+      880
+     ],
+     "mode": "ink",
+     "text": "DEĞERLENDİRME RAPORU\nİnsan doğduğu andan itibaren farklı gruplara dâhil olur. İlk grubumuz ailedir; burada çocuk ve kardeş gibi roller üstleniriz. Okula başlayınca öğrenci, nöbetçi ya da sınıf başkanı oluruz. Arkadaş gruplarında, spor takımlarında ve kulüplerde yeni roller ediniriz.\nBüyüdükçe bazı gruplardan ayrılır, yenilerine katılırız. Üniversitede öğrenci, iş hayatında çalışan, kendi ailemizde anne ya da baba oluruz. Rollerimiz değiştikçe hak ve sorumluluklarımız da değişir.\nBu değişim; yaşımıza, ihtiyaçlarımıza ve ilgi alanlarımıza bağlı olarak herkesin hayatında yaşanan doğal bir süreçtir. Önemli olan, her yeni rolün sorumluluğunu bilerek ona uyum sağlamaktır.",
+     "pill": [
+      825,
+      190
+     ]
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "img": "@IMG:s6-u1/p-14@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Şemadaki ifadelerden bazıları…",
+     "r": [
+      34,
+      55,
+      878,
+      1118
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      344,
+      92,
+      478,
+      62
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Doğru çıkış: 3. ÇIKIŞ\n1) \"Doğuştan kazandığımız rolleri seçme hakkımız yoktur.\" → Doğru (D). Kız/erkek kardeş, çocuk gibi rolleri seçmeyiz.\n2) \"Rollerimiz değişse de sorumluluklarımız hep aynı kalır.\" → Yanlış (Y). Rol değişince sorumluluk da değişir.\n3) \"Bazı rollerimiz hayat boyu devam eder ancak bazı sorumluluklarımız değişir.\" → Doğru (D). Örneğin evlat rolü sürer ama sorumlulukları yaşla değişir.",
+     "pill": [
+      534,
+      139
+     ],
+     "qx": 127,
+     "qt": 70,
+     "qb": 294,
+     "qr": 822,
+     "bal": [
+      127,
+      207,
+      695,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      760,
+      1098,
+      56,
+      56
+     ],
+     "panel": "degisen",
+     "label": "Zaman içinde değişen rollerimiz"
+    }
+   ]
+  }
+ ]
+};

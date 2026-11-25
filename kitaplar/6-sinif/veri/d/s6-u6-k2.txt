@@ -1,0 +1,1022 @@
+// 6. Sınıf Sosyal Bilgiler · 6. Öğrenme Alanı: Teknoloji ve Sosyal Bilimler (s. 86–111)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Telif ve patent süreci (s. 100–111)
+window.BOOK = {
+ "id": "s6-u6-k2",
+ "title": "Telif ve patent süreci",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u6-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 100,
+   "img": "@IMG:s6-u6/p-15@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "TELİF VE PATENT SÜRECİ",
+     "r": [
+      38,
+      55,
+      790,
+      542
+     ]
+    },
+    {
+     "t": "Günlük hayatta karşılaştığınız…",
+     "r": [
+      38,
+      569,
+      790,
+      595
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      700,
+      640,
+      300
+     ],
+     "mode": "ink",
+     "text": "Sorun: Okulumuzda öğrenciler matarasını unuttuğunda susuz kalıyor, pet şişe kullanımı artıyor.\nÇözüm: Okul bahçesine yağmur suyunu toplayıp süzen, güneş enerjisiyle çalışan bir su sebili tasarlardım. Sebil, kullanılan suyun miktarını gösteren bir ekranla öğrencilere su tasarrufunu da öğretirdi. Ürünün çizimini, maketini ve çalışma sistemini hazırlayıp patent başvurusu yapardım.",
+     "pill": [
+      690,
+      678
+     ]
+    },
+    {
+     "area": [
+      130,
+      1060,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İcadımın bana ait olduğunu Türk Patent ve Marka Kurumuna patent başvurusu yaparak ve patent belgesi alarak belgeleyebilirim.\nBuluş sahibinin haklarının korunması; emeğinin karşılığını almasını, buluşunun başkaları tarafından izinsiz kopyalanmamasını sağlar. Bu da insanları yeni buluşlar yapmaya teşvik eder, bilim ve teknolojinin gelişmesine katkıda bulunur.",
+     "pill": [
+      404,
+      1110
+     ],
+     "qx": 134,
+     "qt": 1060,
+     "qb": 1215,
+     "qr": 814,
+     "bal": [
+      34,
+      897,
+      798,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "img": "@IMG:s6-u6/p-16@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      878,
+      243
+     ]
+    },
+    {
+     "t": "Asım Bey (Görsel yıllardır…",
+     "r": [
+      34,
+      215,
+      870,
+      949
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      1000,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Asım Bey, yayınevine teslim ettiği hikâyesinin başka bir yazarın adıyla genel ağda yayımlandığını öğrenince fikrî mülkiyet hakları hakkında hiçbir şey bilmediğini fark etmiş ve araştırma yapmaya karar vermiştir. Bir avukatla görüşmüş, haksızlık karşısında hakkını hukuki yollarla aramaya karar vermiş ve eserini izinsiz çoğaltan kişi ile kurumlar hakkında dava açması için avukatına yetki vermiştir.",
+     "pill": [
+      494,
+      1014
+     ],
+     "qx": 106,
+     "qt": 995,
+     "qb": 1031,
+     "qr": 816,
+     "bal": [
+      30,
+      832,
+      878,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1050,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Hikâye ya da roman yazmak isterdim; çocuklara yönelik macera ve bilim kurgu türünde eserler oluşturmayı tercih ederdim.",
+     "pill": [
+      578,
+      1061
+     ],
+     "qx": 134,
+     "qt": 1043,
+     "qb": 1128,
+     "qr": 815,
+     "bal": [
+      30,
+      907,
+      878,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1095,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Bu üniteden önce yeterli bilgim yoktu. Eserimi Kültür ve Turizm Bakanlığına kayıt-tescil ettirebileceğimi, Fikir ve Sanat Eserleri Kanunu ile korunduğumu ve ihlal durumunda avukat aracılığıyla dava açabileceğimi öğrendim.",
+     "pill": [
+      326,
+      1133
+     ],
+     "qx": 134,
+     "qt": 1091,
+     "qb": 1128,
+     "qr": 815,
+     "bal": [
+      30,
+      882,
+      878,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 102,
+   "img": "@IMG:s6-u6/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bir fikir veya sanat eserini",
+     "r": [
+      38,
+      55,
+      790,
+      343
+     ]
+    },
+    {
+     "t": "Bir fikir ve sanat",
+     "r": [
+      113,
+      370,
+      714,
+      794
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      268,
+      680,
+      30
+     ],
+     "mode": "ink",
+     "text": "Fikir ve Sanat Eserleri Kanunu (mevzuat.gov.tr), Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü sitesi",
+     "pill": [
+      776,
+      255
+     ]
+    },
+    {
+     "area": [
+      125,
+      530,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Maddi: eseri çoğaltma, yayma, satma, kiralama.\nManevi: eseri yayımlama, adının belirtilmesi, eserde değişiklik yapılmasını önleme.",
+     "pill": [
+      297,
+      517
+     ]
+    },
+    {
+     "area": [
+      365,
+      530,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Emeğin korunması ve sanatçının teşvik edilmesi için. Eser sahibi hayatı boyunca ve ölümünden sonra 70 yıl yararlanır.",
+     "pill": [
+      537,
+      517
+     ]
+    },
+    {
+     "area": [
+      605,
+      530,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Fikrî bir çabanın ürünü olması, eser sahibinin özelliğini taşıması, aleniyet kazanması ve kanundaki eser türlerinden olması.",
+     "pill": [
+      777,
+      517
+     ]
+    },
+    {
+     "area": [
+      125,
+      905,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "İlim ve edebiyat, musiki, güzel sanat, sinema eserleri ile işlenme ve derleme eserler.",
+     "pill": [
+      297,
+      892
+     ]
+    },
+    {
+     "area": [
+      365,
+      905,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Hayır. Koruma eserin oluşturulmasıyla başlar; tescil zorunlu değildir ama ispat için önerilir.",
+     "pill": [
+      537,
+      892
+     ]
+    },
+    {
+     "area": [
+      605,
+      905,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Fikrî ve sınai haklar mahkemeleri, savcılık, Kültür ve Turizm Bakanlığı, meslek birlikleri.",
+     "pill": [
+      777,
+      892
+     ]
+    }
+   ]
+  },
+  {
+   "n": 103,
+   "img": "@IMG:s6-u6/p-18@",
+   "steps": [
+    {
+     "t": "Buluşun izinsiz olarak…",
+     "r": [
+      118,
+      83,
+      710,
+      254
+     ]
+    },
+    {
+     "t": "kaynaklardan elde ettiğiniz…",
+     "r": [
+      113,
+      309,
+      714,
+      450
+     ]
+    },
+    {
+     "t": "Patent koruma süresi",
+     "r": [
+      113,
+      731,
+      714,
+      433
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      268,
+      680,
+      30
+     ],
+     "mode": "ink",
+     "text": "Sınai Mülkiyet Kanunu (mevzuat.gov.tr), Türk Patent ve Marka Kurumu sitesi (turkpatent.gov.tr)",
+     "pill": [
+      776,
+      255
+     ]
+    },
+    {
+     "area": [
+      125,
+      530,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Yeni olması, buluş basamağı içermesi (tekniğin bilinen hâlinden farklı) ve sanayiye uygulanabilir olması.",
+     "pill": [
+      297,
+      517
+     ]
+    },
+    {
+     "area": [
+      365,
+      530,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Buluş kamuya açıklanmadan, yayımlanmadan ve satışa sunulmadan önce başvuru yapılmalıdır.",
+     "pill": [
+      537,
+      517
+     ]
+    },
+    {
+     "area": [
+      605,
+      530,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Türk Patent ve Marka Kurumuna, kurumun sitesinden çevrim içi ya da yazılı olarak başvurulur.",
+     "pill": [
+      777,
+      517
+     ]
+    },
+    {
+     "area": [
+      125,
+      905,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Başvuru formu, tarifname, istemler, özet, gerekirse teknik resimler ve ücret makbuzu.",
+     "pill": [
+      297,
+      892
+     ]
+    },
+    {
+     "area": [
+      365,
+      905,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Patent 20 yıl korunur. Koruma devam etsin diye her yıl yıllık ücret ödenmesi zorunludur.",
+     "pill": [
+      537,
+      892
+     ]
+    },
+    {
+     "area": [
+      605,
+      905,
+      210,
+      170
+     ],
+     "mode": "ink",
+     "text": "Fikrî ve sınai haklar mahkemesinde dava açılır; tazminat istenebilir, ürünlere el konulabilir.",
+     "pill": [
+      777,
+      892
+     ]
+    }
+   ]
+  },
+  {
+   "n": 104,
+   "img": "@IMG:s6-u6/p-19@",
+   "steps": [
+    {
+     "t": "T.C. Sanayi ve Teknoloji…",
+     "r": [
+      38,
+      83,
+      790,
+      538
+     ]
+    },
+    {
+     "t": "TÜRKPATENT'e (Türk Patent ve Marka",
+     "r": [
+      38,
+      593,
+      878,
+      571
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      965,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türk Patent ve Marka Kurumu gençleri patent almaya teşvik eder; çünkü gençlerin yaratıcı fikirleri yeni teknolojilerin ve yerli ürünlerin temelidir. Patent alan gençler buluşlarını koruyarak girişimci olabilir, ülke ekonomisine katkı sağlar ve teknolojide dışa bağımlılık azalır.",
+     "pill": [
+      458,
+      1012
+     ],
+     "qx": 100,
+     "qt": 958,
+     "qb": 1029,
+     "qr": 815,
+     "bal": [
+      34,
+      820,
+      886,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1015,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Telif ve patent süreçleri yerli üretimi ve yeni buluşları artırır, ithalatı azaltır ve ihracatı artırır. Teknoloji, sanayi, kültür ve sanat alanında gelişmeyi sağlar; yeni iş alanları oluşturur ve ülkemizin dünyadaki rekabet gücünü yükseltir.",
+     "pill": [
+      404,
+      1107
+     ],
+     "qx": 134,
+     "qt": 993,
+     "qb": 1057,
+     "qr": 815,
+     "bal": [
+      34,
+      845,
+      886,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1065,
+      680,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bireyler emeklerinin karşılığını alır, eserleri ve buluşları korunur; bu da onları yeni çalışmalar yapmaya teşvik eder. Ülke ise yaratıcı insan gücünü korur, bilim, sanat ve teknolojide ilerler, haksız kazanç ve korsancılık önlenir.",
+     "pill": [
+      542,
+      1088
+     ],
+     "qx": 134,
+     "qt": 1041,
+     "qb": 1105,
+     "qr": 815,
+     "bal": [
+      34,
+      845,
+      886,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      376,
+      870,
+      60,
+      60
+     ],
+     "panel": "turkpatent",
+     "label": "Türk Patent ve Marka Kurumunun hizmetleri"
+    }
+   ]
+  },
+  {
+   "n": 105,
+   "img": "@IMG:s6-u6/p-20@",
+   "steps": [
+    {
+     "t": "Telif süreci ile ilgili verilen",
+     "r": [
+      34,
+      83,
+      794,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 106,
+   "img": "@IMG:s6-u6/p-21@",
+   "steps": [
+    {
+     "t": "Fikir ve Sanat Eserleri Kanunu",
+     "r": [
+      38,
+      83,
+      791,
+      613
+     ]
+    },
+    {
+     "t": "Geçen yılın bandrol tescil ve",
+     "r": [
+      33,
+      668,
+      796,
+      496
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      416,
+      1056,
+      64,
+      64
+     ],
+     "panel": "telif",
+     "label": "Telif hakları hakkında daha fazla bilgi"
+    }
+   ]
+  },
+  {
+   "n": 107,
+   "img": "@IMG:s6-u6/p-22@",
+   "steps": [
+    {
+     "t": "Patent süreci ile ilgili verilen",
+     "r": [
+      118,
+      83,
+      712,
+      1091
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      1020,
+      600,
+      30
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Kitapta ve resmî kaynaklarda (mevzuat.gov.tr, turkpatent.gov.tr, Kültür ve Turizm Bakanlığı) verilen bilgiler birbiriyle uyumludur: telif hakkı eserin oluşmasıyla başlar ve ölümden sonra 70 yıl sürer; patent başvuru tarihinden itibaren 20 yıl geçerlidir. Bilgilerin doğruluğunu anlamak için resmî kurumların sitelerini, güncel kanun metinlerini ve yazarı belli kaynakları kullanmalı, tarihi eski ya da kaynağı belirsiz sitelere güvenmemeliyiz.",
+     "pill": [
+      368,
+      998
+     ],
+     "qx": 134,
+     "qt": 1020,
+     "qb": 1066,
+     "qr": 815,
+     "bal": [
+      114,
+      807,
+      720,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      1088,
+      67,
+      67
+     ],
+     "panel": "patent",
+     "label": "Patent süreci hakkında daha fazla bilgi"
+    }
+   ]
+  },
+  {
+   "n": 108,
+   "img": "@IMG:s6-u6/p-23@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "PERFORMANS GÖREVİ",
+     "r": [
+      38,
+      55,
+      783,
+      349
+     ]
+    },
+    {
+     "t": "Hazırladığınız raporları sınıf…",
+     "r": [
+      120,
+      376,
+      796,
+      788
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      535,
+      640,
+      470
+     ],
+     "mode": "ink",
+     "text": "Buluş: Güneş enerjili akıllı su sebili\nAmaç: Okullarda temiz suya ulaşımı kolaylaştırmak ve pet şişe kullanımını azaltmak.\nPatent süreci:\n1. Buluş gizli tutulur, benzer patent olup olmadığı turkpatent.gov.tr'den araştırılır.\n2. Tarifname, istemler, özet ve teknik resimler hazırlanır.\n3. Türk Patent ve Marka Kurumuna çevrim içi başvuru yapılır, ücret ödenir.\n4. Kurum araştırma ve inceleme raporu hazırlar; uygun bulunursa patent belgesi verilir.\n5. Patent 20 yıl korunur; her yıl yıllık ücret ödenir.\nSonuç: Patent sayesinde buluşumuz izinsiz üretilemez, emeğimiz korunur.",
+     "pill": [
+      822,
+      522
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      132,
+      1074,
+      62,
+      62
+     ],
+     "panel": "rapor",
+     "label": "Derecelendirme ölçeği"
+    },
+    {
+     "area": [
+      659,
+      1076,
+      56,
+      56
+     ],
+     "panel": "sunum",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "img": "@IMG:s6-u6/p-24@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Telif ve patent hakları ile",
+     "r": [
+      34,
+      0,
+      878,
+      945
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      917,
+      878,
+      247
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      1015,
+      290,
+      75
+     ],
+     "mode": "ink",
+     "text": "1, 3, 5, 6, 8, 10, 11, 12",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      384,
+      987
+     ]
+    },
+    {
+     "area": [
+      485,
+      1015,
+      290,
+      75
+     ],
+     "mode": "ink",
+     "text": "2, 4, 7, 9, 13",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      723,
+      987
+     ]
+    }
+   ]
+  },
+  {
+   "n": 110,
+   "img": "@IMG:s6-u6/p-25@",
+   "section": "Örnek Sorular",
+   "steps": [
+    {
+     "t": "6. ÖĞRENME ALANI - ÖRNEK",
+     "r": [
+      38,
+      63,
+      790,
+      379
+     ]
+    },
+    {
+     "t": "Aşağıda verilen genel ağ haberini",
+     "r": [
+      150,
+      414,
+      678,
+      349
+     ]
+    },
+    {
+     "t": "2. Üreticilerimizin sahip…",
+     "r": [
+      122,
+      735,
+      706,
+      429
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      270,
+      520,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Kültürel etkileşimde daha çok ulaşım araçlarının etkili olduğuna\nMetinde ulaşım ve iletişim teknolojilerinin birlikte etkili olduğu belirtilmiş; hangisinin daha etkili olduğu karşılaştırılmamıştır.",
+     "pill": [
+      614,
+      269
+     ],
+     "qx": 162,
+     "qt": 270,
+     "qb": 300,
+     "qr": 680,
+     "bal": [
+      34,
+      308,
+      798,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      160,
+      805,
+      650,
+      85
+     ],
+     "mode": "ink",
+     "text": "Yerli teknoloji ve ürün üretimi artar, ithalat azalır, ihracat artar. Firmalar dünyada rekabet edebilir, yeni iş alanları açılır ve ekonomi güçlenir.",
+     "pill": [
+      776,
+      792
+     ]
+    },
+    {
+     "area": [
+      160,
+      990,
+      520,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Buluş\nYenilikçi ve özgün tasarımlar daha önce var olmayan, yeni bir ürün veya yöntem ortaya koyan buluşlardır.",
+     "pill": [
+      386,
+      989
+     ],
+     "qx": 162,
+     "qt": 982,
+     "qb": 1023,
+     "qr": 680,
+     "bal": [
+      162,
+      1031,
+      518,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "img": "@IMG:s6-u6/p-26@",
+   "steps": [
+    {
+     "t": "4. Ecem Hanım, yazdığı kitabın",
+     "r": [
+      122,
+      83,
+      706,
+      278
+     ]
+    },
+    {
+     "t": "Aşağıda verilen genel ağ haberini",
+     "r": [
+      122,
+      333,
+      706,
+      417
+     ]
+    },
+    {
+     "t": "Eğitim C) İletişim",
+     "r": [
+      122,
+      722,
+      707,
+      442
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      235,
+      450,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Telif\nEcem Hanım'ın yazdığı kitap bir fikir ve sanat eseridir; izinsiz çoğaltılıp satılması telif hakkını ihlal eder.",
+     "pill": [
+      350,
+      234
+     ],
+     "qx": 161,
+     "qt": 235,
+     "qb": 330,
+     "qr": 610,
+     "bal": [
+      118,
+      313,
+      714,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      160,
+      765,
+      450,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Ulaşım\nHavalimanı ve transit yolcular, ulaşım teknolojisindeki gelişmelerin kültürel etkileşime katkısını gösterir.",
+     "pill": [
+      350,
+      764
+     ],
+     "qx": 162,
+     "qt": 759,
+     "qb": 802,
+     "qr": 610,
+     "bal": [
+      162,
+      810,
+      448,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      160,
+      880,
+      650,
+      80
+     ],
+     "mode": "ink",
+     "text": "Turizm gelirleri artar, Türkiye'nin tanıtımı yapılır; ziyaretçiler Anadolu'yu gezmek ister, ekonomiye katkı sağlanır.",
+     "pill": [
+      776,
+      867
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      295,
+      1052,
+      61,
+      61
+     ],
+     "panel": "sorular",
+     "label": "Daha fazla örnek soru"
+    },
+    {
+     "area": [
+      757,
+      1051,
+      60,
+      60
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    }
+   ]
+  }
+ ]
+};

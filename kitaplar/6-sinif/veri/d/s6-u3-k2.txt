@@ -1,0 +1,974 @@
+// 6. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 106–179)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: VIL-XIL. YÜZYILLAR ARASINDA (s. 128–141)
+window.BOOK = {
+ "id": "s6-u3-k2",
+ "title": "VII-XIII. yüzyıllarda İslam medeniyetinin ortak mirasa katkıları",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u3-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 128,
+   "img": "@IMG:s6-u3/p-23@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "VIL-XIL. YÜZYILLAR ARASINDA",
+     "r": [
+      38,
+      55,
+      879,
+      446
+     ]
+    },
+    {
+     "t": "Medresesi",
+     "r": [
+      111,
+      473,
+      806,
+      738
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      163,
+      994,
+      650,
+      94
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "• İlim talep etmek her Müslümana farzdır.\n• Hiç bilenlerle bilmeyenler bir olur mu?\n• İlim müminin yitiğidir, onu nerede bulursa alır.\n• Bana bir harf öğretenin kırk yıl kölesi olurum.",
+     "pill": [
+      521,
+      978
+     ],
+     "qx": 165,
+     "qt": 944,
+     "qb": 1090,
+     "qr": 815,
+     "bal": [
+      107,
+      1098,
+      814,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 129,
+   "img": "@IMG:s6-u3/p-24@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Antalya'da yaşayan Rüzgâr,…",
+     "r": [
+      34,
+      55,
+      818,
+      470
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      113,
+      497,
+      756,
+      667
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      873,
+      688,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İslam medeniyetine ait olanlar: Süleymaniye Camii, Zincirkıran Mehmet Bey Türbesi ve Murat Paşa Camii (Hat Sanatı). Aspendos Tiyatrosu ve Side Antik Kenti ise Roma dönemine aittir.",
+     "pill": [
+      418,
+      818
+     ],
+     "qx": 134,
+     "qt": 873,
+     "qb": 917,
+     "qr": 826,
+     "bal": [
+      134,
+      925,
+      692,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      125,
+      975,
+      144,
+      131
+     ],
+     "mode": "ink",
+     "text": "Medrese, kütüphane",
+     "pill": [
+      231,
+      962
+     ]
+    },
+    {
+     "area": [
+      303,
+      975,
+      144,
+      131
+     ],
+     "mode": "ink",
+     "text": "Bayram, kandil, iftar sofrası",
+     "pill": [
+      367,
+      962
+     ]
+    },
+    {
+     "area": [
+      481,
+      975,
+      144,
+      131
+     ],
+     "mode": "ink",
+     "text": "Hat, ebru, tezhip, çini",
+     "pill": [
+      695,
+      962
+     ]
+    },
+    {
+     "area": [
+      660,
+      975,
+      144,
+      131
+     ],
+     "mode": "ink",
+     "text": "Cami, türbe, çeşme, kervansaray",
+     "pill": [
+      772,
+      962
+     ]
+    }
+   ]
+  },
+  {
+   "n": 130,
+   "img": "@IMG:s6-u3/p-25@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      77,
+      0,
+      839,
+      194
+     ]
+    },
+    {
+     "t": "MİL yüzyılda Hz. Muhammed (sav)",
+     "r": [
+      38,
+      166,
+      878,
+      880
+     ]
+    },
+    {
+     "t": "Hicretten sonra Mekkeli…",
+     "r": [
+      122,
+      933,
+      706,
+      231
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      163,
+      881,
+      650,
+      44
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Mekkeli müşrikler Hz. Muhammed'i (sav) yakalamak için bilinen yolu kontrol ediyordu. Takipçilerden korunmak ve güvenli şekilde Medine'ye ulaşmak için kıyıya yakın, az kullanılan farklı bir yol izlenmiştir.",
+     "pill": [
+      425,
+      856
+     ],
+     "qx": 134,
+     "qt": 881,
+     "qb": 925,
+     "qr": 815,
+     "bal": [
+      34,
+      933,
+      886,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 131,
+   "img": "@IMG:s6-u3/p-26@",
+   "steps": [
+    {
+     "t": "Verilen haritaya göre İslamiyet…",
+     "r": [
+      94,
+      80,
+      760,
+      1104
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      163,
+      118,
+      650,
+      55
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İslamiyet farklı halklar arasında yayıldı; farklı kültürler bir araya gelerek ortak bir medeniyet oluştu. Bilim ve kültür alışverişi arttı, ticaret gelişti. Arapça bilim dili hâline geldi; yeni şehirler, camiler ve medreseler kuruldu.",
+     "pill": [
+      425,
+      69
+     ],
+     "qx": 106,
+     "qt": 94,
+     "qb": 313,
+     "qr": 842,
+     "bal": [
+      90,
+      226,
+      768,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      163,
+      1066,
+      650,
+      55
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Moğolların Bağdat'ı işgal ederek kütüphaneleri yakması, yüzyıllar boyunca biriktirilmiş bilimsel ve kültürel bilgilerin yok olmasına neden oldu. Pek çok eser bir daha bulunamadı; bilimin ilerlemesi yavaşladı ve insanlığın ortak mirası büyük bir kayba uğradı.",
+     "pill": [
+      425,
+      1080
+     ],
+     "qx": 106,
+     "qt": 1053,
+     "qb": 1215,
+     "qr": 818,
+     "bal": [
+      90,
+      915,
+      768,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      212,
+      1093,
+      66,
+      66
+     ],
+     "panel": "abbasiler",
+     "label": "Abbasiler"
+    },
+    {
+     "area": [
+      750,
+      1099,
+      66,
+      66
+     ],
+     "panel": "endulus",
+     "label": "Endülüs Emevileri"
+    }
+   ]
+  },
+  {
+   "n": 132,
+   "img": "@IMG:s6-u3/p-27@",
+   "steps": [
+    {
+     "t": "İslam medeniyetini oluşturan…",
+     "r": [
+      56,
+      23,
+      860,
+      1141
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 133,
+   "img": "@IMG:s6-u3/p-28@",
+   "steps": [
+    {
+     "t": "Kaynak",
+     "r": [
+      34,
+      71,
+      815,
+      269
+     ]
+    },
+    {
+     "t": "Bilgi Kutusu",
+     "r": [
+      34,
+      312,
+      851,
+      731
+     ]
+    },
+    {
+     "t": "Hz. Muhammed (sav) Veda…",
+     "r": [
+      34,
+      933,
+      843,
+      231
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      513,
+      798,
+      313,
+      79
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "\"Allah, şifasını yaratmadığı hiçbir hastalık yaratmamıştır.\" ve \"Ey Allah'ın kulları! Tedavi olunuz.\" gibi hadisler, hastalıkların tedavi edilmesine ve sağlığa verilen önemi gösterir.",
+     "pill": [
+      607,
+      782
+     ],
+     "qx": 46,
+     "qt": 658,
+     "qb": 1013,
+     "qr": 873,
+     "bal": [
+      30,
+      930,
+      859,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      138,
+      1079,
+      675,
+      48
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İnsanların ırk, renk ve köken ayrımı yapılmadan eşit olduğu; can, mal ve namus dokunulmazlığına saygı gösterilmesi; adaletli olunması; ilme, eğitime ve sağlığa önem verilmesi; farklı inançlardaki insanlarla barış içinde yaşanması gerektiği mesajlarını vermiştir.",
+     "pill": [
+      460,
+      1105
+     ],
+     "qx": 134,
+     "qt": 1079,
+     "qb": 1127,
+     "qr": 815,
+     "bal": [
+      30,
+      941,
+      851,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "img": "@IMG:s6-u3/p-29@",
+   "steps": [
+    {
+     "t": "Dört Halife Dönemi",
+     "r": [
+      38,
+      59,
+      878,
+      434
+     ]
+    },
+    {
+     "t": "Kaynak",
+     "r": [
+      38,
+      465,
+      810,
+      699
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      1094,
+      688,
+      48
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kur'an-ı Kerim'in kitap hâline getirilip çoğaltılması (din ve bilim), Küfe, Basra ve Fustat gibi yeni şehirlerin kurulması (şehircilik), Hicri takvimin kabulü, divan teşkilatı ve beytülmal ile devletin kurumsallaşması (yönetim, hukuk ve ekonomi), okullar açılıp öğretmenler görevlendirilmesi (eğitim).",
+     "pill": [
+      555,
+      1120
+     ],
+     "qx": 106,
+     "qt": 1094,
+     "qb": 1215,
+     "qr": 816,
+     "bal": [
+      34,
+      956,
+      818,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 135,
+   "img": "@IMG:s6-u3/p-30@",
+   "steps": [
+    {
+     "t": "Müslümanlar, Hz. Muhammed (sav)…",
+     "r": [
+      122,
+      83,
+      795,
+      713
+     ]
+    },
+    {
+     "t": "Kaynak",
+     "r": [
+      122,
+      768,
+      706,
+      396
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 136,
+   "img": "@IMG:s6-u3/p-31@",
+   "steps": [
+    {
+     "t": "Bugünkü Batı medeniyetinin…",
+     "r": [
+      101,
+      83,
+      749,
+      483
+     ]
+    },
+    {
+     "t": "(Oaynaka",
+     "r": [
+      38,
+      538,
+      812,
+      626
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      132,
+      1077,
+      61,
+      61
+     ],
+     "panel": "islambilim",
+     "label": "İslamiyet ve bilim"
+    }
+   ]
+  },
+  {
+   "n": 137,
+   "img": "@IMG:s6-u3/p-32@",
+   "steps": [
+    {
+     "t": "Abbasiler",
+     "r": [
+      102,
+      58,
+      815,
+      723
+     ]
+    },
+    {
+     "t": "rasathanelerde Güneş, Ay,…",
+     "r": [
+      34,
+      753,
+      806,
+      411
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      666,
+      341,
+      61,
+      61
+     ],
+     "panel": "beytulhikme",
+     "label": "Beytülhikme"
+    }
+   ]
+  },
+  {
+   "n": 138,
+   "img": "@IMG:s6-u3/p-33@",
+   "steps": [
+    {
+     "t": "İslam dünyasında bayramlar…",
+     "r": [
+      122,
+      83,
+      795,
+      472
+     ]
+    },
+    {
+     "t": "Özellikle VII. ve XIII. yüzyıllar",
+     "r": [
+      122,
+      407,
+      707,
+      403
+     ]
+    },
+    {
+     "t": "Depremde yıkılan Habib-i Neccar…",
+     "r": [
+      38,
+      782,
+      801,
+      382
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      163,
+      365,
+      650,
+      44
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Günümüzde adalet işlerinden Adalet Bakanlığı ve bağımsız mahkemeler sorumludur. Başkadılık makamının yürüttüğü yargı görevini bugün mahkemeler ve hâkimler; en üst düzeyde ise Yargıtay, Danıştay ve Anayasa Mahkemesi yerine getirmektedir.",
+     "pill": [
+      425,
+      340
+     ],
+     "qx": 134,
+     "qt": 365,
+     "qb": 409,
+     "qr": 816,
+     "bal": [
+      118,
+      417,
+      803,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      163,
+      546,
+      650,
+      38
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Antik eserleri Arapçaya çevirerek korumuş ve Avrupa'ya aktarmıştır. Tıp, astronomi, matematik, kimya ve coğrafyada önemli buluşlar yapmış; rasathaneler, kütüphaneler ve Beytülhikme gibi bilim merkezleri kurmuştur. Kâğıdın yaygınlaşmasını sağlamış; hat, tezhip, cilt gibi sanatları ve Kurtuba Ulu Camii gibi mimari eserleri insanlığa kazandırmıştır.",
+     "pill": [
+      425,
+      515
+     ],
+     "qx": 134,
+     "qt": 545,
+     "qb": 585,
+     "qr": 816,
+     "bal": [
+      118,
+      593,
+      715,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      369,
+      1085,
+      450,
+      44
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Tarihî eserlere zarar vermez, onları kirletmeyiz. Müzeleri ve ören yerlerini ziyaret ederek tanırız, çevremize tanıtırız. Gelenek ve göreneklerimizi yaşatır, büyüklerimizden öğrendiklerimizi küçüklere aktarırız. Eserlere zarar verildiğini görürsek yetkililere haber veririz.",
+     "pill": [
+      535,
+      1054
+     ],
+     "qx": 345,
+     "qt": 1085,
+     "qb": 1215,
+     "qr": 819,
+     "bal": [
+      283,
+      897,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 139,
+   "img": "@IMG:s6-u3/p-34@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Adı : İslam Kültür ve",
+     "r": [
+      34,
+      55,
+      793,
+      425
+     ]
+    },
+    {
+     "t": "Oluşturduğunuz gruplardaki…",
+     "r": [
+      125,
+      452,
+      762,
+      725
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      756,
+      1097,
+      61,
+      61
+     ],
+     "panel": "kontrol2",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 140,
+   "img": "@IMG:s6-u3/p-35@",
+   "steps": [
+    {
+     "t": "Öğrenelim bölümünde…",
+     "r": [
+      82,
+      80,
+      834,
+      437
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      38,
+      489,
+      878,
+      675
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      281,
+      383,
+      525,
+      86
+     ],
+     "mode": "ink",
+     "text": "Bayramlar coşkuyla kutlandı; hat, tezhip, cilt gibi kitap sanatları gelişti. Arapça bilim ve kültür dili oldu.",
+     "pill": [
+      831,
+      370
+     ]
+    },
+    {
+     "area": [
+      281,
+      539,
+      525,
+      86
+     ],
+     "mode": "ink",
+     "text": "Antik eserler tercüme edildi; Beytülhikme ve rasathaneler kuruldu. İbn-i Sina'nın Tıp Kanunu yazıldı.",
+     "pill": [
+      687,
+      499
+     ]
+    },
+    {
+     "area": [
+      281,
+      695,
+      525,
+      86
+     ],
+     "mode": "ink",
+     "text": "Hat, tezhip, cilt sanatları; Endülüs'te süsleme sanatları gelişti.",
+     "pill": [
+      705,
+      655
+     ]
+    },
+    {
+     "area": [
+      281,
+      851,
+      525,
+      86
+     ],
+     "mode": "ink",
+     "text": "Medine Vesikası, divan ve beytülmal kuruldu; Abbasilerde kadı ve başkadılık teşkilatı.",
+     "pill": [
+      825,
+      772
+     ]
+    },
+    {
+     "area": [
+      281,
+      1008,
+      525,
+      86
+     ],
+     "mode": "ink",
+     "text": "Mescid-i Nebevî, Emeviye Camii, Kurtuba Ulu Camii, Samerra Ulu Camii.",
+     "pill": [
+      819,
+      935
+     ]
+    }
+   ]
+  },
+  {
+   "n": 141,
+   "img": "@IMG:s6-u3/p-36@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda Hz. Muhammed, Dört Halife",
+     "r": [
+      34,
+      55,
+      878,
+      629
+     ]
+    },
+    {
+     "t": "Hz. Muhammed Dönemi'nde meydana…",
+     "r": [
+      125,
+      656,
+      704,
+      522
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      726,
+      675,
+      24
+     ],
+     "mode": "ink",
+     "text": "3, 9",
+     "pill": [
+      778,
+      713
+     ]
+    },
+    {
+     "area": [
+      138,
+      785,
+      675,
+      24
+     ],
+     "mode": "ink",
+     "text": "8, 12",
+     "pill": [
+      778,
+      772
+     ]
+    },
+    {
+     "area": [
+      138,
+      841,
+      675,
+      24
+     ],
+     "mode": "ink",
+     "text": "7",
+     "pill": [
+      778,
+      828
+     ]
+    },
+    {
+     "area": [
+      138,
+      899,
+      675,
+      24
+     ],
+     "mode": "ink",
+     "text": "2, 5",
+     "pill": [
+      778,
+      886
+     ]
+    },
+    {
+     "area": [
+      138,
+      956,
+      675,
+      24
+     ],
+     "mode": "ink",
+     "text": "1, 4, 10",
+     "pill": [
+      778,
+      943
+     ]
+    },
+    {
+     "area": [
+      138,
+      1013,
+      675,
+      24
+     ],
+     "mode": "ink",
+     "text": "4, 7, 9",
+     "pill": [
+      778,
+      1000
+     ]
+    },
+    {
+     "area": [
+      138,
+      1070,
+      675,
+      24
+     ],
+     "mode": "ink",
+     "text": "6, 11",
+     "pill": [
+      778,
+      1057
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      757,
+      1099,
+      60,
+      60
+     ],
+     "panel": "tarihsahnesi",
+     "label": "Tarih sahnesi"
+    }
+   ]
+  }
+ ]
+};

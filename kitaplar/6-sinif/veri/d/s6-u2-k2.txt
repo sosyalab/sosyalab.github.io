@@ -1,0 +1,833 @@
+// 6. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 52–105)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Doğal ve beşerî çevre özellikleri arasındaki ilişki (s. 76–89)
+window.BOOK = {
+ "id": "s6-u2-k2",
+ "title": "Doğal ve beşerî çevre özellikleri arasındaki ilişki",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s6-u2-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 76,
+   "img": "@IMG:s6-u2/p-25@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "DOĞAL VE BEŞERİ ÇEVRE",
+     "r": [
+      38,
+      55,
+      790,
+      750
+     ]
+    },
+    {
+     "t": "Yaşadığınız ilden doğal ve beşeri",
+     "r": [
+      38,
+      777,
+      804,
+      387
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      412,
+      548,
+      400,
+      220
+     ],
+     "mode": "ink",
+     "text": "Akarsuyun debisinin yüksek, vadinin dar ve derin olması baraj yapımına uygun koşullar oluşturur. Barajla elektrik üretilir, tarım alanları sulanır, içme suyu sağlanır. Baraj gölünde balıkçılık ve su sporları gelişir; inşaat ve işletme süreci yeni iş alanları açar.",
+     "pill": [
+      824,
+      535
+     ]
+    },
+    {
+     "area": [
+      412,
+      816,
+      400,
+      222
+     ],
+     "mode": "ink",
+     "text": "Yer altındaki maden yatakları bu alanda madenciliğin başlamasını sağlamıştır. Madeni çıkarmak için işçiye ihtiyaç duyulur; çevrede yeni yerleşmeler, yollar ve sanayi tesisleri kurulur. Açık ocak madenciliği ise toprağı ve bitki örtüsünü tahrip ederek doğal çevreyi değiştirir.",
+     "pill": [
+      824,
+      803
+     ]
+    },
+    {
+     "area": [
+      400,
+      1074,
+      430,
+      42
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "city": "dogalBeseri",
+     "text": "Örnek (Ankara): Geniş plato ve ovalar tahıl tarımını ve yol yapımını kolaylaştırmıştır. Karasal iklim nedeniyle kışın ısınma ihtiyacı fazladır. Yağışın az olması içme ve kullanma suyu için barajların yapılmasına yol açmıştır. Ülkenin ortasındaki konumu ulaşım ve ticaretin gelişmesini sağlamıştır.",
+     "pill": [
+      560,
+      1100
+     ],
+     "qx": 400,
+     "qt": 1074,
+     "qb": 1116,
+     "qr": 830,
+     "bal": [
+      286,
+      886,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 77,
+   "img": "@IMG:s6-u2/p-26@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Sayfadaki görselleri…",
+     "r": [
+      34,
+      55,
+      799,
+      698
+     ]
+    },
+    {
+     "t": "Gözlem ve deneyimlerinizden…",
+     "r": [
+      119,
+      725,
+      714,
+      439
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      383,
+      438,
+      186,
+      140
+     ],
+     "mode": "ink",
+     "text": "Ilıman iklimi, deniz kıyısında olması, ulaşım ve balıkçılık imkânları nedeniyle yaşamaya elverişlidir.",
+     "pill": [
+      507,
+      422
+     ]
+    },
+    {
+     "area": [
+      622,
+      438,
+      186,
+      140
+     ],
+     "mode": "ink",
+     "text": "Uzun ve sert kışlar, yoğun kar ve düşük sıcaklık tarımı ve ulaşımı zorlaştırdığı için yaşamaya pek elverişli değildir.",
+     "pill": [
+      746,
+      422
+     ]
+    },
+    {
+     "area": [
+      145,
+      870,
+      186,
+      140
+     ],
+     "mode": "ink",
+     "text": "Su kaynaklarının bol olması tarım, hayvancılık ve içme suyu ihtiyacını karşıladığı için yaşamaya elverişlidir.",
+     "pill": [
+      293,
+      854
+     ]
+    },
+    {
+     "area": [
+      383,
+      870,
+      186,
+      140
+     ],
+     "mode": "ink",
+     "text": "Düz ve verimli topraklar tarımı, ulaşımı ve yerleşmeyi kolaylaştırdığı için yaşamaya çok elverişlidir.",
+     "pill": [
+      507,
+      851
+     ]
+    },
+    {
+     "area": [
+      622,
+      870,
+      186,
+      140
+     ],
+     "mode": "ink",
+     "text": "Yükseltinin fazla, arazinin engebeli ve iklimin soğuk olması, ulaşımın zorluğu nedeniyle yaşamaya elverişli değildir.",
+     "pill": [
+      746,
+      851
+     ]
+    },
+    {
+     "area": [
+      160,
+      1075,
+      660,
+      40
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "city": "iklimNufus",
+     "text": "Örnek (Ankara): Yazları sıcak ve kurak, kışları soğuk geçen karasal iklim nedeniyle nüfus su kaynaklarına ve düzlük alanlara yakın yerlerde toplanmıştır. Geniş platolar şehrin yayılmasını kolaylaştırırken engebeli ve dağlık kesimlerde nüfus seyrektir.",
+     "pill": [
+      506,
+      1098
+     ],
+     "qx": 134,
+     "qt": 1075,
+     "qb": 1115,
+     "qr": 820,
+     "bal": [
+      115,
+      937,
+      722,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 78,
+   "img": "@IMG:s6-u2/p-27@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ülkemizin sahip olduğu doğal çevre",
+     "r": [
+      38,
+      55,
+      835,
+      617
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      106,
+      644,
+      767,
+      520
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 79,
+   "img": "@IMG:s6-u2/p-28@",
+   "steps": [
+    {
+     "t": "Klimei Görsel",
+     "r": [
+      89,
+      60,
+      757,
+      359
+     ]
+    },
+    {
+     "t": "Samsun",
+     "r": [
+      77,
+      391,
+      788,
+      773
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      1092,
+      660,
+      46
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Tarım ürünleri çeşitlenir: Karadeniz'de çay ve fındık, Akdeniz'de turunçgil ve zeytin, karasal bölgelerde tahıl yetişir. Bitki örtüsü orman, maki ve bozkır olarak değişir. Deniz, kış ve yayla turizmi farklı mevsimlerde yapılabilir. Ilıman kıyılarda nüfus yoğun, sert karasal alanlarda seyrektir. Mimari, beslenme ve giyim gibi yaşam alışkanlıkları da bölgeden bölgeye farklılaşır.",
+     "pill": [
+      428,
+      1067
+     ],
+     "qx": 134,
+     "qt": 952,
+     "qb": 1215,
+     "qr": 853,
+     "bal": [
+      73,
+      869,
+      796,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "img": "@IMG:s6-u2/p-29@",
+   "steps": [
+    {
+     "t": "Türkiye fiziki haritasında da…",
+     "r": [
+      108,
+      83,
+      764,
+      338
+     ]
+    },
+    {
+     "t": "EGE DENİZİ",
+     "r": [
+      102,
+      393,
+      771,
+      771
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 81,
+   "img": "@IMG:s6-u2/p-30@",
+   "steps": [
+    {
+     "t": "Platoların en geniş yer kapladığı",
+     "r": [
+      78,
+      82,
+      759,
+      514
+     ]
+    },
+    {
+     "t": "SURİYE",
+     "r": [
+      78,
+      568,
+      750,
+      596
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      256,
+      620,
+      42
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "city": "sekilBeseri",
+     "text": "Örnek (Ankara): Plato ve ovaların geniş yer kaplaması yerleşmenin yayılmasını, yolların ve demir yollarının kolay yapılmasını sağlamıştır. Bu durum sanayi ve ticaretin gelişmesine katkı sunar. Düzlükler tahıl tarımına uygundur; dağlık kesimlerde ise yerleşme seyrektir.",
+     "pill": [
+      326,
+      288
+     ],
+     "qx": 90,
+     "qt": 184,
+     "qb": 438,
+     "qr": 825,
+     "bal": [
+      74,
+      351,
+      767,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      736,
+      304,
+      66,
+      66
+     ],
+     "panel": "dogal",
+     "label": "Ülkemizin doğal çevre özellikleri"
+    }
+   ]
+  },
+  {
+   "n": 82,
+   "img": "@IMG:s6-u2/p-31@",
+   "steps": [
+    {
+     "t": "Nüfus ve Türkiye nüfus haritası",
+     "r": [
+      92,
+      80,
+      765,
+      606
+     ]
+    },
+    {
+     "t": "Kaynak 4: Nüfus sonuçları",
+     "r": [
+      92,
+      674,
+      765,
+      490
+     ]
+    }
+   ],
+   "answers": [],
+   "manual": true
+  },
+  {
+   "n": 83,
+   "img": "@IMG:s6-u2/p-32@",
+   "steps": [
+    {
+     "t": "Ekonomik, toplumsal, siyasal,…",
+     "r": [
+      81,
+      83,
+      758,
+      559
+     ]
+    },
+    {
+     "t": "Ülkemizde 2024 yılında iller arası",
+     "r": [
+      103,
+      614,
+      744,
+      550
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 84,
+   "img": "@IMG:s6-u2/p-33@",
+   "steps": [
+    {
+     "t": "Ülkemizde 2024 yılında 2 milyon",
+     "r": [
+      116,
+      81,
+      712,
+      616
+     ]
+    },
+    {
+     "t": "Verilen tabloya göre İstanbul,…",
+     "r": [
+      112,
+      669,
+      730,
+      495
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      692,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Bu üç il büyükşehirdir; sanayi, ticaret, eğitim ve sağlık olanakları fazla olduğu için iş ve eğitim arayanları çeker. Nüfusları çok kalabalık olduğundan tayin, emeklilik, memlekete dönme ya da kalabalık ve pahalı şehir hayatından uzaklaşma gibi nedenlerle başka illere giden kişi sayısı da yüksektir.",
+     "pill": [
+      410,
+      775
+     ],
+     "qx": 134,
+     "qt": 692,
+     "qb": 737,
+     "qr": 830,
+     "bal": [
+      108,
+      745,
+      738,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      140,
+      790,
+      680,
+      140
+     ],
+     "mode": "ink",
+     "text": "Bu illerin nüfusu az olduğu için göç eden kişi sayısı da azdır. Geçmişte yoğun göç verdikleri için kalan nüfus daha yaşlı ve yerleşiktir. Sınır ve dağlık bölgede olmaları, büyük şehirlere göre daha az kişinin buraya gelip gitmesine neden olur.",
+     "pill": [
+      786,
+      777
+     ]
+    }
+   ]
+  },
+  {
+   "n": 85,
+   "img": "@IMG:s6-u2/p-34@",
+   "steps": [
+    {
+     "t": "Kilometrekareye düşen kişi…",
+     "r": [
+      94,
+      83,
+      818,
+      649
+     ]
+    },
+    {
+     "t": "Yerleşim yerleri, evlerin…",
+     "r": [
+      122,
+      704,
+      790,
+      460
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      527,
+      1055,
+      62,
+      62
+     ],
+     "panel": "beseri",
+     "label": "Ülkemizin beşerî özellikleri"
+    }
+   ]
+  },
+  {
+   "n": 86,
+   "img": "@IMG:s6-u2/p-35@",
+   "steps": [
+    {
+     "t": "İncelediğiniz yazılı ve görsel…",
+     "r": [
+      109,
+      80,
+      808,
+      497
+     ]
+    },
+    {
+     "t": "Verilen yazılı ve görsel…",
+     "r": [
+      81,
+      549,
+      761,
+      615
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      132,
+      268,
+      320,
+      270
+     ],
+     "mode": "ink",
+     "text": "• Dağlar, ovalar, platolar\n• Akdeniz, Karadeniz ve karasal iklim\n• Göller ve akarsular\n• Orman, maki ve bozkır\n• Üç tarafı denizlerle çevrili olma",
+     "pill": [
+      400,
+      246
+     ]
+    },
+    {
+     "area": [
+      497,
+      268,
+      320,
+      270
+     ],
+     "mode": "ink",
+     "text": "• Nüfusun dağılışı ve yoğunluğu\n• İç ve dış göç\n• Toplu ve dağınık yerleşmeler\n• Baraj ve sulama kanalları\n• Yollar ve havalimanları\n• Tarım, sanayi, ticaret, turizm",
+     "pill": [
+      783,
+      246
+     ]
+    },
+    {
+     "area": [
+      130,
+      590,
+      700,
+      70
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "İnsanlar doğal çevreden etkilenir: iklim ve yer şekillerine göre yerleşme yerini, ev tipini ve tarım ürünlerini seçer (düzlüklerde toplu, Doğu Karadeniz'de dağınık yerleşme). İnsanlar da doğal çevreyi etkiler: baraj, maden ocağı ve deniz dolgusu yapar, ormanları keser, suyu aşırı kullanır. Burdur Gölü'nün küçülmesi buna örnektir.",
+     "pill": [
+      368,
+      628
+     ],
+     "qx": 101,
+     "qt": 589,
+     "qb": 673,
+     "qr": 830,
+     "bal": [
+      77,
+      681,
+      769,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1058,
+      700,
+      50
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Çöpleri çöp kutusuna atar, geri dönüştürülebilir atıkları ayırırım. Piknik alanlarını temiz bırakır, çevre temizliği etkinliklerine katılırım. Plastik kullanımını azaltır, suyu tasarruflu kullanırım. Çevremdeki insanları da bu konuda bilinçlendiririm.",
+     "pill": [
+      446,
+      1090
+     ],
+     "qx": 106,
+     "qt": 1058,
+     "qb": 1108,
+     "qr": 830,
+     "bal": [
+      77,
+      920,
+      769,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      132,
+      696,
+      62,
+      62
+     ],
+     "panel": "tartisma",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "img": "@IMG:s6-u2/p-36@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Genel ağ haberlerini ve bilgi",
+     "r": [
+      34,
+      0,
+      878,
+      558
+     ]
+    },
+    {
+     "t": "Yer şekillerinin nüfus dağılışı…",
+     "r": [
+      34,
+      530,
+      878,
+      634
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1010,
+      700,
+      90
+     ],
+     "mode": "ink",
+     "text": "İklimi ılıman, arazisi düz ve suyu bol yerlerde nüfus yoğun; dağlık, kurak ya da çok soğuk yerlerde seyrektir. Doğu Karadeniz'de dik dağlar nüfusu kıyıda toplamıştır. Kuraklık ve iklim değişikliği tarımı zorlaştırarak insanları göç etmeye zorlar.",
+     "pill": [
+      792,
+      997
+     ]
+    }
+   ]
+  },
+  {
+   "n": 88,
+   "img": "@IMG:s6-u2/p-37@",
+   "section": "Haber",
+   "steps": [
+    {
+     "t": "Deniz üzerine kurulan…",
+     "r": [
+      38,
+      84,
+      879,
+      407
+     ]
+    },
+    {
+     "t": "BAŞLIKLARI",
+     "r": [
+      38,
+      463,
+      802,
+      701
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1030,
+      700,
+      50
+     ],
+     "mode": "ink",
+     "text": "Ortak amaç doğal çevreyi korumaktır. Başlık önerisi: \"Öğrenciler okul bahçesine 200 fidan dikti\"",
+     "pill": [
+      792,
+      1017
+     ]
+    },
+    {
+     "area": [
+      128,
+      1100,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kaçınılması istenen: kıyıları ve gölleri betonlaştırmak, kaçak yapılaşma, suları kirletmek, ormanlara zarar vermek. Teşvik edilen: ağaçlandırma, atık suların arıtılması, göl ve kıyıların temizlenmesi, doğayı koruma kampanyalarına katılmak.",
+     "pill": [
+      378,
+      1120
+     ],
+     "qx": 128,
+     "qt": 1098,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      34,
+      960,
+      810,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 89,
+   "img": "@IMG:s6-u2/p-38@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Türkiye nüfus, iklim ve fi.",
+     "r": [
+      34,
+      55,
+      813,
+      1120
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      262,
+      950,
+      525,
+      46
+     ],
+     "mode": "ink",
+     "text": "Çukurova'nın düz ve verimli olması, ılıman Akdeniz iklimi ve Seyhan-Ceyhan nehirleri tarım ve sanayiyi geliştirmiştir; nüfus kalabalıktır.",
+     "pill": [
+      752,
+      910
+     ]
+    },
+    {
+     "area": [
+      262,
+      1030,
+      525,
+      46
+     ],
+     "mode": "ink",
+     "text": "Dağlık ve engebeli arazi tarımı ve ulaşımı sınırlar; dağınık yerleşme görülür, nüfus 400.000'den azdır.",
+     "pill": [
+      824,
+      1017
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      756,
+      1097,
+      59,
+      59
+     ],
+     "panel": "iklim",
+     "label": "İklim ve yaşam"
+    }
+   ]
+  }
+ ]
+};
