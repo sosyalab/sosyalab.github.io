@@ -1,0 +1,1324 @@
+// 7. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–71)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Ülkemizde demokrasinin gelişimi (s. 38–55)
+window.BOOK = {
+ "id": "s7-u4-k3",
+ "title": "Ülkemizde demokrasinin gelişimi",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u4-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 38,
+   "img": "@IMG:s7-u4/p-29@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ÜLKEMİZDE DEMOKRASİNİN GELİŞİMİ",
+     "r": [
+      38,
+      55,
+      879,
+      872
+     ]
+    },
+    {
+     "t": "Verilen örneklerden ve…",
+     "r": [
+      94,
+      899,
+      735,
+      265
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      549,
+      437,
+      34,
+      34
+     ],
+     "mode": "ink",
+     "text": "3",
+     "fs": 20,
+     "center": true,
+     "pill": [
+      457,
+      409
+     ]
+    },
+    {
+     "area": [
+      483,
+      497,
+      34,
+      34
+     ],
+     "mode": "ink",
+     "text": "8",
+     "fs": 20,
+     "center": true,
+     "pill": [
+      481,
+      595
+     ]
+    },
+    {
+     "area": [
+      583,
+      497,
+      34,
+      34
+     ],
+     "mode": "ink",
+     "text": "6",
+     "fs": 20,
+     "center": true,
+     "pill": [
+      671,
+      412
+     ]
+    },
+    {
+     "area": [
+      399,
+      553,
+      34,
+      34
+     ],
+     "mode": "ink",
+     "text": "1",
+     "fs": 20,
+     "center": true,
+     "pill": [
+      205,
+      576
+     ]
+    },
+    {
+     "area": [
+      643,
+      553,
+      34,
+      34
+     ],
+     "mode": "ink",
+     "text": "7",
+     "fs": 20,
+     "center": true,
+     "pill": [
+      701,
+      588
+     ]
+    },
+    {
+     "area": [
+      563,
+      613,
+      34,
+      34
+     ],
+     "mode": "ink",
+     "text": "4",
+     "fs": 20,
+     "center": true,
+     "pill": [
+      561,
+      735
+     ]
+    },
+    {
+     "area": [
+      449,
+      669,
+      34,
+      34
+     ],
+     "mode": "ink",
+     "text": "2",
+     "fs": 20,
+     "center": true,
+     "pill": [
+      447,
+      713
+     ]
+    },
+    {
+     "area": [
+      587,
+      669,
+      34,
+      34
+     ],
+     "mode": "ink",
+     "text": "5",
+     "fs": 20,
+     "center": true,
+     "pill": [
+      693,
+      785
+     ]
+    },
+    {
+     "area": [
+      220,
+      1026,
+      560,
+      30
+     ],
+     "mode": "ink",
+     "text": "bir orkestraya",
+     "fs": 16,
+     "pill": [
+      746,
+      1013
+     ]
+    },
+    {
+     "area": [
+      290,
+      1072,
+      520,
+      30
+     ],
+     "mode": "ink",
+     "text": "her çalgı farklıdır ama hepsi uyum içinde aynı eseri çalar.",
+     "fs": 15,
+     "pill": [
+      774,
+      1059
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "img": "@IMG:s7-u4/p-30@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Demokrasi tarihinde bazı önemli…",
+     "r": [
+      33,
+      55,
+      850,
+      648
+     ]
+    },
+    {
+     "t": "1215 Magna Carta Libertatum (Magna",
+     "r": [
+      99,
+      675,
+      777,
+      489
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 40,
+   "img": "@IMG:s7-u4/p-31@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "1776 Amerikan Bağımsızlık…",
+     "r": [
+      132,
+      0,
+      785,
+      547
+     ]
+    },
+    {
+     "t": "1948 İnsan Hakları Evrensel…",
+     "r": [
+      101,
+      519,
+      750,
+      645
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      1040,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hepsi insan hak ve özgürlüklerini güvence altına almayı, yöneticilerin yetkilerini sınırlamayı, eşitliği ve halkın yönetime katılmasını amaçlar.",
+     "pill": [
+      404,
+      982
+     ],
+     "qx": 134,
+     "qt": 1012,
+     "qb": 1210,
+     "qr": 830,
+     "bal": [
+      97,
+      899,
+      758,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      1070,
+      640,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kanun önünde eşitlik, can ve mal güvenliği, seçme ve seçilme hakkı, meclis ve anayasal düzen gibi uygulamalar bugün de cumhuriyetimizin temel ilkeleri arasındadır.",
+     "pill": [
+      488,
+      1087
+     ],
+     "qx": 134,
+     "qt": 1012,
+     "qb": 1215,
+     "qr": 830,
+     "bal": [
+      97,
+      899,
+      758,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "img": "@IMG:s7-u4/p-32@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Demokrasinin temel nitelikleri…",
+     "r": [
+      33,
+      55,
+      808,
+      1109
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 42,
+   "img": "@IMG:s7-u4/p-33@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsan haklarına saygı,…",
+     "r": [
+      38,
+      63,
+      790,
+      376
+     ]
+    },
+    {
+     "t": "Günümüzde insan hakları ve…",
+     "r": [
+      38,
+      411,
+      791,
+      753
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      150,
+      650,
+      660,
+      130
+     ],
+     "mode": "ink",
+     "text": "Sınıfımıza tekerlekli sandalye kullanan yeni bir arkadaş geldi. Okul yönetimi hemen rampa yaptırdı, sınıfımız zemin kata alındı. Bu olay herkesin eğitim hakkından eşit şekilde yararlanabilmesi ve insan onuruna saygı açısından çok önemlidir.",
+     "fs": 16,
+     "pill": [
+      772,
+      640
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "img": "@IMG:s7-u4/p-34@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Kaynak B'yi okuyarak verilen örnek",
+     "r": [
+      116,
+      90,
+      711,
+      613
+     ]
+    },
+    {
+     "t": "Eşitlik, demokratik toplumun…",
+     "r": [
+      116,
+      592,
+      713,
+      572
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      512,
+      640,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ali'nin yüksek sesle müzik dinlemesi, Zeynep'in kırıcı ifadeler kullanması ve bazı öğrencilerin bahçenin tamamını kullanması başkalarının özgürlüğünü engellemektedir.",
+     "pill": [
+      384,
+      490
+     ],
+     "qx": 128,
+     "qt": 512,
+     "qb": 582,
+     "qr": 816,
+     "bal": [
+      112,
+      590,
+      719,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      542,
+      640,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Herkes özgürlüğünü kullanırken başkalarının haklarına saygı göstermelidir: müzik kulaklıkla dinlenmeli, düşünceler kırıcı olmadan ifade edilmeli, bahçe ortak ve adil kullanılmalıdır.",
+     "pill": [
+      384,
+      565
+     ],
+     "qx": 128,
+     "qt": 521,
+     "qb": 582,
+     "qr": 816,
+     "bal": [
+      112,
+      590,
+      719,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1090,
+      640,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "1935'te kadın ve erkek okuryazarlık oranları arasında büyük fark vardı. Cumhuriyet döneminde herkese eşit eğitim fırsatı sağlandıkça bu fark kapanmış, 2025'te oranlar birbirine çok yaklaşmıştır (%99,3 ve %96,4). Bu durum eşitlik ilkesinin uygulandığını gösterir.",
+     "pill": [
+      384,
+      1101
+     ],
+     "qx": 128,
+     "qt": 950,
+     "qb": 1220,
+     "qr": 817,
+     "bal": [
+      112,
+      892,
+      721,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "img": "@IMG:s7-u4/p-35@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Seçme ve seçilme hakkı,…",
+     "r": [
+      122,
+      0,
+      794,
+      595
+     ]
+    },
+    {
+     "t": "Tek Dereceli Seçim",
+     "r": [
+      115,
+      567,
+      719,
+      641
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      1015,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Gizli oy ve serbest oy; çünkü seçmen kimsenin baskısı ve etkisi altında kalmadan, gerçek düşüncesine göre oy kullanabilir.",
+     "pill": [
+      404,
+      981
+     ],
+     "qx": 134,
+     "qt": 1010,
+     "qb": 1109,
+     "qr": 816,
+     "bal": [
+      111,
+      1120,
+      727,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      1072,
+      640,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Gizli oy ve serbest oy ilkeleri çiğnenmiş olur. Öğrenciler baskı altında kalarak gerçek düşüncelerini yansıtamaz, sınıfta güven ve demokrasi kültürü zarar görür.",
+     "pill": [
+      386,
+      1113
+     ],
+     "qx": 148,
+     "qt": 1056,
+     "qb": 1112,
+     "qr": 816,
+     "bal": [
+      111,
+      897,
+      727,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "img": "@IMG:s7-u4/p-36@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Milli Egemenlik, halkın kendi…",
+     "r": [
+      122,
+      2,
+      790,
+      328
+     ]
+    },
+    {
+     "t": "... Toplumda en yüksek hürriyetin",
+     "r": [
+      98,
+      302,
+      789,
+      862
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      602,
+      640,
+      130
+     ],
+     "mode": "ink",
+     "text": "Özgürlük, eşitlik ve adalet ancak milletin kendi kendini yönetmesiyle sağlanabilir. Örneğin seçimlerde oy kullanmak, sınıf başkanını seçmek, okul meclisinde görüş bildirmek millî egemenliğin günlük hayattaki yansımalarıdır.",
+     "fs": 16,
+     "pill": [
+      806,
+      589
+     ]
+    },
+    {
+     "area": [
+      148,
+      1085,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Farklı görüşlerin temsil edilmesi toplumun tüm kesimlerinin sesinin duyulmasını sağlar. Kararlar tartışılarak ve uzlaşarak alınır, haklar korunur ve demokrasi güçlenir.",
+     "pill": [
+      392,
+      1108
+     ],
+     "qx": 110,
+     "qt": 945,
+     "qb": 1115,
+     "qr": 875,
+     "bal": [
+      94,
+      912,
+      797,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "img": "@IMG:s7-u4/p-37@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Katılımcılık, demokratik…",
+     "r": [
+      38,
+      73,
+      794,
+      680
+     ]
+    },
+    {
+     "t": "Hukukun üstünl ilkesi,…",
+     "r": [
+      38,
+      645,
+      792,
+      519
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      368,
+      597,
+      450,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yüksek katılım millî iradenin sandığa tam olarak yansımasını sağlar; seçilenler halkın çoğunluğunu temsil eder ve demokrasi güçlenir.",
+     "pill": [
+      528,
+      599
+     ],
+     "qx": 243,
+     "qt": 457,
+     "qb": 657,
+     "qr": 820,
+     "bal": [
+      34,
+      665,
+      802,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      328,
+      1092,
+      490,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kişinin maddi ve manevi varlığının korunması hakkı korunmuştur. Bu karar devletin de hukuka bağlı olduğunu ve vatandaşların haklarını devlete karşı da arayabileceğini gösterir.",
+     "pill": [
+      566,
+      1124
+     ],
+     "qx": 273,
+     "qt": 1066,
+     "qb": 1215,
+     "qr": 818,
+     "bal": [
+      273,
+      928,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "img": "@IMG:s7-u4/p-38@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Öğrendiğiniz bilgilerden yola…",
+     "r": [
+      119,
+      109,
+      712,
+      1055
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      118,
+      94,
+      720,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "LMİLÎ NEMEGKİLE → MİLLÎ EGEMENLİK\nKİTLİŞE → EŞİTLİK\nGÜKZÜLÖR → ÖZGÜRLÜK\nNASİN RANIKAHLA YIGAS → İNSAN HAKLARINA SAYGI\nTIMILAKCIKIL → KATILIMCILIK\nÖÇOLUUCKUL → ÇOĞULCULUK\nESEÇM EV EECLSMİ → SEÇME VE SEÇİLME\nNUKKUHU SÜTÜNĞÜLÜ → HUKUKUN ÜSTÜNLÜĞÜ",
+     "pill": [
+      416,
+      96
+     ],
+     "qx": 118,
+     "qt": 94,
+     "qb": 160,
+     "qr": 838,
+     "bal": [
+      115,
+      168,
+      720,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "img": "@IMG:s7-u4/p-39@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Etkinlikte ulaştığınız…",
+     "r": [
+      38,
+      90,
+      799,
+      1074
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      113,
+      94,
+      700,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Uygun eşleştirme (bulmacadaki numaralar sizin sıralamanıza göre değişebilir):\n1. Park için toplantı → Katılımcılık\n2. Yöresel etkinlikler → Çoğulculuk\n3. Belediye başkanına ceza → Hukukun üstünlüğü\n4. Farklı partilerin fikir alışverişi → Çoğulculuk\n5. Yasa teklifinin meclis kararı → Millî egemenlik\n6. Muhtarlık seçimi → Seçme ve seçilme hakkı\n7. Düşünceleri paylaşma → Özgürlük\n8. Yeterliliğe göre işe alım → Eşitlik",
+     "pill": [
+      399,
+      75
+     ],
+     "qx": 113,
+     "qt": 94,
+     "qb": 177,
+     "qr": 825,
+     "bal": [
+      34,
+      172,
+      807,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "img": "@IMG:s7-u4/p-40@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "9 Kaynak D'de yer alan",
+     "r": [
+      34,
+      89,
+      815,
+      1075
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      92,
+      640,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Meclisin açılmasıyla millî egemenlik ilkesi hayata geçmiş, halk seçtiği temsilciler aracılığıyla yönetime katılmıştır. Kararlar meclis çatısı altında tartışılarak alınmış ve bu durum demokrasinin gelişmesine zemin hazırlamıştır.",
+     "pill": [
+      384,
+      73
+     ],
+     "qx": 128,
+     "qt": 92,
+     "qb": 137,
+     "qr": 815,
+     "bal": [
+      30,
+      145,
+      823,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "img": "@IMG:s7-u4/p-41@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "1924 Anayasası'nın bazı maddeleri",
+     "r": [
+      121,
+      65,
+      707,
+      411
+     ]
+    },
+    {
+     "t": "Tabloda verilen demokrasinin…",
+     "r": [
+      122,
+      448,
+      706,
+      716
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      380,
+      622,
+      430,
+      24
+     ],
+     "mode": "ink",
+     "text": "Madde 69, Madde 75",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      822,
+      609
+     ]
+    },
+    {
+     "area": [
+      380,
+      652,
+      430,
+      24
+     ],
+     "mode": "ink",
+     "text": "Madde 75",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      822,
+      642
+     ]
+    },
+    {
+     "area": [
+      380,
+      682,
+      430,
+      24
+     ],
+     "mode": "ink",
+     "text": "Madde 69, Madde 87",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      822,
+      675
+     ]
+    },
+    {
+     "area": [
+      380,
+      712,
+      430,
+      24
+     ],
+     "mode": "ink",
+     "text": "Madde 54, Madde 69",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      822,
+      708
+     ]
+    },
+    {
+     "area": [
+      380,
+      742,
+      430,
+      24
+     ],
+     "mode": "ink",
+     "text": "Madde 3",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      822,
+      741
+     ]
+    },
+    {
+     "area": [
+      380,
+      772,
+      430,
+      24
+     ],
+     "mode": "ink",
+     "text": "Madde 10, Madde 11",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      822,
+      774
+     ]
+    },
+    {
+     "area": [
+      380,
+      802,
+      430,
+      24
+     ],
+     "mode": "ink",
+     "text": "Madde 10, Madde 11, Madde 31",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      822,
+      807
+     ]
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "img": "@IMG:s7-u4/p-42@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Mustafa Kemal Atatürk'ün…",
+     "r": [
+      98,
+      65,
+      740,
+      569
+     ]
+    },
+    {
+     "t": "Kadınlara Seçme ve Seçilme…",
+     "r": [
+      113,
+      529,
+      748,
+      635
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      476,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Birden fazla partinin olması farklı görüşlerin mecliste temsil edilmesini, hükümetin denetlenmesini ve hataların fark edilip düzeltilmesini sağlar. Bu durum çoğulculuğu ve demokrasiyi güçlendirir.",
+     "pill": [
+      366,
+      499
+     ],
+     "qx": 113,
+     "qt": 476,
+     "qb": 513,
+     "qr": 816,
+     "bal": [
+      94,
+      521,
+      748,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "img": "@IMG:s7-u4/p-43@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "TÜİK Tarafından Yayımlanan…",
+     "r": [
+      122,
+      96,
+      706,
+      658
+     ]
+    },
+    {
+     "t": "kadın milletvekili sayısı 1935…",
+     "r": [
+      128,
+      726,
+      686,
+      495
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      782,
+      520,
+      24
+     ],
+     "mode": "ink",
+     "text": "119 − 18 = 101 kadın milletvekili fazladır.",
+     "fs": 15,
+     "pill": [
+      630,
+      826
+     ]
+    },
+    {
+     "area": [
+      140,
+      880,
+      520,
+      24
+     ],
+     "mode": "ink",
+     "text": "En az: 1950 (3) · En fazla: 2023 (119)",
+     "fs": 15,
+     "pill": [
+      624,
+      867
+     ]
+    },
+    {
+     "area": [
+      140,
+      980,
+      520,
+      24
+     ],
+     "mode": "ink",
+     "text": "2023 (%19,8)",
+     "fs": 15,
+     "pill": [
+      600,
+      970
+     ]
+    },
+    {
+     "area": [
+      140,
+      1074,
+      520,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kadın milletvekili sayısının artması eşitlik, seçme ve seçilme hakkı, çoğulculuk ve katılımcılık niteliklerini güçlendirir; toplumun farklı kesimleri yönetimde daha iyi temsil edilir.",
+     "pill": [
+      342,
+      1076
+     ],
+     "qx": 140,
+     "qt": 1054,
+     "qb": 1100,
+     "qr": 802,
+     "bal": [
+      124,
+      1108,
+      694,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "img": "@IMG:s7-u4/p-44@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "1946 Seçimleri, Türkiye'de çok…",
+     "r": [
+      122,
+      85,
+      706,
+      459
+     ]
+    },
+    {
+     "t": "Sizce 1946 seçimleri, dönemin…",
+     "r": [
+      116,
+      516,
+      713,
+      648
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      632,
+      630,
+      50
+     ],
+     "mode": "ink",
+     "text": "\"Türkiye İlk Kez Çok Partili Seçimde Sandığa Gitti: Halkın Sesi Meclise Taşınıyor!\"",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      720,
+      616
+     ]
+    },
+    {
+     "area": [
+      138,
+      1047,
+      630,
+      90
+     ],
+     "mode": "ink",
+     "text": "Seçimlerde oy kullanmak, vergisini ödemek, kanunlara uymak, çevreyi korumak, kamu malına zarar vermemek, sivil toplum kuruluşlarında gönüllü çalışmak, farklı düşüncelere saygı göstermek.",
+     "fs": 15,
+     "pill": [
+      730,
+      1013
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      747,
+      719,
+      62,
+      59
+     ],
+     "panel": "demokrasi",
+     "label": "Ülkemizde Demokrasi"
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "img": "@IMG:s7-u4/p-45@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Konuşma halkası tekniğini…",
+     "r": [
+      38,
+      53,
+      879,
+      393
+     ]
+    },
+    {
+     "t": "Öğrendiğiniz bilgilerden yola…",
+     "r": [
+      93,
+      418,
+      763,
+      746
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      362,
+      592,
+      186,
+      176
+     ],
+     "mode": "ink",
+     "text": "Cumhuriyet'in ilanı\n29 Ekim 1923\nMillî egemenlik",
+     "fs": 13,
+     "pill": [
+      510,
+      579
+     ]
+    },
+    {
+     "area": [
+      582,
+      592,
+      186,
+      176
+     ],
+     "mode": "ink",
+     "text": "1924 Anayasası\n20 Nisan 1924\nHukukun üstünlüğü",
+     "fs": 13,
+     "pill": [
+      730,
+      579
+     ]
+    },
+    {
+     "area": [
+      162,
+      912,
+      186,
+      186
+     ],
+     "mode": "ink",
+     "text": "Kadınlara seçme hakkı\n1930–1934\nEşitlik",
+     "fs": 13,
+     "pill": [
+      304,
+      899
+     ]
+    },
+    {
+     "area": [
+      382,
+      912,
+      186,
+      186
+     ],
+     "mode": "ink",
+     "text": "İlk çok partili seçim\n21 Temmuz 1946\nÇoğulculuk",
+     "fs": 13,
+     "pill": [
+      530,
+      875
+     ]
+    },
+    {
+     "area": [
+      602,
+      912,
+      186,
+      186
+     ],
+     "mode": "ink",
+     "text": "Cumhurbaşkanının halk tarafından seçilmesi\n2014\nSeçme ve seçilme",
+     "fs": 13,
+     "pill": [
+      792,
+      899
+     ]
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "img": "@IMG:s7-u4/p-46@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Performans görevi kapsamında…",
+     "r": [
+      33,
+      55,
+      797,
+      1109
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      749,
+      448,
+      60,
+      55
+     ],
+     "panel": "rubrik",
+     "label": "Bütüncül Dereceli Puanlama Anahtarı"
+    }
+   ]
+  }
+ ]
+};

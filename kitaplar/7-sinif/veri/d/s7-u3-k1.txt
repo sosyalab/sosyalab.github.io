@@ -1,0 +1,1670 @@
+// 7. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 84–159)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Osmanlı Devleti'nin cihan devleti hâline gelmesini sağlayan politikalar (s. 86–109)
+window.BOOK = {
+ "id": "s7-u3-k1",
+ "title": "Osmanlı Devleti'nin cihan devleti hâline gelmesini sağlayan politikalar",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u3-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 84,
+   "img": "@IMG:s7-u3/p-01@",
+   "section": "3. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      106,
+      884,
+      468
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      546,
+      884,
+      641
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      265,
+      1105,
+      63,
+      63
+     ],
+     "panel": "alan",
+     "label": "3. Öğrenme alanı"
+    },
+    {
+     "area": [
+      633,
+      1007,
+      68,
+      63
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 85,
+   "img": "@IMG:s7-u3/p-02@",
+   "section": "Ortak Mirasımız",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      112,
+      879,
+      540
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      624,
+      879,
+      540
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 86,
+   "img": "@IMG:s7-u3/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "OSMANLI DEVLETİ'NİN",
+     "r": [
+      38,
+      55,
+      879,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      1030,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Malazgirt Savaşı'ndan önce Anadolu'nun büyük bölümü Doğu Roma (Bizans) İmparatorluğu'nun elindeydi. Savaştan sonra Anadolu'da Türkiye Selçuklu Devleti ve Danişmentliler, Saltuklular, Mengücekliler, Artuklular gibi ilk Türk beylikleri kuruldu.",
+     "pill": [
+      428,
+      1005
+     ],
+     "qx": 135,
+     "qt": 1030,
+     "qb": 1116,
+     "qr": 838,
+     "bal": [
+      34,
+      917,
+      887,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      1077,
+      690,
+      42
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Beylikler bulundukları bölgelere Türk ve Müslüman nüfusu yerleştirmiş; cami, medrese, han, kervansaray, köprü gibi eserler yaptırmıştır. Örneğin Saltuklular Erzurum'da, Danişmentliler Sivas ve Tokat'ta, Artuklular Diyarbakır ve Mardin'de Türk-İslam kültürünü yaymıştır.",
+     "pill": [
+      446,
+      1052
+     ],
+     "qx": 130,
+     "qt": 1035,
+     "qb": 1119,
+     "qr": 838,
+     "bal": [
+      34,
+      892,
+      887,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "img": "@IMG:s7-u3/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Xıll. yüzyılda Anadolu'da…",
+     "r": [
+      33,
+      55,
+      795,
+      287
+     ]
+    },
+    {
+     "t": "Osmanlı Beyliği'nin kurulduğu…",
+     "r": [
+      122,
+      314,
+      706,
+      646
+     ]
+    },
+    {
+     "t": "Beyliği i tehdit",
+     "r": [
+      154,
+      932,
+      631,
+      232
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      190,
+      857,
+      230,
+      62
+     ],
+     "mode": "ink",
+     "text": "Evet. Bizans sınırında olduğu için fetih ve gazayla genişleyebilirdi; önemli ticaret yollarına yakındı.",
+     "fs": 13,
+     "pill": [
+      356,
+      838
+     ]
+    },
+    {
+     "area": [
+      515,
+      842,
+      235,
+      65
+     ],
+     "mode": "ink",
+     "text": "Küçük ve az nüfuslu bir beylik olması, güçlü beyliklerle komşu olması.",
+     "fs": 13,
+     "pill": [
+      777,
+      829
+     ]
+    },
+    {
+     "area": [
+      183,
+      1042,
+      235,
+      70
+     ],
+     "mode": "ink",
+     "text": "Bizans'ın zayıflaması, Türkmen göçleri, Balkanlara geçme imkânı.",
+     "fs": 13,
+     "pill": [
+      433,
+      1098
+     ]
+    },
+    {
+     "area": [
+      521,
+      1032,
+      240,
+      72
+     ],
+     "mode": "ink",
+     "text": "Bizans saldırıları, Karamanoğulları gibi güçlü beylikler, Moğol tehdidi.",
+     "fs": 13,
+     "pill": [
+      771,
+      1019
+     ]
+    }
+   ]
+  },
+  {
+   "n": 88,
+   "img": "@IMG:s7-u3/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nin kısa bir…",
+     "r": [
+      38,
+      55,
+      794,
+      322
+     ]
+    },
+    {
+     "t": "Farklı dönemlere ait metinleri ve",
+     "r": [
+      89,
+      349,
+      741,
+      815
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 89,
+   "img": "@IMG:s7-u3/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Orhan Bey Dönemi'nde Bursa'nın…",
+     "r": [
+      122,
+      84,
+      707,
+      628
+     ]
+    },
+    {
+     "t": "PORTEKİZ.",
+     "r": [
+      122,
+      684,
+      707,
+      480
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 90,
+   "img": "@IMG:s7-u3/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Harita ve metinlerden…",
+     "r": [
+      122,
+      124,
+      706,
+      387
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nin sınırlarını…",
+     "r": [
+      121,
+      483,
+      708,
+      681
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      143,
+      367,
+      655,
+      95
+     ],
+     "mode": "ink",
+     "text": "Fetih, iskân ve istimalet politikaları, güçlü merkezî otorite, coğrafi konum ve Türkmenlerin desteği. Hayır; adil yönetim, halka hoşgörü, iskân ve ekonomik politikalar da etkili olmuştur.",
+     "fs": 16,
+     "pill": [
+      819,
+      354
+     ]
+    },
+    {
+     "area": [
+      148,
+      702,
+      650,
+      380
+     ],
+     "mode": "ink",
+     "text": "• Osmanlı Devleti fethettiği yerlerde nasıl bir yönetim uyguladı?\n• İskân politikası nasıl uygulandı?\n• Devşirme sistemi nedir?\n• Osmanlı donanması nasıl güçlendi?\n• Ticaret yolları Osmanlı'ya ne kazandırdı?",
+     "fs": 18,
+     "pill": [
+      824,
+      689
+     ]
+    }
+   ]
+  },
+  {
+   "n": 91,
+   "img": "@IMG:s7-u3/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Belirlediğiniz konulara yönelik…",
+     "r": [
+      122,
+      68,
+      706,
+      397
+     ]
+    },
+    {
+     "t": "Hazırladığınız soru…",
+     "r": [
+      122,
+      437,
+      706,
+      727
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      493,
+      227,
+      215,
+      175
+     ],
+     "mode": "ink",
+     "text": "İskân politikası fethedilen yerlere neler kazandırdı?",
+     "fs": 16,
+     "pill": [
+      677,
+      190
+     ]
+    },
+    {
+     "area": [
+      213,
+      507,
+      225,
+      195
+     ],
+     "mode": "ink",
+     "text": "İstimalet politikası halkın Osmanlı'ya bağlılığını nasıl etkiledi?",
+     "fs": 16,
+     "pill": [
+      403,
+      461
+     ]
+    },
+    {
+     "area": [
+      488,
+      502,
+      230,
+      195
+     ],
+     "mode": "ink",
+     "text": "Güçlü merkezî otorite neden önemliydi?",
+     "fs": 16,
+     "pill": [
+      714,
+      489
+     ]
+    },
+    {
+     "area": [
+      218,
+      777,
+      220,
+      200
+     ],
+     "mode": "ink",
+     "text": "Hangi padişahlar döneminde sınırlar en çok genişledi?",
+     "fs": 16,
+     "pill": [
+      432,
+      722
+     ]
+    },
+    {
+     "area": [
+      480,
+      757,
+      230,
+      205
+     ],
+     "mode": "ink",
+     "text": "Ahiler ve Türkmenler Osmanlı'nın büyümesine nasıl katkı sağladı?",
+     "fs": 16,
+     "pill": [
+      676,
+      732
+     ]
+    }
+   ]
+  },
+  {
+   "n": 92,
+   "img": "@IMG:s7-u3/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Tarih bilinci ve milli kimlik",
+     "r": [
+      81,
+      84,
+      764,
+      1129
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1017,
+      600,
+      50
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Malazgirt Zaferi ile Anadolu'nun kapıları Türklere açılmış, Anadolu Türk yurdu olmaya başlamıştır.\nTarihi öğrenmek atalarımızın mücadelelerini ve değerlerini tanımamızı sağlar; ortak hafıza oluşturarak millî kimliğimizi ve birlik duygumuzu güçlendirir.",
+     "pill": [
+      366,
+      995
+     ],
+     "qx": 108,
+     "qt": 1017,
+     "qb": 1067,
+     "qr": 728,
+     "bal": [
+      77,
+      1075,
+      772,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "img": "@IMG:s7-u3/p-10@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nin cihan…",
+     "r": [
+      94,
+      83,
+      746,
+      458
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nde uygulanan…",
+     "r": [
+      116,
+      368,
+      796,
+      796
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      330,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İslamiyet'ten önce cihan hâkimiyeti dünyada adalet ve düzeni sağlama amacına dayanıyordu (Türk Cihan Hâkimiyeti Mefkûresi). İslamiyet'ten sonra buna İslam dinini yayma (gaza ve cihat) düşüncesi eklendi. Devlet yönetiminde fetih politikası güçlendi, toplum hayatında İslami değerler önem kazandı.",
+     "pill": [
+      414,
+      305
+     ],
+     "qx": 106,
+     "qt": 330,
+     "qb": 370,
+     "qr": 828,
+     "bal": [
+      90,
+      378,
+      754,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      712,
+      440,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ülkede düzen ve güvenlik sağlandı, kararlar hızlı ve etkili uygulandı, devlet işleri düzenli yürütüldü. Böylece devlet kısa sürede büyüdü ve uzun yıllar ayakta kaldı.",
+     "pill": [
+      282,
+      753
+     ],
+     "qx": 128,
+     "qt": 712,
+     "qb": 752,
+     "qr": 852,
+     "bal": [
+      112,
+      760,
+      804,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 94,
+   "img": "@IMG:s7-u3/p-11@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nin büyük bir…",
+     "r": [
+      38,
+      60,
+      796,
+      461
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nde uygulanan…",
+     "r": [
+      38,
+      390,
+      812,
+      774
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      338,
+      335,
+      470,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türkmenler Osmanlı'nın gaza ve cihat anlayışını benimsemiş, fetihlerle yeni yurt ve toprak elde etmeyi ummuş; Bizans sınırındaki Osmanlı'yı güçlü ve adil bir lider olarak görmüşlerdir.",
+     "pill": [
+      510,
+      376
+     ],
+     "qx": 342,
+     "qt": 335,
+     "qb": 375,
+     "qr": 810,
+     "bal": [
+      278,
+      383,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      138,
+      1104,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Fethedilen yerlerde kalıcı hâkimiyet sağlanamaz, isyanlar çıkar, bölge güvensiz kalır, Türkleşme ve İslamlaşma gerçekleşmez, üretim ve ekonomi zayıflardı.",
+     "pill": [
+      424,
+      1076
+     ],
+     "qx": 134,
+     "qt": 964,
+     "qb": 1215,
+     "qr": 838,
+     "bal": [
+      34,
+      956,
+      820,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 95,
+   "img": "@IMG:s7-u3/p-12@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nde uygulanan…",
+     "r": [
+      116,
+      96,
+      796,
+      794
+     ]
+    },
+    {
+     "t": "... Orhan Gazi, Bursa'nın…",
+     "r": [
+      116,
+      808,
+      724,
+      395
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      754,
+      600,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Halk yeni yönetime güvenmez, isyanlar ve çatışmalar çıkar, fethedilen yerlerde düzen sağlanamaz; Osmanlı Balkanlarda bu kadar hızlı ilerleyemezdi.",
+     "pill": [
+      366,
+      729
+     ],
+     "qx": 128,
+     "qt": 754,
+     "qb": 794,
+     "qr": 728,
+     "bal": [
+      112,
+      802,
+      804,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1042,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Osmanlı yönetimi adaletli ve hoşgörülüdür; halkı ağır vergilerden ve baskıdan kurtarmış, güven ve huzur sağlamıştır. Bu yüzden halk Osmanlı yönetimini gönüllü olarak benimsemiştir.",
+     "pill": [
+      414,
+      1065
+     ],
+     "qx": 128,
+     "qt": 1038,
+     "qb": 1082,
+     "qr": 828,
+     "bal": [
+      128,
+      1090,
+      700,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "img": "@IMG:s7-u3/p-13@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nin cihan…",
+     "r": [
+      136,
+      83,
+      694,
+      786
+     ]
+    },
+    {
+     "t": "Il. Murad'ın vefatından sonra oğlu",
+     "r": [
+      128,
+      841,
+      700,
+      323
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      468,
+      762,
+      350,
+      70
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Osmanlı toprakları Anadolu ve Balkanlar olarak ikiye bölünmüştü; toprak bütünlüğü sağlanamıyor, ordunun iki bölge arasında geçişi zorlaşıyordu. Doğu Roma, Avrupa devletleriyle iş birliği yaparak ve Türk beyliklerini kışkırtarak Osmanlı için sürekli bir tehdit oluşturuyordu.",
+     "pill": [
+      580,
+      821
+     ],
+     "qx": 342,
+     "qt": 755,
+     "qb": 972,
+     "qr": 818,
+     "bal": [
+      132,
+      592,
+      702,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      758,
+      98,
+      53,
+      58
+     ],
+     "panel": "mimarlar",
+     "label": "Cihan Devletinin Mimarları"
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "img": "@IMG:s7-u3/p-14@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Fatih Sultan Mehmed'in Münevver…",
+     "r": [
+      116,
+      87,
+      724,
+      662
+     ]
+    },
+    {
+     "t": "İstanbul'un fethinin nedenleri",
+     "r": [
+      116,
+      737,
+      724,
+      427
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      395,
+      700,
+      62
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Farklı dilleri bilmesi diğer devletlerle doğrudan iletişim kurmasını ve diplomaside başarılı olmasını sağlar. Farklı kültürleri tanıması halkına hoşgörülü ve adil davranmasına, bilim ve sanatı desteklemesine katkı sağlar.\nKişilik özellikleri: Meraklı ve araştırmacıdır (padişah olduktan sonra da araştırmalarını sürdürmüştür). Bilime ve sanata önem verir (Sahn-ı Seman Medreseleri, \"Avnî\" mahlasıyla şiirleri). Açık fikirli ve hoşgörülüdür (farklı dilleri ve kültürleri öğrenmiştir).",
+     "pill": [
+      582,
+      370
+     ],
+     "qx": 128,
+     "qt": 330,
+     "qb": 597,
+     "qr": 828,
+     "bal": [
+      128,
+      510,
+      700,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      388,
+      957,
+      420,
+      40
+     ],
+     "mode": "ink",
+     "text": ", 3, 4 → toprak bütünlüğü ve Doğu Roma tehdidi",
+     "fs": 16,
+     "pill": [
+      770,
+      935
+     ]
+    },
+    {
+     "area": [
+      363,
+      1020,
+      445,
+      42
+     ],
+     "mode": "ink",
+     "text": "2 → İpek Yolu gibi ticaret yollarının denetimi",
+     "fs": 16,
+     "pill": [
+      739,
+      1013
+     ]
+    },
+    {
+     "area": [
+      363,
+      1082,
+      445,
+      44
+     ],
+     "mode": "ink",
+     "text": "5 → Hz. Muhammed'in (sav) fetih müjdesi",
+     "fs": 16,
+     "pill": [
+      775,
+      1075
+     ]
+    }
+   ],
+   "manual": true
+  },
+  {
+   "n": 98,
+   "img": "@IMG:s7-u3/p-15@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İstanbul'un Fethi için yapılan…",
+     "r": [
+      38,
+      0,
+      878,
+      1164
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 99,
+   "img": "@IMG:s7-u3/p-16@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Doğu Roma'nın",
+     "r": [
+      34,
+      0,
+      878,
+      769
+     ]
+    },
+    {
+     "t": "Osmanlı donanmasının Haliç'e",
+     "r": [
+      34,
+      741,
+      878,
+      423
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 100,
+   "img": "@IMG:s7-u3/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İstanbul'un Fethi için yapılan…",
+     "r": [
+      122,
+      89,
+      717,
+      599
+     ]
+    },
+    {
+     "t": "İstanbul'un kuşatılmasıyla…",
+     "r": [
+      123,
+      660,
+      677,
+      504
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      512,
+      650,
+      150
+     ],
+     "mode": "ink",
+     "text": "Osmanlı'nın önlemleri saldırıya, Doğu Roma'nın önlemleri savunmaya yöneliktir. Fethi en çok etkileyen önlemler: Rumeli Hisarı'nın yapılması, Şahi toplarının döktürülmesi, güçlü bir donanma hazırlanması ve gemilerin karadan Haliç'e indirilmesidir.",
+     "fs": 16,
+     "pill": [
+      836,
+      499
+     ]
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "img": "@IMG:s7-u3/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı ordusu Il. Mehmed…",
+     "r": [
+      121,
+      0,
+      791,
+      720
+     ]
+    },
+    {
+     "t": "Il. Mehmed Fatih ünvanını…",
+     "r": [
+      95,
+      692,
+      742,
+      472
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      1047,
+      660,
+      65
+     ],
+     "mode": "ink",
+     "text": "Fatih İstanbul'u Fethetti: Bir Çağ Kapandı, Yeni Bir Çağ Açıldı!",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      818,
+      1034
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      270,
+      570,
+      72,
+      66
+     ],
+     "panel": "gemiler",
+     "label": "Gemilerin Karadan Yürütülmesi"
+    }
+   ]
+  },
+  {
+   "n": 102,
+   "img": "@IMG:s7-u3/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      54,
+      122,
+      774,
+      1042
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      882,
+      290,
+      210
+     ],
+     "mode": "ink",
+     "text": "• İstimalet (hoşgörü) politikası\n• Can ve mal güvenliğinin sağlanması\n• Din ve vicdan özgürlüğü\n• Adaletli yönetim",
+     "fs": 16,
+     "pill": [
+      380,
+      869
+     ]
+    },
+    {
+     "area": [
+      503,
+      882,
+      295,
+      210
+     ],
+     "mode": "ink",
+     "text": "• Halka \"Ayağa kalk\" diyerek güven vermesi\n• Kimsenin özgürlüğüne dokunulmayacağını söylemesi\n• Askerlerin halka fenalık yapmasını yasaklaması\n• Emre uymayanların cezalandırılacağını bildirmesi",
+     "fs": 15,
+     "pill": [
+      735,
+      869
+     ]
+    }
+   ]
+  },
+  {
+   "n": 103,
+   "img": "@IMG:s7-u3/p-20@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Mısır Seferi ile ilgili metni",
+     "r": [
+      122,
+      87,
+      790,
+      804
+     ]
+    },
+    {
+     "t": "Yavuz Sultan Selim Dönemi",
+     "r": [
+      122,
+      863,
+      706,
+      301
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 104,
+   "img": "@IMG:s7-u3/p-21@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Mısır Seferi'nin Sonuçları",
+     "r": [
+      112,
+      87,
+      738,
+      714
+     ]
+    },
+    {
+     "t": "Yavuz Sultan Selim ile ilgili",
+     "r": [
+      112,
+      789,
+      738,
+      375
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      178,
+      642,
+      630,
+      40
+     ],
+     "mode": "ink",
+     "text": "Halifeliğin Osmanlı padişahlarına geçmesi.",
+     "fs": 17,
+     "pill": [
+      752,
+      620
+     ]
+    },
+    {
+     "area": [
+      208,
+      724,
+      600,
+      28
+     ],
+     "mode": "ink",
+     "text": "Osmanlı Devleti İslam dünyasının lideri oldu.",
+     "fs": 16,
+     "pill": [
+      752,
+      711
+     ]
+    },
+    {
+     "area": [
+      208,
+      756,
+      600,
+      28
+     ],
+     "mode": "ink",
+     "text": "Kutsal topraklar ve emanetler Osmanlı'nın koruması altına girdi.",
+     "fs": 16,
+     "pill": [
+      836,
+      743
+     ]
+    },
+    {
+     "area": [
+      138,
+      1090,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yavuz Sultan Selim âlimlere ve bilgili kişilere büyük saygı duymaktadır. Kaftanına sıçrayan çamuru kendisi için şeref saymış ve öldüğünde bu kaftanın sandukasının üzerine konulmasını vasiyet etmiştir.",
+     "pill": [
+      424,
+      1110
+     ],
+     "qx": 131,
+     "qt": 984,
+     "qb": 1215,
+     "qr": 838,
+     "bal": [
+      108,
+      917,
+      746,
+      "above",
+      1
+     ]
+    }
+   ],
+   "manual": true
+  },
+  {
+   "n": 105,
+   "img": "@IMG:s7-u3/p-22@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Preveze Deniz Muharebesi Eylül…",
+     "r": [
+      123,
+      87,
+      789,
+      292
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti fetihlerin…",
+     "r": [
+      116,
+      351,
+      796,
+      813
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1070,
+      390,
+      55
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Barbaros donanmasını hilal şeklinde düzenlemiş, kadırgaların hızlı hareket kabiliyetini ve uzun menzilli Osmanlı toplarını kullanarak Haçlılara saldırmıştır. Bu taktik sayesinde büyük ve ağır Haçlı gemileri etkisiz kalmış, Osmanlı donanması kısa sürede zafer kazanmıştır.",
+     "pill": [
+      258,
+      1114
+     ],
+     "qx": 128,
+     "qt": 1070,
+     "qb": 1125,
+     "qr": 818,
+     "bal": [
+      112,
+      932,
+      804,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      1062,
+      67,
+      61
+     ],
+     "panel": "barbaros",
+     "label": "Barbaros Hayreddin Paşa"
+    }
+   ]
+  },
+  {
+   "n": 106,
+   "img": "@IMG:s7-u3/p-23@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Karekodla verilen etkileşimli…",
+     "r": [
+      38,
+      55,
+      784,
+      261
+     ]
+    },
+    {
+     "t": "Yapay Zekâ ile Tarihin…",
+     "r": [
+      101,
+      288,
+      728,
+      426
+     ]
+    },
+    {
+     "t": "Ürününüzü oluştururken aşağıda…",
+     "r": [
+      142,
+      686,
+      687,
+      478
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      748,
+      202,
+      62,
+      60
+     ],
+     "panel": "harita",
+     "label": "Etkileşimli Harita"
+    }
+   ]
+  },
+  {
+   "n": 107,
+   "img": "@IMG:s7-u3/p-24@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Aşağıdaki çalışma yaprağını…",
+     "r": [
+      123,
+      84,
+      710,
+      528
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      124,
+      584,
+      702,
+      580
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      218,
+      477,
+      590,
+      70
+     ],
+     "mode": "ink",
+     "text": "Örnek: Raporumda da fetih, iskân ve istimalet politikalarına yer verilmişti; bazı tarih ve rakamlarda kaynaklar arasında farklılıklar buldum.",
+     "fs": 15,
+     "pill": [
+      774,
+      440
+     ]
+    },
+    {
+     "area": [
+      218,
+      652,
+      590,
+      70
+     ],
+     "mode": "ink",
+     "text": "İstimalet politikasını eklerdim; çünkü fethedilen yerlerde halkın gönlünü kazanmak kalıcı hâkimiyeti sağlamıştır.",
+     "fs": 15,
+     "pill": [
+      816,
+      639
+     ]
+    },
+    {
+     "area": [
+      218,
+      827,
+      590,
+      70
+     ],
+     "mode": "ink",
+     "text": "İstanbul'un Fethi; Osmanlı toprak bütünlüğünü sağlamış, ticaret yollarını denetimine almış ve cihan devleti olma yolunda en önemli adımı atmıştır.",
+     "fs": 15,
+     "pill": [
+      816,
+      814
+     ]
+    },
+    {
+     "area": [
+      218,
+      1002,
+      590,
+      70
+     ],
+     "mode": "ink",
+     "text": "Akdeniz'in bir \"Türk gölü\" hâline gelmesi, deniz ticaret yollarının güvenceye alınması, Haçlı donanmasının yenilmesi.",
+     "fs": 15,
+     "pill": [
+      816,
+      989
+     ]
+    }
+   ]
+  },
+  {
+   "n": 108,
+   "img": "@IMG:s7-u3/p-25@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      806,
+      408
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nin uyguladığı…",
+     "r": [
+      122,
+      435,
+      715,
+      729
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      1064,
+      600,
+      50
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Şiirde vatan sevgisi, cesaret, azim, kahramanlık ve fetih ruhundan söz edilmektedir.\n\"Fâtih'in İstanbul'u fethettiği yaştasın!\" ifadesiyle Fatih'in İstanbul'u 21 yaşında fethettiği hatırlatılarak gençlerin de azim ve çalışmayla büyük başarılar elde edebileceği anlatılmaktadır.",
+     "pill": [
+      376,
+      1045
+     ],
+     "qx": 134,
+     "qt": 1064,
+     "qb": 1114,
+     "qr": 748,
+     "bal": [
+      118,
+      926,
+      723,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "img": "@IMG:s7-u3/p-26@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Balık kılçığı etkinliği",
+     "r": [
+      122,
+      83,
+      706,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      593,
+      448,
+      115,
+      22
+     ],
+     "mode": "ink",
+     "text": "İskân",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      717,
+      435
+     ]
+    },
+    {
+     "area": [
+      508,
+      482,
+      275,
+      30
+     ],
+     "mode": "ink",
+     "text": "Fethedilen yerlere Türkmenleri yerleştirmek.",
+     "fs": 13,
+     "pill": [
+      800,
+      469
+     ]
+    },
+    {
+     "area": [
+      143,
+      560,
+      300,
+      32
+     ],
+     "mode": "ink",
+     "text": "Gaza ve cihat anlayışıyla toprakları genişletmek.",
+     "fs": 13,
+     "pill": [
+      357,
+      562
+     ]
+    },
+    {
+     "area": [
+      508,
+      560,
+      300,
+      32
+     ],
+     "mode": "ink",
+     "text": "Bölgenin Türkleşmesini ve İslamlaşmasını sağlamak.",
+     "fs": 13,
+     "pill": [
+      824,
+      547
+     ]
+    },
+    {
+     "area": [
+      223,
+      612,
+      115,
+      22
+     ],
+     "mode": "ink",
+     "text": "İstimalet",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      347,
+      602
+     ]
+    },
+    {
+     "area": [
+      593,
+      612,
+      115,
+      22
+     ],
+     "mode": "ink",
+     "text": "Merkezî otorite",
+     "center": true,
+     "fs": 12,
+     "pill": [
+      717,
+      602
+     ]
+    },
+    {
+     "area": [
+      143,
+      645,
+      300,
+      32
+     ],
+     "mode": "ink",
+     "text": "Halka adil ve hoşgörülü davranmak.",
+     "fs": 13,
+     "pill": [
+      363,
+      644
+     ]
+    },
+    {
+     "area": [
+      508,
+      645,
+      300,
+      32
+     ],
+     "mode": "ink",
+     "text": "Güçlü bir yönetimle düzeni sağlamak.",
+     "fs": 13,
+     "pill": [
+      824,
+      632
+     ]
+    },
+    {
+     "area": [
+      178,
+      730,
+      265,
+      32
+     ],
+     "mode": "ink",
+     "text": "Halkın gönlünü kazanmak.",
+     "fs": 13,
+     "pill": [
+      374,
+      726
+     ]
+    },
+    {
+     "area": [
+      508,
+      730,
+      260,
+      32
+     ],
+     "mode": "ink",
+     "text": "Devletin uzun süre ayakta kalması.",
+     "fs": 13,
+     "pill": [
+      770,
+      702
+     ]
+    },
+    {
+     "area": [
+      258,
+      805,
+      390,
+      32
+     ],
+     "mode": "ink",
+     "text": "Coğrafi konum ve ticaret yollarının avantajlarını kullanmak.",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      580,
+      807
+     ]
+    }
+   ],
+   "manual": true
+  }
+ ]
+};

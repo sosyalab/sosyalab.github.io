@@ -1,0 +1,1035 @@
+// 7. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–71)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Türkiye Cumhuriyeti'nin yönetim yapısı (s. 25–37)
+window.BOOK = {
+ "id": "s7-u4-k2",
+ "title": "Türkiye Cumhuriyeti'nin yönetim yapısı",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u4-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 25,
+   "img": "@IMG:s7-u4/p-16@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "TÜRKİYE CUMHURİYETİ'NİN",
+     "r": [
+      33,
+      54,
+      801,
+      272
+     ]
+    },
+    {
+     "t": "Doldurduğunuz tabloyu sınıf…",
+     "r": [
+      89,
+      298,
+      741,
+      907
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      262,
+      425,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Herkes istediği zaman sınıfa girip çıkar.",
+     "fs": 14,
+     "pill": [
+      410,
+      397
+     ]
+    },
+    {
+     "area": [
+      452,
+      425,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Kantinde sıra olmaz, kavga çıkar.",
+     "fs": 14,
+     "pill": [
+      540,
+      412
+     ]
+    },
+    {
+     "area": [
+      642,
+      425,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Koridorda koşanlar birbirine çarpar.",
+     "fs": 14,
+     "pill": [
+      826,
+      412
+     ]
+    },
+    {
+     "area": [
+      262,
+      625,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Ders işlenemez, öğrenme olmaz.",
+     "fs": 14,
+     "pill": [
+      344,
+      603
+     ]
+    },
+    {
+     "area": [
+      452,
+      625,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Güçlü olan haklı olur, adaletsizlik yaşanır.",
+     "fs": 14,
+     "pill": [
+      540,
+      603
+     ]
+    },
+    {
+     "area": [
+      642,
+      625,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Kazalar ve yaralanmalar olur.",
+     "fs": 14,
+     "pill": [
+      832,
+      612
+     ]
+    },
+    {
+     "area": [
+      262,
+      815,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Sınıf kuralları belirlenmeli.",
+     "fs": 14,
+     "pill": [
+      158,
+      805
+     ]
+    },
+    {
+     "area": [
+      452,
+      815,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Sıra kuralı konulmalı ve uyulmalı.",
+     "fs": 14,
+     "pill": [
+      588,
+      976
+     ]
+    },
+    {
+     "area": [
+      642,
+      815,
+      176,
+      165
+     ],
+     "mode": "ink",
+     "text": "Koridorda yürüme kuralı konulmalı.",
+     "fs": 14,
+     "pill": [
+      832,
+      802
+     ]
+    },
+    {
+     "area": [
+      130,
+      1005,
+      650,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Okul kuralları: Derse zamanında girmek, sırayı beklemek, okul eşyalarını korumak, arkadaşlara saygılı olmak, kılık kıyafet kurallarına uymak.\nToplumsal kurallar: Trafik kuralları, kanunlar, görgü kuralları, gelenek ve görenekler, ahlak kuralları.",
+     "pill": [
+      416,
+      986
+     ],
+     "qx": 106,
+     "qt": 1005,
+     "qb": 1059,
+     "qr": 800,
+     "bal": [
+      85,
+      1067,
+      749,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      1078,
+      650,
+      25
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kargaşa ve huzursuzluk yaşanır, haklar çiğnenir, adaletsizlik ve kazalar artar, insanlar birbirine güvenmez ve toplumsal düzen bozulur.",
+     "pill": [
+      386,
+      1110
+     ],
+     "qx": 101,
+     "qt": 1078,
+     "qb": 1112,
+     "qr": 793,
+     "bal": [
+      85,
+      1120,
+      749,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "img": "@IMG:s7-u4/p-17@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Verilen yönergeler…",
+     "r": [
+      38,
+      53,
+      795,
+      630
+     ]
+    },
+    {
+     "t": "23 Nisan 1920 tarihinin ülkemiz",
+     "r": [
+      124,
+      655,
+      708,
+      257
+     ]
+    },
+    {
+     "t": "Okulunuzda 23 Nisan Ulusal…",
+     "r": [
+      127,
+      884,
+      706,
+      280
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      410,
+      760,
+      410,
+      130
+     ],
+     "mode": "ink",
+     "text": "Bu tarihte TBMM açılmış, millî egemenlik ilkesi esas alınmış ve Türk milletinin bağımsızlık mücadelesi meclis çatısı altında yürütülmeye başlanmıştır.",
+     "fs": 15,
+     "pill": [
+      786,
+      732
+     ]
+    },
+    {
+     "area": [
+      140,
+      970,
+      680,
+      150
+     ],
+     "mode": "ink",
+     "text": "Şiirler okunur, gösteri ve halk oyunları sergilenir. Okul meclisi temsilcileri makam ziyaretleri yapar. Sınıflar süslenir, resim ve kompozisyon yarışmaları düzenlenir.",
+     "fs": 17,
+     "pill": [
+      786,
+      942
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "img": "@IMG:s7-u4/p-18@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki gazete haberlerini…",
+     "r": [
+      85,
+      0,
+      832,
+      313
+     ]
+    },
+    {
+     "t": "Yeni Sistem",
+     "r": [
+      85,
+      285,
+      832,
+      879
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      927,
+      600,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Milletvekili genel seçimi, referandum (halk oylaması) ve mahallî idareler genel seçimleri (muhtar).",
+     "pill": [
+      366,
+      932
+     ],
+     "qx": 99,
+     "qt": 787,
+     "qb": 1063,
+     "qr": 905,
+     "bal": [
+      81,
+      779,
+      840,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      982,
+      600,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Demokratik devlet niteliği (seçme ve seçilme hakkı, halk egemenliği) ve sosyal hukuk devleti niteliği (çocukların korunması).",
+     "pill": [
+      342,
+      984
+     ],
+     "qx": 132,
+     "qt": 843,
+     "qb": 1063,
+     "qr": 905,
+     "bal": [
+      81,
+      779,
+      840,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1032,
+      600,
+      50
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Seçmenlerin kimlikle oy kullanması, oy pusulasının kapalı kabinde işaretlenmesi (gizli oy), sandık kurulu görevlilerinin bulunması, oy sayımının açık yapılması.",
+     "pill": [
+      366,
+      1046
+     ],
+     "qx": 132,
+     "qt": 892,
+     "qb": 1110,
+     "qr": 905,
+     "bal": [
+      81,
+      779,
+      840,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1090,
+      600,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yasama (TBMM) yeni kanunlar çıkarır; yürütme (Ulaştırma ve Altyapı Bakanlığı) bu düzenlemeleri uygular.",
+     "pill": [
+      396,
+      1098
+     ],
+     "qx": 132,
+     "qt": 1077,
+     "qb": 1220,
+     "qr": 728,
+     "bal": [
+      81,
+      779,
+      840,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "img": "@IMG:s7-u4/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türkiye Cumhuriyeti devletinin…",
+     "r": [
+      38,
+      55,
+      812,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      892,
+      500,
+      200
+     ],
+     "mode": "ink",
+     "text": "Kararlar hızlı alınıp uygulanmış, Millî Mücadele tek merkezden yönetilmiş, ordunun ihtiyaçları kısa sürede karşılanmış, millî birlik sağlanmış ve olağanüstü dönemde etkili bir yönetim kurulmuştur.",
+     "fs": 17,
+     "pill": [
+      614,
+      777
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "img": "@IMG:s7-u4/p-20@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Kuvvetler birliği…",
+     "r": [
+      121,
+      64,
+      791,
+      212
+     ]
+    },
+    {
+     "t": "Kuvvetler ayrılığı ile ilgili…",
+     "r": [
+      100,
+      248,
+      812,
+      916
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      140,
+      640,
+      85
+     ],
+     "mode": "ink",
+     "text": "Kararlar geç alınır, farklı merkezler arasında yetki çatışması yaşanır, ordu ve halk tek elden yönetilemez; Millî Mücadele başarıya ulaşamayabilirdi.",
+     "fs": 16,
+     "pill": [
+      818,
+      127
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "img": "@IMG:s7-u4/p-21@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Yürütme Gücü: Anayasa ve yasalar",
+     "r": [
+      122,
+      94,
+      721,
+      360
+     ]
+    },
+    {
+     "t": "Cumhurbaşkanlığı forsundaki 16…",
+     "r": [
+      100,
+      426,
+      750,
+      738
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 31,
+   "img": "@IMG:s7-u4/p-22@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Yargı Gücü: Bağımsız ve tarafsız",
+     "r": [
+      112,
+      0,
+      800,
+      589
+     ]
+    },
+    {
+     "t": "Devlet ve vatandaşlar arasında…",
+     "r": [
+      94,
+      561,
+      746,
+      603
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1047,
+      700,
+      40
+     ],
+     "mode": "ink",
+     "text": "Güç tek elde toplanır, keyfî yönetim ve haksızlıklar ortaya çıkar, vatandaşların hak ve özgürlükleri korunamaz.",
+     "fs": 15,
+     "pill": [
+      822,
+      1034
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      748,
+      1085,
+      60,
+      60
+     ],
+     "panel": "yonetim",
+     "label": "Ülkemizde Yönetim"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "img": "@IMG:s7-u4/p-23@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Cumhurbaşkanlığı Hükümet…",
+     "r": [
+      113,
+      88,
+      804,
+      1076
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      1060,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Parlamenter sistemde Meclis hükümeti denetler ve düşürebilir; ancak koalisyonlar kararların geç alınmasına neden olabilir.\nCumhurbaşkanlığı Hükümet Sisteminde yürütme halk tarafından seçilir, kararlar hızlı alınır ve uygulanır; yürütme doğrudan halka karşı sorumludur.",
+     "pill": [
+      394,
+      1104
+     ],
+     "qx": 139,
+     "qt": 1045,
+     "qb": 1220,
+     "qr": 800,
+     "bal": [
+      109,
+      907,
+      812,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      734,
+      1082,
+      68,
+      58
+     ],
+     "panel": "tastlari",
+     "label": "Yönetimin Yapı Taşları"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "img": "@IMG:s7-u4/p-24@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Kuvvetler birliği ve kuvvetler…",
+     "r": [
+      33,
+      49,
+      820,
+      638
+     ]
+    },
+    {
+     "t": "Avantajlar Avantajlar",
+     "r": [
+      34,
+      659,
+      878,
+      505
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      340,
+      190,
+      280
+     ],
+     "mode": "ink",
+     "text": "Yasama, yürütme ve yargı tek elde (Mecliste) toplanır. Olağanüstü dönemlerde uygulanır.",
+     "fs": 13,
+     "pill": [
+      294,
+      333
+     ]
+    },
+    {
+     "area": [
+      370,
+      340,
+      180,
+      250
+     ],
+     "mode": "ink",
+     "text": "Devleti yöneten güçlerdir; amaç ülkenin düzenini sağlamaktır.",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      470,
+      333
+     ]
+    },
+    {
+     "area": [
+      590,
+      340,
+      240,
+      280
+     ],
+     "mode": "ink",
+     "text": "Yasama, yürütme ve yargı ayrı organlara verilir. Güçler birbirini denetler.",
+     "fs": 13,
+     "pill": [
+      822,
+      327
+     ]
+    },
+    {
+     "area": [
+      140,
+      735,
+      300,
+      90
+     ],
+     "mode": "ink",
+     "text": "Kararlar hızlı alınır, birlik sağlanır.",
+     "fs": 14,
+     "pill": [
+      354,
+      722
+     ]
+    },
+    {
+     "area": [
+      510,
+      735,
+      300,
+      90
+     ],
+     "mode": "ink",
+     "text": "Güç tek elde toplanmaz, haklar güvence altına alınır.",
+     "fs": 14,
+     "pill": [
+      724,
+      722
+     ]
+    },
+    {
+     "area": [
+      140,
+      945,
+      300,
+      90
+     ],
+     "mode": "ink",
+     "text": "Güç kötüye kullanılabilir, denetim zayıftır.",
+     "fs": 14,
+     "pill": [
+      360,
+      932
+     ]
+    },
+    {
+     "area": [
+      510,
+      945,
+      300,
+      90
+     ],
+     "mode": "ink",
+     "text": "Kararların alınması bazen daha uzun sürebilir.",
+     "fs": 14,
+     "pill": [
+      742,
+      935
+     ]
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "img": "@IMG:s7-u4/p-25@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Verilen metin ve örnek olayı",
+     "r": [
+      86,
+      88,
+      742,
+      348
+     ]
+    },
+    {
+     "t": "1. Elif'in yaşadığı sorun nedir?",
+     "r": [
+      98,
+      408,
+      724,
+      305
+     ]
+    },
+    {
+     "t": "3. Elif hakkını aramak için",
+     "r": [
+      98,
+      685,
+      724,
+      479
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      110,
+      478,
+      700,
+      70
+     ],
+     "mode": "ink",
+     "text": "Kişisel bilgileri izinsiz kullanılmış, sürekli reklam bildirimi almış, aboneliği izni olmadan otomatik yenilenmiştir.",
+     "fs": 14,
+     "pill": [
+      774,
+      459
+     ]
+    },
+    {
+     "area": [
+      110,
+      590,
+      700,
+      100
+     ],
+     "mode": "ink",
+     "text": "Ailesine haber vermeli, uygulamanın kişisel veri ve abonelik ayarlarını kontrol etmeli, şirkete dilekçe ile başvurarak sözleşmeyi iptal etmek istemelidir.",
+     "fs": 14,
+     "pill": [
+      774,
+      571
+     ]
+    },
+    {
+     "area": [
+      110,
+      740,
+      700,
+      95
+     ],
+     "mode": "ink",
+     "text": "Kişisel Verilerin Korunması Kanunu ve Tüketicinin Korunması Hakkında Kanun.",
+     "fs": 15,
+     "pill": [
+      744,
+      718
+     ]
+    },
+    {
+     "area": [
+      110,
+      890,
+      700,
+      90
+     ],
+     "mode": "ink",
+     "text": "Ticaret Bakanlığına bağlı Tüketici Hakem Heyetine veya Kişisel Verileri Koruma Kurumuna başvurabilir; CİMER'den de şikâyette bulunabilir.",
+     "fs": 14,
+     "pill": [
+      828,
+      877
+     ]
+    },
+    {
+     "area": [
+      110,
+      1020,
+      700,
+      90
+     ],
+     "mode": "ink",
+     "text": "Tüketici mahkemesine (yargıya) başvurmalıdır.",
+     "fs": 15,
+     "pill": [
+      774,
+      1001
+     ]
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "img": "@IMG:s7-u4/p-26@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      82,
+      94,
+      724,
+      325
+     ]
+    },
+    {
+     "t": "Bütün gruplar okuma işlemini…",
+     "r": [
+      138,
+      391,
+      660,
+      773
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      222,
+      565,
+      256,
+      200
+     ],
+     "mode": "ink",
+     "text": "TBMM kanunları yapar, Cumhurbaşkanı yayımlar ve uygular. Cumhurbaşkanı kanunları bir kez daha görüşülmek üzere TBMM'ye geri gönderebilir. TBMM yazılı soruyla yürütmeyi denetler.",
+     "fs": 13,
+     "pill": [
+      352,
+      552
+     ]
+    },
+    {
+     "area": [
+      512,
+      585,
+      260,
+      200
+     ],
+     "mode": "ink",
+     "text": "TBMM kanunları yapar, mahkemeler bu kanunlara göre karar verir. Anayasa Mahkemesi kanunların anayasaya uygunluğunu denetler.",
+     "fs": 13,
+     "pill": [
+      792,
+      572
+     ]
+    },
+    {
+     "area": [
+      312,
+      885,
+      266,
+      200
+     ],
+     "mode": "ink",
+     "text": "Mahkemeler yürütmenin işlemlerinin hukuka uygunluğunu denetler; Danıştay idari davalara bakar. Yürütme mahkeme kararlarını uygular.",
+     "fs": 13,
+     "pill": [
+      580,
+      887
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      726,
+      253,
+      62,
+      59
+     ],
+     "panel": "anayasa",
+     "label": "T.C. 1982 Anayasası"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "img": "@IMG:s7-u4/p-27@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Nesi Var? tekniğini kullanarak…",
+     "r": [
+      38,
+      54,
+      811,
+      432
+     ]
+    },
+    {
+     "t": "Değerlendirme Formu",
+     "r": [
+      122,
+      458,
+      744,
+      706
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      771,
+      133,
+      64,
+      61
+     ],
+     "panel": "nesivar",
+     "label": "Nesi Var? Tekniği"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "img": "@IMG:s7-u4/p-28@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Akran Değerlendirme Formu",
+     "r": [
+      125,
+      21,
+      706,
+      597
+     ]
+    },
+    {
+     "t": "3. Etkinlik boyunca…",
+     "r": [
+      96,
+      590,
+      750,
+      574
+     ]
+    }
+   ],
+   "answers": []
+  }
+ ]
+};

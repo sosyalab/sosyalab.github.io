@@ -1,0 +1,1110 @@
+// 7. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 56–83)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Küreselleşmenin insan ve toplum hayatına etkisi (s. 58–67)
+window.BOOK = {
+ "id": "s7-u2-k1",
+ "title": "Küreselleşmenin insan ve toplum hayatına etkisi",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u2-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 56,
+   "img": "@IMG:s7-u2/p-01@",
+   "section": "2. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      87,
+      879,
+      475
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      534,
+      884,
+      646
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      195,
+      1091,
+      69,
+      70
+     ],
+     "panel": "alan",
+     "label": "2. Öğrenme alanı"
+    },
+    {
+     "area": [
+      551,
+      1002,
+      70,
+      64
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "img": "@IMG:s7-u2/p-02@",
+   "section": "Evimiz Dünya",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      796,
+      502
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      564,
+      878,
+      600
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 58,
+   "img": "@IMG:s7-u2/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "KÜRESELLEŞMENİN",
+     "r": [
+      38,
+      55,
+      879,
+      430
+     ]
+    },
+    {
+     "t": "Dp) Örneklerden yola çıkarak…",
+     "r": [
+      61,
+      457,
+      804,
+      504
+     ]
+    },
+    {
+     "t": "Kendi tanımım ile sözlük tanımı",
+     "r": [
+      104,
+      933,
+      751,
+      231
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      313,
+      820,
+      485,
+      48
+     ],
+     "mode": "ink",
+     "text": "Ülkelerin ulaşım, iletişim ve ticaret yoluyla birbirine daha çok bağlanması.",
+     "fs": 16,
+     "pill": [
+      851,
+      807
+     ]
+    },
+    {
+     "area": [
+      313,
+      884,
+      485,
+      48
+     ],
+     "mode": "ink",
+     "text": "Dünyanın ekonomik, kültürel ve siyasi olarak birbirine daha bağlı hâle gelmesi süreci.",
+     "fs": 16,
+     "pill": [
+      851,
+      871
+     ]
+    },
+    {
+     "area": [
+      143,
+      1030,
+      320,
+      80
+     ],
+     "mode": "ink",
+     "text": "İkisi de ülkelerin ve insanların birbirine bağlanmasını anlatır.",
+     "fs": 16,
+     "pill": [
+      435,
+      990
+     ]
+    },
+    {
+     "area": [
+      498,
+      1030,
+      315,
+      80
+     ],
+     "mode": "ink",
+     "text": "Sözlük tanımı daha kapsamlıdır; ekonomik, kültürel ve siyasi alanları birlikte sayar.",
+     "fs": 16,
+     "pill": [
+      850,
+      1017
+     ]
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "img": "@IMG:s7-u2/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "3 Verilen metni okuyunuz. Metinden",
+     "r": [
+      33,
+      55,
+      856,
+      867
+     ]
+    },
+    {
+     "t": "3. Bir ülkede başlayan salgın",
+     "r": [
+      124,
+      894,
+      710,
+      270
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      290,
+      808,
+      118,
+      26
+     ],
+     "mode": "ink",
+     "text": "ulaşımın",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      372,
+      786
+     ]
+    },
+    {
+     "area": [
+      168,
+      854,
+      108,
+      26
+     ],
+     "mode": "ink",
+     "text": "iletişim",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      238,
+      832
+     ]
+    },
+    {
+     "area": [
+      646,
+      926,
+      85,
+      26
+     ],
+     "mode": "ink",
+     "text": "ekonomi",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      698,
+      913
+     ]
+    },
+    {
+     "area": [
+      728,
+      926,
+      78,
+      26
+     ],
+     "mode": "ink",
+     "text": "ticaret",
+     "fs": 17,
+     "center": true,
+     "pill": [
+      828,
+      913
+     ]
+    },
+    {
+     "area": [
+      614,
+      1001,
+      108,
+      26
+     ],
+     "mode": "ink",
+     "text": "sosyal hayat",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      684,
+      979
+     ]
+    },
+    {
+     "area": [
+      296,
+      1055,
+      108,
+      26
+     ],
+     "mode": "ink",
+     "text": "yüz yüze eğitim",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      360,
+      1036
+     ]
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "img": "@IMG:s7-u2/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Küreselleşme ile ilgili verilen…",
+     "r": [
+      38,
+      55,
+      792,
+      725
+     ]
+    },
+    {
+     "t": "Sanayi İnkılabı öncesinde…",
+     "r": [
+      38,
+      555,
+      804,
+      609
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      378,
+      482,
+      440,
+      70
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Küreselleşmenin ekonomi, ulaşım, iletişim, kültür, sağlık ve çevre alanlarındaki etkilerinden söz edilir.\nOlumsuz etkileri: yerel kültürlerin zayıflaması, salgınların hızla yayılması, çevre sorunlarının artması, gelir adaletsizliği.\nÇözüm: millî ve kültürel değerlere sahip çıkmak, bilinçli tüketmek, çevreyi korumak, ülkeler arası iş birliğini artırmak.",
+     "pill": [
+      532,
+      565
+     ],
+     "qx": 350,
+     "qt": 482,
+     "qb": 559,
+     "qr": 818,
+     "bal": [
+      274,
+      567,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      508,
+      924,
+      320,
+      80
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "2015–2025 arasında ihracat genel olarak artmıştır (2016 ve 2020 düşüşleri dışında).\nNedenleri: ulaşım ve iletişim teknolojilerinin gelişmesi, yeni pazarlara ulaşılması, üretim ve kalitenin artması, e-ticaret.",
+     "pill": [
+      602,
+      875
+     ],
+     "qx": 137,
+     "qt": 906,
+     "qb": 1144,
+     "qr": 830,
+     "bal": [
+      34,
+      793,
+      812,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      508,
+      1012,
+      320,
+      110
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "2020 yılında COVID-19 salgını yaşanmıştır. Ülkeler arası giriş çıkışlar yasaklanmış, üretim ve taşımacılık aksamış, bu durum ihracatı olumsuz etkilemiştir.",
+     "pill": [
+      602,
+      1140
+     ],
+     "qx": 137,
+     "qt": 906,
+     "qb": 1215,
+     "qr": 830,
+     "bal": [
+      34,
+      818,
+      812,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      756,
+      405,
+      57,
+      61
+     ],
+     "panel": "kuresellesme",
+     "label": "Küreselleşme"
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "img": "@IMG:s7-u2/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Geçmişte insanlar daha az yük",
+     "r": [
+      124,
+      61,
+      776,
+      664
+     ]
+    },
+    {
+     "t": "Orta Koridor olarak da bilinen",
+     "r": [
+      122,
+      697,
+      710,
+      467
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      158,
+      987,
+      650,
+      70
+     ],
+     "mode": "ink",
+     "text": "Ticaret, ulaşım ve ekonomi alanlarında katkı sağlar; Türkiye Asya ile Avrupa arasında köprü olur, yatırımlar ve istihdam artar.",
+     "fs": 16,
+     "pill": [
+      798,
+      974
+     ]
+    },
+    {
+     "area": [
+      138,
+      1100,
+      680,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ulaşım yolları geliştikçe ülkeler arasında ticaret, turizm ve yatırımlar artar. Ülkeler ortak projelerde birlikte çalışır, karşılıklı güven ve iş birliği güçlenir.",
+     "pill": [
+      382,
+      1075
+     ],
+     "qx": 134,
+     "qt": 1100,
+     "qb": 1220,
+     "qr": 818,
+     "bal": [
+      118,
+      987,
+      718,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "img": "@IMG:s7-u2/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İletişim Sistemleri",
+     "r": [
+      76,
+      73,
+      759,
+      1091
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      488,
+      542,
+      330,
+      95
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "E-ticaretin payı 2022 dışında her yıl artmıştır (yaklaşık %18,5'ten %21,5'e).\nİnsanlar alışverişte giderek daha çok genel ağı ve mobil uygulamaları tercih etmektedir.",
+     "pill": [
+      588,
+      625
+     ],
+     "qx": 196,
+     "qt": 402,
+     "qb": 757,
+     "qr": 823,
+     "bal": [
+      72,
+      760,
+      767,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      488,
+      652,
+      330,
+      55
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Genel ağ ve iletişim teknolojileri sayesinde evden çıkmadan başka ülkelerden alışveriş yapılabilir hâle gelmiş, bu da e-ticaretin toplam ticaretteki payını artırmıştır.",
+     "pill": [
+      588,
+      744
+     ],
+     "qx": 184,
+     "qt": 517,
+     "qb": 757,
+     "qr": 823,
+     "bal": [
+      72,
+      760,
+      767,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "img": "@IMG:s7-u2/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Karekodla verilen içeriği…",
+     "r": [
+      106,
+      83,
+      781,
+      816
+     ]
+    },
+    {
+     "t": "Küreselleşme kavramı, dünya…",
+     "r": [
+      122,
+      770,
+      771,
+      394
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      133,
+      120,
+      380,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türk üreticiler ithal ettikleri çekirdekleri Türk kahvesi geleneğiyle işleyip kaliteli ürünler hâline getirmiş, ambalaj ve markalaşmaya yatırım yaparak ürünlerini dünyaya ihraç etmişlerdir.",
+     "pill": [
+      257,
+      167
+     ],
+     "qx": 134,
+     "qt": 102,
+     "qb": 191,
+     "qr": 819,
+     "bal": [
+      102,
+      199,
+      789,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      710,
+      700,
+      42
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hastalıkların teşhis ve tedavisi kolaylaşmış, ihtiyaç sahibi ülkelere tıbbi destek ulaşmıştır (TİKA'nın Senegal örneği). Salgınlara karşı ortak mücadele ile insan sağlığı korunmaktadır.",
+     "pill": [
+      414,
+      754
+     ],
+     "qx": 132,
+     "qt": 570,
+     "qb": 778,
+     "qr": 865,
+     "bal": [
+      102,
+      786,
+      789,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      763,
+      98,
+      50,
+      58
+     ],
+     "panel": "kahve",
+     "label": "Kahvenin Yolculuğu"
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "img": "@IMG:s7-u2/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "küresel çevre sorunlarının…",
+     "r": [
+      122,
+      84,
+      706,
+      212
+     ]
+    },
+    {
+     "t": "Öğretmeninizin rehberliğinde…",
+     "r": [
+      75,
+      268,
+      766,
+      913
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      755,
+      1103,
+      60,
+      59
+     ],
+     "panel": "yesilvatan",
+     "label": "Kontrol Listesi"
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "img": "@IMG:s7-u2/p-10@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Küreselleşmenin olumsuz…",
+     "r": [
+      116,
+      87,
+      775,
+      911
+     ]
+    },
+    {
+     "t": "Milli ve manevi değerlerimizi…",
+     "r": [
+      116,
+      970,
+      738,
+      194
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      610,
+      400,
+      60
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Konuşma dilinde yabancı sözcüklerin kullanılması, hazır gıda tüketiminin artması, gereksiz alışveriş, geleneksel bayram ve törenlerin önemini yitirmesi, yerel müzik ve oyunların unutulması.",
+     "pill": [
+      264,
+      663
+     ],
+     "qx": 128,
+     "qt": 605,
+     "qb": 670,
+     "qr": 528,
+     "bal": [
+      112,
+      678,
+      783,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1000,
+      400,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Dilimizi doğru kullanmalı, geleneklerimizi yaşatmalı, kültür festivallerine katılmalı, tarihî mekânları korumalı, medya içeriklerini eleştirel düşünerek seçmeli ve bilinçli tüketmeliyiz.",
+     "pill": [
+      264,
+      1041
+     ],
+     "qx": 128,
+     "qt": 1000,
+     "qb": 1045,
+     "qr": 528,
+     "bal": [
+      128,
+      1053,
+      420,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "img": "@IMG:s7-u2/p-11@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Şemada verilen başlıklar…",
+     "r": [
+      38,
+      49,
+      879,
+      564
+     ]
+    },
+    {
+     "t": "Sorunların Yaygınlaşması",
+     "r": [
+      165,
+      585,
+      689,
+      579
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      203,
+      327,
+      255,
+      130
+     ],
+     "mode": "ink",
+     "text": "Uzak yerlere kısa sürede ulaşılıyor, görüntülü görüşmeyle dünyanın öbür ucundakilerle konuşabiliyoruz.",
+     "fs": 15,
+     "pill": [
+      399,
+      305
+     ]
+    },
+    {
+     "area": [
+      548,
+      327,
+      265,
+      130
+     ],
+     "mode": "ink",
+     "text": "Ürünler dünyanın her yerine satılabiliyor, e-ticaret ve uluslararası şirketler arttı.",
+     "fs": 15,
+     "pill": [
+      756,
+      305
+     ]
+    },
+    {
+     "area": [
+      203,
+      802,
+      255,
+      130
+     ],
+     "mode": "ink",
+     "text": "Farklı yemek, müzik ve gelenekleri tanıyoruz; ancak yerel kültürler zayıflayabiliyor.",
+     "fs": 15,
+     "pill": [
+      399,
+      777
+     ]
+    },
+    {
+     "area": [
+      548,
+      802,
+      265,
+      130
+     ],
+     "mode": "ink",
+     "text": "Üretim ve tüketim arttıkça karbon salınımı, orman kaybı ve iklim krizi yaygınlaştı.",
+     "fs": 15,
+     "pill": [
+      756,
+      777
+     ]
+    },
+    {
+     "area": [
+      198,
+      1027,
+      620,
+      70
+     ],
+     "mode": "ink",
+     "text": "Salgın hastalıklar hızla yayıldı, sağlık alanında iş birliği arttı, dilimize yabancı sözcükler girdi.",
+     "fs": 15,
+     "pill": [
+      760,
+      1002
+     ]
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "img": "@IMG:s7-u2/p-12@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Küreselleşmenin insan ve toplum…",
+     "r": [
+      33,
+      55,
+      823,
+      866
+     ]
+    },
+    {
+     "t": "Oluşturduğunuz kavram…",
+     "r": [
+      105,
+      893,
+      724,
+      271
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      118,
+      384,
+      255,
+      36
+     ],
+     "mode": "ink",
+     "text": "İnsan (birey)",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      392,
+      371
+     ]
+    },
+    {
+     "area": [
+      568,
+      384,
+      262,
+      36
+     ],
+     "mode": "ink",
+     "text": "Toplum",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      848,
+      371
+     ]
+    },
+    {
+     "area": [
+      126,
+      526,
+      235,
+      40
+     ],
+     "mode": "ink",
+     "text": "Yaşam biçimi değişti",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      370,
+      513
+     ]
+    },
+    {
+     "area": [
+      126,
+      598,
+      235,
+      40
+     ],
+     "mode": "ink",
+     "text": "Tüketim alışkanlıkları değişti",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      382,
+      585
+     ]
+    },
+    {
+     "area": [
+      126,
+      669,
+      235,
+      40
+     ],
+     "mode": "ink",
+     "text": "Bilgiye hızlı ulaşım",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      376,
+      656
+     ]
+    },
+    {
+     "area": [
+      126,
+      738,
+      235,
+      40
+     ],
+     "mode": "ink",
+     "text": "Farklı kültürleri tanıma",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      376,
+      725
+     ]
+    },
+    {
+     "area": [
+      126,
+      813,
+      235,
+      40
+     ],
+     "mode": "ink",
+     "text": "Uzaktan eğitim ve çalışma",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      376,
+      800
+     ]
+    },
+    {
+     "area": [
+      578,
+      526,
+      240,
+      40
+     ],
+     "mode": "ink",
+     "text": "Ülkeler arası ticaret arttı",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      828,
+      513
+     ]
+    },
+    {
+     "area": [
+      578,
+      598,
+      240,
+      40
+     ],
+     "mode": "ink",
+     "text": "Kültürel etkileşim arttı",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      840,
+      585
+     ]
+    },
+    {
+     "area": [
+      578,
+      669,
+      240,
+      40
+     ],
+     "mode": "ink",
+     "text": "Salgınlar hızla yayıldı",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      834,
+      656
+     ]
+    },
+    {
+     "area": [
+      578,
+      738,
+      240,
+      40
+     ],
+     "mode": "ink",
+     "text": "Çevre sorunları arttı",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      834,
+      725
+     ]
+    },
+    {
+     "area": [
+      578,
+      813,
+      240,
+      40
+     ],
+     "mode": "ink",
+     "text": "Yerel kültürler zayıfladı",
+     "center": true,
+     "fs": 15,
+     "pill": [
+      834,
+      800
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      760,
+      949,
+      53,
+      57
+     ],
+     "panel": "kavramharitasi",
+     "label": "Kontrol Listesi"
+    }
+   ]
+  }
+ ]
+};

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /konu/
 Disallow: /yazili/
-Disallow: /kitaplar/*/img/
+Disallow: /kitaplar/*/veri/

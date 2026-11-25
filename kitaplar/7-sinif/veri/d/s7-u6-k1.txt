@@ -1,0 +1,1037 @@
+// 7. Sınıf Sosyal Bilgiler · 6. Öğrenme Alanı: Teknoloji ve Sosyal Bilimler (s. 112–145)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Bilimsel ve teknolojik gelişmelerin gelecekteki hayata etkisi (s. 114–126)
+window.BOOK = {
+ "id": "s7-u6-k1",
+ "title": "Bilimsel ve teknolojik gelişmelerin gelecekteki hayata etkisi",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u6-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 112,
+   "img": "@IMG:s7-u6/p-01@",
+   "section": "6. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      0,
+      883,
+      519
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      491,
+      884,
+      690
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      208,
+      1096,
+      66,
+      66
+     ],
+     "panel": "alan",
+     "label": "6. Öğrenme alanı"
+    },
+    {
+     "area": [
+      552,
+      1003,
+      64,
+      62
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 113,
+   "img": "@IMG:s7-u6/p-02@",
+   "section": "Teknoloji ve Sosyal Bilimler",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      878,
+      517
+     ]
+    },
+    {
+     "t": "sosya gile",
+     "r": [
+      33,
+      489,
+      879,
+      675
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 114,
+   "img": "@IMG:s7-u6/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "BİLİMSEL VE TEKNOLOJİK",
+     "r": [
+      38,
+      55,
+      821,
+      378
+     ]
+    },
+    {
+     "t": "Alexander",
+     "r": [
+      77,
+      405,
+      799,
+      512
+     ]
+    },
+    {
+     "t": "etkinlikte yer alan icatların…",
+     "r": [
+      101,
+      889,
+      757,
+      275
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      200,
+      625,
+      440,
+      24
+     ],
+     "mode": "card",
+     "label": "Eşleştirme",
+     "text": "Telefon → Alexander Graham Bell\nMatbaa → Johannes Gutenberg\nTekerlek → Sümerler\nUçak → Wright Kardeşler",
+     "pill": [
+      366,
+      561
+     ],
+     "qx": 96,
+     "qt": 600,
+     "qb": 745,
+     "qr": 863,
+     "bal": [
+      96,
+      702,
+      767,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      140,
+      1095,
+      640,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Telefon uzaktaki insanlarla anında iletişim kurmayı, matbaa bilginin çoğaltılıp geniş kitlelere yayılmasını, tekerlek yük ve insan taşımayı kolaylaştırarak ticaretin gelişmesini, uçak uzak mesafelere kısa sürede ulaşmayı sağlamıştır.",
+     "pill": [
+      396,
+      1076
+     ],
+     "qx": 134,
+     "qt": 1095,
+     "qb": 1215,
+     "qr": 789,
+     "bal": [
+      97,
+      957,
+      765,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 115,
+   "img": "@IMG:s7-u6/p-04@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "Aşağıda bilişim ve ulaşım…",
+     "r": [
+      75,
+      84,
+      832,
+      638
+     ]
+    },
+    {
+     "t": "Deniz Yolu",
+     "r": [
+      78,
+      694,
+      829,
+      470
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      300,
+      455,
+      95,
+      130
+     ],
+     "mode": "ink",
+     "text": "Güvenlik kamerası",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      430,
+      442
+     ]
+    },
+    {
+     "area": [
+      545,
+      455,
+      95,
+      130
+     ],
+     "mode": "ink",
+     "text": "MR cihazı, e-Nabız",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      627,
+      409
+     ]
+    },
+    {
+     "area": [
+      725,
+      365,
+      95,
+      120
+     ],
+     "mode": "ink",
+     "text": "Akıllı telefon",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      795,
+      307
+     ]
+    },
+    {
+     "area": [
+      300,
+      955,
+      95,
+      140
+     ],
+     "mode": "ink",
+     "text": "Gemi, feribot",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      430,
+      942
+     ]
+    },
+    {
+     "area": [
+      545,
+      955,
+      95,
+      140
+     ],
+     "mode": "ink",
+     "text": "Tramvay, metro, hızlı tren",
+     "fs": 14,
+     "center": true,
+     "pill": [
+      627,
+      918
+     ]
+    },
+    {
+     "area": [
+      725,
+      865,
+      95,
+      125
+     ],
+     "mode": "ink",
+     "text": "Uçak, helikopter",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      855,
+      852
+     ]
+    }
+   ]
+  },
+  {
+   "n": 116,
+   "img": "@IMG:s7-u6/p-05@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Aşağıda verilen görselleri ve…",
+     "r": [
+      38,
+      55,
+      791,
+      1109
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 117,
+   "img": "@IMG:s7-u6/p-06@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "İNTERAKTİF",
+     "r": [
+      134,
+      83,
+      683,
+      364
+     ]
+    },
+    {
+     "t": "TEKNOLOJİNİN",
+     "r": [
+      94,
+      419,
+      734,
+      781
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      480,
+      1000,
+      330,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ulaşım: okul servisi, tramvay.\nİletişim ve bilişim: tablet, genel ağ, etkileşimli dokunmatik pano, akıllı telefon (fotoğraf çekme ve paylaşma).",
+     "pill": [
+      742,
+      1002
+     ],
+     "qx": 108,
+     "qt": 860,
+     "qb": 1076,
+     "qr": 816,
+     "bal": [
+      90,
+      827,
+      742,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      500,
+      1045,
+      310,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Okula otobüsle gidiyorum, ailemle telefonla görüşüyorum. Kendi bisikletime ve dizüstü bilgisayarıma sahip olmak isterim; çünkü ulaşımımı kolaylaştırır ve ödevlerimi araştırmamı sağlar.",
+     "pill": [
+      594,
+      1110
+     ],
+     "qx": 124,
+     "qt": 1010,
+     "qb": 1076,
+     "qr": 816,
+     "bal": [
+      90,
+      827,
+      742,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      560,
+      1078,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Yapay zekâ ve sürücüsüz araçlar; çünkü hayatımızı kolaylaştırıp güvenli hâle getirecek pek çok yeniliğe kapı açıyor.",
+     "pill": [
+      732,
+      1080
+     ],
+     "qx": 134,
+     "qt": 1042,
+     "qb": 1104,
+     "qr": 816,
+     "bal": [
+      90,
+      1112,
+      742,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 118,
+   "img": "@IMG:s7-u6/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilimsel ve teknolojik…",
+     "r": [
+      38,
+      55,
+      791,
+      1109
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      757,
+      1051,
+      60,
+      59
+     ],
+     "panel": "etkiler",
+     "label": "Bilimsel ve Teknolojik Gelişmelerin Toplum Hayatına Etkileri"
+    }
+   ]
+  },
+  {
+   "n": 119,
+   "img": "@IMG:s7-u6/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Nanobotlar 7 ronenizör ile ilgili",
+     "r": [
+      79,
+      82,
+      833,
+      594
+     ]
+    },
+    {
+     "t": "Yapay zekânın gelecekteki yaşam…",
+     "r": [
+      79,
+      648,
+      833,
+      516
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      380,
+      390,
+      330,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kanser tümörleri, damar tıkanıklıkları, enfeksiyonlar, diyabet ve beyin hastalıklarında ilacı doğrudan hastalıklı bölgeye taşımak; ameliyatsız tedavi ve erken teşhis.",
+     "pill": [
+      462,
+      395
+     ],
+     "qx": 97,
+     "qt": 375,
+     "qb": 552,
+     "qr": 867,
+     "bal": [
+      75,
+      471,
+      841,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      580,
+      695,
+      240,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Sağlık, eğitim, ulaşım ve güvenlik hizmetleri hızlanıp kişiselleşecek; birçok iş otomatikleşecek, yeni meslekler ortaya çıkacak. Kişisel verilerin korunması ve etik kurallar daha önemli hâle gelecek.",
+     "pill": [
+      464,
+      697
+     ],
+     "qx": 97,
+     "qt": 555,
+     "qb": 857,
+     "qr": 900,
+     "bal": [
+      75,
+      776,
+      841,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      380,
+      1115,
+      330,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Radara yakalanmayan (hayalet) uçaklar, yakıt verimliliği yüksek insansız savaş uçakları, yapay zekâ ile sürü hâlinde uçan sistemler ve yerli motor teknolojileri gibi yeniliklere öncülük edebilir.",
+     "pill": [
+      552,
+      1111
+     ],
+     "qx": 97,
+     "qt": 1086,
+     "qb": 1215,
+     "qr": 710,
+     "bal": [
+      75,
+      973,
+      841,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      759,
+      97,
+      64,
+      60
+     ],
+     "panel": "kronovizor",
+     "label": "Kronovizör ile ilgili video"
+    }
+   ]
+  },
+  {
+   "n": 120,
+   "img": "@IMG:s7-u6/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      247,
+      19,
+      448,
+      256
+     ]
+    },
+    {
+     "t": "Görsel Nesnelerin",
+     "r": [
+      78,
+      247,
+      750,
+      917
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      965,
+      600,
+      110
+     ],
+     "mode": "ink",
+     "text": "Mahallemizdeki akıllı sokak lambaları hava kararınca kendiliğinden yanıyor; akıllı trafik ışıkları araç yoğunluğuna göre süre ayarlıyor. Metinde de bu uygulamaların enerji tasarrufu sağladığı belirtiliyor; ben de akşamları lambaların otomatik yandığını gözlemliyorum.",
+     "fs": 15,
+     "pill": [
+      690,
+      955
+     ]
+    }
+   ]
+  },
+  {
+   "n": 121,
+   "img": "@IMG:s7-u6/p-10@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilim ve teknoloji, tarih boyunca",
+     "r": [
+      92,
+      84,
+      825,
+      685
+     ]
+    },
+    {
+     "t": "Günümüzdeki bilimsel ve…",
+     "r": [
+      74,
+      645,
+      775,
+      533
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      500,
+      612,
+      320,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İletişim: akıllı telefon, görüntülü görüşme. Eğitim: etkileşimli tahta, EBA, uzaktan eğitim. Sağlık: e-Nabız, MR, robotik cerrahi. Ulaşım: hızlı tren, elektrikli araçlar, navigasyon.",
+     "pill": [
+      594,
+      632
+     ],
+     "qx": 104,
+     "qt": 472,
+     "qb": 648,
+     "qr": 905,
+     "bal": [
+      88,
+      656,
+      833,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      132,
+      1099,
+      62,
+      60
+     ],
+     "panel": "cember",
+     "label": "Çember Tartışma Tekniği"
+    },
+    {
+     "area": [
+      756,
+      1099,
+      58,
+      60
+     ],
+     "panel": "cemberkontrol",
+     "label": "Kontrol Listesi"
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "img": "@IMG:s7-u6/p-11@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Arkadaşlar, günlük yaşamımızda…",
+     "r": [
+      204,
+      43,
+      713,
+      321
+     ]
+    },
+    {
+     "t": "ÇALIŞMA YAPRAĞI",
+     "r": [
+      124,
+      336,
+      702,
+      262
+     ]
+    },
+    {
+     "t": "2. Bu teknolojinin hayatınızı…",
+     "r": [
+      150,
+      570,
+      670,
+      594
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      170,
+      530,
+      560,
+      26
+     ],
+     "mode": "ink",
+     "text": "Akıllı telefon",
+     "fs": 15,
+     "pill": [
+      696,
+      493
+     ]
+    },
+    {
+     "area": [
+      170,
+      655,
+      560,
+      26
+     ],
+     "mode": "ink",
+     "text": "Ailem ve arkadaşlarımla anında haberleşiyorum, ödevlerimi araştırıyorum.",
+     "fs": 15,
+     "pill": [
+      684,
+      642
+     ]
+    },
+    {
+     "area": [
+      170,
+      780,
+      560,
+      26
+     ],
+     "mode": "ink",
+     "text": "Zamanımızı verimli kullanmak, bağımlılıktan ve sahte bilgiden korunmak için.",
+     "fs": 15,
+     "pill": [
+      696,
+      740
+     ]
+    },
+    {
+     "area": [
+      170,
+      905,
+      560,
+      26
+     ],
+     "mode": "ink",
+     "text": "Görme engelliler için engelleri sesli uyaran akıllı baston.",
+     "fs": 15,
+     "pill": [
+      780,
+      892
+     ]
+    },
+    {
+     "area": [
+      170,
+      1018,
+      560,
+      26
+     ],
+     "mode": "ink",
+     "text": "Sağlık; çünkü teşhis ve tedavide hayat kurtarıyor.",
+     "fs": 15,
+     "pill": [
+      780,
+      1005
+     ]
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "img": "@IMG:s7-u6/p-12@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Geleceğin iletişimi, eğitimi,…",
+     "r": [
+      34,
+      55,
+      883,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      470,
+      830,
+      330,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Beyin-bilgisayar arayüzleri ve yapay zekâ sayesinde konuşamayan, işitemeyen ya da farklı dil konuşan insanlar anında iletişim kurabilecek; düşünceyle cihaz kontrolü ve anlık çeviri yaygınlaşacak.",
+     "pill": [
+      534,
+      856
+     ],
+     "qx": 104,
+     "qt": 690,
+     "qb": 992,
+     "qr": 905,
+     "bal": [
+      30,
+      905,
+      891,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      340,
+      1105,
+      480,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yapay zekâ her öğrencinin seviyesine göre kişiselleştirilmiş dersler hazırlayacak; sanal ve artırılmış gerçeklikle dersler deneyime dönüşecek, uzaktan eğitim ve dijital materyaller yaygınlaşacak.",
+     "pill": [
+      560,
+      1137
+     ],
+     "qx": 106,
+     "qt": 1097,
+     "qb": 1215,
+     "qr": 820,
+     "bal": [
+      30,
+      984,
+      891,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      760,
+      187,
+      57,
+      60
+     ],
+     "panel": "fikirtarama",
+     "label": "Fikir Taraması Tekniği"
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "img": "@IMG:s7-u6/p-13@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Alzheimer'ı (Alzaymır)…",
+     "r": [
+      38,
+      83,
+      879,
+      681
+     ]
+    },
+    {
+     "t": "Okuduğunuz haber ile kendi gözlem",
+     "r": [
+      38,
+      736,
+      813,
+      429
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      400,
+      428,
+      400,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hastalıklar erken evrede yapay zekâ ile teşhis edilecek, kişiye özel ilaçlar ve nanobotlarla tedavi yapılacak; robotik cerrahi, uzaktan muayene ve giyilebilir sağlık cihazları yaygınlaşacak.",
+     "pill": [
+      542,
+      451
+     ],
+     "qx": 105,
+     "qt": 409,
+     "qb": 450,
+     "qr": 816,
+     "bal": [
+      34,
+      458,
+      887,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      400,
+      780,
+      400,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Sürücüsüz ve elektrikli toplu taşıma araçları, uçan taksiler, hiperloop gibi çok hızlı raylı sistemler yaygınlaşacak; trafik kazaları ve hava kirliliği azalacak.",
+     "pill": [
+      536,
+      737
+     ],
+     "qx": 118,
+     "qt": 763,
+     "qb": 802,
+     "qr": 828,
+     "bal": [
+      34,
+      810,
+      821,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      758,
+      1087,
+      54,
+      59
+     ],
+     "panel": "gozlemdusunce",
+     "label": "Gözlem Formu"
+    }
+   ]
+  },
+  {
+   "n": 125,
+   "img": "@IMG:s7-u6/p-14@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "insanlarına bilimsel ve…",
+     "r": [
+      33,
+      55,
+      833,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      340,
+      640,
+      480
+     ],
+     "mode": "ink",
+     "text": "Sevgili 2071'in insanları,\nBugün 2026 yılındayız. Sınıfımızda etkileşimli tahtalar, cebimizde akıllı telefonlar var. Sizin zamanınızda evlerin tamamen akıllı olacağını, sürücüsüz araçlarla ve uçan taksilerle yolculuk ettiğinizi tahmin ediyorum. Hastalıklar nanobotlarla tedavi ediliyor, yapay zekâ öğretmenler herkese kendi hızında ders veriyordur. Umarım bu teknolojileri doğayı koruyarak ve etik kurallara uyarak kullanıyorsunuzdur.\nSevgiyle, ...",
+     "fs": 16,
+     "pill": [
+      744,
+      327
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      752,
+      189,
+      65,
+      59
+     ],
+     "panel": "mektuprubrik",
+     "label": "Analitik Dereceli Puanlama Anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 126,
+   "img": "@IMG:s7-u6/p-15@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki tablolarda konu…",
+     "r": [
+      106,
+      78,
+      811,
+      1086
+     ]
+    }
+   ],
+   "answers": []
+  }
+ ]
+};

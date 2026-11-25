@@ -1,0 +1,1924 @@
+// 7. Sınıf Sosyal Bilgiler · 5. Öğrenme Alanı: Hayatımızdaki Ekonomi (s. 72–111)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Millî kalkınma hamleleri (s. 74–93)
+window.BOOK = {
+ "id": "s7-u5-k1",
+ "title": "Millî kalkınma hamleleri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u5-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 72,
+   "img": "@IMG:s7-u5/p-01@",
+   "section": "5. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      77,
+      207,
+      840,
+      408
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      587,
+      884,
+      591
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      227,
+      1093,
+      68,
+      66
+     ],
+     "panel": "alan",
+     "label": "5. Öğrenme alanı"
+    },
+    {
+     "area": [
+      597,
+      988,
+      72,
+      67
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "img": "@IMG:s7-u5/p-02@",
+   "section": "Hayatımızdaki Ekonomi",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      796,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 74,
+   "img": "@IMG:s7-u5/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "MİLLİ KALKINMA HAMLELERİ",
+     "r": [
+      38,
+      55,
+      879,
+      634
+     ]
+    },
+    {
+     "t": "Kaynağın adı",
+     "r": [
+      93,
+      661,
+      823,
+      503
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      609,
+      419,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Orman",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      769,
+      523
+     ]
+    },
+    {
+     "area": [
+      609,
+      472,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Ormancılık (kerestecilik)",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      691,
+      525
+     ]
+    },
+    {
+     "area": [
+      359,
+      542,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Güneş enerjisi",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      597,
+      529
+     ]
+    },
+    {
+     "area": [
+      359,
+      595,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Enerji üretimi",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      519,
+      648
+     ]
+    },
+    {
+     "area": [
+      112,
+      741,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Akarsu (su)",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      344,
+      698
+     ]
+    },
+    {
+     "area": [
+      112,
+      794,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Hidroelektrik enerji",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      272,
+      835
+     ]
+    },
+    {
+     "area": [
+      609,
+      741,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Tarım ürünleri (meyve)",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      769,
+      848
+     ]
+    },
+    {
+     "area": [
+      609,
+      794,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Sanayi (meyve suyu)",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      853,
+      823
+     ]
+    },
+    {
+     "area": [
+      359,
+      899,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Yer altı kaynakları",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      591,
+      859
+     ]
+    },
+    {
+     "area": [
+      359,
+      952,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Madencilik",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      519,
+      1005
+     ]
+    },
+    {
+     "area": [
+      112,
+      1057,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Deniz, kumsal, iklim",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      344,
+      1044
+     ]
+    },
+    {
+     "area": [
+      112,
+      1110,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Turizm",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      344,
+      1097
+     ]
+    },
+    {
+     "area": [
+      609,
+      1057,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Çayır ve meralar",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      847,
+      1044
+     ]
+    },
+    {
+     "area": [
+      609,
+      1110,
+      195,
+      26
+     ],
+     "mode": "ink",
+     "text": "Hayvancılık",
+     "center": true,
+     "fs": 16,
+     "_m": 1,
+     "pill": [
+      853,
+      1097
+     ]
+    }
+   ]
+  },
+  {
+   "n": 75,
+   "img": "@IMG:s7-u5/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Kaynak",
+     "r": [
+      33,
+      0,
+      879,
+      765
+     ]
+    },
+    {
+     "t": "8 Vecihi Hürkuş'un ortaya koyduğu",
+     "r": [
+      34,
+      737,
+      797,
+      214
+     ]
+    },
+    {
+     "t": "8 Verdiğiniz örneklerdeki…",
+     "r": [
+      123,
+      923,
+      708,
+      241
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      135,
+      645,
+      650,
+      80
+     ],
+     "mode": "ink",
+     "text": "Havacılık alanında yerli üretim ve yetişmiş insan gücü arttı; uzak bölgelere ulaşım, posta ve sağlık hizmetleri kolaylaştı; tarım ilaçlama gibi işlerde uçak kullanılarak ekonomiye katkı sağlandı; gençler havacılığa yöneldi.",
+     "fs": 16,
+     "pill": [
+      823,
+      632
+     ]
+    },
+    {
+     "area": [
+      135,
+      830,
+      650,
+      80
+     ],
+     "mode": "ink",
+     "text": "Nuri Demirağ'ın ilk yerli uçak fabrikası ve Gök Okulu; Şakir Zümre'nin silah ve cephane fabrikası; Mehmet Ali Kâğıtçı'nın kâğıt fabrikası; Zihni Derin'in Rize'de çay tarımını başlatması.",
+     "fs": 16,
+     "pill": [
+      745,
+      829
+     ]
+    },
+    {
+     "area": [
+      135,
+      1015,
+      650,
+      80
+     ],
+     "mode": "ink",
+     "text": "Bu hamleler ülkenin savunma, ulaşım, kâğıt ve tarım ihtiyaçlarını yerli imkânlarla karşılamış; dışa bağımlılığı azaltmış, iş imkânı oluşturmuş ve ekonomik bağımsızlığı güçlendirmiştir.",
+     "fs": 16,
+     "pill": [
+      733,
+      984
+     ]
+    }
+   ]
+  },
+  {
+   "n": 76,
+   "img": "@IMG:s7-u5/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Verilen yönergeler…",
+     "r": [
+      38,
+      24,
+      878,
+      1140
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      365,
+      852,
+      220,
+      60
+     ],
+     "mode": "ink",
+     "text": "Dışa bağımlılık azalır, ülke kendi kararlarını özgürce verir.",
+     "fs": 14,
+     "pill": [
+      537,
+      863
+     ]
+    },
+    {
+     "area": [
+      602,
+      852,
+      255,
+      60
+     ],
+     "mode": "ink",
+     "text": "Yerli otomobil, İHA ve SİHA üretimi.",
+     "fs": 14,
+     "pill": [
+      780,
+      863
+     ]
+    },
+    {
+     "area": [
+      365,
+      927,
+      220,
+      60
+     ],
+     "mode": "ink",
+     "text": "İhtiyaçlar yurt içinden karşılanır, iş imkânı oluşur.",
+     "fs": 14,
+     "pill": [
+      537,
+      902
+     ]
+    },
+    {
+     "area": [
+      602,
+      927,
+      255,
+      60
+     ],
+     "mode": "ink",
+     "text": "Yerli malı kullanmak, yerli tarım ürünleri.",
+     "fs": 14,
+     "pill": [
+      780,
+      902
+     ]
+    },
+    {
+     "area": [
+      365,
+      1002,
+      220,
+      60
+     ],
+     "mode": "ink",
+     "text": "Herkes çalışıp tasarruf ederse ülke kalkınır.",
+     "fs": 14,
+     "pill": [
+      537,
+      977
+     ]
+    },
+    {
+     "area": [
+      602,
+      1002,
+      255,
+      60
+     ],
+     "mode": "ink",
+     "text": "İsraftan kaçınmak, tasarruf etmek, gönüllülük.",
+     "fs": 14,
+     "pill": [
+      780,
+      977
+     ]
+    },
+    {
+     "area": [
+      670,
+      1103,
+      170,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Ekonomik bağımsızlık; çünkü ekonomik olarak bağımsız olmayan bir ülke siyasi bağımsızlığını da koruyamaz. Yerli üretim ve toplumsal sorumluluk da ekonomik bağımsızlığı güçlendirir.",
+     "pill": [
+      758,
+      1102
+     ],
+     "qx": 110,
+     "qt": 963,
+     "qb": 1215,
+     "qr": 904,
+     "bal": [
+      34,
+      930,
+      886,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 77,
+   "img": "@IMG:s7-u5/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türkiye İktisat Kongresi'nin 4.…",
+     "r": [
+      34,
+      0,
+      878,
+      258
+     ]
+    },
+    {
+     "t": "şakir Zümre",
+     "r": [
+      34,
+      230,
+      878,
+      934
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      225,
+      1086,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türk ordusunun silah ve cephane ihtiyacı yerli imkânlarla karşılanmış, savunmada dışa bağımlılık azalmış, ordunun gücü ve ülkenin güvenliği artmıştır. Ayrıca ihracatla ekonomiye katkı sağlanmıştır.",
+     "pill": [
+      289,
+      1118
+     ],
+     "qx": 88,
+     "qt": 946,
+     "qb": 1215,
+     "qr": 803,
+     "bal": [
+      30,
+      913,
+      886,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 78,
+   "img": "@IMG:s7-u5/p-07@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      35,
+      0,
+      881,
+      230
+     ]
+    },
+    {
+     "t": "Nuri Killigil",
+     "r": [
+      38,
+      202,
+      878,
+      962
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      1104,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Nuri Killigil'in ürettiği her silahı Türk ordusunu güçlendirecek kutsal bir görev olarak gördüğünü; vatanına ve ordusuna derin bir sevgi ve bağlılık duyduğunu, bu yüzden büyük bir özveriyle çalıştığını hissettiriyor.",
+     "pill": [
+      676,
+      1133
+     ],
+     "qx": 458,
+     "qt": 1052,
+     "qb": 1215,
+     "qr": 817,
+     "bal": [
+      360,
+      889,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 79,
+   "img": "@IMG:s7-u5/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Mehmet Ali Kâğıtçı",
+     "r": [
+      34,
+      0,
+      878,
+      956
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      928,
+      878,
+      236
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      540,
+      712,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ders kitabı ve defter basılamaz, eğitim aksardı; gazete ve dergiler çıkamaz, halk haber alamazdı; resmî ve tarihî belgeler kaydedilemez, kâğıt dışarıdan pahalıya alınmak zorunda kalınırdı.",
+     "pill": [
+      442,
+      666
+     ],
+     "qx": 128,
+     "qt": 572,
+     "qb": 874,
+     "qr": 900,
+     "bal": [
+      128,
+      787,
+      772,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "img": "@IMG:s7-u5/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Nuri Demirağ",
+     "r": [
+      38,
+      0,
+      878,
+      499
+     ]
+    },
+    {
+     "t": "KaynakE",
+     "r": [
+      38,
+      471,
+      878,
+      693
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      928,
+      200,
+      20
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Demiryolları ulaşımı ve ticareti kolaylaştırdı; kurduğu fabrikalar sanayileşmenin önünü açtı; ilk yerli uçağı üreterek ve Gök Okulu'nu kurarak havacılıkta yerli üretimi ve yetişmiş insan gücünü başlattı.",
+     "pill": [
+      634,
+      924
+     ],
+     "qx": 347,
+     "qt": 788,
+     "qb": 976,
+     "qr": 861,
+     "bal": [
+      347,
+      984,
+      514,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 81,
+   "img": "@IMG:s7-u5/p-10@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Zihni Derin",
+     "r": [
+      34,
+      0,
+      878,
+      1164
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      560,
+      1034,
+      230,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek ürün: Fındık (veya çay).\nKaradeniz'in ılıman ve yağışlı iklimi fındık için uygundur. Üretici gelir elde eder, işlenmesiyle fabrikalarda iş imkânı oluşur, ülke ekonomisi gelişir.",
+     "pill": [
+      614,
+      1033
+     ],
+     "qx": 165,
+     "qt": 1034,
+     "qb": 1056,
+     "qr": 838,
+     "bal": [
+      30,
+      921,
+      886,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      690,
+      1071,
+      150,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türkiye dünyanın en büyük fındık üreticisidir. İhracatla döviz girdisi sağlanır, ülkenin tanınırlığı artar, ticaret gelişir.",
+     "pill": [
+      684,
+      1070
+     ],
+     "qx": 165,
+     "qt": 931,
+     "qb": 1215,
+     "qr": 900,
+     "bal": [
+      30,
+      946,
+      886,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      690,
+      1108,
+      150,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Üreticiler ve işçiler gelir elde eder, bölgenin refahı artar; sağlıklı ve yerli bir gıda ürünü tüketilir.",
+     "qx": 165,
+     "qt": 968,
+     "qb": 1215,
+     "qr": 900,
+     "bal": [
+      30,
+      946,
+      886,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 82,
+   "img": "@IMG:s7-u5/p-11@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Devrim, Türkiye'de tasarlanan…",
+     "r": [
+      85,
+      1,
+      831,
+      829
+     ]
+    },
+    {
+     "t": "Türkiye, cumhuriyetin ilk…",
+     "r": [
+      90,
+      683,
+      737,
+      481
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      565,
+      642,
+      240,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yerli otomotiv sanayisi çok daha erken gelişir, yerli marka ve teknoloji birikimi oluşur; otomobil ithalatı azalır, ihracat artar ve Türkiye bugün otomotivde çok daha güçlü bir konumda olurdu.",
+     "pill": [
+      659,
+      647
+     ],
+     "qx": 106,
+     "qt": 622,
+     "qb": 800,
+     "qr": 815,
+     "bal": [
+      81,
+      717,
+      839,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      520,
+      1112,
+      240,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Siyasi: II. Dünya Savaşı, askerî müdahaleler, hükümet değişiklikleri, siyasi istikrarsızlık.\nEkonomik: Ham madde ve sermaye yetersizliği, dış yardımlara bağımlılık, uzun vadeli finansman eksikliği, teknik eleman azlığı.",
+     "pill": [
+      578,
+      1117
+     ],
+     "qx": 101,
+     "qt": 972,
+     "qb": 1214,
+     "qr": 815,
+     "bal": [
+      86,
+      914,
+      745,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 83,
+   "img": "@IMG:s7-u5/p-12@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki tabloda verilen…",
+     "r": [
+      34,
+      68,
+      790,
+      371
+     ]
+    },
+    {
+     "t": "Yerli tekstil üretimi hem",
+     "r": [
+      94,
+      411,
+      735,
+      753
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      456,
+      200,
+      150,
+      92
+     ],
+     "mode": "ink",
+     "text": "Yakıt ithalatı azalır, teknoloji ve iş imkânı gelişir.",
+     "fs": 13,
+     "pill": [
+      804,
+      184
+     ]
+    },
+    {
+     "area": [
+      624,
+      200,
+      160,
+      92
+     ],
+     "mode": "ink",
+     "text": "Dışa bağımlılık azalır, ihracat ve istihdam artar.",
+     "fs": 13,
+     "pill": [
+      780,
+      151
+     ]
+    },
+    {
+     "area": [
+      456,
+      322,
+      150,
+      90
+     ],
+     "mode": "ink",
+     "text": "Savunmada dışa bağımlı kalır, güvenliğimiz risk altına girer.",
+     "fs": 13,
+     "pill": [
+      228,
+      285
+     ]
+    },
+    {
+     "area": [
+      624,
+      322,
+      160,
+      90
+     ],
+     "mode": "ink",
+     "text": "Ülke güvenliği artar, savunma sanayisi ihracatı yapılır.",
+     "fs": 13,
+     "pill": [
+      810,
+      309
+     ]
+    },
+    {
+     "area": [
+      456,
+      440,
+      150,
+      90
+     ],
+     "mode": "ink",
+     "text": "Döviz yurt dışına gider, yerli üretici zarar görür.",
+     "fs": 13,
+     "pill": [
+      228,
+      403
+     ]
+    },
+    {
+     "area": [
+      624,
+      440,
+      160,
+      90
+     ],
+     "mode": "ink",
+     "text": "İstihdam artar, kaliteli ve uygun fiyatlı ürün elde edilir.",
+     "fs": 13,
+     "pill": [
+      810,
+      427
+     ]
+    },
+    {
+     "area": [
+      200,
+      1112,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Çalışkanlık daha önemlidir. Zekâ bir başlangıç avantajı olabilir; ancak başarıyı sürekli emek, sabır ve disiplin getirir. Örneğin her gün düzenli çalışan bir öğrenci zamanla başarısını artırır.",
+     "pill": [
+      254,
+      1114
+     ],
+     "qx": 125,
+     "qt": 1049,
+     "qb": 1134,
+     "qr": 815,
+     "bal": [
+      90,
+      939,
+      743,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 84,
+   "img": "@IMG:s7-u5/p-13@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsansız Hava Araçları (İHA),…",
+     "r": [
+      38,
+      90,
+      793,
+      648
+     ]
+    },
+    {
+     "t": "Milli Muharip Uçağı KAAN Türkiye",
+     "r": [
+      38,
+      710,
+      790,
+      454
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 85,
+   "img": "@IMG:s7-u5/p-14@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Milli Gemi (MİLGEM), Türk Deniz",
+     "r": [
+      122,
+      81,
+      790,
+      334
+     ]
+    },
+    {
+     "t": "TCG Anadolu (Dünyanın İlk SİHA",
+     "r": [
+      121,
+      387,
+      791,
+      777
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      479,
+      1044,
+      55,
+      56
+     ],
+     "panel": "tua",
+     "label": "TUA ile ilgili video"
+    }
+   ]
+  },
+  {
+   "n": 86,
+   "img": "@IMG:s7-u5/p-15@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilişim Vadisi; mobil…",
+     "r": [
+      38,
+      26,
+      785,
+      617
+     ]
+    },
+    {
+     "t": "İlk elektrikli yerli otomobil…",
+     "r": [
+      38,
+      615,
+      798,
+      549
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      215,
+      1084,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yerli teknoloji ve üretim dışa bağımlılığı azaltır, ihracatı ve ekonomik gücü artırır. Savunma ve teknolojide güçlü olan ülke bölgesinde caydırıcı ve sözü dinlenen bir aktör olur.",
+     "pill": [
+      255,
+      1143
+     ],
+     "qx": 104,
+     "qt": 944,
+     "qb": 1140,
+     "qr": 824,
+     "bal": [
+      34,
+      911,
+      806,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      430,
+      1122,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Araştırmacı bireyler yeni fikir ve ürünler geliştirir, girişimcilik ve yenilikçilik artar, ülkenin teknolojik gücü ve rekabet edebilirliği yükselir.",
+     "pill": [
+      566,
+      1127
+     ],
+     "qx": 136,
+     "qt": 982,
+     "qb": 1214,
+     "qr": 824,
+     "bal": [
+      34,
+      936,
+      806,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "img": "@IMG:s7-u5/p-16@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki boş bırakılan…",
+     "r": [
+      92,
+      92,
+      754,
+      453
+     ]
+    },
+    {
+     "t": "Milli üretim yapmak, bir ülkenin",
+     "r": [
+      97,
+      517,
+      755,
+      647
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      326,
+      278,
+      225,
+      48
+     ],
+     "mode": "ink",
+     "text": "Ulaşım ihtiyacı, Nuri Demirağ",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      486,
+      289
+     ]
+    },
+    {
+     "area": [
+      579,
+      278,
+      225,
+      48
+     ],
+     "mode": "ink",
+     "text": "Ticareti ve ulaşımı kolaylaştırmak",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      835,
+      265
+     ]
+    },
+    {
+     "area": [
+      326,
+      340,
+      225,
+      48
+     ],
+     "mode": "ink",
+     "text": "Zihni Derin, Rize'nin iklimi",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      492,
+      354
+     ]
+    },
+    {
+     "area": [
+      579,
+      340,
+      225,
+      48
+     ],
+     "mode": "ink",
+     "text": "Halkın geçimini iyileştirmek, çay ithalatını azaltmak",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      835,
+      327
+     ]
+    },
+    {
+     "area": [
+      326,
+      403,
+      225,
+      54
+     ],
+     "mode": "ink",
+     "text": "Mehmet Ali Kâğıtçı, I. Beş Yıllık Sanayi Planı",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      480,
+      414
+     ]
+    },
+    {
+     "area": [
+      579,
+      403,
+      225,
+      54
+     ],
+     "mode": "ink",
+     "text": "Kâğıt ihtiyacını yerli üretimle karşılamak",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      835,
+      390
+     ]
+    },
+    {
+     "area": [
+      326,
+      465,
+      225,
+      52
+     ],
+     "mode": "ink",
+     "text": "TUSAŞ, ASELSAN, TÜBİTAK, girişimciler",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      492,
+      482
+     ]
+    },
+    {
+     "area": [
+      579,
+      465,
+      225,
+      52
+     ],
+     "mode": "ink",
+     "text": "Teknolojide dışa bağımlılığı azaltmak",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      745,
+      434
+     ]
+    },
+    {
+     "area": [
+      335,
+      950,
+      470,
+      65
+     ],
+     "mode": "ink",
+     "text": "Gereksiz tüketimden ve israftan kaçınmak, tasarruf etmek",
+     "fs": 16,
+     "pill": [
+      837,
+      937
+     ]
+    },
+    {
+     "area": [
+      335,
+      1033,
+      470,
+      70
+     ],
+     "mode": "ink",
+     "text": "Çok çalışmak, üretimi artırmak, emeğe değer vermek",
+     "fs": 16,
+     "pill": [
+      837,
+      1020
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      753,
+      673,
+      58,
+      59
+     ],
+     "panel": "hamleler",
+     "label": "Millî Kalkınma Hamlelerinin Neden ve Sonuçları"
+    }
+   ]
+  },
+  {
+   "n": 88,
+   "img": "@IMG:s7-u5/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Tarih şeridinde verilen…",
+     "r": [
+      132,
+      37,
+      696,
+      1126
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 89,
+   "img": "@IMG:s7-u5/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Hava Elektronik Sanayi",
+     "r": [
+      97,
+      58,
+      715,
+      760
+     ]
+    },
+    {
+     "t": "Türkiye'nin uzay politakalarını…",
+     "r": [
+      126,
+      790,
+      663,
+      372
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 90,
+   "img": "@IMG:s7-u5/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ülkemizin kalkınma hamleleriyle…",
+     "r": [
+      56,
+      89,
+      861,
+      859
+     ]
+    },
+    {
+     "t": "Tarih şeridinden de…",
+     "r": [
+      102,
+      920,
+      746,
+      244
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      370,
+      138,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Savaş yılları (1939–1945), 1950'ler ve askerî müdahale dönemlerinde (1960, 1980) kalkınma yavaşlamıştır. Sebepleri: savaşın getirdiği ham madde ve sermaye sıkıntısı, siyasi istikrarsızlık, plansızlık ve teknik eleman yetersizliği.",
+     "pill": [
+      428,
+      143
+     ],
+     "qx": 166,
+     "qt": 103,
+     "qb": 160,
+     "qr": 817,
+     "bal": [
+      166,
+      168,
+      651,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      272,
+      542,
+      308,
+      71
+     ],
+     "mode": "ink",
+     "text": "Savaş nedeniyle üretim düştü, kaynaklar savunmaya ayrıldı.",
+     "fs": 14,
+     "pill": [
+      534,
+      514
+     ]
+    },
+    {
+     "area": [
+      604,
+      542,
+      198,
+      71
+     ],
+     "mode": "ink",
+     "text": "Fabrikalar tam kapasite çalışamadı, ham madde sıkıntısı yaşandı.",
+     "fs": 13,
+     "pill": [
+      746,
+      514
+     ]
+    },
+    {
+     "area": [
+      115,
+      637,
+      135,
+      74
+     ],
+     "mode": "ink",
+     "text": "1950'ler",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      197,
+      603
+     ]
+    },
+    {
+     "area": [
+      272,
+      635,
+      308,
+      78
+     ],
+     "mode": "ink",
+     "text": "Özel sektör yeterince güçlü değildi, finansman yetersizdi.",
+     "fs": 14,
+     "pill": [
+      624,
+      514
+     ]
+    },
+    {
+     "area": [
+      604,
+      635,
+      198,
+      78
+     ],
+     "mode": "ink",
+     "text": "Büyük sanayi yatırımları gerçekleştirilemedi.",
+     "fs": 13,
+     "pill": [
+      842,
+      622
+     ]
+    },
+    {
+     "area": [
+      115,
+      737,
+      135,
+      68
+     ],
+     "mode": "ink",
+     "text": "1960",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      197,
+      742
+     ]
+    },
+    {
+     "area": [
+      272,
+      735,
+      308,
+      72
+     ],
+     "mode": "ink",
+     "text": "Askerî müdahale kalkınma planlarını kesintiye uğrattı.",
+     "fs": 14,
+     "pill": [
+      198,
+      701
+     ]
+    },
+    {
+     "area": [
+      604,
+      735,
+      198,
+      72
+     ],
+     "mode": "ink",
+     "text": "Devrim otomobili projesi yarım kaldı.",
+     "fs": 13,
+     "pill": [
+      842,
+      722
+     ]
+    },
+    {
+     "area": [
+      115,
+      837,
+      135,
+      74
+     ],
+     "mode": "ink",
+     "text": "1980",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      197,
+      842
+     ]
+    },
+    {
+     "area": [
+      272,
+      835,
+      308,
+      78
+     ],
+     "mode": "ink",
+     "text": "Askerî müdahale siyasi istikrarsızlığa yol açtı.",
+     "fs": 14,
+     "pill": [
+      558,
+      993
+     ]
+    },
+    {
+     "area": [
+      604,
+      835,
+      198,
+      78
+     ],
+     "mode": "ink",
+     "text": "Yatırım ortamı ve planlama olumsuz etkilendi.",
+     "fs": 13,
+     "pill": [
+      842,
+      822
+     ]
+    },
+    {
+     "area": [
+      565,
+      990,
+      230,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kalkınma hamleleri iş imkânlarını artırmış, ulaşım, sağlık ve eğitim hizmetlerini kolaylaştırmış, refah düzeyini yükseltmiştir. Yerli üretim dışa bağımlılığı azaltmış, ülke ekonomisini ve savunmasını güçlendirmiştir.",
+     "pill": [
+      695,
+      992
+     ],
+     "qx": 134,
+     "qt": 975,
+     "qb": 1152,
+     "qr": 821,
+     "bal": [
+      134,
+      1071,
+      687,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 91,
+   "img": "@IMG:s7-u5/p-20@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Beyin fırtınası tekniğini…",
+     "r": [
+      34,
+      55,
+      803,
+      717
+     ]
+    },
+    {
+     "t": "Gümüşhane 15 Temmuz Şehitler İmam",
+     "r": [
+      122,
+      744,
+      751,
+      420
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      761,
+      135,
+      50,
+      60
+     ],
+     "panel": "fikir",
+     "label": "Kontrol Listesi"
+    }
+   ]
+  },
+  {
+   "n": 92,
+   "img": "@IMG:s7-u5/p-21@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Aşağıdaki şablonu milli…",
+     "r": [
+      122,
+      108,
+      795,
+      450
+     ]
+    },
+    {
+     "t": "Eğer ben bir bilim",
+     "r": [
+      82,
+      530,
+      807,
+      634
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      180,
+      270,
+      280,
+      190
+     ],
+     "mode": "ink",
+     "text": "Gençler bilime ve teknolojiye yöneldi, millî gurur ve özgüven arttı, toplumda üretme ve başarma bilinci güçlendi.",
+     "fs": 15,
+     "pill": [
+      376,
+      251
+     ]
+    },
+    {
+     "area": [
+      580,
+      306,
+      200,
+      155
+     ],
+     "mode": "ink",
+     "text": "Yerli üretim ve ihracat arttı, iş imkânları oluştu, savunma sanayisi güçlendi.",
+     "fs": 14,
+     "pill": [
+      704,
+      299
+     ]
+    },
+    {
+     "area": [
+      575,
+      656,
+      205,
+      190
+     ],
+     "mode": "ink",
+     "text": "Yeni girişimler ve teknoloji şirketleri kuruldu; İHA, KAAN, TOGG gibi projelere ilham oldu.",
+     "fs": 14,
+     "pill": [
+      711,
+      643
+     ]
+    },
+    {
+     "area": [
+      175,
+      688,
+      285,
+      50
+     ],
+     "mode": "ink",
+     "text": "Yenilenebilir enerji",
+     "fs": 16,
+     "pill": [
+      413,
+      693
+     ]
+    },
+    {
+     "area": [
+      185,
+      770,
+      275,
+      100
+     ],
+     "mode": "ink",
+     "text": "Okulların çatısına yerli üretim güneş paneli kurmak",
+     "fs": 16,
+     "pill": [
+      417,
+      769
+     ]
+    },
+    {
+     "area": [
+      120,
+      905,
+      340,
+      170
+     ],
+     "mode": "ink",
+     "text": "Enerji ithalatı azalır, okulların elektrik giderleri düşer, çevre korunur ve öğrenciler temiz enerjiyi tanır.",
+     "fs": 16,
+     "pill": [
+      412,
+      892
+     ]
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "img": "@IMG:s7-u5/p-22@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Derece!",
+     "r": [
+      34,
+      55,
+      795,
+      785
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      122,
+      812,
+      706,
+      351
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      751,
+      97,
+      63,
+      59
+     ],
+     "panel": "rubrik",
+     "label": "Bütüncül Dereceli Puanlama Anahtarı"
+    }
+   ]
+  }
+ ]
+};

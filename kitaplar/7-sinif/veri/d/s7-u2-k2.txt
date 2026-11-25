@@ -1,0 +1,1545 @@
+// 7. Sınıf Sosyal Bilgiler · 2. Öğrenme Alanı: Evimiz Dünya (s. 56–83)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Bölgesel ve küresel sorunların çözümünde ülkemizin rolü (s. 68–83)
+window.BOOK = {
+ "id": "s7-u2-k2",
+ "title": "Bölgesel ve küresel sorunların çözümünde ülkemizin rolü",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u2-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 68,
+   "img": "@IMG:s7-u2/p-13@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "BÖLGESEL VE KÜRESEL SORUNLARIN",
+     "r": [
+      38,
+      55,
+      879,
+      459
+     ]
+    },
+    {
+     "t": "Yunanistan 2 Suriye ( Irak",
+     "r": [
+      93,
+      486,
+      758,
+      678
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      136,
+      267,
+      160,
+      95
+     ],
+     "mode": "ink",
+     "text": "Sınır şehirlerinde ortak kültür ve sanat festivalleri düzenlendi.",
+     "fs": 13,
+     "pill": [
+      338,
+      212
+     ]
+    },
+    {
+     "area": [
+      318,
+      267,
+      160,
+      95
+     ],
+     "mode": "ink",
+     "text": "Batum ve Artvin arasında ortak turizm ve kültür etkinlikleri yapıldı.",
+     "fs": 13,
+     "pill": [
+      184,
+      203
+     ]
+    },
+    {
+     "area": [
+      673,
+      267,
+      160,
+      95
+     ],
+     "mode": "ink",
+     "text": "Ortak dizi, film ve müzik projeleri ile öğrenci değişimleri yapıldı.",
+     "fs": 13,
+     "pill": [
+      845,
+      293
+     ]
+    },
+    {
+     "area": [
+      313,
+      747,
+      155,
+      95
+     ],
+     "mode": "ink",
+     "text": "Savaşta zarar gören tarihî eserlerin onarımına destek verildi.",
+     "fs": 13,
+     "pill": [
+      581,
+      734
+     ]
+    },
+    {
+     "area": [
+      493,
+      747,
+      155,
+      95
+     ],
+     "mode": "ink",
+     "text": "Yunus Emre Enstitüsü Türkçe kursları ve kültür etkinlikleri düzenledi.",
+     "fs": 13,
+     "pill": [
+      755,
+      857
+     ]
+    },
+    {
+     "area": [
+      673,
+      747,
+      155,
+      95
+     ],
+     "mode": "ink",
+     "text": "Ortak tarihî mirasla ilgili sempozyum ve sergiler düzenlendi.",
+     "fs": 13,
+     "pill": [
+      845,
+      734
+     ]
+    },
+    {
+     "area": [
+      128,
+      884,
+      700,
+      30
+     ],
+     "mode": "ink",
+     "text": "Spor, sanat, eğitim, turizm, dil ve tarihî mirasın korunması alanlarında.",
+     "fs": 16,
+     "pill": [
+      834,
+      871
+     ]
+    },
+    {
+     "area": [
+      373,
+      957,
+      205,
+      85
+     ],
+     "mode": "ink",
+     "text": "Orta Asya'da Türk tarihine ait arkeolojik kazılar yapıldı.",
+     "fs": 13,
+     "pill": [
+      257,
+      929
+     ]
+    },
+    {
+     "area": [
+      608,
+      957,
+      205,
+      85
+     ],
+     "mode": "ink",
+     "text": "Soydaşlarımıza eğitim, sağlık ve insani yardım ulaştırıldı.",
+     "fs": 13,
+     "pill": [
+      804,
+      944
+     ]
+    },
+    {
+     "area": [
+      138,
+      1094,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türk dünyası arasındaki ortak tarih, dil ve kültür bağlarını güçlendirmek; birlik, beraberlik ve dayanışmayı artırmaktır.",
+     "pill": [
+      304,
+      1138
+     ],
+     "qx": 129,
+     "qt": 1094,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      89,
+      1006,
+      766,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "img": "@IMG:s7-u2/p-14@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Verilen örnek olay metnini…",
+     "r": [
+      33,
+      55,
+      879,
+      1113
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1004,
+      700,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yardımlaşma, dayanışma, iş birliği, duyarlılık ve sorumluluk değerlerinin önemini ortaya koymaktadır.",
+     "pill": [
+      324,
+      976
+     ],
+     "qx": 102,
+     "qt": 1004,
+     "qb": 1093,
+     "qr": 828,
+     "bal": [
+      29,
+      916,
+      887,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1054,
+      700,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek: Sınıfımızda depremzedeler için yardım kampanyası düzenledik. Tek başıma toplayamayacağım kadar çok yardımı arkadaşlarımla birlikte topladık.",
+     "pill": [
+      372,
+      1122
+     ],
+     "qx": 128,
+     "qt": 1004,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      29,
+      916,
+      887,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1104,
+      700,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yangını insanlar birlikte çalışarak söndürmüştür; küresel sorunlar da ancak ülkelerin iş birliği ve dayanışmasıyla çözülebilir. Tek başına hiçbir ülke bu sorunlarla baş edemez.",
+     "pill": [
+      564,
+      1127
+     ],
+     "qx": 128,
+     "qt": 1004,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      29,
+      891,
+      887,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "img": "@IMG:s7-u2/p-15@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Türkiye'nin yaptığı bazı yurt dışı",
+     "r": [
+      91,
+      88,
+      826,
+      1120
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      118,
+      947,
+      720,
+      62
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Eğitim (Kuzey Makedonya), kültür ve kütüphane (Kolombiya), sağlık (Karabağ, Somali) alanlarında yardım yapmaktadır.\nDiğer örnekler: deprem bölgelerine AFAD ekipleri, Gazze'ye İyilik Gemileri, Afrika'da su kuyuları, TİKA'nın okul ve hastane projeleri.",
+     "pill": [
+      416,
+      997
+     ],
+     "qx": 102,
+     "qt": 947,
+     "qb": 1009,
+     "qr": 838,
+     "bal": [
+      87,
+      1070,
+      834,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      118,
+      1017,
+      720,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Evet, önemlidir. Yardımlar ülkeler arasında dostluk ve güven oluşturur, yoksulluk ve çatışma nedenlerini azaltır; bu da dünya barışına katkı sağlar.",
+     "pill": [
+      416,
+      1043
+     ],
+     "qx": 118,
+     "qt": 957,
+     "qb": 1062,
+     "qr": 838,
+     "bal": [
+      118,
+      1070,
+      720,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "img": "@IMG:s7-u2/p-16@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki kutularda yer alan…",
+     "r": [
+      33,
+      55,
+      779,
+      563
+     ]
+    },
+    {
+     "t": "Tamamladığınız özdeyişlerde…",
+     "r": [
+      105,
+      590,
+      726,
+      574
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      183,
+      452,
+      600,
+      46
+     ],
+     "mode": "ink",
+     "text": "Yurtta sulh, cihanda sulh.",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      697,
+      445
+     ]
+    },
+    {
+     "area": [
+      183,
+      530,
+      600,
+      46
+     ],
+     "mode": "ink",
+     "text": "Barış hükümlerin en güzelidir.",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      805,
+      517
+     ]
+    },
+    {
+     "area": [
+      138,
+      717,
+      680,
+      370
+     ],
+     "mode": "ink",
+     "text": "Barış, dostluk, iş birliği, yardımlaşma ve dayanışma değerleri vurgulanmaktadır.\nÖrnekler: Türkiye'nin ara buluculuk çalışmaları, Karadeniz Tahıl Koridoru anlaşması, afet ve savaş bölgelerine insani yardımlar, mültecilere kucak açması, uluslararası barış görevleri.",
+     "fs": 17,
+     "pill": [
+      754,
+      710
+     ]
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "img": "@IMG:s7-u2/p-17@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Barış değeri ile ilgili verilen",
+     "r": [
+      38,
+      78,
+      802,
+      1086
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      368,
+      414,
+      450,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Barış içinde bir dünyada yaşamak için ben olsam farklılıklara saygı gösterir, sorunları konuşarak çözer ve ihtiyacı olanlara yardım ederim.",
+     "pill": [
+      726,
+      395
+     ],
+     "qx": 340,
+     "qt": 274,
+     "qb": 594,
+     "qr": 818,
+     "bal": [
+      34,
+      507,
+      810,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      138,
+      1094,
+      690,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türkiye 2025'te ara bulucu, ev sahibi ve barış destekçisi rolleri üstlenmiştir. Rusya–Ukrayna Savaşı'nda taraflarla iletişim kurmuş, Gazze'de ateşkes sürecinde rol almış; Somali, Sudan, Bosna Hersek ve Filipinler'de ara buluculuk yapmıştır. Bu roller çatışmaların sona ermesine ve dünya barışına katkı sağlar.",
+     "pill": [
+      418,
+      1072
+     ],
+     "qx": 123,
+     "qt": 954,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      34,
+      896,
+      810,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      769,
+      623,
+      51,
+      63
+     ],
+     "panel": "jeopolitik",
+     "label": "Türkiye'nin Jeopolitik Konumu ve Dış Politikası"
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "img": "@IMG:s7-u2/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Göç, insanların güvenli bir…",
+     "r": [
+      116,
+      0,
+      796,
+      1025
+     ]
+    },
+    {
+     "t": "Mülteciler; savaş, çatışma veya…",
+     "r": [
+      122,
+      871,
+      790,
+      293
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      814,
+      700,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Konut, eğitim, sağlık, tarım, sanayi, hayvancılık ve istihdam alanlarında çalışmalar yapılmaktadır. Bu çalışmalar soydaşlarımızın topluma kolayca uyum sağlamasına ve güvenli bir hayat kurmasına yardımcı olur.",
+     "pill": [
+      414,
+      789
+     ],
+     "qx": 128,
+     "qt": 677,
+     "qb": 999,
+     "qr": 900,
+     "bal": [
+      112,
+      912,
+      804,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 74,
+   "img": "@IMG:s7-u2/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Geçmişten günümüze Türkiye,…",
+     "r": [
+      116,
+      84,
+      724,
+      855
+     ]
+    },
+    {
+     "t": "Küresel iklim krizi, insanların…",
+     "r": [
+      38,
+      789,
+      797,
+      375
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      748,
+      700,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Minnettarlık, şükran, sevgi ve özlem hissetmektedirler. Türkiye onlara kucak açmış, Ahmet burada doğup büyümüş ve eğitim almıştır. Bu yüzden \"sonsuz teşekkürler\" ve \"bizim için her zaman bir yuva olarak kalacak\" demektedirler.",
+     "pill": [
+      414,
+      723
+     ],
+     "qx": 128,
+     "qt": 748,
+     "qb": 793,
+     "qr": 828,
+     "bal": [
+      112,
+      801,
+      732,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      393,
+      1047,
+      430,
+      75
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Çünkü iklim krizi bütün dünyayı etkiler ve tek bir kişinin ya da ülkenin çabasıyla çözülemez. Herkes enerji ve su tasarrufu, geri dönüşüm, bilinçli tüketim gibi sorumluluklar üstlendiğinde sonuç alınabilir.",
+     "pill": [
+      553,
+      1106
+     ],
+     "qx": 223,
+     "qt": 907,
+     "qb": 1215,
+     "qr": 823,
+     "bal": [
+      34,
+      874,
+      805,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 75,
+   "img": "@IMG:s7-u2/p-20@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ürdün'deki iklim konferansında…",
+     "r": [
+      116,
+      84,
+      801,
+      596
+     ]
+    },
+    {
+     "t": "İnsani yardım; afetler,…",
+     "r": [
+      122,
+      518,
+      795,
+      646
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      472,
+      700,
+      42
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yeşil Dönüşüm Vizyonu ve 2053 Sıfır Emisyon Hedefi'ni benimsemiş, COP31 kapsamında ortak mücadele çağrısı yapmıştır. İklim krizi tüm dünyayı etkilediği için ancak ülkelerin birlikte mücadelesiyle çözülebilir.",
+     "pill": [
+      414,
+      450
+     ],
+     "qx": 128,
+     "qt": 332,
+     "qb": 654,
+     "qr": 905,
+     "bal": [
+      112,
+      567,
+      809,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      143,
+      1052,
+      385,
+      70
+     ],
+     "mode": "ink",
+     "text": "İyilik sınır tanımaz, Türkiye her yerde yanınızda!",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      543,
+      1039
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      768,
+      1075,
+      54,
+      59
+     ],
+     "panel": "insaniyardim",
+     "label": "Ülkemizin Girişimci ve İnsani Dış Politikası"
+    }
+   ]
+  },
+  {
+   "n": 76,
+   "img": "@IMG:s7-u2/p-21@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türk Kızılayı'nın Gazze için…",
+     "r": [
+      38,
+      84,
+      797,
+      719
+     ]
+    },
+    {
+     "t": "Türkiye'nin Gazze'ye yaptığı (…",
+     "r": [
+      38,
+      541,
+      791,
+      623
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      393,
+      484,
+      430,
+      62
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Gıda, hijyen, giyim, barınma, su ve temel yaşam malzemeleri ulaştırmaktadır. Bu yardımlar zor durumdaki insanların ihtiyaçlarını karşılar, uluslararası dayanışmayı güçlendirir ve ülkeler arasında iyilik köprüsü kurar.",
+     "pill": [
+      403,
+      546
+     ],
+     "qx": 128,
+     "qt": 344,
+     "qb": 686,
+     "qr": 823,
+     "bal": [
+      34,
+      599,
+      805,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      388,
+      634,
+      420,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Gıda, sağlık, barınma, giyim, temiz su ve hijyen alanlarında yardım götürülmüştür.",
+     "pill": [
+      554,
+      651
+     ],
+     "qx": 309,
+     "qt": 564,
+     "qb": 802,
+     "qr": 817,
+     "bal": [
+      279,
+      715,
+      560,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      752,
+      563,
+      64,
+      68
+     ],
+     "panel": "gazze",
+     "label": "Türkiye Gazze'ye Yardımda İlk Sırada"
+    }
+   ]
+  },
+  {
+   "n": 77,
+   "img": "@IMG:s7-u2/p-22@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "İnsanlar hayatları boyunca…",
+     "r": [
+      124,
+      0,
+      788,
+      653
+     ]
+    },
+    {
+     "t": "Sevcai düşüncesini…",
+     "r": [
+      114,
+      625,
+      716,
+      539
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      406,
+      719,
+      388,
+      34
+     ],
+     "mode": "ink",
+     "text": "Mahallemde Yardım Köprüsü",
+     "fs": 15,
+     "pill": [
+      806,
+      706
+     ]
+    },
+    {
+     "area": [
+      406,
+      767,
+      388,
+      34
+     ],
+     "mode": "ink",
+     "text": "İhtiyaç sahibi ailelere ve yaşlılara destek olmak",
+     "fs": 15,
+     "pill": [
+      806,
+      754
+     ]
+    },
+    {
+     "area": [
+      406,
+      813,
+      388,
+      34
+     ],
+     "mode": "ink",
+     "text": "Sevcan ve sınıf arkadaşları (öğretmen rehberliğinde)",
+     "fs": 15,
+     "pill": [
+      806,
+      800
+     ]
+    },
+    {
+     "area": [
+      406,
+      863,
+      388,
+      34
+     ],
+     "mode": "ink",
+     "text": "Okul ve mahalle",
+     "fs": 15,
+     "pill": [
+      758,
+      859
+     ]
+    },
+    {
+     "area": [
+      406,
+      914,
+      388,
+      34
+     ],
+     "mode": "ink",
+     "text": "Bir ay",
+     "fs": 15,
+     "pill": [
+      758,
+      901
+     ]
+    },
+    {
+     "area": [
+      416,
+      994,
+      375,
+      112
+     ],
+     "mode": "ink",
+     "text": "Okul idaresinden izin alındı, afiş hazırlandı, kıyafet, kırtasiye ve gıda bağışları toplanıp paketlendi, bir yardım kuruluşu aracılığıyla ihtiyaç sahiplerine ulaştırıldı.",
+     "fs": 14,
+     "pill": [
+      804,
+      981
+     ]
+    }
+   ]
+  },
+  {
+   "n": 78,
+   "img": "@IMG:s7-u2/p-23@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Ülkemizin insani yardım, göç,…",
+     "r": [
+      38,
+      55,
+      879,
+      666
+     ]
+    },
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      75,
+      693,
+      775,
+      471
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      223,
+      274,
+      215,
+      150
+     ],
+     "mode": "ink",
+     "text": "Türk Kızılay ve AFAD'ın Gazze'ye yardımları, İyilik Gemileri, Somali'deki hastane.",
+     "fs": 15,
+     "pill": [
+      449,
+      237
+     ]
+    },
+    {
+     "area": [
+      523,
+      274,
+      215,
+      150
+     ],
+     "mode": "ink",
+     "text": "Ahıska Türklerine konut projeleri, göçmenlerin topluma uyumu için çalışmalar.",
+     "fs": 15,
+     "pill": [
+      671,
+      258
+     ]
+    },
+    {
+     "area": [
+      218,
+      532,
+      215,
+      145
+     ],
+     "mode": "ink",
+     "text": "Yeşil Vatan projesi, 2053 Sıfır Emisyon Hedefi, COP31 başkanlığı.",
+     "fs": 15,
+     "pill": [
+      408,
+      477
+     ]
+    },
+    {
+     "area": [
+      523,
+      532,
+      215,
+      145
+     ],
+     "mode": "ink",
+     "text": "Suriyeli mültecilere barınma, eğitim, sağlık ve istihdam desteği.",
+     "fs": 15,
+     "pill": [
+      749,
+      519
+     ]
+    }
+   ]
+  },
+  {
+   "n": 79,
+   "img": "@IMG:s7-u2/p-24@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Performans görevi olarak…",
+     "r": [
+      33,
+      55,
+      796,
+      1109
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      760,
+      1062,
+      57,
+      62
+     ],
+     "panel": "sunum",
+     "label": "Kontrol Listesi"
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "img": "@IMG:s7-u2/p-25@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıdaki ifadelerin doğru ya da",
+     "r": [
+      38,
+      76,
+      787,
+      499
+     ]
+    },
+    {
+     "t": "İnsanlar ve devletler",
+     "r": [
+      87,
+      547,
+      829,
+      617
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1022,
+      690,
+      26
+     ],
+     "mode": "ink",
+     "text": "2. ÇIKIŞ",
+     "pill": [
+      780,
+      1036
+     ]
+    },
+    {
+     "area": [
+      128,
+      1057,
+      700,
+      80
+     ],
+     "mode": "ink",
+     "text": "Ulaşım ve iletişimdeki gelişmeler diğer ülkelerdeki insanları da etkiler. · Ülkeler yerel kültürlerini koruyarak küreselleşmeden yararlanmalıdır. · COVID-19 salgını küreselleşme nedeniyle kısa sürede tüm dünyaya yayılmıştır.",
+     "fs": 14,
+     "pill": [
+      822,
+      1068
+     ]
+    }
+   ]
+  },
+  {
+   "n": 81,
+   "img": "@IMG:s7-u2/p-26@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Verilen ipuçlarından yola…",
+     "r": [
+      109,
+      84,
+      719,
+      366
+     ]
+    },
+    {
+     "t": "1. Dünyanın ekonomik, kültürel ve",
+     "r": [
+      122,
+      422,
+      706,
+      742
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      158,
+      212,
+      290,
+      38
+     ],
+     "mode": "ink",
+     "text": "KÜRESELLEŞME",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      384,
+      199
+     ]
+    },
+    {
+     "area": [
+      503,
+      204,
+      295,
+      52
+     ],
+     "mode": "ink",
+     "text": "ULUSLARARASI TİCARET",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      813,
+      191
+     ]
+    },
+    {
+     "area": [
+      136,
+      342,
+      222,
+      52
+     ],
+     "mode": "ink",
+     "text": "ÇEVRE SORUNLARI",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      44,
+      329
+     ]
+    },
+    {
+     "area": [
+      390,
+      342,
+      218,
+      52
+     ],
+     "mode": "ink",
+     "text": "KÜLTÜREL ETKİLEŞİM",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      382,
+      467
+     ]
+    },
+    {
+     "area": [
+      643,
+      342,
+      165,
+      52
+     ],
+     "mode": "ink",
+     "text": "İKLİM KRİZİ",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      821,
+      329
+     ]
+    },
+    {
+     "area": [
+      168,
+      480,
+      290,
+      52
+     ],
+     "mode": "ink",
+     "text": "İNSANİ YARDIM",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      388,
+      500
+     ]
+    },
+    {
+     "area": [
+      503,
+      480,
+      295,
+      52
+     ],
+     "mode": "ink",
+     "text": "KÜLTÜREL İŞ BİRLİĞİ",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      813,
+      467
+     ]
+    },
+    {
+     "area": [
+      148,
+      624,
+      155,
+      40
+     ],
+     "mode": "ink",
+     "text": "KÜLTÜR",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      230,
+      611
+     ]
+    },
+    {
+     "area": [
+      348,
+      624,
+      152,
+      40
+     ],
+     "mode": "ink",
+     "text": "ULAŞIM",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      430,
+      611
+     ]
+    },
+    {
+     "area": [
+      553,
+      610,
+      255,
+      52
+     ],
+     "mode": "ink",
+     "text": "İLETİŞİM SİSTEMLERİ",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      821,
+      597
+     ]
+    }
+   ]
+  },
+  {
+   "n": 82,
+   "img": "@IMG:s7-u2/p-27@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıda verilen çoktan seçmeli…",
+     "r": [
+      122,
+      93,
+      708,
+      546
+     ]
+    },
+    {
+     "t": "2. Aşağıdakilerden hangisi…",
+     "r": [
+      122,
+      467,
+      708,
+      393
+     ]
+    },
+    {
+     "t": "4. Aşağıdakilerden hangisi…",
+     "r": [
+      122,
+      832,
+      708,
+      332
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      468,
+      342,
+      350,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Sorunları askerî yöntemlerle hızlı bir şekilde çözüme kavuşturmak.\nMetinde Türkiye'nin sorunların barışçıl yollarla çözülmesine katkı sağladığı belirtilmiştir.",
+     "pill": [
+      622,
+      359
+     ],
+     "qx": 134,
+     "qt": 339,
+     "qb": 466,
+     "qr": 818,
+     "bal": [
+      118,
+      421,
+      716,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      518,
+      492,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Sorunların çözümünde tek başına hareket edip sürekli bekle-gör politikasını benimsemektedir.\nTürkiye uluslararası iş birliğini güçlendirir ve etkin rol üstlenir.",
+     "pill": [
+      630,
+      467
+     ],
+     "qx": 134,
+     "qt": 492,
+     "qb": 518,
+     "qr": 818,
+     "bal": [
+      118,
+      526,
+      716,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      518,
+      704,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Bölgesel ve küresel ölçekte sorunlara hızlıca müdahale etmek.",
+     "pill": [
+      630,
+      709
+     ],
+     "qx": 134,
+     "qt": 688,
+     "qb": 824,
+     "qr": 818,
+     "bal": [
+      118,
+      789,
+      716,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      518,
+      887,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Türkiye küresel iş birliğini artırmaya özen gösterirken bölgesel sorunlarda daha ılımlı politika izlemektedir.\nMetne göre Türkiye bölgesinde istikrar ve kalkınmayı destekleyen, sorunların çözümünde etkin rol alan bir ülkedir; bölgesel sorunlarda geri durmaz.",
+     "pill": [
+      624,
+      889
+     ],
+     "qx": 476,
+     "qt": 868,
+     "qb": 935,
+     "qr": 818,
+     "bal": [
+      414,
+      943,
+      420,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 83,
+   "img": "@IMG:s7-u2/p-28@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıda verilen açık uçlu soruları",
+     "r": [
+      122,
+      93,
+      708,
+      432
+     ]
+    },
+    {
+     "t": "2. İnsaniyardımlarının…",
+     "r": [
+      114,
+      497,
+      716,
+      667
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      158,
+      367,
+      660,
+      135
+     ],
+     "mode": "ink",
+     "text": "Metinde Türk halkının da devleti gibi dayanışmaya önem verdiği, zor zamanlarda yardımlaşmayı ön planda tuttuğu belirtilmiştir. Bu durum toplumda birlik ve beraberliği güçlendirir, zor günlerin birlikte atlatılmasını sağlar.",
+     "fs": 16,
+     "pill": [
+      780,
+      348
+     ]
+    },
+    {
+     "area": [
+      158,
+      572,
+      660,
+      135
+     ],
+     "mode": "ink",
+     "text": "Depremlerde, savaşlarda ve afetlerde Türk milleti bağış kampanyalarına katılmış; AFAD, Türk Kızılay ve TİKA Gazze, Somali ve Suriye gibi bölgelere gıda, ilaç, çadır ve sağlık hizmeti ulaştırmıştır.",
+     "fs": 16,
+     "pill": [
+      780,
+      556
+     ]
+    },
+    {
+     "area": [
+      158,
+      782,
+      660,
+      135
+     ],
+     "mode": "ink",
+     "text": "Stratejik konumu, Doğu ile Batı arasında köprü olması, köklü tarihî deneyimi, diplomasiye verdiği önem, ara buluculuk rolü ve insani yardımlarda dünyada öncü olması.",
+     "fs": 16,
+     "pill": [
+      780,
+      757
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      131,
+      936,
+      56,
+      60
+     ],
+     "panel": "kavram",
+     "label": "Kavram Oyunu"
+    },
+    {
+     "area": [
+      646,
+      939,
+      59,
+      54
+     ],
+     "panel": "sorular",
+     "label": "Öğrenme alanı ek sorular"
+    }
+   ]
+  }
+ ]
+};

@@ -1,0 +1,1291 @@
+// 7. Sınıf Sosyal Bilgiler · 5. Öğrenme Alanı: Hayatımızdaki Ekonomi (s. 72–111)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Ekonomik gelişmişlik ile üretim, dağıtım ve tüketim arasındaki döngü (s. 94–111)
+window.BOOK = {
+ "id": "s7-u5-k2",
+ "title": "Ekonomik gelişmişlik ile üretim, dağıtım ve tüketim arasındaki döngü",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u5-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 94,
+   "img": "@IMG:s7-u5/p-23@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "EKONOMİK GELİŞMİŞLİK İLE",
+     "r": [
+      38,
+      55,
+      830,
+      810
+     ]
+    },
+    {
+     "t": "Ürünün adını duyurur tanıtırım",
+     "r": [
+      92,
+      837,
+      774,
+      327
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      545,
+      365,
+      255,
+      30
+     ],
+     "mode": "ink",
+     "text": "Ekonomi",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      765,
+      352
+     ]
+    },
+    {
+     "area": [
+      545,
+      509,
+      255,
+      30
+     ],
+     "mode": "ink",
+     "text": "Üretim",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      765,
+      487
+     ]
+    },
+    {
+     "area": [
+      545,
+      649,
+      255,
+      30
+     ],
+     "mode": "ink",
+     "text": "Dağıtım",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      765,
+      636
+     ]
+    },
+    {
+     "area": [
+      545,
+      791,
+      255,
+      30
+     ],
+     "mode": "ink",
+     "text": "Tüketim",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      765,
+      769
+     ]
+    },
+    {
+     "area": [
+      545,
+      934,
+      255,
+      30
+     ],
+     "mode": "ink",
+     "text": "Pazarlama",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      765,
+      912
+     ]
+    },
+    {
+     "area": [
+      545,
+      1074,
+      255,
+      30
+     ],
+     "mode": "ink",
+     "text": "Tasarruf",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      765,
+      1055
+     ]
+    }
+   ]
+  },
+  {
+   "n": 95,
+   "img": "@IMG:s7-u5/p-24@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Hikâyeyi okuyarak verilen…",
+     "r": [
+      121,
+      83,
+      708,
+      256
+     ]
+    },
+    {
+     "t": "Göksu, çocukluk yıllarında…",
+     "r": [
+      102,
+      311,
+      727,
+      853
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      620,
+      946,
+      130,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek başlık: \"Bahçeden Sofraya Bir Hayal\"\nÇünkü Göksu çocukluk hayalini çalışarak ve üretim, pazarlama, dağıtım aşamalarını planlayarak gerçekleştirmiştir.",
+     "pill": [
+      618,
+      945
+     ],
+     "qx": 117,
+     "qt": 946,
+     "qb": 1011,
+     "qr": 816,
+     "bal": [
+      117,
+      1019,
+      699,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      135,
+      1020,
+      640,
+      85
+     ],
+     "mode": "ink",
+     "text": "Yatırım: araç ve gereçler alındı → Üretim: meyve suları hazırlanıp şişelendi → Pazarlama: afiş ve sosyal medya paylaşımları → Dağıtım: marketler, satış merkezi ve kargo → Tüketim: müşteriler satın aldı.",
+     "fs": 15,
+     "pill": [
+      823,
+      1007
+     ]
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "img": "@IMG:s7-u5/p-25@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      55,
+      879,
+      367
+     ]
+    },
+    {
+     "t": "Yaşadığınız çevrede üretilen…",
+     "r": [
+      69,
+      394,
+      800,
+      770
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      862,
+      665,
+      215
+     ],
+     "mode": "ink",
+     "text": "Örnek: Pamuk tarlada yetiştirilir (üretim), toplanıp fabrikaya taşınır, iplik ve kumaş yapılır, giyim fabrikasında tişört dikilir (üretim), kamyonlarla mağazalara taşınır (dağıtım), müşteriler satın alıp kullanır (tüketim).\nÖrnek faaliyetler: tarım, tekstil, taşımacılık, mağazacılık, e-ticaret.",
+     "fs": 16,
+     "pill": [
+      825,
+      849
+     ]
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "img": "@IMG:s7-u5/p-26@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ekonomik gelişmişliğin…",
+     "r": [
+      34,
+      55,
+      878,
+      748
+     ]
+    },
+    {
+     "t": "Gelişmişlik",
+     "r": [
+      34,
+      775,
+      878,
+      389
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      245,
+      487,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Mali güç (gelir, sermaye, yatırım), kültürel yapı (eğitim, bilim, çalışma anlayışı), demografik özellikler (genç ve eğitimli nüfus), teknoloji, sağlık, ulaşım ve iletişim imkânları.",
+     "pill": [
+      309,
+      492
+     ],
+     "qx": 118,
+     "qt": 472,
+     "qb": 509,
+     "qr": 682,
+     "bal": [
+      30,
+      517,
+      886,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      748,
+      350,
+      59,
+      58
+     ],
+     "panel": "gelismislik",
+     "label": "Ekonomik Gelişmişlik"
+    }
+   ]
+  },
+  {
+   "n": 98,
+   "img": "@IMG:s7-u5/p-27@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ekonomi; insanların…",
+     "r": [
+      38,
+      84,
+      790,
+      506
+     ]
+    },
+    {
+     "t": "Kültür; bir toplumun düşünme…",
+     "r": [
+      38,
+      562,
+      790,
+      602
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 99,
+   "img": "@IMG:s7-u5/p-28@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Demografi (Nüfus Bilimi); bir…",
+     "r": [
+      110,
+      0,
+      802,
+      858
+     ]
+    },
+    {
+     "t": "kaynakA",
+     "r": [
+      96,
+      830,
+      737,
+      334
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      245,
+      560,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek: Mali güç ile eğitime ve teknolojiye yatırım yapılır; kültürel birikim çalışkan ve yenilikçi bireyler yetiştirir; genç ve eğitimli nüfus da bu yatırımları üretime dönüştürür. Biri eksik olursa diğerleri de tam verim sağlayamaz.",
+     "pill": [
+      309,
+      562
+     ],
+     "qx": 140,
+     "qt": 526,
+     "qb": 582,
+     "qr": 637,
+     "bal": [
+      106,
+      590,
+      810,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 100,
+   "img": "@IMG:s7-u5/p-29@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bir ülkenin ekonomik…",
+     "r": [
+      38,
+      69,
+      790,
+      669
+     ]
+    },
+    {
+     "t": "Fikir Alışverişi: Üretim,…",
+     "r": [
+      38,
+      710,
+      814,
+      454
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      135,
+      1072,
+      59,
+      59
+     ],
+     "panel": "pazar",
+     "label": "Pazar Yeri Tekniği"
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "img": "@IMG:s7-u5/p-30@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Gelişmiş ve gelişmekte olan…",
+     "r": [
+      104,
+      88,
+      808,
+      1076
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 102,
+   "img": "@IMG:s7-u5/p-31@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "genel değerlendirmeden sonra,…",
+     "r": [
+      69,
+      68,
+      759,
+      510
+     ]
+    },
+    {
+     "t": "Hindistan'da kişi başına düşen…",
+     "r": [
+      105,
+      550,
+      744,
+      614
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 103,
+   "img": "@IMG:s7-u5/p-32@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "yaponya, ekonomisi en güçlü…",
+     "r": [
+      104,
+      116,
+      724,
+      353
+     ]
+    },
+    {
+     "t": "Ekonominin",
+     "r": [
+      118,
+      441,
+      731,
+      723
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      273,
+      749,
+      157,
+      132
+     ],
+     "mode": "ink",
+     "text": "Teknoloji kullanılır, üretim hızlı ve verimlidir.",
+     "fs": 14,
+     "pill": [
+      379,
+      754
+     ]
+    },
+    {
+     "area": [
+      452,
+      749,
+      159,
+      132
+     ],
+     "mode": "ink",
+     "text": "Ulaşım ve lojistik gelişmiştir, ürünler hızla ulaşır.",
+     "fs": 14,
+     "pill": [
+      558,
+      754
+     ]
+    },
+    {
+     "area": [
+      631,
+      749,
+      177,
+      132
+     ],
+     "mode": "ink",
+     "text": "Dengeli ve bilinçlidir; eğitim, sağlık, teknoloji öne çıkar.",
+     "fs": 14,
+     "pill": [
+      743,
+      754
+     ]
+    },
+    {
+     "area": [
+      273,
+      934,
+      157,
+      135
+     ],
+     "mode": "ink",
+     "text": "Emek yoğun üretim, teknoloji kullanımı azdır.",
+     "fs": 14,
+     "pill": [
+      379,
+      936
+     ]
+    },
+    {
+     "area": [
+      452,
+      934,
+      159,
+      135
+     ],
+     "mode": "ink",
+     "text": "Altyapı yetersiz, dağıtım yavaş ve maliyetlidir.",
+     "fs": 14,
+     "pill": [
+      558,
+      936
+     ]
+    },
+    {
+     "area": [
+      631,
+      934,
+      177,
+      135
+     ],
+     "mode": "ink",
+     "text": "Gıda, barınma gibi temel ihtiyaçlar ön plandadır.",
+     "fs": 14,
+     "pill": [
+      743,
+      936
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      748,
+      462,
+      62,
+      60
+     ],
+     "panel": "dinamik",
+     "label": "Ekonominin Dinamikleri"
+    }
+   ]
+  },
+  {
+   "n": 104,
+   "img": "@IMG:s7-u5/p-33@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Tasarrufun ekonomik gelişmeye…",
+     "r": [
+      38,
+      88,
+      838,
+      1076
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 105,
+   "img": "@IMG:s7-u5/p-34@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Tasarruf ile ilgili örnek olayı",
+     "r": [
+      122,
+      96,
+      790,
+      518
+     ]
+    },
+    {
+     "t": "Siz olsaydınız tasarruf edilen…",
+     "r": [
+      102,
+      586,
+      746,
+      353
+     ]
+    },
+    {
+     "t": "Tasarruf yapmanın aile…",
+     "r": [
+      102,
+      911,
+      746,
+      253
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      150,
+      568,
+      640,
+      26
+     ],
+     "mode": "ink",
+     "text": "\"Küçük Birikimler, Büyük Kütüphane\"; çünkü küçük tasarruflar birleşince büyük bir sonuç ortaya çıktı.",
+     "fs": 15,
+     "pill": [
+      754,
+      555
+     ]
+    },
+    {
+     "area": [
+      255,
+      633,
+      250,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Okulumuza bilgisayar laboratuvarı kurmak veya ihtiyaç sahibi arkadaşlarımıza kırtasiye yardımı yapmak isterdim; çünkü bu yatırım herkesin eğitimine katkı sağlar.",
+     "pill": [
+      319,
+      638
+     ],
+     "qx": 134,
+     "qt": 617,
+     "qb": 655,
+     "qr": 815,
+     "bal": [
+      134,
+      663,
+      681,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      115,
+      808,
+      320,
+      90
+     ],
+     "mode": "ink",
+     "text": "1. Elektrik  2. Su  3. Gıda (ekmek, yemek)",
+     "fs": 16,
+     "pill": [
+      389,
+      795
+     ]
+    },
+    {
+     "area": [
+      485,
+      808,
+      320,
+      90
+     ],
+     "mode": "ink",
+     "text": "Gereksiz ışıkları kapatmak; dişleri fırçalarken musluğu kapatmak; ihtiyaç kadar yemek pişirmek.",
+     "fs": 14,
+     "pill": [
+      759,
+      816
+     ]
+    },
+    {
+     "area": [
+      115,
+      990,
+      320,
+      90
+     ],
+     "mode": "ink",
+     "text": "Faturalar azalır, biriken para eğitim, sağlık veya ihtiyaçlar için kullanılır.",
+     "fs": 15,
+     "pill": [
+      389,
+      977
+     ]
+    },
+    {
+     "area": [
+      485,
+      990,
+      320,
+      90
+     ],
+     "mode": "ink",
+     "text": "Bir hafta boyunca harçlığımın dörtte birini kumbarama atacağım.",
+     "fs": 15,
+     "pill": [
+      759,
+      992
+     ]
+    }
+   ]
+  },
+  {
+   "n": 106,
+   "img": "@IMG:s7-u5/p-35@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      879,
+      1109
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 107,
+   "img": "@IMG:s7-u5/p-36@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Aşağıda ekonomik gelişmişlik…",
+     "r": [
+      34,
+      55,
+      797,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      709,
+      480,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "3",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      755,
+      467
+     ]
+    },
+    {
+     "area": [
+      709,
+      543,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "4",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      767,
+      530
+     ]
+    },
+    {
+     "area": [
+      709,
+      605,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "2",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      767,
+      592
+     ]
+    },
+    {
+     "area": [
+      709,
+      668,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "5",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      767,
+      655
+     ]
+    },
+    {
+     "area": [
+      709,
+      730,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "1",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      773,
+      717
+     ]
+    },
+    {
+     "area": [
+      709,
+      793,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "6",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      767,
+      780
+     ]
+    },
+    {
+     "area": [
+      709,
+      855,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "2",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      767,
+      842
+     ]
+    },
+    {
+     "area": [
+      709,
+      918,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "5",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      671,
+      905
+     ]
+    },
+    {
+     "area": [
+      709,
+      980,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "1",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      767,
+      967
+     ]
+    },
+    {
+     "area": [
+      709,
+      1043,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "4",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      671,
+      1030
+     ]
+    }
+   ]
+  },
+  {
+   "n": 108,
+   "img": "@IMG:s7-u5/p-37@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "5. ÖĞRENME ALANI-KENDIMI…",
+     "r": [
+      39,
+      51,
+      877,
+      1113
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      120,
+      995,
+      680,
+      24
+     ],
+     "mode": "ink",
+     "text": "4. ÇIKIŞ",
+     "fs": 18,
+     "pill": [
+      766,
+      982
+     ]
+    },
+    {
+     "area": [
+      120,
+      1045,
+      680,
+      75
+     ],
+     "mode": "ink",
+     "text": "Birinci Sanayi Planı devlet eliyle (devletçilik anlayışıyla) hazırlanmıştır. · Türkiye'nin ilk uçak fabrikasını Nuri Demirağ kurmuştur. · Şakir Zümre silah ve cephane fabrikası kurmuştur; kâğıt fabrikasını Mehmet Ali Kâğıtçı kurmuştur.",
+     "fs": 13,
+     "pill": [
+      766,
+      1035
+     ]
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "img": "@IMG:s7-u5/p-38@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "verilen sözcükleri bulmaca…",
+     "r": [
+      34,
+      83,
+      800,
+      1081
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 110,
+   "img": "@IMG:s7-u5/p-39@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıda verilen çoktan seçmeli…",
+     "r": [
+      122,
+      93,
+      706,
+      381
+     ]
+    },
+    {
+     "t": "2. Aşağıda iki ülkeye ait",
+     "r": [
+      122,
+      446,
+      702,
+      488
+     ]
+    },
+    {
+     "t": "bilgilerden hareketle aşağıdaki…",
+     "r": [
+      140,
+      906,
+      727,
+      258
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      350,
+      306,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Bir ülkenin kendi kaynakları, bilgisi ve üretim gücüyle bağımsız olmasını sağlamak",
+     "pill": [
+      426,
+      308
+     ],
+     "qx": 134,
+     "qt": 291,
+     "qb": 328,
+     "qr": 816,
+     "bal": [
+      118,
+      336,
+      714,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      240,
+      645,
+      220,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Y ülkesi, ekonomik ve sosyal göstergelere göre gelişmiş bir ülkedir.",
+     "pill": [
+      316,
+      647
+     ],
+     "qx": 134,
+     "qt": 631,
+     "qb": 667,
+     "qr": 812,
+     "bal": [
+      118,
+      675,
+      710,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      685,
+      932,
+      170,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Tasarruf kültürel bir unsur olduğundan ekonomik gelişmişliği etkiler.\nMetinde tasarruf, yatırım ve üretimle (mali unsurla) ilişkilendirilmiştir.",
+     "pill": [
+      737,
+      931
+     ],
+     "qx": 152,
+     "qt": 932,
+     "qb": 954,
+     "qr": 855,
+     "bal": [
+      136,
+      962,
+      735,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "img": "@IMG:s7-u5/p-40@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "4. 1923 yılında toplanan Türkiye",
+     "r": [
+      124,
+      82,
+      706,
+      279
+     ]
+    },
+    {
+     "t": "soruları aşağıdaki metinden…",
+     "r": [
+      108,
+      333,
+      720,
+      274
+     ]
+    },
+    {
+     "t": "2. Türkiye İktisat Kongresi'nde…",
+     "r": [
+      108,
+      579,
+      720,
+      585
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      590,
+      261,
+      200,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Toplumsal dayanışma ve millî birlik ruhuyla hareket etmek.",
+     "pill": [
+      654,
+      260
+     ],
+     "qx": 154,
+     "qt": 197,
+     "qb": 283,
+     "qr": 790,
+     "bal": [
+      154,
+      291,
+      636,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      120,
+      540,
+      670,
+      40
+     ],
+     "mode": "ink",
+     "text": "Çünkü siyasi bağımsızlık ancak ekonomik bağımsızlıkla korunabilir; askerî zaferlerin kalıcı olması güçlü bir ekonomiye bağlıdır.",
+     "fs": 15,
+     "pill": [
+      754,
+      527
+     ]
+    },
+    {
+     "area": [
+      120,
+      650,
+      670,
+      45
+     ],
+     "mode": "ink",
+     "text": "Yerli üretim, tasarruf ve millî ekonomi anlayışı benimsendi; sanayileşme ve kalkınma hamlelerine yön veren temel ilkeler belirlendi.",
+     "fs": 15,
+     "pill": [
+      754,
+      637
+     ]
+    },
+    {
+     "area": [
+      120,
+      905,
+      670,
+      80
+     ],
+     "mode": "ink",
+     "text": "Tasarruflar arttıkça yatırımlar için daha fazla kaynak oluşur; yeni fabrikalar kurulur, üretim kapasitesi artar, ulaşım ve teknoloji altyapısı gelişir.",
+     "fs": 15,
+     "pill": [
+      754,
+      892
+     ]
+    },
+    {
+     "area": [
+      330,
+      1078,
+      300,
+      24
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Gereksiz harcamalardan kaçınmak, enerji ve su tasarrufu, yerli malı kullanmak, birikimleri bankada değerlendirmek, tasarruf kulüpleri ve eğitim kampanyaları. Biriken kaynaklar yatırıma dönüşür, üretim ve istihdam artar, ekonomik gelişmişlik yükselir.",
+     "pill": [
+      418,
+      1077
+     ],
+     "qx": 133,
+     "qt": 1074,
+     "qb": 1203,
+     "qr": 816,
+     "bal": [
+      104,
+      936,
+      728,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      235,
+      1073,
+      64,
+      60
+     ],
+     "panel": "sorular",
+     "label": "Öğrenme alanı ek sorular"
+    },
+    {
+     "area": [
+      755,
+      1074,
+      60,
+      59
+     ],
+     "panel": "kavram",
+     "label": "Kavram Oyunu"
+    }
+   ]
+  }
+ ]
+};

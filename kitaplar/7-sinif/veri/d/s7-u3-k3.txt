@@ -1,0 +1,1412 @@
+// 7. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 84–159)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Osmanlı kültür ve medeniyeti (s. 136–159)
+window.BOOK = {
+ "id": "s7-u3-k3",
+ "title": "Osmanlı kültür ve medeniyeti",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u3-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 136,
+   "img": "@IMG:s7-u3/p-53@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "OSMANLI KÜLTÜR VE MEDENİYETİ",
+     "r": [
+      38,
+      55,
+      879,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      1044,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Osmanlı Devleti, Selçuklu ve beyliklerin oluşturduğu kültürel birikim üzerine kurulmuştur. Aynı coğrafyada yaşamaları, ortak dil, din ve geleneklere sahip olmaları bu özelliklerin devam etmesini sağlamıştır.",
+     "pill": [
+      418,
+      1016
+     ],
+     "qx": 134,
+     "qt": 904,
+     "qb": 1126,
+     "qr": 852,
+     "bal": [
+      34,
+      871,
+      887,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      138,
+      1090,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Külliyeler, darüşşifalar, imaretler ve vakıflar sayesinde halkın ibadet, eğitim, sağlık ve beslenme ihtiyaçları karşılanmış; yardımlaşma ve dayanışma kültürü gelişmiştir.",
+     "pill": [
+      532,
+      1110
+     ],
+     "qx": 138,
+     "qt": 1046,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      34,
+      896,
+      887,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 137,
+   "img": "@IMG:s7-u3/p-54@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      33,
+      55,
+      805,
+      319
+     ]
+    },
+    {
+     "t": "Elde ettiğiniz bilgilere göre…",
+     "r": [
+      131,
+      346,
+      724,
+      387
+     ]
+    },
+    {
+     "t": "Görsellerde yer alan Osmanlı…",
+     "r": [
+      116,
+      705,
+      748,
+      459
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1064,
+      600,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kubbeler, minareler, kemerler, revaklı avlular ve kesme taş kullanımı gibi Osmanlı mimarisinin ortak özellikleri dikkat çekmektedir.",
+     "pill": [
+      444,
+      1036
+     ],
+     "qx": 128,
+     "qt": 924,
+     "qb": 1220,
+     "qr": 854,
+     "bal": [
+      112,
+      916,
+      756,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1097,
+      700,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Osmanlı Devleti geniş bir coğrafyaya yayılmış, gittiği yerlere kalıcı eserler bırakarak kültürünü yaymış ve bu bölgelerde uzun süre hâkimiyet kurmuştur.",
+     "pill": [
+      552,
+      1114
+     ],
+     "qx": 128,
+     "qt": 957,
+     "qb": 1220,
+     "qr": 854,
+     "bal": [
+      112,
+      891,
+      756,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 138,
+   "img": "@IMG:s7-u3/p-55@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Bilgi görselini inceleyiniz ve…",
+     "r": [
+      122,
+      88,
+      795,
+      1131
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      997,
+      680,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Türk mutfağına ait yemekler (baklava, pilav, kebap, dolma), Türk müziği sazları (kanun, ud, ney), Osmanlı mimarisi (Hamidiye Çarşısı), Karagöz gölge oyunu ve Osmanlı Türkçesinden geçen kelimeler.",
+     "pill": [
+      308,
+      1014
+     ],
+     "qx": 134,
+     "qt": 997,
+     "qb": 1077,
+     "qr": 828,
+     "bal": [
+      118,
+      884,
+      803,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      1042,
+      680,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Osmanlı Devleti bu bölgelerde yüzyıllarca hüküm sürmüş, halkla iç içe yaşamış ve hoşgörülü yönetimi sayesinde kültürü halk tarafından benimsenmiştir.",
+     "pill": [
+      422,
+      933
+     ],
+     "qx": 148,
+     "qt": 1042,
+     "qb": 1077,
+     "qr": 828,
+     "bal": [
+      118,
+      1131,
+      803,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      1085,
+      680,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Bu değerler ortak tarihimizin ve millî kimliğimizin parçasıdır. Korunmaları için tarihî eserler restore edilmeli, kültürel etkinlikler düzenlenmeli, gelenekler yaşatılmalı ve gelecek nesillere tanıtılmalıdır.",
+     "pill": [
+      320,
+      1129
+     ],
+     "qx": 148,
+     "qt": 1043,
+     "qb": 1123,
+     "qr": 828,
+     "bal": [
+      118,
+      884,
+      803,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 139,
+   "img": "@IMG:s7-u3/p-56@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      33,
+      55,
+      879,
+      1109
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 140,
+   "img": "@IMG:s7-u3/p-57@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nde devlet…",
+     "r": [
+      33,
+      68,
+      795,
+      489
+     ]
+    },
+    {
+     "t": "Kaynak",
+     "r": [
+      33,
+      529,
+      794,
+      635
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 141,
+   "img": "@IMG:s7-u3/p-58@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      79,
+      8,
+      838,
+      267
+     ]
+    },
+    {
+     "t": "Günümüzde Divan üyeleri ile benzer",
+     "r": [
+      122,
+      247,
+      686,
+      917
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      658,
+      558,
+      135,
+      70
+     ],
+     "mode": "ink",
+     "text": "Bakanlar",
+     "center": true,
+     "fs": 14,
+     "pill": [
+      794,
+      545
+     ]
+    },
+    {
+     "area": [
+      658,
+      652,
+      135,
+      70
+     ],
+     "mode": "ink",
+     "text": "Adalet Bakanı",
+     "center": true,
+     "fs": 14,
+     "pill": [
+      794,
+      639
+     ]
+    },
+    {
+     "area": [
+      658,
+      746,
+      135,
+      70
+     ],
+     "mode": "ink",
+     "text": "Maliye Bakanı",
+     "center": true,
+     "fs": 14,
+     "pill": [
+      794,
+      733
+     ]
+    },
+    {
+     "area": [
+      658,
+      837,
+      135,
+      70
+     ],
+     "mode": "ink",
+     "text": "Dış İşleri Bakanı",
+     "center": true,
+     "fs": 14,
+     "pill": [
+      770,
+      824
+     ]
+    },
+    {
+     "area": [
+      658,
+      933,
+      135,
+      70
+     ],
+     "mode": "ink",
+     "text": "Deniz Kuvvetleri Komutanı",
+     "center": true,
+     "fs": 14,
+     "pill": [
+      800,
+      920
+     ]
+    },
+    {
+     "area": [
+      658,
+      1027,
+      135,
+      70
+     ],
+     "mode": "ink",
+     "text": "Diyanet İşleri Başkanı",
+     "center": true,
+     "fs": 14,
+     "pill": [
+      800,
+      1014
+     ]
+    }
+   ]
+  },
+  {
+   "n": 142,
+   "img": "@IMG:s7-u3/p-59@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nde eğitim…",
+     "r": [
+      38,
+      88,
+      790,
+      1076
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 143,
+   "img": "@IMG:s7-u3/p-60@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti nitelikli…",
+     "r": [
+      122,
+      0,
+      790,
+      393
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nde mesleki…",
+     "r": [
+      122,
+      365,
+      738,
+      799
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      136,
+      882,
+      310,
+      195
+     ],
+     "mode": "ink",
+     "text": "• İlk, orta ve yükseköğretim kademeleri vardır.\n• Mesleki ve teknik okullar bulunur.\n• Öğretmen yetiştiren okullar vardır.\n• Üniversite eğitimi verilir.",
+     "fs": 14,
+     "pill": [
+      410,
+      860
+     ]
+    },
+    {
+     "area": [
+      503,
+      882,
+      310,
+      195
+     ],
+     "mode": "ink",
+     "text": "• Bugün eğitim tüm vatandaşlar için zorunlu ve ücretsizdir.\n• Eğitim tek çatı altında, millî bir sistemle verilir.\n• Kız ve erkek öğrenciler aynı okullarda okur.\n• Sıbyan mektebi ve medrese yoktur.",
+     "fs": 14,
+     "pill": [
+      777,
+      860
+     ]
+    }
+   ]
+  },
+  {
+   "n": 144,
+   "img": "@IMG:s7-u3/p-61@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nde hukuk…",
+     "r": [
+      38,
+      4,
+      790,
+      735
+     ]
+    },
+    {
+     "t": "ürün Bre MANİZ",
+     "r": [
+      38,
+      711,
+      790,
+      453
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 145,
+   "img": "@IMG:s7-u3/p-62@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Mecelle'deki Hukuk…",
+     "r": [
+      116,
+      47,
+      796,
+      644
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nde sanat…",
+     "r": [
+      122,
+      663,
+      790,
+      501
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      324,
+      700,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Adalet ve hukuk sistemiyle ilgili kavramlar: ADALET, FERMAN, KADI, MECELLE, ÖRFİ HUKUK, NİŞANCI.\nİlgisiz olanlar: VAKIF, MİNYATÜR, TİCARET, LONCA.",
+     "pill": [
+      414,
+      293
+     ],
+     "qx": 128,
+     "qt": 324,
+     "qb": 358,
+     "qr": 828,
+     "bal": [
+      128,
+      366,
+      700,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 146,
+   "img": "@IMG:s7-u3/p-63@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlıda süsleme sanatları da…",
+     "r": [
+      38,
+      37,
+      791,
+      489
+     ]
+    },
+    {
+     "t": "... Viyana klasikleri olarak…",
+     "r": [
+      38,
+      498,
+      790,
+      352
+     ]
+    },
+    {
+     "t": "Hat Yazısıyla Osmanlı Kültürü",
+     "r": [
+      81,
+      822,
+      747,
+      342
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      755,
+      433,
+      62,
+      60
+     ],
+     "panel": "fetihmarsi",
+     "label": "Fetih Marşı"
+    }
+   ]
+  },
+  {
+   "n": 147,
+   "img": "@IMG:s7-u3/p-64@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nde günlük…",
+     "r": [
+      122,
+      0,
+      790,
+      1164
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      411,
+      1077,
+      66,
+      61
+     ],
+     "panel": "gunluk",
+     "label": "Osmanlıda Günlük Yaşam ve Toplum Hayatı"
+    }
+   ]
+  },
+  {
+   "n": 148,
+   "img": "@IMG:s7-u3/p-65@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      81,
+      95,
+      747,
+      301
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nde vakıf…",
+     "r": [
+      38,
+      368,
+      792,
+      796
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 149,
+   "img": "@IMG:s7-u3/p-66@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Göl Temizleyen Vakıf",
+     "r": [
+      116,
+      65,
+      796,
+      778
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nde ahi ve lonca",
+     "r": [
+      122,
+      699,
+      790,
+      465
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      652,
+      450,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Vakıflar sayesinde din, dil, ırk ayrımı yapılmadan cami, medrese, darüşşifa, imaret, köprü gibi pek çok kamu hizmeti halka ulaştırılmış; insan hayatının her anında yardım sağlanmış ve devletin yükü hafiflemiştir.",
+     "pill": [
+      288,
+      627
+     ],
+     "qx": 128,
+     "qt": 652,
+     "qb": 697,
+     "qr": 578,
+     "bal": [
+      128,
+      705,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 150,
+   "img": "@IMG:s7-u3/p-67@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ahiler kazançlarını fakirler ve…",
+     "r": [
+      110,
+      84,
+      730,
+      909
+     ]
+    },
+    {
+     "t": "Ahi teşkilatı ile Lonca teşkilatı",
+     "r": [
+      122,
+      965,
+      706,
+      199
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      485,
+      680,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ahiler kazançlarını fakir ve kimsesizlerle paylaşmış, bir tür sosyal güvenlik kurumu gibi çalışmıştır. Bu sayede toplumda yardımlaşma, dayanışma ve güven duygusu güçlenmiştir.",
+     "pill": [
+      422,
+      466
+     ],
+     "qx": 134,
+     "qt": 485,
+     "qb": 529,
+     "qr": 828,
+     "bal": [
+      106,
+      583,
+      738,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      535,
+      680,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Dürüstlük, cömertlik, misafirperverlik ve kaliteli iş üretme; çünkü bu değerler hem ticarette güveni hem de toplumda huzuru sağlar.",
+     "pill": [
+      422,
+      564
+     ],
+     "qx": 148,
+     "qt": 495,
+     "qb": 575,
+     "qr": 828,
+     "bal": [
+      106,
+      583,
+      738,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      1062,
+      615,
+      60
+     ],
+     "mode": "ink",
+     "text": "İkisi de esnaf ve zanaatkârları bir araya getirir, meslek ahlakını ve dayanışmayı önemser, üretimi ve kaliteyi denetler.",
+     "fs": 16,
+     "pill": [
+      692,
+      1052
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      748,
+      406,
+      69,
+      61
+     ],
+     "panel": "ahi",
+     "label": "Ahi Teşkilatı"
+    }
+   ]
+  },
+  {
+   "n": 151,
+   "img": "@IMG:s7-u3/p-68@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı kültür ve medeniyetiyle…",
+     "r": [
+      116,
+      84,
+      796,
+      1024
+     ]
+    },
+    {
+     "t": "Uzman gruplarından ayrılarak…",
+     "r": [
+      122,
+      939,
+      707,
+      225
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      902,
+      600,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yardımlaşma, dayanışma, merhamet, adalet, paylaşma ve başkasının hakkını gözetme gibi değerlerden söz edilmektedir. Bu mirasın aktarılması millî kimliğimizi korur, toplumsal birliği güçlendirir ve gelecek nesillere örnek olur.",
+     "pill": [
+      366,
+      913
+     ],
+     "qx": 128,
+     "qt": 876,
+     "qb": 1044,
+     "qr": 817,
+     "bal": [
+      112,
+      995,
+      804,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      753,
+      1066,
+      64,
+      60
+     ],
+     "panel": "etkilesimli",
+     "label": "Etkileşimli Video"
+    }
+   ]
+  },
+  {
+   "n": 152,
+   "img": "@IMG:s7-u3/p-69@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      879,
+      948
+     ]
+    },
+    {
+     "t": "Canlandırdığınız hikâyelerde…",
+     "r": [
+      122,
+      975,
+      707,
+      189
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      572,
+      645,
+      400
+     ],
+     "mode": "ink",
+     "text": "Ahmet sabah ezanıyla uyandı. Babası loncaya bağlı bir demirciydi; Ahmet çırak olarak dükkâna gitti. Usta ona \"Eli açık, kapısı açık, dili kapalı ol.\" diyerek ahiliğin kurallarını öğretti. Öğle vakti mahalle camisinin yanındaki imarette fakirlere çorba dağıtıldı. Akşam evde sofraya önce büyükler oturdu. Yemekten sonra hep birlikte Karagöz oyununu izlemeye gittiler.",
+     "fs": 17,
+     "pill": [
+      824,
+      559
+     ]
+    },
+    {
+     "area": [
+      148,
+      1002,
+      520,
+      55
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ahilik ve lonca, vakıf ve imaret, aile içi saygı, yardımlaşma ve dayanışma, Karagöz gibi eğlence kültürü.\nBu değerler millî kimliğimizi oluşturur; aktarılmaları toplumsal birliği güçlendirir ve kültürümüzün yaşamasını sağlar.",
+     "pill": [
+      344,
+      1061
+     ],
+     "qx": 134,
+     "qt": 1002,
+     "qb": 1060,
+     "qr": 698,
+     "bal": [
+      118,
+      1068,
+      715,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      748,
+      1073,
+      69,
+      60
+     ],
+     "panel": "hikayerubrik",
+     "label": "Bütüncül Dereceli Puanlama Anahtarı"
+    }
+   ]
+  },
+  {
+   "n": 153,
+   "img": "@IMG:s7-u3/p-70@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Değerlendirme Formu",
+     "r": [
+      33,
+      25,
+      793,
+      494
+     ]
+    },
+    {
+     "t": "Değerlendirme Ölçütleri Evet…",
+     "r": [
+      119,
+      491,
+      712,
+      673
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 154,
+   "img": "@IMG:s7-u3/p-71@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Akran Değerlendirme Formu deb",
+     "r": [
+      107,
+      23,
+      721,
+      532
+     ]
+    },
+    {
+     "t": "1. Grup üyeleri ile iş",
+     "r": [
+      116,
+      527,
+      800,
+      637
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 155,
+   "img": "@IMG:s7-u3/p-72@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "3. ÖĞRENME ALANI-KENDİMİ…",
+     "r": [
+      34,
+      54,
+      878,
+      864
+     ]
+    },
+    {
+     "t": "Tanılayıcı dallanmış ağaçtaki…",
+     "r": [
+      34,
+      890,
+      868,
+      274
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1015,
+      700,
+      26
+     ],
+     "mode": "ink",
+     "text": "2. ÇIKIŞ",
+     "pill": [
+      822,
+      1002
+     ]
+    },
+    {
+     "area": [
+      128,
+      1062,
+      700,
+      75
+     ],
+     "mode": "ink",
+     "text": "İskân politikasının amacı fethedilen yerlerde kalıcı hâkimiyet sağlamaktır. · İstimalet politikası halka hoşgörülü davranarak gönüllerini kazanmayı amaçlamıştır. · İstimalet politikasıyla gayrimüslim halkın dinî özgürlükleri korunmuştur.",
+     "fs": 13,
+     "pill": [
+      792,
+      1046
+     ]
+    }
+   ]
+  },
+  {
+   "n": 156,
+   "img": "@IMG:s7-u3/p-73@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıda verilen bulmacayı çözünüz.",
+     "r": [
+      91,
+      91,
+      759,
+      1073
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      118,
+      92,
+      720,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevaplar",
+     "text": "1. FRANSIZ İHTİLALİ\n2. REFORM\n3. VAKA-İ HAYRİYE\n4. SANAYİ İNKILABI\n5. NİZÂM-I CEDÎD\n6. TANZİMAT FERMANI\n7. SÖMÜRGECİLİK\n8. AYDINLANMA ÇAĞI\n9. LALE DEVRİ\n10. RÖNESANS",
+     "pill": [
+      434,
+      91
+     ],
+     "qx": 118,
+     "qt": 92,
+     "qb": 120,
+     "qr": 838,
+     "bal": [
+      118,
+      128,
+      720,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 157,
+   "img": "@IMG:s7-u3/p-74@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıda verilen çoktan seçmeli…",
+     "r": [
+      122,
+      90,
+      706,
+      304
+     ]
+    },
+    {
+     "t": "Fatih Sultan Mehmed'in…",
+     "r": [
+      122,
+      366,
+      708,
+      415
+     ]
+    },
+    {
+     "t": "4. soruları aşağıdaki metinden…",
+     "r": [
+      122,
+      678,
+      708,
+      486
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      518,
+      407,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Uygulanan politikalarla İstanbul'da kalıcı hâkimiyet sağlamak",
+     "pill": [
+      630,
+      427
+     ],
+     "qx": 135,
+     "qt": 403,
+     "qb": 439,
+     "qr": 818,
+     "bal": [
+      118,
+      447,
+      716,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      518,
+      589,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Fethedilen bölgedeki halkın başka yerlere göç ettirilmesi\nMetinde halkın göç ettirildiğinden değil, Müslüman Türk halkın şehre yerleştirildiğinden söz edilir.",
+     "pill": [
+      630,
+      588
+     ],
+     "qx": 162,
+     "qt": 554,
+     "qb": 682,
+     "qr": 818,
+     "bal": [
+      118,
+      668,
+      716,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      518,
+      973,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Akdeniz'de Osmanlı donanmasına karşı koyabilecek bir gücün kalmadığı anlaşılmıştır.",
+     "pill": [
+      630,
+      993
+     ],
+     "qx": 134,
+     "qt": 971,
+     "qb": 1007,
+     "qr": 818,
+     "bal": [
+      118,
+      1015,
+      716,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 158,
+   "img": "@IMG:s7-u3/p-75@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "4. Preveze Deniz Zaferi'nin…",
+     "r": [
+      122,
+      84,
+      795,
+      229
+     ]
+    },
+    {
+     "t": "soruları aşağıdaki metinden…",
+     "r": [
+      122,
+      285,
+      708,
+      440
+     ]
+    },
+    {
+     "t": "Verilen soruyu aşağıdaki…",
+     "r": [
+      121,
+      697,
+      713,
+      467
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      518,
+      100,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Preveze Zaferi'nin Türk denizciliği açısından millî gurur kaynağı olduğunun",
+     "pill": [
+      630,
+      114
+     ],
+     "qx": 134,
+     "qt": 98,
+     "qb": 132,
+     "qr": 818,
+     "bal": [
+      118,
+      140,
+      803,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      547,
+      670,
+      50
+     ],
+     "mode": "ink",
+     "text": "Devleti idari, askerî, mali ve hukuki konularda yönetmek; toprakları genişletmek, ülkeyi geliştirmek, halkın refahını ve mutluluğunu sağlamak, en önemlisi adaleti sağlamak.",
+     "fs": 14,
+     "pill": [
+      782,
+      531
+     ]
+    },
+    {
+     "area": [
+      148,
+      654,
+      670,
+      48
+     ],
+     "mode": "ink",
+     "text": "Kanunlara, törelere, gelenek ve göreneklere uymak zorundaydılar.",
+     "fs": 16,
+     "pill": [
+      782,
+      635
+     ]
+    },
+    {
+     "area": [
+      148,
+      1042,
+      670,
+      30
+     ],
+     "mode": "ink",
+     "text": "Avarız Vakfı ile hastalara yardım, yoksul cenazeleri, cami ve mektep onarımı, görevli maaşları karşılanmıştır.",
+     "fs": 13,
+     "pill": [
+      782,
+      1017
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      144,
+      1082,
+      56,
+      59
+     ],
+     "panel": "kavram",
+     "label": "Kavram Oyunu"
+    },
+    {
+     "area": [
+      647,
+      1081,
+      71,
+      59
+     ],
+     "panel": "sorular",
+     "label": "Öğrenme alanı ek sorular"
+    }
+   ]
+  },
+  {
+   "n": 159,
+   "img": "@IMG:s7-u3/p-76@",
+   "section": "Ek-1",
+   "steps": [
+    {
+     "t": "Origami görev oyunu için aşağıda",
+     "r": [
+      34,
+      15,
+      813,
+      1149
+     ]
+    }
+   ],
+   "answers": []
+  }
+ ]
+};

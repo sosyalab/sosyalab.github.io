@@ -1,0 +1,1392 @@
+// 7. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–71)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Türkiye Cumhuriyeti'nin nitelikleri (s. 12–24)
+window.BOOK = {
+ "id": "s7-u4-k1",
+ "title": "Türkiye Cumhuriyeti'nin nitelikleri",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u4-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 10,
+   "img": "@IMG:s7-u4/p-01@",
+   "section": "4. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      80,
+      884,
+      479
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      531,
+      884,
+      645
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      204,
+      1095,
+      62,
+      62
+     ],
+     "panel": "alan",
+     "label": "4. Öğrenme alanı"
+    },
+    {
+     "area": [
+      552,
+      1003,
+      71,
+      62
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "img": "@IMG:s7-u4/p-02@",
+   "section": "Yaşayan Demokrasimiz",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      796,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 12,
+   "img": "@IMG:s7-u4/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "TÜRKİYE CUMHURİYETİ'NİN",
+     "r": [
+      38,
+      55,
+      879,
+      631
+     ]
+    },
+    {
+     "t": "Mustafa Kemal Atatürk'ün sözünü…",
+     "r": [
+      33,
+      658,
+      799,
+      506
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      100,
+      330,
+      200,
+      56
+     ],
+     "mode": "ink",
+     "text": "Halk egemenliği",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      266,
+      317
+     ]
+    },
+    {
+     "area": [
+      100,
+      450,
+      200,
+      56
+     ],
+     "mode": "ink",
+     "text": "Seçim",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      248,
+      437
+     ]
+    },
+    {
+     "area": [
+      100,
+      580,
+      200,
+      56
+     ],
+     "mode": "ink",
+     "text": "Eşitlik",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      164,
+      567
+     ]
+    },
+    {
+     "area": [
+      100,
+      710,
+      200,
+      56
+     ],
+     "mode": "ink",
+     "text": "Özgürlük",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      248,
+      697
+     ]
+    },
+    {
+     "area": [
+      620,
+      330,
+      200,
+      56
+     ],
+     "mode": "ink",
+     "text": "Demokrasi",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      786,
+      317
+     ]
+    },
+    {
+     "area": [
+      620,
+      450,
+      200,
+      56
+     ],
+     "mode": "ink",
+     "text": "Millî irade",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      780,
+      437
+     ]
+    },
+    {
+     "area": [
+      620,
+      580,
+      200,
+      56
+     ],
+     "mode": "ink",
+     "text": "Atatürk",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      780,
+      567
+     ]
+    },
+    {
+     "area": [
+      620,
+      710,
+      200,
+      56
+     ],
+     "mode": "ink",
+     "text": "29 Ekim 1923",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      786,
+      697
+     ]
+    },
+    {
+     "area": [
+      380,
+      1060,
+      440,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Cumhuriyet bireylere özgürlük ve eşitlik tanır; halk kendi yöneticilerini seçer ve yönetime katılır. Bağımsızlığına ve özgürlüğüne sahip olan milletler her alanda gelişme imkânı bulur. Bu yüzden ilerlemenin en belirgin teminatı cumhuriyettir.",
+     "pill": [
+      534,
+      1068
+     ],
+     "qx": 344,
+     "qt": 1044,
+     "qb": 1100,
+     "qr": 820,
+     "bal": [
+      276,
+      881,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "img": "@IMG:s7-u4/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "82 Aşağıdaki kaynaklarda…",
+     "r": [
+      33,
+      55,
+      814,
+      723
+     ]
+    },
+    {
+     "t": "Kaynakta verilen",
+     "r": [
+      96,
+      750,
+      728,
+      414
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      200,
+      874,
+      225,
+      62
+     ],
+     "mode": "ink",
+     "text": "Yöneticilerin seçimle belirlenmesi",
+     "fs": 12,
+     "pill": [
+      204,
+      837
+     ]
+    },
+    {
+     "area": [
+      432,
+      874,
+      188,
+      62
+     ],
+     "mode": "ink",
+     "text": "Seçim, halkın yönetime katılması",
+     "fs": 12,
+     "pill": [
+      586,
+      789
+     ]
+    },
+    {
+     "area": [
+      632,
+      874,
+      178,
+      62
+     ],
+     "mode": "ink",
+     "text": "Evet; milletvekili ve muhtar seçimleri",
+     "fs": 12,
+     "pill": [
+      816,
+      861
+     ]
+    },
+    {
+     "area": [
+      200,
+      954,
+      225,
+      62
+     ],
+     "mode": "ink",
+     "text": "Adaletli ve iyi yönetim",
+     "fs": 12,
+     "pill": [
+      126,
+      941
+     ]
+    },
+    {
+     "area": [
+      432,
+      954,
+      188,
+      62
+     ],
+     "mode": "ink",
+     "text": "Adalet, hukukun üstünlüğü",
+     "fs": 12,
+     "pill": [
+      586,
+      1103
+     ]
+    },
+    {
+     "area": [
+      632,
+      954,
+      178,
+      62
+     ],
+     "mode": "ink",
+     "text": "Evet; yargı bağımsızlığı, eşitlik ilkesi",
+     "fs": 12,
+     "pill": [
+      816,
+      941
+     ]
+    },
+    {
+     "area": [
+      200,
+      1034,
+      225,
+      62
+     ],
+     "mode": "ink",
+     "text": "Ailelere ve çocuklara yardım",
+     "fs": 12,
+     "pill": [
+      390,
+      1102
+     ]
+    },
+    {
+     "area": [
+      432,
+      1034,
+      188,
+      62
+     ],
+     "mode": "ink",
+     "text": "Sosyal devlet, yardımlaşma",
+     "fs": 12,
+     "pill": [
+      586,
+      1135
+     ]
+    },
+    {
+     "area": [
+      632,
+      1034,
+      178,
+      62
+     ],
+     "mode": "ink",
+     "text": "Evet; Sevgi Evleri, sosyal yardımlar, burslar",
+     "fs": 12,
+     "pill": [
+      816,
+      1021
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "img": "@IMG:s7-u4/p-05@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Anayasamızın ikinci maddesini…",
+     "r": [
+      38,
+      55,
+      795,
+      445
+     ]
+    },
+    {
+     "t": "Anayasamızın 2. maddesinden…",
+     "r": [
+      89,
+      472,
+      743,
+      286
+     ]
+    },
+    {
+     "t": "Her adımdaiki grup birleşerek…",
+     "r": [
+      145,
+      730,
+      683,
+      434
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      328,
+      302,
+      320,
+      120
+     ],
+     "mode": "ink",
+     "text": "• Demokratik devlet\n• Lâik devlet\n• Sosyal devlet\n• Hukuk devleti\n• Atatürk milliyetçiliğine bağlı",
+     "fs": 14,
+     "pill": [
+      614,
+      286
+     ]
+    },
+    {
+     "area": [
+      158,
+      962,
+      490,
+      120
+     ],
+     "mode": "ink",
+     "text": "Demokratik, lâik, sosyal bir hukuk devleti; insan haklarına saygılı; Atatürk milliyetçiliğine bağlı; toplumun huzuru, millî dayanışma ve adalet anlayışı içinde.",
+     "fs": 15,
+     "pill": [
+      612,
+      946
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      597,
+      62,
+      58
+     ],
+     "panel": "kartopu",
+     "label": "Kartopu Tekniği"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "img": "@IMG:s7-u4/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türkiye Cumhuriyeti'nin temel…",
+     "r": [
+      119,
+      0,
+      793,
+      1164
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 16,
+   "img": "@IMG:s7-u4/p-07@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Düşün-eşleş-paylaş tekniğini…",
+     "r": [
+      82,
+      82,
+      740,
+      303
+     ]
+    },
+    {
+     "t": "Atatürk milliyetçiliğinin…",
+     "r": [
+      125,
+      357,
+      704,
+      807
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      447,
+      500,
+      90
+     ],
+     "mode": "ink",
+     "text": "tarihimizden aldığı ortak değerleri, dil ve kültür birliğini koruyarak gelecek nesillere aktarır.",
+     "fs": 15,
+     "pill": [
+      614,
+      434
+     ]
+    },
+    {
+     "area": [
+      148,
+      692,
+      500,
+      90
+     ],
+     "mode": "ink",
+     "text": "millî birlik ve beraberlik içinde ortak hedeflere yönelmemizi sağlar.",
+     "fs": 15,
+     "pill": [
+      614,
+      670
+     ]
+    },
+    {
+     "area": [
+      148,
+      947,
+      500,
+      90
+     ],
+     "mode": "ink",
+     "text": "ırk, din ve köken ayrımı yapmadan bütün vatandaşları eşit kabul eder.",
+     "fs": 15,
+     "pill": [
+      614,
+      928
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      743,
+      104,
+      67,
+      58
+     ],
+     "panel": "dep",
+     "label": "Düşün-Eşleş-Paylaş Tekniği"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "img": "@IMG:s7-u4/p-08@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Demokratik devlet niteliği ile…",
+     "r": [
+      90,
+      83,
+      778,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      812,
+      640,
+      240
+     ],
+     "mode": "ink",
+     "text": "Seçimlere katılımın yüksek olması cumhuriyetin demokratik devlet niteliği açısından önemlidir. Halk oyunu kullanarak yöneticilerini belirler, yönetime katılır ve millî iradeyi ortaya koyar. Bu sayede alınan kararlar halkın isteklerini yansıtır, vatandaşlar yöneticileri denetler ve demokrasi kültürü güçlenir.",
+     "fs": 17,
+     "pill": [
+      824,
+      799
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "img": "@IMG:s7-u4/p-09@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Demokratik devletin temel…",
+     "r": [
+      109,
+      92,
+      737,
+      773
+     ]
+    },
+    {
+     "t": "Temel Hak ve Özgürlükler:…",
+     "r": [
+      119,
+      837,
+      727,
+      327
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      600,
+      382,
+      205,
+      76
+     ],
+     "mode": "ink",
+     "text": "Siyasi partilerin seçimlere katılması, meclisteki farklı partiler.",
+     "center": true,
+     "fs": 12,
+     "pill": [
+      784,
+      369
+     ]
+    },
+    {
+     "area": [
+      600,
+      478,
+      205,
+      76
+     ],
+     "mode": "ink",
+     "text": "Vatandaşların seçimlerde oy kullanması.",
+     "center": true,
+     "fs": 12,
+     "pill": [
+      790,
+      465
+     ]
+    },
+    {
+     "area": [
+      600,
+      572,
+      205,
+      76
+     ],
+     "mode": "ink",
+     "text": "Belediye bütçesinin halka açıklanması, CİMER'e başvuru.",
+     "center": true,
+     "fs": 12,
+     "pill": [
+      796,
+      559
+     ]
+    },
+    {
+     "area": [
+      600,
+      672,
+      205,
+      76
+     ],
+     "mode": "ink",
+     "text": "Gönüllü olarak AKUT veya Kızılay'a üye olmak.",
+     "center": true,
+     "fs": 12,
+     "pill": [
+      790,
+      659
+     ]
+    },
+    {
+     "area": [
+      600,
+      762,
+      205,
+      76
+     ],
+     "mode": "ink",
+     "text": "Farklı kültürlerden insanların bir arada yaşaması.",
+     "center": true,
+     "fs": 12,
+     "pill": [
+      790,
+      749
+     ]
+    },
+    {
+     "area": [
+      600,
+      866,
+      205,
+      76
+     ],
+     "mode": "ink",
+     "text": "Herkesin düşüncesini özgürce açıklayabilmesi.",
+     "center": true,
+     "fs": 12,
+     "pill": [
+      790,
+      853
+     ]
+    },
+    {
+     "area": [
+      600,
+      962,
+      205,
+      76
+     ],
+     "mode": "ink",
+     "text": "Kanunların herkese eşit uygulanması; TBMM, Cumhurbaşkanı ve mahkemeler.",
+     "center": true,
+     "fs": 12,
+     "pill": [
+      790,
+      949
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "img": "@IMG:s7-u4/p-10@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Laik devlet niteliği ile ilgili",
+     "r": [
+      110,
+      106,
+      716,
+      767
+     ]
+    },
+    {
+     "t": "Günlük yaşamda laiklik…",
+     "r": [
+      118,
+      691,
+      724,
+      521
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      668,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hoşgörü, saygı, kardeşlik, barış, birlik ve beraberlik değerlerini güçlendirir; çünkü farklı inançtan insanlar birbirini tanır ve birlikte yaşamayı öğrenir.",
+     "pill": [
+      386,
+      643
+     ],
+     "qx": 125,
+     "qt": 663,
+     "qb": 698,
+     "qr": 783,
+     "bal": [
+      106,
+      760,
+      724,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      130,
+      712,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Herkesin dilediği dine inanabilmesi veya inanmaması, ibadethanelerin yan yana bulunması, devletin dinler arasında ayrım yapmaması, eğitim ve hukukun akla ve bilime göre düzenlenmesi.",
+     "pill": [
+      416,
+      732
+     ],
+     "qx": 130,
+     "qt": 712,
+     "qb": 752,
+     "qr": 830,
+     "bal": [
+      106,
+      760,
+      724,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      420,
+      1005,
+      400,
+      36
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Vicdan özgürlüğü bireyin inancını kimsenin baskısı olmadan özgürce seçebilmesini sağlar. Bu da toplumda huzur, hoşgörü ve eşitliği güçlendirir.",
+     "pill": [
+      556,
+      1076
+     ],
+     "qx": 392,
+     "qt": 1005,
+     "qb": 1041,
+     "qr": 820,
+     "bal": [
+      286,
+      1099,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      420,
+      1055,
+      400,
+      36
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Vicdan, dinî inanç ve kanaat hürriyeti; ibadet etme özgürlüğü; dinî inanç ve kanaatlerini açıklamaya zorlanmama ve bu nedenle kınanmama, suçlanmama hakkı.",
+     "pill": [
+      556,
+      1108
+     ],
+     "qx": 420,
+     "qt": 1055,
+     "qb": 1091,
+     "qr": 820,
+     "bal": [
+      286,
+      1105,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "img": "@IMG:s7-u4/p-11@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sosyal devletin niteliği ile…",
+     "r": [
+      33,
+      78,
+      859,
+      1087
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      308,
+      395,
+      500,
+      35
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ücretsiz eğitim ve sağlık hizmeti, evde sağlık hizmeti, ücretsiz ders kitabı, yaşlı aylığı, engelli maaşı, öğrenci bursları, işsizlik sigortası, millet bahçeleri, toplu konut.",
+     "pill": [
+      624,
+      379
+     ],
+     "qx": 50,
+     "qt": 255,
+     "qb": 570,
+     "qr": 822,
+     "bal": [
+      29,
+      483,
+      867,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      340,
+      1004,
+      540,
+      22
+     ],
+     "mode": "ink",
+     "text": "... evden çıkmadan tedavi olabiliyorum, kendimi değerli hissediyorum.\"",
+     "fs": 14,
+     "pill": [
+      842,
+      991
+     ]
+    },
+    {
+     "area": [
+      340,
+      1046,
+      540,
+      22
+     ],
+     "mode": "ink",
+     "text": "... insanların yüzündeki mutluluğu görmek beni çok sevindiriyor.\"",
+     "fs": 14,
+     "pill": [
+      842,
+      1033
+     ]
+    },
+    {
+     "area": [
+      340,
+      1086,
+      540,
+      22
+     ],
+     "mode": "ink",
+     "text": "... ailem kitap almak için zorlanırdı; artık hepimiz eşit şartlarda okuyoruz.\"",
+     "fs": 13,
+     "pill": [
+      842,
+      1073
+     ]
+    },
+    {
+     "area": [
+      340,
+      1124,
+      540,
+      22
+     ],
+     "mode": "ink",
+     "text": "... büyük katkı sağlıyor, bu parayı başka ihtiyaçlarımız için kullanabiliyoruz.\"",
+     "fs": 13,
+     "pill": [
+      842,
+      1111
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "img": "@IMG:s7-u4/p-12@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sosyal devlet anlayışı…",
+     "r": [
+      122,
+      87,
+      705,
+      267
+     ]
+    },
+    {
+     "t": "Hukuk devleti ile ilgili metinleri",
+     "r": [
+      93,
+      326,
+      748,
+      872
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      118,
+      82,
+      700,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Haberlerde yer alan değerler: Dayanışma, Yardımseverlik, Duyarlılık, Merhamet, Eşitlik, Adalet, Sorumluluk, Saygı.",
+     "pill": [
+      404,
+      72
+     ],
+     "qx": 118,
+     "qt": 82,
+     "qb": 117,
+     "qr": 818,
+     "bal": [
+      118,
+      125,
+      700,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      358,
+      1024,
+      460,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Hukuk devletinde kanunlar herkes için eşit uygulanır; görevli olmak kimseye ayrıcalık tanımaz. Trafik polisinin kural ihlaline ceza verilmesi kanun üstünlüğünün ve kanun önünde eşitliğin göstergesidir.",
+     "pill": [
+      524,
+      993
+     ],
+     "qx": 119,
+     "qt": 884,
+     "qb": 1077,
+     "qr": 829,
+     "bal": [
+      89,
+      1085,
+      756,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "img": "@IMG:s7-u4/p-13@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türkiye Cumhuriyeti'nin…",
+     "r": [
+      110,
+      96,
+      807,
+      1068
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      702,
+      412,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 34,
+     "pill": [
+      712,
+      399
+     ]
+    },
+    {
+     "area": [
+      644,
+      480,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 34,
+     "pill": [
+      648,
+      455
+     ]
+    },
+    {
+     "area": [
+      764,
+      568,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 34,
+     "pill": [
+      792,
+      555
+     ]
+    },
+    {
+     "area": [
+      702,
+      658,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 34,
+     "pill": [
+      706,
+      642
+     ]
+    },
+    {
+     "area": [
+      582,
+      748,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 34,
+     "pill": [
+      586,
+      735
+     ]
+    },
+    {
+     "area": [
+      764,
+      838,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 34,
+     "pill": [
+      774,
+      825
+     ]
+    },
+    {
+     "area": [
+      644,
+      928,
+      44,
+      44
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 34,
+     "pill": [
+      654,
+      915
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      761,
+      1051,
+      64,
+      60
+     ],
+     "panel": "nitelikler",
+     "label": "Türkiye Cumhuriyeti'nin Nitelikleri"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "img": "@IMG:s7-u4/p-14@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      33,
+      55,
+      798,
+      793
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      153,
+      820,
+      678,
+      344
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      190,
+      530,
+      220,
+      110
+     ],
+     "mode": "ink",
+     "text": "Seçimler düzenli yapılır, herkes oy kullanır, farklı partiler vardır.",
+     "fs": 13,
+     "pill": [
+      374,
+      505
+     ]
+    },
+    {
+     "area": [
+      560,
+      530,
+      210,
+      110
+     ],
+     "mode": "ink",
+     "text": "Herkes inancını özgürce yaşar, camiler ve kiliseler yan yana bulunur.",
+     "fs": 13,
+     "pill": [
+      774,
+      517
+     ]
+    },
+    {
+     "area": [
+      386,
+      680,
+      204,
+      130
+     ],
+     "mode": "ink",
+     "text": "Vatandaşlar arasında ırk, din, dil ayrımı yapılmaz; herkes Türk vatandaşıdır.",
+     "fs": 13,
+     "pill": [
+      504,
+      655
+     ]
+    },
+    {
+     "area": [
+      190,
+      860,
+      210,
+      150
+     ],
+     "mode": "ink",
+     "text": "Kanunlar herkese eşit uygulanır, mahkemelere başvurulabilir.",
+     "fs": 13,
+     "pill": [
+      362,
+      871
+     ]
+    },
+    {
+     "area": [
+      570,
+      860,
+      200,
+      150
+     ],
+     "mode": "ink",
+     "text": "Ücretsiz eğitim ve sağlık, burslar, yaşlı ve engelli aylığı verilir.",
+     "fs": 13,
+     "pill": [
+      820,
+      847
+     ]
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "img": "@IMG:s7-u4/p-15@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "0 Hak ve özgürlüklerimize ilişkin",
+     "r": [
+      38,
+      54,
+      879,
+      1110
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      218,
+      397,
+      440,
+      420
+     ],
+     "mode": "ink",
+     "text": "Cumhuriyetimiz sayesinde bugün hepimiz kanun önünde eşitiz. Okula gitme, sağlık hizmeti alma, düşüncemizi açıklama ve inancımızı özgürce yaşama hakkına sahibiz. Büyüklerimiz oy kullanarak yöneticilerini seçiyor. Kadınlarımız da seçme ve seçilme hakkına sahip. Hakkımız çiğnendiğinde mahkemeye başvurabiliyoruz. Bu haklar demokratik, lâik, sosyal bir hukuk devleti olmamız sayesinde korunuyor. Sen de ülkende bu haklara sahip misin?\nSevgiyle, ...",
+     "fs": 16,
+     "pill": [
+      624,
+      384
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      756,
+      1078,
+      59,
+      59
+     ],
+     "panel": "mektup",
+     "label": "Kontrol Listesi"
+    }
+   ]
+  }
+ ]
+};

@@ -1,0 +1,830 @@
+// 7. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–55)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Özel gereksinimli bireyler için fırsat eşitliği (s. 30–39)
+window.BOOK = {
+ "id": "s7-u1-k2",
+ "title": "Özel gereksinimli bireyler için fırsat eşitliği",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u1-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 30,
+   "img": "@IMG:s7-u1/p-21@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "ÖZEL GEREKSİNİMLİ BİREYLER",
+     "r": [
+      38,
+      55,
+      879,
+      607
+     ]
+    },
+    {
+     "t": "İnsanlar; yaş, cinsiyet,…",
+     "r": [
+      97,
+      634,
+      819,
+      530
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      190,
+      320,
+      600,
+      300
+     ],
+     "mode": "ink",
+     "text": "Yaşama hakkı, eğitim hakkı, sağlık hakkı, düşünce ve ifade özgürlüğü, eşitlik hakkı, çalışma hakkı, din ve vicdan özgürlüğü, kişi dokunulmazlığı ve güvenlik hakkı.",
+     "pill": [
+      728,
+      307
+     ]
+    },
+    {
+     "area": [
+      140,
+      690,
+      520,
+      34
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Herkese aynı hakların tanınması ve ihtiyacı olana ek destek verilmesiyle (fırsat eşitliği) adaletli bir yaşam sağlanabilir. Okullara, binalara ve toplu taşımaya rampa, asansör ve hissedilebilir yüzeyler yapılmalı; özel eğitim desteği verilmeli. Toplumda empati ve farklılıklara saygı bilinci geliştirilmelidir.",
+     "pill": [
+      336,
+      740
+     ],
+     "qx": 109,
+     "qt": 679,
+     "qb": 734,
+     "qr": 816,
+     "bal": [
+      109,
+      742,
+      707,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      385,
+      1010,
+      190,
+      90
+     ],
+     "mode": "ink",
+     "text": "Eğitimde fırsat eşitliği",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      497,
+      1003
+     ]
+    },
+    {
+     "area": [
+      620,
+      1010,
+      190,
+      90
+     ],
+     "mode": "ink",
+     "text": "Engelli bireyler için rampa ve asansör",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      732,
+      1003
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "img": "@IMG:s7-u1/p-22@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      34,
+      55,
+      878,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      180,
+      420,
+      660,
+      430
+     ],
+     "mode": "ink",
+     "text": "Kolaj fikirleri ve açıklamaları:\n• Rampa ve asansör: Tekerlekli sandalye kullananlar binalara kolayca girebilir.\n• Hissedilebilir yüzey (sarı şerit): Görme yetersizliği olanlar güvenle yürür.\n• İşaret dili tercümanı: İşitme yetersizliği olanlar haberleri takip eder.\n• Kabartma (Braille) yazılı kitaplar: Herkes okuyabilir.\n• Paralimpik sporcular: Herkes yeteneğini geliştirebilir.\nFırsat eşitliği toplumu daha adil, mutlu ve güçlü yapar.",
+     "pill": [
+      736,
+      407
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "img": "@IMG:s7-u1/p-23@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Engelleri aşan üç genç, paralimpik",
+     "r": [
+      38,
+      55,
+      797,
+      526
+     ]
+    },
+    {
+     "t": "Sare Aydın (Psikiyatri Uzmanı)",
+     "r": [
+      76,
+      553,
+      752,
+      611
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      369,
+      178,
+      68,
+      68
+     ],
+     "panel": "ucgenc",
+     "label": "Engelleri aşan üç genç"
+    },
+    {
+     "area": [
+      542,
+      189,
+      59,
+      59
+     ],
+     "panel": "paralimpik",
+     "label": "Paralimpik kahramanlar"
+    },
+    {
+     "area": [
+      759,
+      189,
+      64,
+      64
+     ],
+     "panel": "altiisim",
+     "label": "Engellerine rağmen büyük başarılara imza atmış altı isim"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "img": "@IMG:s7-u1/p-24@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      35,
+      0,
+      877,
+      241
+     ]
+    },
+    {
+     "t": "Özel gereksinimli bireyler için…",
+     "r": [
+      35,
+      213,
+      877,
+      951
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 34,
+   "img": "@IMG:s7-u1/p-25@",
+   "steps": [
+    {
+     "t": "Özel gereksinimli bireyler,…",
+     "r": [
+      38,
+      70,
+      791,
+      474
+     ]
+    },
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      395,
+      792,
+      769
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      420,
+      330,
+      380,
+      28
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Görmeden ya da kolunu kullanmadan bir işi yapmanın ne kadar zor olduğunu fark ettim; başta zorlandım ve biraz tedirgin oldum. Arkadaşıma güvenmeyi ve onunla iş birliği yapmayı öğrendim.",
+     "pill": [
+      544,
+      302
+     ],
+     "qx": 386,
+     "qt": 330,
+     "qb": 393,
+     "qr": 816,
+     "bal": [
+      273,
+      406,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      420,
+      370,
+      380,
+      28
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Etkinlik, özel gereksinimli bireylerin günlük hayatta karşılaştıkları zorlukları yaşayarak anlamamı sağladı. Onların yerine kendimi koyarak empati kurdum; sabırlı, anlayışlı ve yardımsever olmanın önemini kavradım.",
+     "pill": [
+      784,
+      375
+     ],
+     "qx": 416,
+     "qt": 359,
+     "qb": 398,
+     "qr": 816,
+     "bal": [
+      34,
+      406,
+      799,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      752,
+      248,
+      64,
+      64
+     ],
+     "panel": "engelleriasiyorum",
+     "label": "Engelleri Aşıyorum"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "img": "@IMG:s7-u1/p-26@",
+   "steps": [
+    {
+     "t": "Aşağıda, özel gereksinimli…",
+     "r": [
+      74,
+      88,
+      764,
+      1076
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 36,
+   "img": "@IMG:s7-u1/p-27@",
+   "steps": [
+    {
+     "t": "Fethiye'de Özel Gereksinimli…",
+     "r": [
+      38,
+      66,
+      879,
+      1098
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      410,
+      760,
+      400,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ortak amaç, özel gereksinimli bireylerin toplum hayatına eşit, bağımsız ve aktif olarak katılmalarını sağlamak; eğitim, sağlık, ulaşım ve sosyal hayatta fırsat eşitliği oluşturarak yaşam kalitelerini artırmaktır.",
+     "pill": [
+      722,
+      774
+     ],
+     "qx": 366,
+     "qt": 620,
+     "qb": 789,
+     "qr": 818,
+     "bal": [
+      34,
+      947,
+      887,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      410,
+      810,
+      400,
+      28
+     ],
+     "mode": "card",
+     "label": "Tartışma için öneri",
+     "text": "Bu çalışmalar özel gereksinimli bireylerin kendilerini değerli ve güvende hissetmelerini, yeteneklerini geliştirmelerini ve başkalarına bağımlı olmadan yaşayabilmelerini sağlar. Toplumda eşit bireyler olarak yer almalarına, ailelerinin de yükünün hafiflemesine katkıda bulunur.",
+     "qx": 398,
+     "qt": 802,
+     "qb": 978,
+     "qr": 819,
+     "bal": [
+      34,
+      941,
+      887,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      410,
+      860,
+      400,
+      28
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Okulumuzdaki rampalar ve asansör, kaldırımlardaki sarı hissedilebilir şeritler, otobüslerin alçalan rampaları, sesli trafik ışıkları, televizyondaki işaret dili tercümanı, kütüphanelerdeki sesli ve kabartma kitaplar, belediyelerin engelli taşıma araçları.",
+     "pill": [
+      824,
+      862
+     ],
+     "qx": 397,
+     "qt": 849,
+     "qb": 1025,
+     "qr": 819,
+     "bal": [
+      34,
+      947,
+      887,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "img": "@IMG:s7-u1/p-28@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      33,
+      55,
+      799,
+      918
+     ]
+    },
+    {
+     "t": "(Yaşama Katılım",
+     "r": [
+      136,
+      743,
+      693,
+      421
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      700,
+      190,
+      30
+     ],
+     "mode": "card",
+     "label": "Fikir",
+     "text": "Okullarda kaynaştırma sınıfları, özel eğitim öğretmenleri, sesli ve kabartma ders kitapları, işaret dili dersleri.",
+     "pill": [
+      62,
+      702
+     ],
+     "qx": 138,
+     "qt": 649,
+     "qb": 734,
+     "qr": 401,
+     "bal": [
+      138,
+      742,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      390,
+      700,
+      190,
+      30
+     ],
+     "mode": "card",
+     "label": "Fikir",
+     "text": "Tüm otobüs ve metrolarda rampa, sesli durak anonsları, hissedilebilir yüzeyler, ücretsiz engelli taşıma hizmeti.",
+     "pill": [
+      448,
+      741
+     ],
+     "qx": 337,
+     "qt": 648,
+     "qb": 733,
+     "qr": 631,
+     "bal": [
+      337,
+      741,
+      420,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      620,
+      700,
+      190,
+      30
+     ],
+     "mode": "card",
+     "label": "Fikir",
+     "text": "Evde sağlık hizmeti, hastanelerde öncelikli sıra, işaret dili bilen sağlık personeli, ücretsiz terapi ve rehabilitasyon.",
+     "pill": [
+      726,
+      741
+     ],
+     "qx": 568,
+     "qt": 648,
+     "qb": 734,
+     "qr": 820,
+     "bal": [
+      276,
+      742,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      215,
+      815,
+      190,
+      30
+     ],
+     "mode": "card",
+     "label": "Fikir",
+     "text": "İş yerlerinde engelli kotası, uzaktan çalışma imkânı, mesleki eğitim kursları, iş yerlerinde uygun fiziki düzenlemeler.",
+     "pill": [
+      273,
+      862
+     ],
+     "qx": 192,
+     "qt": 768,
+     "qb": 852,
+     "qr": 412,
+     "bal": [
+      192,
+      860,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      520,
+      815,
+      190,
+      30
+     ],
+     "mode": "card",
+     "label": "Fikir",
+     "text": "Engelsiz parklar, plajlar ve spor alanları; müzelerde sesli rehber; sinemalarda altyazı ve sesli betimleme; erişilebilir etkinlikler.",
+     "pill": [
+      578,
+      856
+     ],
+     "qx": 509,
+     "qt": 768,
+     "qb": 851,
+     "qr": 721,
+     "bal": [
+      29,
+      859,
+      807,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      750,
+      98,
+      63,
+      63
+     ],
+     "panel": "beyineseri",
+     "label": "Beyin eseri tekniği"
+    },
+    {
+     "area": [
+      755,
+      1064,
+      60,
+      60
+     ],
+     "panel": "firsatfikir",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "img": "@IMG:s7-u1/p-29@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      802,
+      516
+     ]
+    },
+    {
+     "t": "Projede Görevli Öğrenciler",
+     "r": [
+      120,
+      543,
+      713,
+      621
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      300,
+      505,
+      500,
+      34
+     ],
+     "mode": "ink",
+     "text": "Engelsiz Adımlar",
+     "pill": [
+      742,
+      498
+     ]
+    },
+    {
+     "area": [
+      150,
+      590,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Proje yürütücüsü: Elif · Ali, Zeynep, Mert, Ece",
+     "pill": [
+      742,
+      577
+     ]
+    },
+    {
+     "area": [
+      150,
+      675,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Okulumuz Herkes İçin Erişilebilir",
+     "pill": [
+      742,
+      662
+     ]
+    },
+    {
+     "area": [
+      150,
+      760,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Okulumuzu özel gereksinimli öğrenciler için daha erişilebilir hâle getirmek.",
+     "pill": [
+      742,
+      747
+     ]
+    },
+    {
+     "area": [
+      150,
+      842,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Okulumuz ve çevresi",
+     "pill": [
+      742,
+      829
+     ]
+    },
+    {
+     "area": [
+      150,
+      923,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Kasım 2026",
+     "pill": [
+      742,
+      910
+     ]
+    },
+    {
+     "area": [
+      150,
+      1012,
+      650,
+      40
+     ],
+     "mode": "ink",
+     "text": "10 Kasım – 10 Aralık 2026 (1 ay)",
+     "pill": [
+      742,
+      999
+     ]
+    },
+    {
+     "area": [
+      150,
+      1090,
+      650,
+      40
+     ],
+     "mode": "ink",
+     "text": "Okuldaki özel gereksinimli öğrenciler, veliler ve ziyaretçiler",
+     "pill": [
+      742,
+      1077
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "img": "@IMG:s7-u1/p-30@",
+   "steps": [
+    {
+     "t": "Projenin Yöntemi (İzlenecek…",
+     "r": [
+      119,
+      78,
+      713,
+      485
+     ]
+    },
+    {
+     "t": "Sonuç ve Değerlendirme",
+     "r": [
+      96,
+      535,
+      758,
+      629
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      145,
+      135,
+      650,
+      170
+     ],
+     "mode": "ink",
+     "text": "1. Okulda erişilebilirlik sorunlarını tespit eden bir gezi yapmak.\n2. Rampa, tutamak ve sarı şerit ihtiyaçlarını listelemek.\n3. Okul idaresine dilekçe ile öneri sunmak.\n4. \"Herkes İçin Okul\" afişleri hazırlamak.\n5. İşaret dili ile 10 kelime öğrenme etkinliği düzenlemek.",
+     "pill": [
+      743,
+      122
+     ]
+    },
+    {
+     "area": [
+      145,
+      360,
+      650,
+      170
+     ],
+     "mode": "ink",
+     "text": "Aile ve Sosyal Hizmetler Bakanlığı ve MEB Özel Eğitim ve Rehberlik Hizmetleri sitesi, belediyenin engelsiz yaşam birimi, okul rehber öğretmeni, özel gereksinimli bir velinin görüşleri.",
+     "pill": [
+      743,
+      347
+     ]
+    },
+    {
+     "area": [
+      145,
+      600,
+      650,
+      300
+     ],
+     "mode": "ink",
+     "text": "Okul girişine rampa ve merdivenlere tutamak yapılması önerimiz okul idaresince kabul edildi. Afişlerle öğrencilerin farkındalığı arttı. Tüm sınıflar işaret diliyle selamlaşmayı öğrendi. Proje, fırsat eşitliğinin küçük adımlarla da sağlanabileceğini gösterdi ve empati duygumuzu güçlendirdi.",
+     "pill": [
+      743,
+      587
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      752,
+      964,
+      62,
+      62
+     ],
+     "panel": "engelsizrubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  }
+ ]
+};

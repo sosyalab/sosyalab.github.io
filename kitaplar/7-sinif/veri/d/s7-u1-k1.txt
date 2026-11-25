@@ -1,0 +1,1648 @@
+// 7. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–55)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Gruplarda ve sosyal hayatta iletişimin önemi (s. 12–29)
+window.BOOK = {
+ "id": "s7-u1-k1",
+ "title": "Gruplarda ve sosyal hayatta iletişimin önemi",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u1-k1@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 10,
+   "img": "@IMG:s7-u1/p-01@",
+   "section": "1. Öğrenme Alanı",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      33,
+      78,
+      884,
+      473
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      33,
+      523,
+      884,
+      649
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      217,
+      1091,
+      62,
+      62
+     ],
+     "panel": "alan",
+     "label": "1. Öğrenme alanı"
+    },
+    {
+     "area": [
+      600,
+      989,
+      63,
+      63
+     ],
+     "panel": "ozet",
+     "label": "Öğrenme alanı özeti"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "img": "@IMG:s7-u1/p-02@",
+   "section": "Birlikte Yaşamak",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      90,
+      878,
+      551
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      613,
+      878,
+      551
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 12,
+   "img": "@IMG:s7-u1/p-03@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "GRUPLARDA VE SOSYAL HAYATTA",
+     "r": [
+      38,
+      55,
+      879,
+      370
+     ]
+    },
+    {
+     "t": "içirin arma",
+     "r": [
+      182,
+      397,
+      734,
+      767
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      530,
+      590,
+      230,
+      230
+     ],
+     "mode": "ink",
+     "text": "Yardımlaşma ve dayanışma, toplumu birbirine bağlar ve zor günleri birlikte atlatmamızı sağlar.",
+     "pill": [
+      786,
+      577
+     ]
+    },
+    {
+     "area": [
+      250,
+      885,
+      230,
+      210
+     ],
+     "mode": "ink",
+     "text": "Etkili iletişim kurmak, sorunları konuşarak çözmemizi ve birbirimizi anlamamızı sağlar.",
+     "pill": [
+      446,
+      839
+     ]
+    },
+    {
+     "area": [
+      530,
+      880,
+      240,
+      210
+     ],
+     "mode": "ink",
+     "text": "Ortak değerler, gelenekler ve bayramlar insanları bir araya getirir, aidiyet duygusunu güçlendirir.",
+     "pill": [
+      780,
+      867
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "img": "@IMG:s7-u1/p-04@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Verilen çevrim içi yazışmayı…",
+     "r": [
+      33,
+      55,
+      804,
+      486
+     ]
+    },
+    {
+     "t": "Aslı, arkadaşlarını doğru…",
+     "r": [
+      94,
+      513,
+      766,
+      339
+     ]
+    },
+    {
+     "t": "Arda'nın arkadaşlarının",
+     "r": [
+      94,
+      824,
+      733,
+      340
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      125,
+      320,
+      320,
+      170
+     ],
+     "mode": "ink",
+     "text": "Arda'nın \"Bu sınavdan herkes düşük not aldı galiba.\" mesajını kendisiyle alay edildiğini düşünerek yanlış anlaması.",
+     "pill": [
+      411,
+      304
+     ]
+    },
+    {
+     "area": [
+      125,
+      630,
+      320,
+      170
+     ],
+     "mode": "ink",
+     "text": "Hemen alınmak yerine Arda'ya ne demek istediğini sormalıydı. Çünkü yazılı mesajlarda ses tonu ve yüz ifadesi görülmez, yanlış anlaşılabilir.",
+     "pill": [
+      411,
+      617
+     ]
+    },
+    {
+     "area": [
+      125,
+      945,
+      320,
+      170
+     ],
+     "mode": "ink",
+     "text": "Arda'nın amacının alay etmek olmadığını Aslı'ya nazikçe anlatır, ortamı yumuşatır ve yüz yüze konuşmayı önerirdim.",
+     "pill": [
+      411,
+      926
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "img": "@IMG:s7-u1/p-05@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      0,
+      879,
+      225
+     ]
+    },
+    {
+     "t": "Aşağıda verilen örnek olayı…",
+     "r": [
+      38,
+      197,
+      879,
+      864
+     ]
+    },
+    {
+     "t": "Dâhil olduğunuz gruplarda veya…",
+     "r": [
+      121,
+      912,
+      709,
+      252
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      145,
+      875,
+      640,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Emre'nin babası öfkeyle karşılık vermek yerine sakin kalmış, hatasını kabul edip özür dilemiştir. Bu tutum karşısındaki sürücünün de öfkesini yatıştırmış ve olası bir kavgayı önlemiştir. Bu durum iletişimde sakin kalmanın, kibar bir dil kullanmanın ve empati kurmanın önemini göstermektedir.",
+     "pill": [
+      359,
+      847
+     ],
+     "qx": 140,
+     "qt": 875,
+     "qb": 915,
+     "qr": 817,
+     "bal": [
+      34,
+      923,
+      887,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      165,
+      985,
+      650,
+      60
+     ],
+     "mode": "ink",
+     "text": "Grup ödevinde bir arkadaşımız görevini yapmadı; herkes birbirini suçladı ve tartışma çıktı.",
+     "pill": [
+      781,
+      969
+     ]
+    },
+    {
+     "area": [
+      165,
+      1085,
+      650,
+      60
+     ],
+     "mode": "ink",
+     "text": "Sakin kalıp \"sen\" yerine \"ben\" diliyle konuşmalı, görevleri yazılı olarak paylaşmalı ve sorunları yüz yüze çözmeliyiz.",
+     "pill": [
+      781,
+      1069
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "img": "@IMG:s7-u1/p-06@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Karekodla verilen videoda hangi…",
+     "r": [
+      33,
+      55,
+      831,
+      753
+     ]
+    },
+    {
+     "t": "Şenay, teneffüste sınıfa doğru…",
+     "r": [
+      118,
+      780,
+      739,
+      384
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      275,
+      145,
+      370,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek cevap",
+     "text": "Videoda sık görülen iletişim hataları: karşısındakinin sözünü kesmek, dinlememek, göz teması kurmamak, telefonla ilgilenmek, yüksek sesle ve suçlayıcı (\"sen\" diliyle) konuşmak, alaycı ifadeler kullanmak ve karşısındakinin duygularını önemsememek.",
+     "pill": [
+      405,
+      165
+     ],
+     "qx": 188,
+     "qt": 70,
+     "qb": 235,
+     "qr": 815,
+     "bal": [
+      188,
+      228,
+      627,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      140,
+      1050,
+      670,
+      85
+     ],
+     "mode": "ink",
+     "text": "Özür dilemenin iletişimi düzeltmesi, dikkatle dinlemenin önemi, empati kurmak, gülümsemenin etkisi, farklı fikirlere saygı. Merak ettiğim: Yanlış anlaşıldığımızda ne yapmalıyız?",
+     "pill": [
+      822,
+      1037
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      749,
+      131,
+      65,
+      65
+     ],
+     "panel": "video",
+     "label": "İletişim ile ilgili video"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "img": "@IMG:s7-u1/p-07@",
+   "steps": [
+    {
+     "t": "Oluşturduğunuz listeden…",
+     "r": [
+      116,
+      88,
+      719,
+      424
+     ]
+    },
+    {
+     "t": "Hazırladığınız sorulardan yola…",
+     "r": [
+      122,
+      484,
+      706,
+      680
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      150,
+      230,
+      650,
+      30
+     ],
+     "mode": "ink",
+     "text": "Karşımızdakini dinlerken sözünü kesmek neden yanlıştır?",
+     "pill": [
+      742,
+      199
+     ]
+    },
+    {
+     "area": [
+      150,
+      281,
+      650,
+      30
+     ],
+     "mode": "ink",
+     "text": "\"Sen\" dili yerine \"ben\" dili kullanmak ne sağlar?",
+     "pill": [
+      742,
+      250
+     ]
+    },
+    {
+     "area": [
+      150,
+      331,
+      650,
+      30
+     ],
+     "mode": "ink",
+     "text": "Empati kurmak tartışmaları nasıl azaltır?",
+     "pill": [
+      742,
+      303
+     ]
+    },
+    {
+     "area": [
+      150,
+      381,
+      650,
+      30
+     ],
+     "mode": "ink",
+     "text": "Beden dilimiz sözlerimizden daha mı etkilidir?",
+     "pill": [
+      736,
+      353
+     ]
+    },
+    {
+     "area": [
+      150,
+      431,
+      650,
+      30
+     ],
+     "mode": "ink",
+     "text": "Farklı düşüncelere saygı göstermek neden önemlidir?",
+     "pill": [
+      742,
+      406
+     ]
+    },
+    {
+     "area": [
+      150,
+      645,
+      650,
+      445
+     ],
+     "mode": "ink",
+     "text": "Etkili iletişim, duygu ve düşüncelerimizi açık ve saygılı bir şekilde aktarmamızı sağlar. Empati kurmak karşımızdakini anlamamıza, ben dili kullanmak suçlamadan konuşmamıza yardım eder. Farklılıklara saygı göstermek toplumsal barışı güçlendirir. Etkin dinlemede göz teması kurar, sözü kesmeyiz. Beden dilimiz (gülümseme, baş sallama) sözlerimizi destekler.\nSen dili ise karşıdakini suçlar, savunmaya geçirir ve tartışmayı büyütür. Örneğin \"Sen hiç dinlemiyorsun!\" yerine \"Sözüm kesildiğinde üzülüyorum.\" demek iletişimi güçlendirir.",
+     "pill": [
+      808,
+      632
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "img": "@IMG:s7-u1/p-08@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      38,
+      0,
+      874,
+      271
+     ]
+    },
+    {
+     "t": "İletişim ile ilgili verilen…",
+     "r": [
+      39,
+      243,
+      873,
+      921
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 18,
+   "img": "@IMG:s7-u1/p-09@",
+   "steps": [
+    {
+     "t": "İnsanlar arasında kurul",
+     "r": [
+      38,
+      0,
+      877,
+      802
+     ]
+    },
+    {
+     "t": "Örnek olayda boş bırakılan yere",
+     "r": [
+      122,
+      774,
+      714,
+      390
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      778,
+      962,
+      46,
+      46
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 36,
+     "pill": [
+      830,
+      949
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "img": "@IMG:s7-u1/p-10@",
+   "steps": [
+    {
+     "t": "Ben dili; bireyin duygu ve",
+     "r": [
+      122,
+      0,
+      790,
+      391
+     ]
+    },
+    {
+     "t": "Olumlu ve yapıcıdır.",
+     "r": [
+      122,
+      363,
+      790,
+      801
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      156,
+      660,
+      670,
+      115
+     ],
+     "mode": "ink",
+     "text": "\"Sözüm kesildiğinde düşüncemi anlatamadığım için üzülüyorum.\"\n\"Kalemim izinsiz alındığında ihtiyacım olunca bulamıyorum, bu beni zor durumda bırakıyor.\"",
+     "pill": [
+      766,
+      647
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "img": "@IMG:s7-u1/p-11@",
+   "steps": [
+    {
+     "t": "Aşağıdaki metni okuyunuz ve…",
+     "r": [
+      111,
+      88,
+      730,
+      392
+     ]
+    },
+    {
+     "t": "Maria'nın sınıf arkadaşlarından…",
+     "r": [
+      38,
+      452,
+      790,
+      712
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      162,
+      410,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Dili (İspanyolca konuşması), kültürü, geldiği ülke ve alışkanlıkları farklıdır.",
+     "pill": [
+      778,
+      394
+     ]
+    },
+    {
+     "area": [
+      162,
+      510,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "Ona güler yüzle yaklaşır, Türkçe kelimeler öğretir, kültürünü merak edip sorular sorardım.",
+     "pill": [
+      778,
+      494
+     ]
+    },
+    {
+     "area": [
+      162,
+      832,
+      650,
+      50
+     ],
+     "mode": "ink",
+     "text": "\"İki dinle, bir söyle.\" \"Söz gümüşse sükût altındır.\" \"Dinlemesini bilmeyen konuşmasını da bilmez.\"",
+     "pill": [
+      778,
+      816
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "img": "@IMG:s7-u1/p-12@",
+   "steps": [
+    {
+     "t": "Aşağıdaki görselleri…",
+     "r": [
+      122,
+      88,
+      720,
+      422
+     ]
+    },
+    {
+     "t": "Görsel Jest ve mimikler",
+     "r": [
+      92,
+      482,
+      750,
+      682
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      466,
+      391,
+      56,
+      56
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 40,
+     "pill": [
+      488,
+      369
+     ]
+    },
+    {
+     "area": [
+      566,
+      402,
+      150,
+      34
+     ],
+     "mode": "ink",
+     "text": "Şaşkın",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      678,
+      374
+     ]
+    },
+    {
+     "area": [
+      755,
+      387,
+      64,
+      64
+     ],
+     "mode": "ink",
+     "text": "😮",
+     "center": true,
+     "fs": 42,
+     "pill": [
+      831,
+      374
+     ]
+    },
+    {
+     "area": [
+      332,
+      547,
+      56,
+      56
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 40,
+     "pill": [
+      354,
+      528
+     ]
+    },
+    {
+     "area": [
+      566,
+      558,
+      150,
+      34
+     ],
+     "mode": "ink",
+     "text": "Harika",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      678,
+      533
+     ]
+    },
+    {
+     "area": [
+      755,
+      543,
+      64,
+      64
+     ],
+     "mode": "ink",
+     "text": "👍",
+     "center": true,
+     "fs": 42,
+     "pill": [
+      783,
+      512
+     ]
+    },
+    {
+     "area": [
+      332,
+      707,
+      56,
+      56
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 40,
+     "pill": [
+      378,
+      694
+     ]
+    },
+    {
+     "area": [
+      566,
+      718,
+      150,
+      34
+     ],
+     "mode": "ink",
+     "text": "Düşünceli",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      678,
+      690
+     ]
+    },
+    {
+     "area": [
+      755,
+      703,
+      64,
+      64
+     ],
+     "mode": "ink",
+     "text": "🤔",
+     "center": true,
+     "fs": 42,
+     "pill": [
+      831,
+      690
+     ]
+    },
+    {
+     "area": [
+      332,
+      863,
+      56,
+      56
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 40,
+     "pill": [
+      354,
+      841
+     ]
+    },
+    {
+     "area": [
+      566,
+      874,
+      150,
+      34
+     ],
+     "mode": "ink",
+     "text": "Bilmiyorum",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      678,
+      846
+     ]
+    },
+    {
+     "area": [
+      755,
+      859,
+      64,
+      64
+     ],
+     "mode": "ink",
+     "text": "🤷",
+     "center": true,
+     "fs": 42,
+     "pill": [
+      831,
+      846
+     ]
+    },
+    {
+     "area": [
+      466,
+      1022,
+      56,
+      56
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 40,
+     "pill": [
+      488,
+      1000
+     ]
+    },
+    {
+     "area": [
+      566,
+      1033,
+      150,
+      34
+     ],
+     "mode": "ink",
+     "text": "Üzgün",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      678,
+      1005
+     ]
+    },
+    {
+     "area": [
+      755,
+      1018,
+      64,
+      64
+     ],
+     "mode": "ink",
+     "text": "😟",
+     "center": true,
+     "fs": 42,
+     "pill": [
+      831,
+      1005
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "img": "@IMG:s7-u1/p-13@",
+   "steps": [
+    {
+     "t": "İletişimi engelleyen durumlarla…",
+     "r": [
+      38,
+      72,
+      878,
+      628
+     ]
+    },
+    {
+     "t": "Sen diline örnek olabilecek iki",
+     "r": [
+      38,
+      672,
+      878,
+      492
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      150,
+      722,
+      650,
+      55
+     ],
+     "mode": "ink",
+     "text": "\"Sen hiç beni dinlemiyorsun!\"  \"Her şeyi sen bozuyorsun, senin yüzünden kaybettik.\"",
+     "pill": [
+      742,
+      706
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      759,
+      920,
+      55,
+      55
+     ],
+     "panel": "beyin",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "img": "@IMG:s7-u1/p-14@",
+   "steps": [
+    {
+     "t": "Olumlu ve olumsuz iletişim…",
+     "r": [
+      34,
+      59,
+      878,
+      677
+     ]
+    },
+    {
+     "t": "Etkili iletişim yalnızca…",
+     "r": [
+      35,
+      708,
+      877,
+      456
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      500,
+      420,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Sözünü kesmek",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      792,
+      407
+     ]
+    },
+    {
+     "area": [
+      140,
+      502,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Göz teması kurmamak",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      360,
+      504
+     ]
+    },
+    {
+     "area": [
+      500,
+      502,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Sen dili kullanmak",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      762,
+      471
+     ]
+    },
+    {
+     "area": [
+      140,
+      584,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Telefonla ilgilenmek",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      402,
+      553
+     ]
+    },
+    {
+     "area": [
+      500,
+      584,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Bağırmak, öfkelenmek",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      762,
+      553
+     ]
+    },
+    {
+     "area": [
+      180,
+      665,
+      280,
+      34
+     ],
+     "mode": "ink",
+     "text": "Alaycı konuşmak",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      424,
+      634
+     ]
+    },
+    {
+     "area": [
+      490,
+      665,
+      270,
+      34
+     ],
+     "mode": "ink",
+     "text": "Önyargılı olmak",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      722,
+      634
+     ]
+    },
+    {
+     "area": [
+      290,
+      748,
+      360,
+      34
+     ],
+     "mode": "ink",
+     "text": "Empati kurmamak",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      672,
+      735
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      750,
+      71,
+      64,
+      64
+     ],
+     "panel": "yollar",
+     "label": "Olumlu ve olumsuz iletişim yolları"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "img": "@IMG:s7-u1/p-15@",
+   "steps": [
+    {
+     "t": "Sevgi ve dostlukla ilişkili…",
+     "r": [
+      122,
+      114,
+      706,
+      422
+     ]
+    },
+    {
+     "t": "Fikinlenine değen veniyonum",
+     "r": [
+      124,
+      508,
+      680,
+      656
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      410,
+      189,
+      370,
+      72
+     ],
+     "mode": "ink",
+     "text": "çok mutluyum, her zaman yanımdasın.",
+     "pill": [
+      798,
+      176
+     ]
+    },
+    {
+     "area": [
+      410,
+      308,
+      370,
+      72
+     ],
+     "mode": "ink",
+     "text": "senden özür dilerim, seni kırmak istemedim.",
+     "pill": [
+      798,
+      295
+     ]
+    },
+    {
+     "area": [
+      410,
+      426,
+      370,
+      72
+     ],
+     "mode": "ink",
+     "text": "kendimi şanslı hissediyorum.",
+     "pill": [
+      798,
+      413
+     ]
+    },
+    {
+     "area": [
+      410,
+      548,
+      370,
+      72
+     ],
+     "mode": "ink",
+     "text": "her zaman önce seni dinlerim.",
+     "pill": [
+      798,
+      535
+     ]
+    },
+    {
+     "area": [
+      410,
+      668,
+      370,
+      72
+     ],
+     "mode": "ink",
+     "text": "beni affet, bunu bilerek yapmadım.",
+     "pill": [
+      798,
+      655
+     ]
+    },
+    {
+     "area": [
+      410,
+      789,
+      370,
+      72
+     ],
+     "mode": "ink",
+     "text": "herkese yardım etmen ve güler yüzün.",
+     "pill": [
+      798,
+      776
+     ]
+    },
+    {
+     "area": [
+      410,
+      908,
+      370,
+      72
+     ],
+     "mode": "ink",
+     "text": "çok üzgünüm, bunu düzeltmek isterim.",
+     "pill": [
+      798,
+      895
+     ]
+    },
+    {
+     "area": [
+      410,
+      1026,
+      370,
+      72
+     ],
+     "mode": "ink",
+     "text": "özür dilerim, bir daha olmayacak.",
+     "pill": [
+      798,
+      1013
+     ]
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "img": "@IMG:s7-u1/p-16@",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      122,
+      127,
+      667,
+      777
+     ]
+    },
+    {
+     "t": "Sevgi ve dostluk ile ilgili",
+     "r": [
+      121,
+      876,
+      708,
+      288
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      180,
+      610,
+      160
+     ],
+     "mode": "ink",
+     "text": "Bu sözleri tamamlarken kendimi mutlu ve huzurlu hissettim. Arkadaşlarıma değer verdiğimi, kırdıklarımdan özür dileyebildiğimi fark ettim.",
+     "pill": [
+      740,
+      149
+     ]
+    },
+    {
+     "area": [
+      160,
+      440,
+      610,
+      160
+     ],
+     "mode": "ink",
+     "text": "Sevgi dolu sözler arkadaşlar arasında güveni artırır, kırgınlıkları giderir ve dostluğu güçlendirir.",
+     "pill": [
+      740,
+      415
+     ]
+    },
+    {
+     "area": [
+      160,
+      703,
+      610,
+      160
+     ],
+     "mode": "ink",
+     "text": "Etkili iletişimde birbirimizi dinler, anlar ve saygı gösteririz. Sorunlar konuşarak çözülür, dostluk uzun ömürlü olur.",
+     "pill": [
+      734,
+      690
+     ]
+    },
+    {
+     "area": [
+      150,
+      960,
+      650,
+      150
+     ],
+     "mode": "ink",
+     "text": "\"Güzel söz kalbi açar, dostluğu taçlandırır!\"",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      766,
+      923
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "img": "@IMG:s7-u1/p-17@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      799,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      135,
+      745,
+      315,
+      350
+     ],
+     "mode": "ink",
+     "text": "• Birbirlerini sakin bir şekilde dinlemeleri\n• Her iki fikrin de güzel yönlerini görmeleri\n• Görev paylaşımı yapmaları (Ahmet sunum, Merve afiş)\n• Ortak bir karar almaları",
+     "pill": [
+      415,
+      735
+     ]
+    },
+    {
+     "area": [
+      500,
+      745,
+      315,
+      350
+     ],
+     "mode": "ink",
+     "text": "• Seslerini yükseltip tartışmaya devam etmeleri\n• Sadece kendi fikrini doğru sanmak\n• Birbirine küsmek\n• Projeyi tek başına yapmaya kalkmak",
+     "pill": [
+      780,
+      735
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "img": "@IMG:s7-u1/p-18@",
+   "steps": [
+    {
+     "t": "Uzlaşmanın Gücü adlı hikâyenin…",
+     "r": [
+      125,
+      112,
+      692,
+      348
+     ]
+    },
+    {
+     "t": "Görsel",
+     "r": [
+      156,
+      432,
+      756,
+      732
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      180,
+      575,
+      560,
+      510
+     ],
+     "mode": "ink",
+     "text": "Çatışmayı uzlaşmaya dönüştüren davranışlar:\n• Sakinleşip birbirini dinlemek\n• Karşısındakinin fikrinin güzel yönlerini görmek (empati)\n• \"Ben\" diliyle konuşmak\n• İki fikri birleştiren bir çözüm bulmak: dijital sunumda Merve'nin çizdiği resimleri kullanmak\n• Görev paylaşımı yapmak\n\nÇıkarım: Olumlu iletişim kırgınlıkları önler, iş birliğini güçlendirir ve ortak başarıyı sağlar.",
+     "pill": [
+      676,
+      562
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      741,
+      126,
+      64,
+      64
+     ],
+     "panel": "uzlasma",
+     "label": "Uzlaşmanın Gücü hikâyesinin devamı"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "img": "@IMG:s7-u1/p-19@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "16. sayfada yazdığınız soruları…",
+     "r": [
+      38,
+      55,
+      812,
+      719
+     ]
+    },
+    {
+     "t": "Değerlendirme Ölçütleri Evet…",
+     "r": [
+      104,
+      746,
+      747,
+      418
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      290,
+      660,
+      34
+     ],
+     "mode": "ink",
+     "text": "Karşımızdakinin sözünü kesmek onu önemsemediğimizi gösterir, düşüncesini tam anlatamaz.",
+     "pill": [
+      822,
+      277
+     ]
+    },
+    {
+     "area": [
+      140,
+      360,
+      660,
+      34
+     ],
+     "mode": "ink",
+     "text": "Ben dili suçlamadan duygumuzu anlatmamızı sağlar, tartışmayı önler.",
+     "pill": [
+      822,
+      347
+     ]
+    },
+    {
+     "area": [
+      140,
+      430,
+      660,
+      34
+     ],
+     "mode": "ink",
+     "text": "Empati karşımızdakini anlamamızı sağlar, öfkeyi yatıştırır, çatışmayı azaltır.",
+     "pill": [
+      822,
+      417
+     ]
+    },
+    {
+     "area": [
+      140,
+      502,
+      660,
+      34
+     ],
+     "mode": "ink",
+     "text": "Evet, gülümseme ve göz teması gibi beden dili, sözlerimizi güçlendirir.",
+     "pill": [
+      816,
+      489
+     ]
+    },
+    {
+     "area": [
+      140,
+      575,
+      660,
+      34
+     ],
+     "mode": "ink",
+     "text": "Farklı fikirlere saygı toplumda barışı ve birlikte yaşama kültürünü güçlendirir.",
+     "pill": [
+      816,
+      562
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "img": "@IMG:s7-u1/p-20@",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      80,
+      88,
+      768,
+      853
+     ]
+    },
+    {
+     "t": "Gelecek Derse Hazırlık",
+     "r": [
+      108,
+      913,
+      757,
+      251
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      400,
+      660,
+      500
+     ],
+     "mode": "ink",
+     "text": "GÜZEL SÖZ\nTatlı dil yılanı deliğinden çıkarır,\nBir güler yüz bin derdi dağıtır.\nDinlersen anlarsın, anlarsan sevilirsin,\nKalpleri kıran değil, onaran ol.\n\nSlogan: \"Önce dinle, sonra konuş; iletişim kalpten başlar!\"\nÖzlü söz: \"Söz ola kese savaşı, söz ola kestire başı.\" (Yunus Emre)",
+     "pill": [
+      762,
+      387
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      120,
+      66,
+      66
+     ],
+     "panel": "iletisimrubrik",
+     "label": "Bütüncül dereceli puanlama anahtarı"
+    }
+   ]
+  }
+ ]
+};

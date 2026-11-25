@@ -1,0 +1,1472 @@
+// 7. Sınıf Sosyal Bilgiler · 4. Öğrenme Alanı: Yaşayan Demokrasimiz (s. 10–71)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Demokrasinin uygulanma sürecinde karşılaşılan sorunlar (s. 56–71)
+window.BOOK = {
+ "id": "s7-u4-k4",
+ "title": "Demokrasinin uygulanma sürecinde karşılaşılan sorunlar",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u4-k4@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 56,
+   "img": "@IMG:s7-u4/p-47@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "DEMOKRASİNİN UYGULANMA",
+     "r": [
+      38,
+      55,
+      879,
+      577
+     ]
+    },
+    {
+     "t": "Okul, defter ve kalem, Çantamı",
+     "r": [
+      98,
+      604,
+      761,
+      326
+     ]
+    },
+    {
+     "t": "2) Bilmecelerde yer alanlar…",
+     "r": [
+      122,
+      891,
+      697,
+      273
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      482,
+      150,
+      80
+     ],
+     "mode": "ink",
+     "text": "Yaşama hakkı",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      300,
+      475
+     ]
+    },
+    {
+     "area": [
+      400,
+      482,
+      150,
+      80
+     ],
+     "mode": "ink",
+     "text": "Sağlık hakkı",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      566,
+      475
+     ]
+    },
+    {
+     "area": [
+      650,
+      482,
+      150,
+      80
+     ],
+     "mode": "ink",
+     "text": "Konut dokunulmazlığı",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      816,
+      475
+     ]
+    },
+    {
+     "area": [
+      140,
+      822,
+      150,
+      80
+     ],
+     "mode": "ink",
+     "text": "Eğitim hakkı",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      306,
+      812
+     ]
+    },
+    {
+     "area": [
+      400,
+      822,
+      150,
+      80
+     ],
+     "mode": "ink",
+     "text": "Seyahat özgürlüğü",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      566,
+      815
+     ]
+    },
+    {
+     "area": [
+      650,
+      822,
+      150,
+      80
+     ],
+     "mode": "ink",
+     "text": "Seçme ve seçilme hakkı",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      816,
+      812
+     ]
+    },
+    {
+     "area": [
+      160,
+      950,
+      600,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnekler: Düşünce ve ifade özgürlüğü, din ve vicdan özgürlüğü, mülkiyet hakkı.\nKoruyan unsurlar: Anayasa, kanunlar, bağımsız mahkemeler, TBMM, Kamu Denetçiliği Kurumu, İnsan Hakları Kurumu.",
+     "pill": [
+      398,
+      922
+     ],
+     "qx": 134,
+     "qt": 931,
+     "qb": 987,
+     "qr": 767,
+     "bal": [
+      118,
+      995,
+      705,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      160,
+      1018,
+      600,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Başkalarının haklarına saygı göstermek, kanunlara uymak, vergisini ödemek, oy kullanmak, çevreyi ve kamu malını korumak.",
+     "pill": [
+      488,
+      1029
+     ],
+     "qx": 162,
+     "qt": 1012,
+     "qb": 1048,
+     "qr": 807,
+     "bal": [
+      162,
+      1116,
+      645,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      160,
+      1074,
+      600,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ayrımcılık, şiddet, zorbalık, kişisel verilerin izinsiz kullanılması gibi durumlarda haklar ihlal edilir. Böyle bir durumda yetkililere, CİMER'e, kolluk kuvvetlerine veya mahkemeye başvurulmalıdır.",
+     "pill": [
+      386,
+      1112
+     ],
+     "qx": 162,
+     "qt": 1072,
+     "qb": 1108,
+     "qr": 801,
+     "bal": [
+      118,
+      899,
+      705,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "img": "@IMG:s7-u4/p-48@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "ÇOCUKLAR BUGÜN",
+     "r": [
+      33,
+      55,
+      822,
+      414
+     ]
+    },
+    {
+     "t": "BENİM ACELEM VAR",
+     "r": [
+      106,
+      441,
+      749,
+      745
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      958,
+      600,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "1. Öğretmenin öğrencilere sormadan karar vermesi, 2. engelli park yerinin işgal edilmesi, 3. sırayı beklememe, 4. büyük olanın salıncakta zorla öne geçmesi. Kurallara uymak, başkalarının haklarına saygı göstermek ve ortak kararlar almakla çözülebilir.",
+     "pill": [
+      398,
+      975
+     ],
+     "qx": 134,
+     "qt": 957,
+     "qb": 992,
+     "qr": 787,
+     "bal": [
+      102,
+      819,
+      757,
+      "above",
+      1
+     ]
+    },
+    {
+     "area": [
+      160,
+      1006,
+      600,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Katılımcılık, eşitlik, hukukun üstünlüğü ve insan haklarına saygı.",
+     "pill": [
+      398,
+      1023
+     ],
+     "qx": 162,
+     "qt": 1006,
+     "qb": 1041,
+     "qr": 776,
+     "bal": [
+      102,
+      1098,
+      757,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      160,
+      1052,
+      600,
+      28
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kopya çekmek, sosyal medyada hakaret ve yanlış bilgi yaymak, oy kullanmamak, kamu malına zarar vermek, torpil, zorbalık ve şiddet.",
+     "pill": [
+      398,
+      1093
+     ],
+     "qx": 162,
+     "qt": 1006,
+     "qb": 1090,
+     "qr": 798,
+     "bal": [
+      102,
+      1098,
+      757,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "img": "@IMG:s7-u4/p-49@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Verilen yönergeler…",
+     "r": [
+      38,
+      55,
+      805,
+      574
+     ]
+    },
+    {
+     "t": "2. Ailede, okulda ve yakın",
+     "r": [
+      110,
+      601,
+      733,
+      563
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      320,
+      340,
+      210
+     ],
+     "mode": "ink",
+     "text": "• Ailede kararları birlikte almak\n• Sınıf başkanını seçimle belirlemek\n• Sırasını beklemek\n• Farklı görüşleri dinlemek\n• Ev işlerini paylaşmak",
+     "fs": 14,
+     "pill": [
+      398,
+      328
+     ]
+    },
+    {
+     "area": [
+      130,
+      775,
+      340,
+      300
+     ],
+     "mode": "ink",
+     "text": "• Kararları sormadan tek başına vermek\n• Sırayı kesmek\n• Arkadaşını küçümsemek\n• Kendi fikrini zorla kabul ettirmek\n• Ortak alanları tek başına kullanmak",
+     "fs": 14,
+     "pill": [
+      398,
+      768
+     ]
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "img": "@IMG:s7-u4/p-50@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Demokrasi ile ilgili metinleri…",
+     "r": [
+      94,
+      5,
+      818,
+      1159
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      992,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "1. Tatile nereye gideceğimize ailece oylama yaparak karar veririz; herkesin fikri önemlidir.\n2. Ev işleri aile bireyleri arasında paylaştırılır; böylece sorumluluklar eşit dağılır.",
+     "pill": [
+      384,
+      1009
+     ],
+     "qx": 106,
+     "qt": 986,
+     "qb": 1022,
+     "qr": 810,
+     "bal": [
+      106,
+      1030,
+      704,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "img": "@IMG:s7-u4/p-51@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Ailede öğrenilen demokratik…",
+     "r": [
+      38,
+      58,
+      790,
+      245
+     ]
+    },
+    {
+     "t": "Siz de okulunuzda…",
+     "r": [
+      38,
+      275,
+      791,
+      637
+     ]
+    },
+    {
+     "t": "Karekodla verilen Demokrasinin…",
+     "r": [
+      38,
+      822,
+      796,
+      342
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      350,
+      392,
+      450,
+      95
+     ],
+     "mode": "ink",
+     "text": "1. Sınıf başkanlığı seçimi; herkes oy kullanır.\n2. Sınıf kuralları birlikte belirlenir; herkes fikrini söyler.",
+     "fs": 13,
+     "pill": [
+      816,
+      379
+     ]
+    },
+    {
+     "area": [
+      370,
+      706,
+      400,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Kararlar baskıyla alınır, insanlar fikirlerini söyleyemez, ayrımcılık ve adaletsizlik artar, güven ve iş birliği azalır, toplumsal huzur bozulur.",
+     "pill": [
+      506,
+      675
+     ],
+     "qx": 370,
+     "qt": 701,
+     "qb": 823,
+     "qr": 817,
+     "bal": [
+      273,
+      799,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      140,
+      908,
+      680,
+      62
+     ],
+     "mode": "ink",
+     "text": "Darbeler, ayrımcılık, temel hak ve özgürlüklerin kısıtlanması, basın özgürlüğünün engellenmesi. Çözüm: hukukun üstünlüğü, eğitim, katılım ve hoşgörü.",
+     "fs": 13,
+     "pill": [
+      786,
+      877
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      751,
+      763,
+      66,
+      60
+     ],
+     "panel": "sorunlar",
+     "label": "Demokrasi Sürecinde Sorunlar"
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "img": "@IMG:s7-u4/p-52@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türkiye'de de 27 Mayıs 1960",
+     "r": [
+      122,
+      89,
+      706,
+      367
+     ]
+    },
+    {
+     "t": "15 Temmuz Darbe Girişimi",
+     "r": [
+      91,
+      428,
+      788,
+      516
+     ]
+    },
+    {
+     "t": "Vatandaşların gösterdiği bu…",
+     "r": [
+      122,
+      916,
+      696,
+      248
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      290,
+      580,
+      115
+     ],
+     "mode": "ink",
+     "text": "Darbeler seçilmiş yöneticileri görevden alarak halkın iradesini hiçe saymış, temel hak ve özgürlükleri kısıtlamış, siyasi partileri kapatmış ve demokrasinin gelişmesini geciktirmiştir.",
+     "fs": 15,
+     "pill": [
+      684,
+      274
+     ]
+    },
+    {
+     "area": [
+      140,
+      822,
+      660,
+      95
+     ],
+     "mode": "ink",
+     "text": "Vatanseverlik, millî iradeye sahip çıkma, birlik ve beraberlik, cesaret ve demokrasiye bağlılık.",
+     "fs": 16,
+     "pill": [
+      816,
+      809
+     ]
+    },
+    {
+     "area": [
+      140,
+      1000,
+      660,
+      90
+     ],
+     "mode": "ink",
+     "text": "Vatanseverlik, dayanışma, özgürlük ve demokrasiye bağlılık değerlerinin önemini ortaya koyar; çünkü halk canı pahasına millî iradeyi korumuştur.",
+     "fs": 15,
+     "pill": [
+      762,
+      966
+     ]
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "img": "@IMG:s7-u4/p-53@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Dünyada antidemokratik…",
+     "r": [
+      67,
+      87,
+      761,
+      624
+     ]
+    },
+    {
+     "t": "Myanmar'da (Miyenmar) yaşayan…",
+     "r": [
+      110,
+      683,
+      718,
+      481
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      440,
+      475,
+      370,
+      190
+     ],
+     "mode": "ink",
+     "text": "Halkın seçtiği yönetici zorla görevden alındığı için millî irade hiçe sayılır, halkın yönetime katılma hakkı elinden alınır ve demokrasi işlemez hâle gelir.",
+     "fs": 14,
+     "pill": [
+      774,
+      444
+     ]
+    },
+    {
+     "area": [
+      440,
+      905,
+      370,
+      190
+     ],
+     "mode": "ink",
+     "text": "Eşitlik, insan haklarına saygı, din ve vicdan özgürlüğü, hukukun üstünlüğü ve çoğulculuk niteliklerine ters düşmektedir.",
+     "fs": 14,
+     "pill": [
+      774,
+      874
+     ]
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "img": "@IMG:s7-u4/p-54@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sudan'ın Darfur Bölgesi'nde…",
+     "r": [
+      99,
+      0,
+      813,
+      493
+     ]
+    },
+    {
+     "t": "Gazze'de Savaş ve Basın Özgürlüğü",
+     "r": [
+      69,
+      402,
+      805,
+      816
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      322,
+      320,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yaşama hakkı, barınma hakkı, güvenlik hakkı, mülkiyet hakkı, sağlık ve eğitim hakkı.",
+     "pill": [
+      222,
+      276
+     ],
+     "qx": 110,
+     "qt": 306,
+     "qb": 397,
+     "qr": 471,
+     "bal": [
+      110,
+      405,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1022,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Düşünce ve ifade özgürlüğü, basın özgürlüğü, haber alma hakkı ve yaşama hakkı ihlal edilmektedir; çünkü gazeteciler öldürülmekte, medya kuruluşları hedef alınmakta ve halk doğru bilgiye ulaşamamaktadır.",
+     "pill": [
+      384,
+      985
+     ],
+     "qx": 99,
+     "qt": 1012,
+     "qb": 1094,
+     "qr": 816,
+     "bal": [
+      65,
+      1105,
+      813,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1067,
+      640,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Çatışmalar sürdükçe hayatını kaybeden, yaralanan ve alıkonulan gazeteci sayısı ile hedef alınan medya kuruluşlarının sayısı artmış olabilir.",
+     "pill": [
+      384,
+      1099
+     ],
+     "qx": 132,
+     "qt": 1016,
+     "qb": 1097,
+     "qr": 816,
+     "bal": [
+      132,
+      1105,
+      684,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "img": "@IMG:s7-u4/p-55@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Okuduğunuz metinlerden yola…",
+     "r": [
+      116,
+      85,
+      801,
+      324
+     ]
+    },
+    {
+     "t": "Adalet, herkesin temel hak ve",
+     "r": [
+      38,
+      381,
+      797,
+      783
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      172,
+      520,
+      150
+     ],
+     "mode": "ink",
+     "text": "Antidemokratik uygulamalar insanların yaşama, düşünce ve ifade, seyahat, eğitim ve sağlık haklarını ellerinden alır. Ayrımcılık ve şiddet artar, insanlar göç etmek zorunda kalır, toplumda korku ve güvensizlik ortaya çıkar.",
+     "fs": 15,
+     "pill": [
+      612,
+      168
+     ]
+    },
+    {
+     "area": [
+      128,
+      932,
+      520,
+      90
+     ],
+     "mode": "ink",
+     "text": "Haksızlığa uğrayan arkadaşımın yanında olurum, durumu öğretmene veya okul idaresine bildiririm, onu dinler ve destek olurum; gerekirse yetkili kurumlara başvurulmasını sağlarım.",
+     "fs": 14,
+     "pill": [
+      612,
+      952
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      758,
+      1060,
+      59,
+      60
+     ],
+     "panel": "karsilasilan",
+     "label": "Demokraside Karşılaşılan Sorunlar"
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "img": "@IMG:s7-u4/p-56@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Aşağıda verilen kavramları…",
+     "r": [
+      33,
+      29,
+      795,
+      1135
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      690,
+      586,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "2",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      573
+     ]
+    },
+    {
+     "area": [
+      690,
+      644,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "4",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      631
+     ]
+    },
+    {
+     "area": [
+      690,
+      702,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "6",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      689
+     ]
+    },
+    {
+     "area": [
+      690,
+      758,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "3, 4",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      745
+     ]
+    },
+    {
+     "area": [
+      690,
+      816,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "2",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      803
+     ]
+    },
+    {
+     "area": [
+      690,
+      874,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "6",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      861
+     ]
+    },
+    {
+     "area": [
+      690,
+      930,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "3, 4",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      917
+     ]
+    },
+    {
+     "area": [
+      690,
+      986,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "5, 6",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      973
+     ]
+    },
+    {
+     "area": [
+      690,
+      1044,
+      120,
+      40
+     ],
+     "mode": "ink",
+     "text": "2",
+     "center": true,
+     "fs": 16,
+     "pill": [
+      820,
+      1031
+     ]
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "img": "@IMG:s7-u4/p-57@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      790,
+      303
+     ]
+    },
+    {
+     "t": "Yazdığınız kâğıtları katlayınız…",
+     "r": [
+      122,
+      330,
+      706,
+      262
+     ]
+    },
+    {
+     "t": "Öğrenme galerisi tekniğini…",
+     "r": [
+      81,
+      564,
+      749,
+      600
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      753,
+      598,
+      63,
+      59
+     ],
+     "panel": "galeri",
+     "label": "Öğrenme Galerisi Tekniği"
+    },
+    {
+     "area": [
+      757,
+      1035,
+      60,
+      59
+     ],
+     "panel": "galerikontrol",
+     "label": "Kontrol Listesi"
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "img": "@IMG:s7-u4/p-58@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "4. ÖĞRENME ALANI-KENDIMI…",
+     "r": [
+      34,
+      61,
+      837,
+      1103
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1017,
+      700,
+      26
+     ],
+     "mode": "ink",
+     "text": "5. ÇIKIŞ",
+     "pill": [
+      792,
+      995
+     ]
+    },
+    {
+     "area": [
+      128,
+      1062,
+      700,
+      80
+     ],
+     "mode": "ink",
+     "text": "Farklı görüşlerin yönetime etkili olması çoğulculuktur. · Seçimlere katılımın düşük olması olumsuz bir durumdur. · Çok partili hayata geçişin ilk denemesi 1924'te Terakkiperver Cumhuriyet Fırkası'dır. · İç savaşlar demokrasiye zarar verir.",
+     "fs": 13,
+     "pill": [
+      792,
+      1046
+     ]
+    }
+   ]
+  },
+  {
+   "n": 68,
+   "img": "@IMG:s7-u4/p-59@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıdaki sarmal bulmacayı…",
+     "r": [
+      106,
+      83,
+      727,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      118,
+      84,
+      700,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevaplar",
+     "text": "1-2: KUVVETLER BİRLİĞİ\n2-3: ANAYASA\n3-4: BAĞIMSIZLIK\n4-5: SEÇİM\n5-6: CUMHURBAŞKANI\n6-7: MAHKEME\n7-8: YARGITAY\n8-9: REFERANDUM\n9-10: DEMOKRASİ\n10-11: KANUN\n11: MİLLETVEKİLİ",
+     "pill": [
+      422,
+      68
+     ],
+     "qx": 118,
+     "qt": 84,
+     "qb": 115,
+     "qr": 818,
+     "bal": [
+      102,
+      123,
+      735,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "img": "@IMG:s7-u4/p-60@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıdaki çoktan seçmeli…",
+     "r": [
+      122,
+      83,
+      708,
+      586
+     ]
+    },
+    {
+     "t": "Metne göre aşağıdakilerden…",
+     "r": [
+      150,
+      573,
+      681,
+      235
+     ]
+    },
+    {
+     "t": "1960 ve 1980 askeri darbeleri",
+     "r": [
+      117,
+      780,
+      713,
+      384
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      518,
+      189,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Belediye tarafından sunulan eğitim ve kültür hizmetlerinden inanç veya kökeni sorgulanmaksızın herkesin faydalanabilmesi.",
+     "pill": [
+      630,
+      185
+     ],
+     "qx": 162,
+     "qt": 143,
+     "qb": 248,
+     "qr": 818,
+     "bal": [
+      118,
+      256,
+      716,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      518,
+      477,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Vatandaşların itiraz ederek projeyi mahkemeye taşıması yürütme yetkisinin bir sonucudur.\nMahkemeye başvurmak yargı yoluna gitmektir.",
+     "pill": [
+      630,
+      464
+     ],
+     "qx": 134,
+     "qt": 477,
+     "qb": 579,
+     "qr": 818,
+     "bal": [
+      118,
+      556,
+      716,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      518,
+      937,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Her iki darbe sonrasında siyasi hak ve özgürlüklerde kısıtlamalar yaşanmıştır.",
+     "pill": [
+      630,
+      933
+     ],
+     "qx": 158,
+     "qt": 926,
+     "qb": 1059,
+     "qr": 818,
+     "bal": [
+      113,
+      1022,
+      721,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "img": "@IMG:s7-u4/p-61@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "4. Türkiye'de demokrasinin…",
+     "r": [
+      122,
+      84,
+      706,
+      546
+     ]
+    },
+    {
+     "t": "Aşağıda verilen açık uçlu soruları",
+     "r": [
+      122,
+      517,
+      706,
+      326
+     ]
+    },
+    {
+     "t": "2. Türkiye Cumhuriyeti'nin…",
+     "r": [
+      122,
+      815,
+      713,
+      349
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      500,
+      458,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Burhan\n1924 Anayasası halk egemenliğini (millî egemenlik) esas almıştır; \"halk egemenliğine dayalı sistem yerine\" ifadesi yanlıştır.",
+     "pill": [
+      612,
+      457
+     ],
+     "qx": 163,
+     "qt": 456,
+     "qb": 509,
+     "qr": 800,
+     "bal": [
+      118,
+      517,
+      714,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      717,
+      650,
+      75
+     ],
+     "mode": "ink",
+     "text": "TBMM kanun yapar, Cumhurbaşkanı bu kanunu uygun bulmazsa yeniden görüşülmek üzere geri gönderir. Anayasa Mahkemesi de kanunun anayasaya uygunluğunu denetler ve gerekirse iptal eder.",
+     "fs": 13,
+     "pill": [
+      764,
+      707
+     ]
+    },
+    {
+     "area": [
+      148,
+      1042,
+      650,
+      75
+     ],
+     "mode": "ink",
+     "text": "Demokratik devlet: Herkes oy kullanır. Laik devlet: Herkes inancını özgürce yaşar. Sosyal devlet: Ücretsiz eğitim ve sağlık. Hukuk devleti: Herkes kanun önünde eşittir.",
+     "fs": 13,
+     "pill": [
+      818,
+      1029
+     ]
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "img": "@IMG:s7-u4/p-62@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "3. Bir zamanlar Kureyş…",
+     "r": [
+      123,
+      90,
+      706,
+      341
+     ]
+    },
+    {
+     "t": "4. Türkiye'de demokrasi,…",
+     "r": [
+      123,
+      403,
+      705,
+      373
+     ]
+    },
+    {
+     "t": "5. Türkiye'de demokratikleşme…",
+     "r": [
+      123,
+      748,
+      706,
+      424
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      345,
+      640,
+      50
+     ],
+     "mode": "ink",
+     "text": "Hukuk devleti (kanun önünde eşitlik, kanunun herkese uygulanması) ve adalet; kimseye ayrıcalık tanınmaması.",
+     "fs": 15,
+     "pill": [
+      824,
+      332
+     ]
+    },
+    {
+     "area": [
+      160,
+      655,
+      640,
+      85
+     ],
+     "mode": "ink",
+     "text": "Millî egemenlik, eşitlik ve özgürlük gibi değerler sayesinde vatandaşlar yönetime katılır, haklar anayasal güvence altındadır, kanun önünde herkes eşittir ve toplumda güven ve huzur sağlanır.",
+     "fs": 15,
+     "pill": [
+      824,
+      642
+     ]
+    },
+    {
+     "area": [
+      160,
+      1000,
+      640,
+      70
+     ],
+     "mode": "ink",
+     "text": "Yasama hak ve özgürlükleri güvenceye alan kanunlar çıkarmalı; yürütme doğru bilgiyi hızlı paylaşmalı, katılımı artırmalı; yargı bağımsız ve tarafsız kararlar vermelidir.",
+     "fs": 14,
+     "pill": [
+      764,
+      984
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      237,
+      1093,
+      67,
+      60
+     ],
+     "panel": "sorular",
+     "label": "Öğrenme alanı ek sorular"
+    },
+    {
+     "area": [
+      756,
+      1093,
+      57,
+      59
+     ],
+     "panel": "kavram",
+     "label": "Kavram Oyunu"
+    }
+   ]
+  }
+ ]
+};

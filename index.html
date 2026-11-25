@@ -211,6 +211,19 @@ select{width:100%;padding:11px 12px;border-radius:12px;border:1.5px solid var(--
 .oz-mbox video{display:block;width:100%;max-height:78vh;border-radius:14px;background:#000}
 .oz-close{position:absolute;top:10px;right:10px;width:34px;height:34px;border-radius:50%;border:none;background:#f6c33b;color:#1b2550;font-weight:800}
 @media (max-width:820px){.oz-grid{grid-template-columns:1fr;gap:28px}.oz-video{justify-self:center}.oz-video video{height:auto;width:min(82vw,340px)}.oz-banner{flex-wrap:wrap}.oz-banner img{width:72px;height:72px}.oz-go{margin-left:0}}
+
+.bk-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.bk{display:flex;flex-direction:column;gap:12px;text-decoration:none;color:var(--ink)}
+.bk img,.bk-ph{width:100%;aspect-ratio:3/4;border-radius:8px 18px 18px 8px;border:2px solid var(--ink);box-shadow:6px 6px 0 rgba(29,42,42,.2);transition:transform .2s;display:block;object-fit:cover}
+a.bk:hover img{transform:rotate(-2deg) translateY(-5px)}
+.bk-ph{display:flex;flex-direction:column;justify-content:space-between;padding:20px}
+.bk-ph b{font:800 3.6rem "Bricolage Grotesque";line-height:1}.bk-ph small{font:600 .8rem "Bricolage Grotesque";color:var(--muted)}.bk-ph span{font:700 1.05rem "Bricolage Grotesque"}
+.bk-t{display:flex;flex-direction:column;gap:3px}
+.bk-t b{font:700 1.02rem "Bricolage Grotesque";line-height:1.25}
+.bk-t span{font-size:.85rem;color:var(--muted)}
+.bk-t em{font:700 .88rem "Bricolage Grotesque";color:var(--teal);font-style:normal;margin-top:2px}
+.bk-soon{opacity:.75}.bk-t .soon{align-self:flex-start;margin-top:4px}
+@media (max-width:980px){.bk-grid{grid-template-columns:repeat(2,1fr)}}
 footer{padding:40px 0 50px;color:var(--muted);font-size:.9rem;border-top:1px solid var(--line);margin-top:40px}
 .foot{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 .foot a{text-decoration:none;margin-right:14px}.foot a:hover{color:var(--clay)}
@@ -455,10 +468,9 @@ const KONU={5:{0:[["Gruplar ve Rollerimiz","konu/5-sinif-1-1.pdf"],["Kültürel 
 const YAZILI={5:[["1. Dönem 1. Yazılıya Hazırlık","yazili/5-sinif-1-donem-1-yazili.pdf","yazili/5-sinif-1-donem-1-yazili.jpg","12 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]],
  6:[["1. Dönem 1. Yazılıya Hazırlık","yazili/6-sinif-1-donem-1-yazili.pdf","yazili/6-sinif-1-donem-1-yazili.jpg","12 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]],
  7:[["1. Dönem 1. Yazılıya Hazırlık","yazili/7-sinif-1-donem-1-yazili.pdf","yazili/7-sinif-1-donem-1-yazili.jpg","15 açık uçlu soru · bağlam temelli · kolay-orta-zor · cevap anahtarlı"]]};
-const KONU_KITAP={5:{1:[["5.2.3","İlimizde Yaşanabilecek Afetler ve Etkileri","kitaplar/konu-5-2-3/"]]},
- 6:{1:[["6.2.2","Doğal ve Beşerî Çevre Özellikleri Arasındaki İlişki","kitaplar/konu-6-2-2/"]]},
- 7:{2:[["7.3.1","Osmanlı Devleti'nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar","kitaplar/konu-7-3-1/"]]}};
-const BOOK_LINKS=Object.fromEntries([5,6,7].map(g=>[g,[1,2,3,4,5,6].map(n=>`kitaplar/${g}-sinif-${n}/`)]));
+const KONU_KITAP={};
+const BOOK_LINKS=Object.fromEntries([5,6,7].map(g=>[g,[1,2,3,4,5,6].map(n=>`kitaplar/${g}-sinif/#a${n}`)]));
+const BOOK_TITLE=g=>`Sosyal Bilgiler ${g}. Sınıf Etkileşimli Ders Kitabı`;
 const BOOKS=[[5,"Sosyal Bilgiler","var(--g5)"],[6,"Sosyal Bilgiler","var(--g6)"],[7,"Sosyal Bilgiler","var(--g7)"],[8,"İnkılap Tarihi ve Atatürkçülük","var(--g8)"]];
 const DOCS=[
  ["Planlar","Yıllık plan (5-8. sınıf)","Maarif Modeli'ne uygun, haftalık dağılımlı yıllık planlar.","Word"],
@@ -517,7 +529,7 @@ function renderGrade(g){
     const kk=(KONU_KITAP[g]&&KONU_KITAP[g][i])||[];
     const kkHtml=kk.map(([n,t,h])=>`<a class="item" href="${h}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📗</span><div class="t"><b>${t}</b><small>${n} · Etkileşimli konu kitabı</small></div><span class="btn sm">Aç</span></a>`).join("");
     const bl=BOOK_LINKS[g]&&BOOK_LINKS[g][i];
-    const book=bl?`<a class="item" href="${bl}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📘</span><div class="t"><b>Etkileşimli kitap</b><small>${u} — sayfa sayfa, etkinlikli dijital kitap</small></div><span class="btn sm">Aç</span></a>`:"";
+    const book=bl?`<a class="item" href="${bl}" target="_blank" rel="noopener" style="text-decoration:none"><span class="ic">📘</span><div class="t"><b>Etkileşimli ders kitabı</b><small>${u} — ${BOOK_TITLE(g)}</small></div><span class="btn sm">Aç</span></a>`:"";
     return `<details class="unit" ${i==0?"open":""}><summary><span class="n" style="background:${G.color}">${i+1}</span>${u}<span class="cnt">${its.length+(bl?1:0)+(real?real.length:0)+kk.length} içerik</span></summary>
       <div class="items">${book}${kkHtml}${realHtml}${its.map(([ic,t,s])=>`<div class="item"><span class="ic">${ic}</span><div class="t">${t}<small>${s}</small></div>${soon}</div>`).join("")}</div></details>`;
   }).join("");
@@ -546,18 +558,9 @@ $("#rGo").onclick=()=>{
 };
 
 /* kitaplar */
-$("#books").outerHTML=BOOKS.map(([g,n,c])=>{
-  const links=BOOK_LINKS[g];
-  const covers=links
-    ? GRADES[g].units.map((u,i)=>`<a class="book" href="${links[i]}" target="_blank" rel="noopener">
-        <div class="cover" style="background:${c}"><div><small>${g}. Sınıf · ${i+1}. Öğrenme Alanı</small><b>${i+1}</b></div><h4>${u}</h4></div>
-        <div class="meta">Etkileşimli kitap · <span style="color:var(--teal)">Aç →</span></div></a>`).join("")
-    : `<div class="book"><div class="cover" style="background:${c}"><div><small>SosyaLab</small><b>${g}</b></div><h4>${g}. Sınıf<br>${n}</h4></div>
-        <div class="meta">Etkileşimli kitap · ${soon}</div></div>`;
-  const kks=Object.values(KONU_KITAP[g]||{}).flat();
-  const kkRow=kks.length?`<h3 style="font-size:1.05rem;margin:26px 0 12px;color:var(--muted)">Konu kitapları</h3><div class="units">${kks.map(([n,t,h])=>`<a class="item unit" href="${h}" target="_blank" rel="noopener" style="text-decoration:none;padding:14px 18px"><span class="ic">📗</span><div class="t"><b>${t}</b><small>${n} · Etkileşimli konu kitabı</small></div><span class="btn sm">Aç</span></a>`).join("")}</div>`:"";
-  return `<h2 class="h2" style="font-size:1.5rem;margin:${g==5?0:44}px 0 18px">${g}. Sınıf</h2><div class="books">${covers}</div>${kkRow}`;
-}).join("");
+$("#books").outerHTML=`<div class="bk-grid">${BOOKS.map(([g,n,c])=>BOOK_LINKS[g]
+  ? `<a class="bk" href="kitaplar/${g}-sinif/" target="_blank" rel="noopener"><img src="kitaplar/kapak-${g}.jpg" alt="${BOOK_TITLE(g)} kapağı" loading="lazy"><div class="bk-t"><b>${BOOK_TITLE(g)}</b><span>6 öğrenme alanı · konu konu, sayfa sayfa</span><em>Kitabı aç →</em></div></a>`
+  : `<div class="bk bk-soon"><div class="bk-ph" style="background:${c}"><small>SosyaLab</small><b>${g}</b><span>${g}. Sınıf<br>${n}</span></div><div class="bk-t"><b>${g}. Sınıf ${n}</b><span>Etkileşimli ders kitabı</span>${soon}</div></div>`).join("")}</div>`;
 
 /* filtreli kart listeleri */
 function filtered(chipsSel,gridSel,cats,data,card){

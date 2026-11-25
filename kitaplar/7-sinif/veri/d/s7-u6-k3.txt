@@ -1,0 +1,1525 @@
+// 7. Sınıf Sosyal Bilgiler · 6. Öğrenme Alanı: Teknoloji ve Sosyal Bilimler (s. 112–145)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Toplumsal hayatta karşılaşılabilecek problemlere çözüm üretme (s. 135–145)
+window.BOOK = {
+ "id": "s7-u6-k3",
+ "title": "Toplumsal hayatta karşılaşılabilecek problemlere çözüm üretme",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u6-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 135,
+   "img": "@IMG:s7-u6/p-24@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "TOPLUMSAL HAYATTA",
+     "r": [
+      33,
+      61,
+      805,
+      1103
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      812,
+      640,
+      280
+     ],
+     "mode": "ink",
+     "text": "1. görselde doğa temiz, yeşil ve düzenli; 2. görselde fabrikalar, kirli su, çöp ve kurumuş ağaçlar var.\n2. görselde çevre kirliliği vardır. Fabrika atıklarının arıtılmadan doğaya bırakılmasından, çöplerin gelişigüzel atılmasından ve ağaçların kesilmesinden kaynaklanır.\nFabrikalara arıtma tesisi ve filtre zorunlu olmalı, geri dönüşüm yaygınlaştırılmalı, ağaçlandırma yapılmalı, cezai yaptırımlar uygulanmalı ve toplum bilinçlendirilmelidir.",
+     "fs": 15,
+     "pill": [
+      744,
+      766
+     ]
+    }
+   ]
+  },
+  {
+   "n": 136,
+   "img": "@IMG:s7-u6/p-25@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Verilen hikâyeyi okuyarak…",
+     "r": [
+      38,
+      55,
+      879,
+      692
+     ]
+    },
+    {
+     "t": "Sizin de yakın çevrenizde tanık",
+     "r": [
+      38,
+      719,
+      839,
+      445
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      656,
+      202,
+      188,
+      42
+     ],
+     "mode": "ink",
+     "text": "Mahalledeki Çevre Kirliliği",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      858,
+      177
+     ]
+    },
+    {
+     "area": [
+      594,
+      315,
+      187,
+      37
+     ],
+     "mode": "ink",
+     "text": "Serap ve arkadaşları",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      766,
+      296
+     ]
+    },
+    {
+     "area": [
+      656,
+      427,
+      188,
+      42
+     ],
+     "mode": "ink",
+     "text": "Serap'ın mahallesi",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      780,
+      411
+     ]
+    },
+    {
+     "area": [
+      594,
+      544,
+      187,
+      41
+     ],
+     "mode": "ink",
+     "text": "Okuldan dönerken bir gün",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      796,
+      531
+     ]
+    },
+    {
+     "area": [
+      656,
+      660,
+      188,
+      40
+     ],
+     "mode": "ink",
+     "text": "Sokaklarda çöpler birikmişti",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      810,
+      641
+     ]
+    },
+    {
+     "area": [
+      594,
+      769,
+      187,
+      44
+     ],
+     "mode": "ink",
+     "text": "Çöp kutusu azlığı ve düzensiz temizlik",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      796,
+      756
+     ]
+    },
+    {
+     "area": [
+      656,
+      885,
+      188,
+      43
+     ],
+     "mode": "ink",
+     "text": "Muhtara öneri sunuldu, belediye kutu koydu",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      858,
+      872
+     ]
+    },
+    {
+     "area": [
+      594,
+      994,
+      187,
+      44
+     ],
+     "mode": "ink",
+     "text": "Mahalle temiz ve sağlıklı oldu",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      748,
+      957
+     ]
+    },
+    {
+     "area": [
+      480,
+      1095,
+      330,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Mahallemizde trafik yoğunluğu ve otopark sorunu var. Araç sayısının artması, toplu taşımanın yetersiz kalması ve yolların dar olması bu soruna neden oluyor.",
+     "pill": [
+      580,
+      1100
+     ],
+     "qx": 240,
+     "qt": 955,
+     "qb": 1117,
+     "qr": 849,
+     "bal": [
+      34,
+      922,
+      847,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 137,
+   "img": "@IMG:s7-u6/p-26@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Problem çözme süreci ile ilgili",
+     "r": [
+      34,
+      61,
+      797,
+      253
+     ]
+    },
+    {
+     "t": "Düşündüğünüz problem…",
+     "r": [
+      82,
+      286,
+      749,
+      391
+     ]
+    },
+    {
+     "t": "Bunların hepsi çözülmesi…",
+     "r": [
+      111,
+      649,
+      716,
+      515
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 138,
+   "img": "@IMG:s7-u6/p-27@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      107,
+      878,
+      1057
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 139,
+   "img": "@IMG:s7-u6/p-28@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      34,
+      75,
+      800,
+      857
+     ]
+    },
+    {
+     "t": "Grup arkadaşlarınızla…",
+     "r": [
+      57,
+      904,
+      793,
+      260
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      331,
+      280,
+      463,
+      36
+     ],
+     "mode": "ink",
+     "text": "Okul kantininde plastik atıkların artması",
+     "fs": 16,
+     "pill": [
+      821,
+      267
+     ]
+    },
+    {
+     "area": [
+      116,
+      365,
+      230,
+      140
+     ],
+     "mode": "ink",
+     "text": "Tekrar kullanılabilir matara ve kaplar",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      378,
+      352
+     ]
+    },
+    {
+     "area": [
+      116,
+      532,
+      230,
+      140
+     ],
+     "mode": "ink",
+     "text": "Geri dönüşüm kutularının artırılması",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      378,
+      519
+     ]
+    },
+    {
+     "area": [
+      116,
+      707,
+      230,
+      140
+     ],
+     "mode": "ink",
+     "text": "Bilinçlendirme kampanyası",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      378,
+      694
+     ]
+    },
+    {
+     "area": [
+      492,
+      362,
+      290,
+      62
+     ],
+     "mode": "ink",
+     "text": "Atık büyük ölçüde azalır, kalıcı çözümdür.",
+     "fs": 14,
+     "pill": [
+      808,
+      349
+     ]
+    },
+    {
+     "area": [
+      492,
+      443,
+      290,
+      62
+     ],
+     "mode": "ink",
+     "text": "Başlangıçta maliyetlidir, alışkanlık ister.",
+     "fs": 14,
+     "pill": [
+      814,
+      430
+     ]
+    },
+    {
+     "area": [
+      492,
+      536,
+      290,
+      58
+     ],
+     "mode": "ink",
+     "text": "Atıklar ekonomiye geri kazandırılır.",
+     "fs": 14,
+     "pill": [
+      808,
+      523
+     ]
+    },
+    {
+     "area": [
+      492,
+      618,
+      290,
+      58
+     ],
+     "mode": "ink",
+     "text": "Plastik kullanımı azalmaz, ayrıştırma hatalı olabilir.",
+     "fs": 14,
+     "pill": [
+      814,
+      605
+     ]
+    },
+    {
+     "area": [
+      492,
+      712,
+      290,
+      58
+     ],
+     "mode": "ink",
+     "text": "Ucuzdur, kalıcı davranış değişikliği sağlar.",
+     "fs": 14,
+     "pill": [
+      748,
+      702
+     ]
+    },
+    {
+     "area": [
+      492,
+      793,
+      290,
+      58
+     ],
+     "mode": "ink",
+     "text": "Sonucu yavaş görülür, herkes katılmayabilir.",
+     "fs": 14,
+     "pill": [
+      748,
+      780
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      765,
+      1070,
+      61,
+      71
+     ],
+     "panel": "cozum",
+     "label": "Çözüm Bende"
+    }
+   ]
+  },
+  {
+   "n": 140,
+   "img": "@IMG:s7-u6/p-29@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      879,
+      433
+     ]
+    },
+    {
+     "t": "Grup arkadaşlarınızla tablodaki…",
+     "r": [
+      101,
+      460,
+      749,
+      704
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      155,
+      372,
+      126,
+      88
+     ],
+     "mode": "ink",
+     "text": "Matara ve tekrar kullanılabilir kap",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      315,
+      383
+     ]
+    },
+    {
+     "area": [
+      294,
+      392,
+      87,
+      48
+     ],
+     "mode": "ink",
+     "text": "Orta",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      412,
+      385
+     ]
+    },
+    {
+     "area": [
+      387,
+      392,
+      94,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      511,
+      385
+     ]
+    },
+    {
+     "area": [
+      487,
+      392,
+      88,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      599,
+      385
+     ]
+    },
+    {
+     "area": [
+      581,
+      392,
+      88,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      699,
+      385
+     ]
+    },
+    {
+     "area": [
+      675,
+      392,
+      112,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      847,
+      379
+     ]
+    },
+    {
+     "area": [
+      155,
+      491,
+      126,
+      88
+     ],
+     "mode": "ink",
+     "text": "Geri dönüşüm kutusu",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      315,
+      502
+     ]
+    },
+    {
+     "area": [
+      294,
+      511,
+      87,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      412,
+      501
+     ]
+    },
+    {
+     "area": [
+      387,
+      511,
+      94,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      511,
+      501
+     ]
+    },
+    {
+     "area": [
+      487,
+      511,
+      88,
+      48
+     ],
+     "mode": "ink",
+     "text": "Orta",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      599,
+      501
+     ]
+    },
+    {
+     "area": [
+      581,
+      511,
+      88,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      699,
+      501
+     ]
+    },
+    {
+     "area": [
+      675,
+      511,
+      112,
+      48
+     ],
+     "mode": "ink",
+     "text": "Orta",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      847,
+      498
+     ]
+    },
+    {
+     "area": [
+      155,
+      622,
+      126,
+      88
+     ],
+     "mode": "ink",
+     "text": "Bilinçlendirme kampanyası",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      315,
+      633
+     ]
+    },
+    {
+     "area": [
+      294,
+      642,
+      87,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      412,
+      632
+     ]
+    },
+    {
+     "area": [
+      387,
+      642,
+      94,
+      48
+     ],
+     "mode": "ink",
+     "text": "Orta",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      511,
+      632
+     ]
+    },
+    {
+     "area": [
+      487,
+      642,
+      88,
+      48
+     ],
+     "mode": "ink",
+     "text": "Orta",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      599,
+      632
+     ]
+    },
+    {
+     "area": [
+      581,
+      642,
+      88,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      699,
+      632
+     ]
+    },
+    {
+     "area": [
+      675,
+      642,
+      112,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      847,
+      629
+     ]
+    },
+    {
+     "area": [
+      155,
+      753,
+      126,
+      88
+     ],
+     "mode": "ink",
+     "text": "Plastik ürün satışını yasaklamak",
+     "fs": 13,
+     "center": true,
+     "pill": [
+      315,
+      764
+     ]
+    },
+    {
+     "area": [
+      294,
+      773,
+      87,
+      48
+     ],
+     "mode": "ink",
+     "text": "Düşük",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      412,
+      763
+     ]
+    },
+    {
+     "area": [
+      387,
+      773,
+      94,
+      48
+     ],
+     "mode": "ink",
+     "text": "Orta",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      511,
+      763
+     ]
+    },
+    {
+     "area": [
+      487,
+      773,
+      88,
+      48
+     ],
+     "mode": "ink",
+     "text": "Yüksek",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      599,
+      763
+     ]
+    },
+    {
+     "area": [
+      581,
+      773,
+      88,
+      48
+     ],
+     "mode": "ink",
+     "text": "Orta",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      699,
+      763
+     ]
+    },
+    {
+     "area": [
+      675,
+      773,
+      112,
+      48
+     ],
+     "mode": "ink",
+     "text": "Orta",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      847,
+      760
+     ]
+    }
+   ]
+  },
+  {
+   "n": 141,
+   "img": "@IMG:s7-u6/p-30@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Elde ettiğiniz verileri…",
+     "r": [
+      33,
+      55,
+      796,
+      1109
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      133,
+      1044,
+      62,
+      60
+     ],
+     "panel": "posterrubrik",
+     "label": "Analitik Dereceli Puanlama Anahtarı"
+    },
+    {
+     "area": [
+      757,
+      1045,
+      56,
+      59
+     ],
+     "panel": "sunumkontrol",
+     "label": "Kontrol Listesi"
+    }
+   ]
+  },
+  {
+   "n": 142,
+   "img": "@IMG:s7-u6/p-31@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "GRENME ALANI-KENDIMI…",
+     "r": [
+      38,
+      61,
+      833,
+      838
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      108,
+      871,
+      761,
+      293
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      120,
+      1012,
+      670,
+      26
+     ],
+     "mode": "ink",
+     "text": "3. ÇIKIŞ",
+     "fs": 18,
+     "pill": [
+      754,
+      996
+     ]
+    },
+    {
+     "area": [
+      120,
+      1060,
+      670,
+      60
+     ],
+     "mode": "ink",
+     "text": "Bilim ve teknoloji sayesinde insanlar doğayla ilişkilerini tamamen kesmemiştir. · Ulaşımdaki gelişmeler seyahat süresini kısaltmıştır. · Bilimsel ve teknolojik ilerlemeler toplumların yaşam kalitesini etkiler.",
+     "fs": 13,
+     "pill": [
+      754,
+      1047
+     ]
+    }
+   ]
+  },
+  {
+   "n": 143,
+   "img": "@IMG:s7-u6/p-32@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Tablodaki ipuçlarından…",
+     "r": [
+      104,
+      90,
+      731,
+      693
+     ]
+    },
+    {
+     "t": "slrevlajslelrllalölizellülslsofu…",
+     "r": [
+      104,
+      755,
+      720,
+      409
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      116,
+      361,
+      190,
+      31
+     ],
+     "mode": "ink",
+     "text": "BİLİM",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      270,
+      291
+     ]
+    },
+    {
+     "area": [
+      334,
+      361,
+      354,
+      31
+     ],
+     "mode": "ink",
+     "text": "TEKNOLOJİ",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      716,
+      348
+     ]
+    },
+    {
+     "area": [
+      116,
+      449,
+      190,
+      31
+     ],
+     "mode": "ink",
+     "text": "TARİH",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      252,
+      448
+     ]
+    },
+    {
+     "area": [
+      334,
+      449,
+      360,
+      31
+     ],
+     "mode": "ink",
+     "text": "ARKEOLOJİ",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      722,
+      436
+     ]
+    },
+    {
+     "area": [
+      116,
+      536,
+      309,
+      31
+     ],
+     "mode": "ink",
+     "text": "COĞRAFYA",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      450,
+      622
+     ]
+    },
+    {
+     "area": [
+      444,
+      536,
+      350,
+      31
+     ],
+     "mode": "ink",
+     "text": "SOSYOLOJİ",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      820,
+      523
+     ]
+    },
+    {
+     "area": [
+      116,
+      624,
+      272,
+      31
+     ],
+     "mode": "ink",
+     "text": "FELSEFE",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      330,
+      710
+     ]
+    },
+    {
+     "area": [
+      425,
+      624,
+      350,
+      31
+     ],
+     "mode": "ink",
+     "text": "PSİKOLOJİ",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      711,
+      623
+     ]
+    },
+    {
+     "area": [
+      116,
+      711,
+      272,
+      31
+     ],
+     "mode": "ink",
+     "text": "EKONOMİ",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      252,
+      710
+     ]
+    },
+    {
+     "area": [
+      425,
+      711,
+      338,
+      31
+     ],
+     "mode": "ink",
+     "text": "PROBLEM",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      729,
+      698
+     ]
+    },
+    {
+     "area": [
+      116,
+      799,
+      309,
+      31
+     ],
+     "mode": "ink",
+     "text": "KAYNAKÇA",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      366,
+      798
+     ]
+    },
+    {
+     "area": [
+      444,
+      799,
+      231,
+      31
+     ],
+     "mode": "ink",
+     "text": "TOPLUM",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      706,
+      786
+     ]
+    },
+    {
+     "area": [
+      116,
+      886,
+      272,
+      31
+     ],
+     "mode": "ink",
+     "text": "SİYASET",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      288,
+      798
+     ]
+    },
+    {
+     "area": [
+      400,
+      886,
+      188,
+      31
+     ],
+     "mode": "ink",
+     "text": "ÇÖZÜM",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      698,
+      924
+     ]
+    },
+    {
+     "area": [
+      600,
+      886,
+      188,
+      31
+     ],
+     "mode": "ink",
+     "text": "HUKUK",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      820,
+      873
+     ]
+    },
+    {
+     "area": [
+      116,
+      974,
+      553,
+      31
+     ],
+     "mode": "ink",
+     "text": "SOSYAL BİLİMLER",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      696,
+      961
+     ]
+    }
+   ]
+  },
+  {
+   "n": 144,
+   "img": "@IMG:s7-u6/p-33@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "Aşağıdaki çoktan seçmeli…",
+     "r": [
+      122,
+      73,
+      709,
+      746
+     ]
+    },
+    {
+     "t": "Mustafa Kemal Atatürk'ün…",
+     "r": [
+      122,
+      694,
+      706,
+      251
+     ]
+    },
+    {
+     "t": "Aşağıdakilerden hangisi…",
+     "r": [
+      149,
+      917,
+      653,
+      247
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      560,
+      606,
+      230,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Öğrencilerin kendi tekrar kullanılabilir kaplarını sürekli kullanıp kullanmayacağını ve atık miktarını azaltıp azaltmayacağını gösteren güvenilir verileri toplamak",
+     "pill": [
+      642,
+      605
+     ],
+     "qx": 560,
+     "qt": 581,
+     "qb": 696,
+     "qr": 816,
+     "bal": [
+      275,
+      681,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      560,
+      822,
+      230,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Tarih",
+     "pill": [
+      642,
+      821
+     ],
+     "qx": 520,
+     "qt": 778,
+     "qb": 907,
+     "qr": 816,
+     "bal": [
+      412,
+      903,
+      420,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      560,
+      1042,
+      230,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Akıllı ev sistemleri",
+     "pill": [
+      642,
+      1041
+     ],
+     "qx": 560,
+     "qt": 1042,
+     "qb": 1064,
+     "qr": 790,
+     "bal": [
+      386,
+      1072,
+      420,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 145,
+   "img": "@IMG:s7-u6/p-34@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "4. Mustafa Kemal Atatürk, Türk",
+     "r": [
+      122,
+      84,
+      706,
+      555
+     ]
+    },
+    {
+     "t": "5. Bir toplumsal problemin…",
+     "r": [
+      106,
+      410,
+      727,
+      754
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      560,
+      398,
+      240,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: C) Bilim ve akıl, bireylerin ve toplumların gelişiminde en güvenilir yol göstericilerdir.",
+     "pill": [
+      642,
+      397
+     ],
+     "qx": 560,
+     "qt": 305,
+     "qb": 463,
+     "qr": 816,
+     "bal": [
+      272,
+      471,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      560,
+      546,
+      240,
+      22
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Sürdürülebilirlik",
+     "pill": [
+      642,
+      545
+     ],
+     "qx": 520,
+     "qt": 501,
+     "qb": 568,
+     "qr": 800,
+     "bal": [
+      272,
+      576,
+      560,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      120,
+      935,
+      680,
+      45
+     ],
+     "mode": "ink",
+     "text": "Tarih (Gaslar, Doğu Roma, Millî Mücadele), coğrafya (konum, dağlık alan), ekonomi (tarım, hayvancılık, turizm), sosyoloji ve kültür (halkın yapısı, Divanü Lügati't-Türk), arkeoloji (MÖ 2000 kalıntıları).",
+     "fs": 14,
+     "pill": [
+      784,
+      922
+     ]
+    },
+    {
+     "area": [
+      300,
+      1060,
+      320,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İntihal (başkasının emeğini kendine mal etme) oluşur, bilimsel etik ihlal edilir; bilgilerin doğruluğu kontrol edilemez, araştırmanın güvenilirliği azalır ve yasal sorunlar ortaya çıkabilir.",
+     "pill": [
+      394,
+      1059
+     ],
+     "qx": 134,
+     "qt": 1060,
+     "qb": 1215,
+     "qr": 818,
+     "bal": [
+      102,
+      947,
+      735,
+      "above",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      235,
+      1064,
+      68,
+      59
+     ],
+     "panel": "sorular",
+     "label": "Öğrenme alanı ek sorular"
+    },
+    {
+     "area": [
+      757,
+      1064,
+      57,
+      59
+     ],
+     "panel": "kavram",
+     "label": "Kavram Oyunu"
+    }
+   ]
+  }
+ ]
+};

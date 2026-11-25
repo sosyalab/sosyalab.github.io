@@ -1,0 +1,590 @@
+// 7. Sınıf Sosyal Bilgiler · 6. Öğrenme Alanı: Teknoloji ve Sosyal Bilimler (s. 112–145)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Sosyal bilimlerin çalışma alanları (s. 127–134)
+window.BOOK = {
+ "id": "s7-u6-k2",
+ "title": "Sosyal bilimlerin çalışma alanları",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u6-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 127,
+   "img": "@IMG:s7-u6/p-16@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "Listedeki sosyal bilim…",
+     "r": [
+      33,
+      38,
+      831,
+      1126
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      736,
+      442,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      680,
+      429
+     ]
+    },
+    {
+     "area": [
+      592,
+      493,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      542,
+      480
+     ]
+    },
+    {
+     "area": [
+      592,
+      544,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      542,
+      531
+     ]
+    },
+    {
+     "area": [
+      736,
+      595,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      800,
+      582
+     ]
+    },
+    {
+     "area": [
+      592,
+      646,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      542,
+      633
+     ]
+    },
+    {
+     "area": [
+      592,
+      697,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      542,
+      684
+     ]
+    },
+    {
+     "area": [
+      736,
+      748,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      686,
+      738
+     ]
+    },
+    {
+     "area": [
+      736,
+      799,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      800,
+      786
+     ]
+    },
+    {
+     "area": [
+      592,
+      850,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      548,
+      840
+     ]
+    },
+    {
+     "area": [
+      592,
+      901,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      656,
+      888
+     ]
+    },
+    {
+     "area": [
+      736,
+      952,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "✓",
+     "center": true,
+     "fs": 30,
+     "pill": [
+      800,
+      939
+     ]
+    },
+    {
+     "area": [
+      592,
+      1003,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "7",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      548,
+      993
+     ]
+    },
+    {
+     "area": [
+      736,
+      1003,
+      40,
+      40
+     ],
+     "mode": "ink",
+     "text": "5",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      686,
+      993
+     ]
+    }
+   ]
+  },
+  {
+   "n": 128,
+   "img": "@IMG:s7-u6/p-17@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Aşağıda verilen Sosyal Bilimler…",
+     "r": [
+      38,
+      55,
+      879,
+      345
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      38,
+      372,
+      851,
+      792
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      331,
+      306,
+      300,
+      63
+     ],
+     "mode": "ink",
+     "text": "Tarih",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      641,
+      293
+     ]
+    },
+    {
+     "area": [
+      500,
+      406,
+      306,
+      56
+     ],
+     "mode": "ink",
+     "text": "Coğrafya",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      768,
+      387
+     ]
+    },
+    {
+     "area": [
+      169,
+      456,
+      306,
+      56
+     ],
+     "mode": "ink",
+     "text": "Ekonomi",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      533,
+      440
+     ]
+    },
+    {
+     "area": [
+      550,
+      531,
+      306,
+      56
+     ],
+     "mode": "ink",
+     "text": "Sosyoloji",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      818,
+      512
+     ]
+    },
+    {
+     "area": [
+      50,
+      569,
+      306,
+      56
+     ],
+     "mode": "ink",
+     "text": "Hukuk",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      282,
+      586
+     ]
+    },
+    {
+     "area": [
+      500,
+      637,
+      306,
+      56
+     ],
+     "mode": "ink",
+     "text": "Felsefe",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      732,
+      654
+     ]
+    },
+    {
+     "area": [
+      119,
+      694,
+      306,
+      50
+     ],
+     "mode": "ink",
+     "text": "Arkeoloji",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      345,
+      705
+     ]
+    }
+   ]
+  },
+  {
+   "n": 129,
+   "img": "@IMG:s7-u6/p-18@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sosyal bilimler ve çalışma…",
+     "r": [
+      33,
+      61,
+      795,
+      1103
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 130,
+   "img": "@IMG:s7-u6/p-19@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Arkeoloji; geçmişte yaşamış…",
+     "r": [
+      123,
+      87,
+      793,
+      332
+     ]
+    },
+    {
+     "t": "Coğrafya, insan ile yeryüzü…",
+     "r": [
+      34,
+      391,
+      882,
+      773
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 131,
+   "img": "@IMG:s7-u6/p-20@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Felsefe; bireyin insan, hayat,…",
+     "r": [
+      34,
+      12,
+      878,
+      640
+     ]
+    },
+    {
+     "t": "Sosyoloji; sosyal kurumları,…",
+     "r": [
+      35,
+      624,
+      877,
+      540
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 132,
+   "img": "@IMG:s7-u6/p-21@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilgi Kutusu",
+     "r": [
+      61,
+      84,
+      856,
+      748
+     ]
+    },
+    {
+     "t": "Çember tartışma tekniğini…",
+     "r": [
+      62,
+      804,
+      789,
+      360
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      749,
+      254,
+      67,
+      59
+     ],
+     "panel": "kartlar",
+     "label": "Sosyal Bilimlerin Çalışma Alanlarıyla İlgili Bilgi Kartları"
+    },
+    {
+     "area": [
+      268,
+      690,
+      60,
+      59
+     ],
+     "panel": "gozlem",
+     "label": "Gözlem Formu"
+    },
+    {
+     "area": [
+      750,
+      751,
+      66,
+      62
+     ],
+     "panel": "dallar",
+     "label": "Sosyal Bilim Dalları"
+    }
+   ]
+  },
+  {
+   "n": 133,
+   "img": "@IMG:s7-u6/p-22@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Servis altlığı tekniğini…",
+     "r": [
+      34,
+      55,
+      816,
+      527
+     ]
+    },
+    {
+     "t": "Etkinliğin anekdot kaydı…",
+     "r": [
+      101,
+      554,
+      749,
+      610
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      752,
+      160,
+      63,
+      60
+     ],
+     "panel": "servis",
+     "label": "Servis Altlığı Tekniği"
+    },
+    {
+     "area": [
+      133,
+      1048,
+      59,
+      59
+     ],
+     "panel": "anekdot",
+     "label": "Anekdot Kaydı"
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "img": "@IMG:s7-u6/p-23@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      879,
+      1109
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      155,
+      1060,
+      60,
+      59
+     ],
+     "panel": "oyun",
+     "label": "Oyun Kartları"
+    }
+   ]
+  }
+ ]
+};

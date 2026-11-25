@@ -1,0 +1,1419 @@
+// 7. Sınıf Sosyal Bilgiler · 1. Öğrenme Alanı: Birlikte Yaşamak (s. 10–55)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Millî meseleler karşısında Türk toplumunun tutum ve davranışları (s. 40–55)
+window.BOOK = {
+ "id": "s7-u1-k3",
+ "title": "Millî meseleler karşısında Türk toplumunun tutum ve davranışları",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u1-k3@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 40,
+   "img": "@IMG:s7-u1/p-31@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "MİLLİ MESELELER KARŞISINDA",
+     "r": [
+      38,
+      55,
+      879,
+      314
+     ]
+    },
+    {
+     "t": "KARDEŞLİK",
+     "r": [
+      38,
+      341,
+      878,
+      823
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      500,
+      280,
+      240,
+      60
+     ],
+     "mode": "ink",
+     "text": "Vatan sevgisi · Dayanışma",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      702,
+      267
+     ]
+    },
+    {
+     "area": [
+      480,
+      420,
+      260,
+      60
+     ],
+     "mode": "ink",
+     "text": "Fedakârlık · Bayrak · Birlik",
+     "center": true,
+     "fs": 22,
+     "pill": [
+      658,
+      407
+     ]
+    },
+    {
+     "area": [
+      240,
+      260,
+      140,
+      50
+     ],
+     "mode": "ink",
+     "text": "Deprem · Savaş",
+     "center": true,
+     "fs": 20,
+     "pill": [
+      376,
+      259
+     ]
+    },
+    {
+     "area": [
+      170,
+      528,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Bayramları birlikte kutlamak",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      390,
+      539
+     ]
+    },
+    {
+     "area": [
+      505,
+      528,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Afetlerde yardıma koşmak",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      815,
+      515
+     ]
+    },
+    {
+     "area": [
+      170,
+      582,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Yerli ürünleri kullanmak",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      390,
+      590
+     ]
+    },
+    {
+     "area": [
+      505,
+      582,
+      300,
+      34
+     ],
+     "mode": "ink",
+     "text": "Komşularla yardımlaşmak",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      815,
+      569
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "img": "@IMG:s7-u1/p-32@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "Bölüm 1",
+     "r": [
+      34,
+      0,
+      878,
+      239
+     ]
+    },
+    {
+     "t": "Aşağıda verilen ulusal bayram ve",
+     "r": [
+      34,
+      211,
+      824,
+      489
+     ]
+    },
+    {
+     "t": "beyin fırtınası",
+     "r": [
+      34,
+      672,
+      788,
+      492
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      230,
+      498,
+      560,
+      28
+     ],
+     "mode": "ink",
+     "text": "Ulusal Egemenlik ve Çocuk Bayramı",
+     "fs": 18,
+     "pill": [
+      810,
+      473
+     ]
+    },
+    {
+     "area": [
+      230,
+      530,
+      560,
+      28
+     ],
+     "mode": "ink",
+     "text": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+     "fs": 18,
+     "pill": [
+      810,
+      529
+     ]
+    },
+    {
+     "area": [
+      230,
+      562,
+      560,
+      28
+     ],
+     "mode": "ink",
+     "text": "Zafer Bayramı",
+     "fs": 18,
+     "pill": [
+      726,
+      591
+     ]
+    },
+    {
+     "area": [
+      230,
+      595,
+      560,
+      28
+     ],
+     "mode": "ink",
+     "text": "Cumhuriyet Bayramı",
+     "fs": 18,
+     "pill": [
+      810,
+      597
+     ]
+    },
+    {
+     "area": [
+      230,
+      627,
+      560,
+      28
+     ],
+     "mode": "ink",
+     "text": "Atatürk'ü Anma Günü (bayraklar yarıya indirilir)",
+     "fs": 18,
+     "pill": [
+      762,
+      665
+     ]
+    },
+    {
+     "area": [
+      200,
+      720,
+      160,
+      150
+     ],
+     "mode": "ink",
+     "text": "Bayrak bağımsızlığımızın simgesidir.",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      384,
+      707
+     ]
+    },
+    {
+     "area": [
+      615,
+      720,
+      160,
+      150
+     ],
+     "mode": "ink",
+     "text": "Bayram sevincini birlikte paylaşırız.",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      799,
+      707
+     ]
+    },
+    {
+     "area": [
+      215,
+      955,
+      160,
+      150
+     ],
+     "mode": "ink",
+     "text": "Bayrak yarıya inerek yas tutulur, saygı gösterilir.",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      387,
+      933
+     ]
+    },
+    {
+     "area": [
+      600,
+      970,
+      160,
+      150
+     ],
+     "mode": "ink",
+     "text": "Millî birlik ve beraberlik güçlenir.",
+     "center": true,
+     "fs": 18,
+     "pill": [
+      724,
+      957
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "img": "@IMG:s7-u1/p-33@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Türk toplumu tarih boyunca milli",
+     "r": [
+      38,
+      55,
+      790,
+      515
+     ]
+    },
+    {
+     "t": "İyi ki Varsın Eren",
+     "r": [
+      38,
+      542,
+      790,
+      622
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 43,
+   "img": "@IMG:s7-u1/p-34@",
+   "steps": [
+    {
+     "t": "Birlikte Güçlüyüz",
+     "r": [
+      70,
+      0,
+      847,
+      428
+     ]
+    },
+    {
+     "t": "Yapay Zekâ Destekli Nadir…",
+     "r": [
+      70,
+      400,
+      847,
+      764
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 44,
+   "img": "@IMG:s7-u1/p-35@",
+   "steps": [
+    {
+     "t": "ilgi Kutusu",
+     "r": [
+      114,
+      65,
+      728,
+      277
+     ]
+    },
+    {
+     "t": "Vatanın bağımsızlığı için…",
+     "r": [
+      102,
+      314,
+      750,
+      491
+     ]
+    },
+    {
+     "t": "Türk toplumunun milli meseleler…",
+     "r": [
+      122,
+      777,
+      729,
+      387
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      140,
+      390,
+      660,
+      360
+     ],
+     "mode": "ink",
+     "text": "Depremlerde tüm Türkiye tek yürek olup yardım kampanyalarına destek vermiştir.\nKurtuluş Savaşı'nda halk elindeki her şeyi orduya vermiştir.\n15 Temmuz'da millet demokrasiye ve millî iradeye sahip çıkmıştır.\nMillî sporcularımızın başarılarına hep birlikte sevinilmiştir.\nŞehitlerimizin ailelerine sahip çıkılmıştır.\nKültürel değerlerimiz dünyaya tanıtılmaktadır.",
+     "pill": [
+      822,
+      377
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "img": "@IMG:s7-u1/p-36@",
+   "steps": [
+    {
+     "t": "Karekodda yer alan Milli…",
+     "r": [
+      119,
+      0,
+      793,
+      1164
+     ]
+    }
+   ],
+   "answers": [],
+   "links": [
+    {
+     "area": [
+      365,
+      227,
+      70,
+      70
+     ],
+     "panel": "millimeseleler",
+     "label": "Millî Meselelerde Biz"
+    },
+    {
+     "area": [
+      433,
+      1075,
+      62,
+      62
+     ],
+     "panel": "temmuz",
+     "label": "15 Temmuz darbe girişimi"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "img": "@IMG:s7-u1/p-37@",
+   "steps": [
+    {
+     "t": "Türk milleti spor",
+     "r": [
+      44,
+      60,
+      852,
+      728
+     ]
+    },
+    {
+     "t": "Milli kimlik; bir milletin kendine",
+     "r": [
+      38,
+      760,
+      790,
+      404
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 47,
+   "img": "@IMG:s7-u1/p-38@",
+   "steps": [
+    {
+     "t": "Bir milleti ayakta tutan en",
+     "r": [
+      124,
+      26,
+      788,
+      415
+     ]
+    },
+    {
+     "t": "Milli meseleler ile ilgili…",
+     "r": [
+      102,
+      413,
+      745,
+      751
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      130,
+      681,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Kahramanmaraş depremleri (2023)",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      280,
+      560
+     ]
+    },
+    {
+     "area": [
+      367,
+      681,
+      205,
+      70
+     ],
+     "mode": "ink",
+     "text": "Tüm Türkiye tek yürek oldu; yardım kampanyaları düzenlendi, gönüllüler bölgeye koştu.",
+     "fs": 15,
+     "pill": [
+      745,
+      560
+     ]
+    },
+    {
+     "area": [
+      598,
+      681,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Üzüntü, acı, dayanışma, umut",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      838,
+      668
+     ]
+    },
+    {
+     "area": [
+      130,
+      765,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "15 Temmuz darbe girişimi",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      40,
+      752
+     ]
+    },
+    {
+     "area": [
+      367,
+      765,
+      205,
+      70
+     ],
+     "mode": "ink",
+     "text": "Halk sokaklara çıkarak demokrasiye ve millî iradeye sahip çıktı.",
+     "fs": 15
+    },
+    {
+     "area": [
+      598,
+      765,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Öfke, cesaret, birlik, vatan sevgisi",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      838,
+      752
+     ]
+    },
+    {
+     "area": [
+      130,
+      852,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Millî Mücadele",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      40,
+      839
+     ]
+    },
+    {
+     "area": [
+      367,
+      852,
+      205,
+      70
+     ],
+     "mode": "ink",
+     "text": "Halk elindeki her şeyi orduya verdi (Tekâlif-i Millîye), kadınlar cephane taşıdı.",
+     "fs": 15
+    },
+    {
+     "area": [
+      598,
+      852,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Vatan sevgisi, fedakârlık, umut",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      838,
+      839
+     ]
+    },
+    {
+     "area": [
+      130,
+      937,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Aziz Sancar'ın Nobel Ödülü",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      40,
+      924
+     ]
+    },
+    {
+     "area": [
+      367,
+      937,
+      205,
+      70
+     ],
+     "mode": "ink",
+     "text": "Tüm ülke gururlandı, başarısı okullarda ve medyada örnek gösterildi.",
+     "fs": 15,
+     "pill": [
+      535,
+      1107
+     ]
+    },
+    {
+     "area": [
+      598,
+      937,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Gurur, mutluluk, takdir",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      838,
+      924
+     ]
+    },
+    {
+     "area": [
+      130,
+      1025,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Alper Gezeravcı'nın uzaya gitmesi",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      304,
+      1123
+     ]
+    },
+    {
+     "area": [
+      367,
+      1025,
+      205,
+      70
+     ],
+     "mode": "ink",
+     "text": "Milyonlar canlı yayını izledi, sosyal medyada destek mesajları paylaşıldı.",
+     "fs": 15,
+     "pill": [
+      457,
+      1105
+     ]
+    },
+    {
+     "area": [
+      598,
+      1025,
+      210,
+      70
+     ],
+     "mode": "ink",
+     "text": "Heyecan, gurur, umut",
+     "center": true,
+     "fs": 17,
+     "pill": [
+      838,
+      1012
+     ]
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "img": "@IMG:s7-u1/p-39@",
+   "steps": [
+    {
+     "t": "Türk toplumunun Milli Mücadele…",
+     "r": [
+      113,
+      88,
+      804,
+      248
+     ]
+    },
+    {
+     "t": "Türk toplumunun Milli Mücadele… (2)",
+     "r": [
+      113,
+      308,
+      720,
+      281
+     ]
+    },
+    {
+     "t": "Türk toplumu, tarih boyunca…",
+     "r": [
+      70,
+      561,
+      759,
+      603
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      160,
+      205,
+      300,
+      90
+     ],
+     "mode": "ink",
+     "text": "Her ikisinde de millet vatanı ve bağımsızlığı için birlik içinde, canı pahasına mücadele etti.",
+     "pill": [
+      392,
+      189
+     ]
+    },
+    {
+     "area": [
+      490,
+      205,
+      290,
+      90
+     ],
+     "mode": "ink",
+     "text": "Millî Mücadele'de düşman işgali vardı ve yıllarca sürdü; 15 Temmuz'da hainlere karşı bir gecede direnildi.",
+     "pill": [
+      686,
+      189
+     ]
+    },
+    {
+     "area": [
+      160,
+      455,
+      300,
+      90
+     ],
+     "mode": "ink",
+     "text": "Vatan sevgisi, cesaret, fedakârlık ve birlik duygusu her ikisinde de güçlüydü.",
+     "pill": [
+      392,
+      439
+     ]
+    },
+    {
+     "area": [
+      490,
+      455,
+      290,
+      90
+     ],
+     "mode": "ink",
+     "text": "Millî Mücadele'de yoksulluk ve umutsuzluk, 15 Temmuz'da ani bir öfke ve şaşkınlık yaşandı.",
+     "pill": [
+      680,
+      439
+     ]
+    },
+    {
+     "area": [
+      130,
+      705,
+      520,
+      30
+     ],
+     "mode": "card",
+     "label": "Örnek öneriler",
+     "text": "Gelecekte doğal afetler, salgın hastalıklar, iklim değişikliği, siber saldırılar ve ekonomik krizler gibi millî meseleler yaşanabilir. Türk milleti geçmişte olduğu gibi birlik ve dayanışma içinde hareket etmeli; yardım kampanyalarına destek vermeli, afet bilincini artırmalı, yerli üretimi desteklemeli, bilim ve teknolojiye önem vermeli, doğru bilgi paylaşmalı ve kurumlarına güvenmelidir.",
+     "pill": [
+      320,
+      668
+     ],
+     "qx": 106,
+     "qt": 698,
+     "qb": 751,
+     "qr": 817,
+     "bal": [
+      66,
+      759,
+      767,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "img": "@IMG:s7-u1/p-40@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      33,
+      55,
+      879,
+      1109
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 50,
+   "img": "@IMG:s7-u1/p-41@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Panelinizin özetinden…",
+     "r": [
+      38,
+      55,
+      879,
+      1109
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      145,
+      545,
+      660,
+      570
+     ],
+     "mode": "ink",
+     "text": "BİRLİKTE GÜÇLÜYÜZ\nTürk milleti tarih boyunca savaş, afet ve ekonomik zorluk gibi pek çok millî meseleyle karşılaşmıştır. Bu zor zamanlarda her zaman birlik ve beraberlik içinde hareket etmiştir.\nMillî Mücadele'de halk elindeki her şeyi orduya vermiş, kadınlar cepheye cephane taşımıştır. 15 Temmuz gecesi milletimiz canı pahasına demokrasiye sahip çıkmıştır. 6 Şubat depremlerinde ise ülkenin dört bir yanından yardımlar bölgeye ulaşmıştır. Millî sporcularımızın ve bilim insanlarımızın başarıları da hepimizi aynı sevinçte buluşturmuştur.\nBu tutum ve davranışlar toplumsal birlikteliği güçlendirir, insanlar arasında güven ve dayanışma duygusunu artırır. Biz de bu değerleri yaşatarak ülkemizin güçlü geleceğine katkıda bulunmalıyız.",
+     "pill": [
+      827,
+      532
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      150,
+      450,
+      59,
+      59
+     ],
+     "panel": "kompozisyon",
+     "label": "Kontrol listesi"
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "img": "@IMG:s7-u1/p-42@",
+   "section": "Kendimi Değerlendiriyorum",
+   "steps": [
+    {
+     "t": "1. ÖĞRENME ALANI-KENDİMİ D…",
+     "r": [
+      34,
+      77,
+      878,
+      828
+     ]
+    },
+    {
+     "t": "Bölüm 2",
+     "r": [
+      34,
+      877,
+      878,
+      287
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      145,
+      1010,
+      650,
+      30
+     ],
+     "mode": "ink",
+     "text": "1. ÇIKIŞ",
+     "pill": [
+      761,
+      997
+     ]
+    },
+    {
+     "area": [
+      145,
+      1060,
+      650,
+      85
+     ],
+     "mode": "ink",
+     "text": "\"Saatlerdir televizyon izliyorsun...\" sen diline örnektir. · Karşısındakinin yerine koymaya empati denir. · Jest ve mimikler iletişimi olumlu etkiler. · Ön yargı iletişime engel olur.",
+     "fs": 15,
+     "pill": [
+      761,
+      1047
+     ]
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "img": "@IMG:s7-u1/p-43@",
+   "steps": [
+    {
+     "t": "Aşağıda verilen ipucu…",
+     "r": [
+      111,
+      136,
+      728,
+      348
+     ]
+    },
+    {
+     "t": "05500000",
+     "r": [
+      111,
+      456,
+      728,
+      708
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      362,
+      416,
+      232,
+      36
+     ],
+     "mode": "ink",
+     "text": "İLETİŞİM",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      702,
+      403
+     ]
+    },
+    {
+     "area": [
+      387,
+      508,
+      175,
+      36
+     ],
+     "mode": "ink",
+     "text": "EMPATİ",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      655,
+      495
+     ]
+    },
+    {
+     "area": [
+      337,
+      598,
+      288,
+      36
+     ],
+     "mode": "ink",
+     "text": "BEN DİLİ",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      701,
+      585
+     ]
+    },
+    {
+     "area": [
+      300,
+      692,
+      362,
+      36
+     ],
+     "mode": "ink",
+     "text": "BEDEN DİLİ",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      682,
+      679
+     ]
+    },
+    {
+     "area": [
+      231,
+      784,
+      494,
+      36
+     ],
+     "mode": "ink",
+     "text": "FIRSAT EŞİTLİĞİ",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      835,
+      771
+     ]
+    },
+    {
+     "area": [
+      231,
+      877,
+      494,
+      36
+     ],
+     "mode": "ink",
+     "text": "ÖZEL GEREKSİNİM",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      835,
+      864
+     ]
+    },
+    {
+     "area": [
+      375,
+      970,
+      175,
+      36
+     ],
+     "mode": "ink",
+     "text": "TOPLUM",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      655,
+      957
+     ]
+    },
+    {
+     "area": [
+      256,
+      1063,
+      406,
+      36
+     ],
+     "mode": "ink",
+     "text": "MİLLÎ MESELE",
+     "center": true,
+     "fs": 24,
+     "pill": [
+      626,
+      1116
+     ]
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "img": "@IMG:s7-u1/p-44@",
+   "steps": [
+    {
+     "t": "Aşağıda verilen çoktan seçmeli…",
+     "r": [
+      122,
+      93,
+      706,
+      429
+     ]
+    },
+    {
+     "t": "2. Sınıfta yapılan bir grup",
+     "r": [
+      122,
+      408,
+      705,
+      489
+     ]
+    },
+    {
+     "t": "3. Vefa Ortaokulunda Milli…",
+     "r": [
+      122,
+      776,
+      705,
+      388
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      500,
+      330,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: B) Söz yerinde ve doğru kullanıldığında etkili olur.\nYunus Emre, sözün savaşı bitirebileceğini ya da baş kestirebileceğini, yerinde kullanılırsa bal gibi tatlı olacağını anlatır.",
+     "pill": [
+      612,
+      329
+     ],
+     "qx": 169,
+     "qt": 330,
+     "qb": 401,
+     "qr": 800,
+     "bal": [
+      118,
+      409,
+      714,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      500,
+      710,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: A) Özel gereksinimli bireyleri etkinlik dışında bırakarak süreci hızlandırmak\nÖğrenciler Elif'i çalışmaya dâhil etmemeyi önermişlerdir.",
+     "pill": [
+      612,
+      676
+     ],
+     "qx": 169,
+     "qt": 702,
+     "qb": 776,
+     "qr": 800,
+     "bal": [
+      118,
+      784,
+      713,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      500,
+      1015,
+      300,
+      26
+     ],
+     "mode": "card",
+     "label": "Cevap",
+     "text": "Doğru cevap: D) Türk milleti millî meselelerde birlik ve dayanışma içinde hareket eder.",
+     "pill": [
+      630,
+      1014
+     ],
+     "qx": 169,
+     "qt": 1008,
+     "qb": 1079,
+     "qr": 800,
+     "bal": [
+      169,
+      1087,
+      631,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "img": "@IMG:s7-u1/p-45@",
+   "steps": [
+    {
+     "t": "Aşağıda verilen açık uçlu soruları",
+     "r": [
+      103,
+      84,
+      741,
+      428
+     ]
+    },
+    {
+     "t": "1. Karagözile Hacivat arasında…",
+     "r": [
+      123,
+      484,
+      705,
+      324
+     ]
+    },
+    {
+     "t": "soruları aşağıdaki metinden…",
+     "r": [
+      104,
+      780,
+      742,
+      384
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      162,
+      568,
+      650,
+      65
+     ],
+     "mode": "ink",
+     "text": "Karagöz \"empati\" kelimesini bilmediği için yanlış anlıyor; Hacivat ise anlaşılmayan, süslü bir dil kullanıyor.",
+     "pill": [
+      778,
+      546
+     ]
+    },
+    {
+     "area": [
+      162,
+      715,
+      650,
+      70
+     ],
+     "mode": "ink",
+     "text": "Hacivat sade ve anlaşılır konuşmalı, Karagöz anlamadığını sormalı; ikisi de birbirini etkin dinlemeli.",
+     "pill": [
+      814,
+      702
+     ]
+    },
+    {
+     "area": [
+      162,
+      1058,
+      650,
+      70
+     ],
+     "mode": "ink",
+     "text": "Uluslararası başarılar herkesi aynı sevinçte buluşturur, millî gururu ve birlik duygusunu güçlendirir, gençlere örnek olur.",
+     "pill": [
+      778,
+      1036
+     ]
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "img": "@IMG:s7-u1/p-46@",
+   "steps": [
+    {
+     "t": "4. Naim Süleymanoğlu'nun…",
+     "r": [
+      104,
+      84,
+      756,
+      651
+     ]
+    },
+    {
+     "t": "5. Melody (Melodi)…",
+     "r": [
+      104,
+      707,
+      756,
+      457
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      162,
+      148,
+      650,
+      45
+     ],
+     "mode": "ink",
+     "text": "Vefa: Milletinin desteğine karşılık başarısını ona armağan etti. Millî sorumluluk: Ülkesini en iyi şekilde temsil etti.",
+     "pill": [
+      778,
+      129
+     ]
+    },
+    {
+     "area": [
+      162,
+      810,
+      650,
+      45
+     ],
+     "mode": "ink",
+     "text": "Bilgisayar ve konuşma cihazı gibi yardımcı teknolojiler, kapsayıcı eğitim, sabırla dinleyen insanlar ve erişilebilir ortamlar.",
+     "pill": [
+      778,
+      791
+     ]
+    },
+    {
+     "area": [
+      162,
+      940,
+      650,
+      45
+     ],
+     "mode": "ink",
+     "text": "Önce engeline değil kişinin kendisine bakmalı, adını sormalı; acıma ve \"yapamaz\" ön yargısından uzak durmalıyız.",
+     "pill": [
+      778,
+      921
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      134,
+      997,
+      60,
+      60
+     ],
+     "panel": "kavram",
+     "label": "Kavram oyunu"
+    },
+    {
+     "area": [
+      647,
+      999,
+      65,
+      65
+     ],
+     "panel": "sorular",
+     "label": "Öğrenme alanı ek sorular"
+    }
+   ]
+  }
+ ]
+};

@@ -1,0 +1,2005 @@
+// 7. Sınıf Sosyal Bilgiler · 3. Öğrenme Alanı: Ortak Mirasımız (s. 84–159)
+// Koordinatlar 950 x 1229 referans sayfa ölçüsünde: [x, y, genişlik, yükseklik]
+// Konu: Osmanlı Devleti'nin uygulamaya koyduğu yenilikler (s. 110–135)
+window.BOOK = {
+ "id": "s7-u3-k2",
+ "title": "Osmanlı Devleti'nin uygulamaya koyduğu yenilikler",
+ "ref": [
+  950,
+  1229
+ ],
+ "pages": [
+  {
+   "n": 0,
+   "img": "@IMG:kapak/s7-u3-k2@",
+   "section": "Konu kapağı",
+   "steps": [],
+   "answers": [],
+   "links": []
+  },
+  {
+   "n": 110,
+   "img": "@IMG:s7-u3/p-27@",
+   "section": "Düşünelim",
+   "steps": [
+    {
+     "t": "OSMANLI DEVLETİ'NİN",
+     "r": [
+      38,
+      55,
+      879,
+      348
+     ]
+    },
+    {
+     "t": "AL. Yüzyıl Osmanlı Devleti",
+     "r": [
+      120,
+      375,
+      709,
+      789
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      772,
+      650,
+      330
+     ],
+     "mode": "ink",
+     "text": "Osmanlı Devleti üç kıtada (Asya, Avrupa, Afrika) geniş topraklara hâkim olduğu için dünyanın en güçlü devletlerinden biriydi.\nİpek Yolu ve Baharat Yolu'nun önemli bölümü ile liman kentleri Osmanlı denetimindeydi. Gümrük ve vergi gelirleri arttı, ticaret gelişti, hazine güçlendi.",
+     "fs": 18,
+     "pill": [
+      824,
+      759
+     ]
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "img": "@IMG:s7-u3/p-28@",
+   "section": "Keşfedelim",
+   "steps": [
+    {
+     "t": "XVI. yüzyılda siyasi, askeri ve",
+     "r": [
+      33,
+      55,
+      816,
+      269
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nin XVI. Yüzyıldan",
+     "r": [
+      90,
+      296,
+      759,
+      868
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      812,
+      655,
+      290
+     ],
+     "mode": "ink",
+     "text": "Avrupa'da coğrafi keşifler, bilim ve teknolojideki gelişmeler, ticaret yollarının yön değiştirmesi, yönetimdeki bozulmalar ve sık yapılan savaşlar Osmanlı'nın gücünü korumasını zorlaştırmıştır.\nToprak kayıpları vergi ve ticaret gelirlerini azaltmış, devletin siyasi etkisini ve askerî gücünü zayıflatmıştır.",
+     "fs": 18,
+     "pill": [
+      824,
+      799
+     ]
+    }
+   ]
+  },
+  {
+   "n": 112,
+   "img": "@IMG:s7-u3/p-29@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Avrupa merkezli gelişmeler ile…",
+     "r": [
+      38,
+      54,
+      802,
+      1110
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1045,
+      700,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Avrupa'daki bilim, teknik ve sanayi gelişmeleri karşısında Osmanlı Devleti Lale Devri (1718–1730), III. Selim Dönemi (1789–1807), Tanzimat Fermanı (1839), Islahat Fermanı (1856) ve I. Meşrutiyet (1876) gibi yenilikleri yapmış; fabrikalaşma sürecini başlatmıştır.",
+     "pill": [
+      414,
+      1074
+     ],
+     "qx": 106,
+     "qt": 1045,
+     "qb": 1090,
+     "qr": 828,
+     "bal": [
+      106,
+      907,
+      722,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 113,
+   "img": "@IMG:s7-u3/p-30@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sömürgecilik faaliyetleri ile…",
+     "r": [
+      116,
+      61,
+      796,
+      1103
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      977,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Seyahatler sonucunda yeni kıtalar ve deniz yolları keşfedildi. Avrupa devletleri Amerika, Afrika ve Asya'da sömürgeler kurarak zenginleşti, sömürgecilik dünya çapına yayıldı.",
+     "pill": [
+      414,
+      949
+     ],
+     "qx": 128,
+     "qt": 977,
+     "qb": 1058,
+     "qr": 818,
+     "bal": [
+      128,
+      1067,
+      690,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      128,
+      1019,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yerli halkların dili, dini ve geleneksel kültürü yok olma tehlikesiyle karşılaştı; Avrupa kültürü dayatıldı. Yer altı ve yer üstü kaynakları sömürüldü, halk yoksullaştı, zorla çalıştırıldı ve nüfusları azaldı.",
+     "pill": [
+      408,
+      1045
+     ],
+     "qx": 128,
+     "qt": 978,
+     "qb": 1059,
+     "qr": 818,
+     "bal": [
+      112,
+      1067,
+      804,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 114,
+   "img": "@IMG:s7-u3/p-31@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Aşağıdaki haritada Portekiz ve…",
+     "r": [
+      74,
+      80,
+      812,
+      1129
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      1048,
+      690,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Ümit Burnu'nun keşfiyle Hindistan'a yeni bir deniz yolu bulununca İpek ve Baharat Yolları önemini kaybetmiş; Osmanlı'nın ticaret yolları üzerindeki üstünlüğü ve gümrük gelirleri azalmıştır.",
+     "pill": [
+      418,
+      1068
+     ],
+     "qx": 135,
+     "qt": 1048,
+     "qb": 1088,
+     "qr": 828,
+     "bal": [
+      70,
+      1096,
+      820,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 115,
+   "img": "@IMG:s7-u3/p-32@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sömürgecilik faaliyetlerinin…",
+     "r": [
+      118,
+      0,
+      794,
+      811
+     ]
+    },
+    {
+     "t": "Sömürgecilik faaliyetlerinin… (2)",
+     "r": [
+      121,
+      783,
+      709,
+      381
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      133,
+      972,
+      315,
+      125
+     ],
+     "mode": "ink",
+     "text": "Ülkeleri işgal edildi, kaynakları sömürüldü, salgınlarla nüfusları azaldı, dilleri ve kültürleri yok olma tehlikesiyle karşılaştı.",
+     "fs": 15,
+     "pill": [
+      365,
+      953
+     ]
+    },
+    {
+     "area": [
+      503,
+      972,
+      315,
+      125
+     ],
+     "mode": "ink",
+     "text": "Altın, gümüş ve yeni ürünlerle zenginleştiler, ticaretleri gelişti, burjuva sınıfı güçlendi; Rönesans ve Reform'a zemin hazırlandı.",
+     "fs": 15,
+     "pill": [
+      783,
+      953
+     ]
+    }
+   ]
+  },
+  {
+   "n": 116,
+   "img": "@IMG:s7-u3/p-33@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Büyük deniz seyahatlerinin…",
+     "r": [
+      120,
+      88,
+      725,
+      478
+     ]
+    },
+    {
+     "t": "Rönesans ile ilgili verilen metni",
+     "r": [
+      121,
+      538,
+      719,
+      626
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      618,
+      459,
+      200,
+      24
+     ],
+     "mode": "ink",
+     "text": "olumsuz",
+     "fs": 16,
+     "pill": [
+      832,
+      446
+     ]
+    },
+    {
+     "area": [
+      473,
+      482,
+      350,
+      24
+     ],
+     "mode": "ink",
+     "text": "yeni ticaret yolları bulundu;",
+     "fs": 14,
+     "pill": [
+      837,
+      478
+     ]
+    },
+    {
+     "area": [
+      303,
+      510,
+      520,
+      24
+     ],
+     "mode": "ink",
+     "text": "İpek ve Baharat Yolları önemini kaybetti, gelirler azaldı.",
+     "fs": 14,
+     "pill": [
+      835,
+      512
+     ]
+    },
+    {
+     "area": [
+      138,
+      1092,
+      690,
+      42
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Matbaanın kullanılması daha belirleyicidir; çünkü kitaplar çoğaltılmış, bilgi geniş kitlelere ulaşmış ve insanlar kilisenin düşüncelerini sorgulamaya başlamıştır.",
+     "pill": [
+      394,
+      1112
+     ],
+     "qx": 134,
+     "qt": 1092,
+     "qb": 1215,
+     "qr": 828,
+     "bal": [
+      117,
+      979,
+      727,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 117,
+   "img": "@IMG:s7-u3/p-34@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Rönesans'ın dünyaya etkileriyle…",
+     "r": [
+      122,
+      84,
+      790,
+      807
+     ]
+    },
+    {
+     "t": "Günümüzle Benzer",
+     "r": [
+      131,
+      863,
+      736,
+      301
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      143,
+      962,
+      205,
+      135
+     ],
+     "mode": "ink",
+     "text": "1. Rönesans İtalya'da başladı.\n2. Leonardo da Vinci ve Michelangelo önemli eserler verdi.\n3. Hümanizm anlayışı yayıldı.",
+     "fs": 13,
+     "pill": [
+      315,
+      943
+     ]
+    },
+    {
+     "area": [
+      388,
+      962,
+      210,
+      135
+     ],
+     "mode": "ink",
+     "text": "1. Rönesans neden İtalya'da başladı?\n2. Matbaa Avrupa'ya nasıl yayıldı?",
+     "fs": 14,
+     "pill": [
+      560,
+      943
+     ]
+    },
+    {
+     "area": [
+      650,
+      962,
+      205,
+      135
+     ],
+     "mode": "ink",
+     "text": "Bugün de bilimde gözlem ve deneye dayalı düşünme kullanılıyor.",
+     "fs": 14,
+     "pill": [
+      822,
+      943
+     ]
+    }
+   ]
+  },
+  {
+   "n": 118,
+   "img": "@IMG:s7-u3/p-35@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Metni okuyunuz ve Rönesans'ın…",
+     "r": [
+      122,
+      88,
+      706,
+      441
+     ]
+    },
+    {
+     "t": "Reform hareketleri ile ilgili…",
+     "r": [
+      43,
+      501,
+      787,
+      663
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      407,
+      295,
+      85
+     ],
+     "mode": "ink",
+     "text": "Rönesans Osmanlı Devleti'ni hangi alanlarda etkilemiştir?",
+     "fs": 15,
+     "pill": [
+      374,
+      391
+     ]
+    },
+    {
+     "area": [
+      508,
+      407,
+      300,
+      85
+     ],
+     "mode": "ink",
+     "text": "Askerî ve teknik alanlarda yenilikler yapılmış; haritacılık, astronomi ve tıp izlenmiş, minyatür ve süslemede değişiklikler olmuştur.",
+     "fs": 13,
+     "pill": [
+      734,
+      391
+     ]
+    },
+    {
+     "area": [
+      148,
+      1077,
+      670,
+      55
+     ],
+     "mode": "ink",
+     "text": "Matbaanın icadıyla İncil çoğaltıldı ve halk kutsal kitabı kendisi okuyabildi; bu sayede özgür düşünce ve sorgulama gelişti. Halk kilisenin yanlış uygulamalarını fark edince Reform hareketi başladı.",
+     "fs": 14,
+     "pill": [
+      782,
+      1064
+     ]
+    }
+   ]
+  },
+  {
+   "n": 119,
+   "img": "@IMG:s7-u3/p-36@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Reform hareketlerinin yayılması…",
+     "r": [
+      122,
+      83,
+      790,
+      1081
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      178,
+      882,
+      155,
+      140
+     ],
+     "mode": "ink",
+     "text": "Wittenberg Kilisesi'nin kapısına bildiri asan Luther",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      344,
+      869
+     ]
+    },
+    {
+     "area": [
+      358,
+      897,
+      400,
+      160
+     ],
+     "mode": "ink",
+     "text": "AVRUPA'DA KİLİSENİN GÜCÜ SARSILIYOR! 1517'de Martin Luther'in Wittenberg'de astığı bildiri kısa sürede yayıldı. Yeni mezhepler ortaya çıktı, düşünce ve inanç özgürlüğü güçlendi.",
+     "fs": 15,
+     "pill": [
+      722,
+      875
+     ]
+    }
+   ]
+  },
+  {
+   "n": 120,
+   "img": "@IMG:s7-u3/p-37@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Reform hareketlerinin Osmanlı…",
+     "r": [
+      38,
+      88,
+      793,
+      582
+     ]
+    },
+    {
+     "t": "Aydınlanma Çağı ile ilgili metni",
+     "r": [
+      46,
+      522,
+      786,
+      642
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      428,
+      470,
+      390,
+      50
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Mezhep savaşları Avrupa'nın siyasi birliğini zayıflatmış, Osmanlı Devleti'ne karşı yeni bir Haçlı birliğinin kurulmasını bir süre engellemiş ve Osmanlı'nın Avrupa'daki ilerleyişini kolaylaştırmıştır.",
+     "pill": [
+      558,
+      442
+     ],
+     "qx": 409,
+     "qt": 465,
+     "qb": 524,
+     "qr": 818,
+     "bal": [
+      275,
+      532,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 121,
+   "img": "@IMG:s7-u3/p-38@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Metindeki bilgilere göre…",
+     "r": [
+      114,
+      88,
+      798,
+      486
+     ]
+    },
+    {
+     "t": "Sanayi İnkılabı ile ilgili verilen",
+     "r": [
+      122,
+      546,
+      790,
+      618
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      158,
+      342,
+      285,
+      40
+     ],
+     "mode": "ink",
+     "text": "Rönesans ve Reform ile bilim ve düşüncenin gelişmesi.",
+     "fs": 12,
+     "pill": [
+      414,
+      266
+     ]
+    },
+    {
+     "area": [
+      158,
+      469,
+      285,
+      40
+     ],
+     "mode": "ink",
+     "text": "Newton, Kant, Montesquieu gibi bilim ve düşünce insanlarının çalışmaları.",
+     "fs": 12,
+     "pill": [
+      408,
+      534
+     ]
+    },
+    {
+     "area": [
+      518,
+      282,
+      295,
+      40
+     ],
+     "mode": "ink",
+     "text": "Özgürlük, eşitlik, demokrasi gibi kavramlar önem kazandı.",
+     "fs": 12,
+     "pill": [
+      780,
+      266
+     ]
+    },
+    {
+     "area": [
+      518,
+      407,
+      295,
+      40
+     ],
+     "mode": "ink",
+     "text": "Sanayi İnkılabı'nın temelleri atıldı.",
+     "fs": 13,
+     "pill": [
+      816,
+      394
+     ]
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "img": "@IMG:s7-u3/p-39@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Sanayiinkılabıilkolarak.........…",
+     "r": [
+      120,
+      82,
+      709,
+      340
+     ]
+    },
+    {
+     "t": "Sanayi İnkılabı'nın Osmanlı…",
+     "r": [
+      38,
+      394,
+      790,
+      431
+     ]
+    },
+    {
+     "t": "Sanayi İnkılabı Osmanlı…",
+     "r": [
+      38,
+      797,
+      801,
+      367
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      373,
+      117,
+      140,
+      26
+     ],
+     "mode": "ink",
+     "text": "İngiltere'de",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      407,
+      104
+     ]
+    },
+    {
+     "area": [
+      238,
+      143,
+      125,
+      26
+     ],
+     "mode": "ink",
+     "text": "buhar",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      326,
+      67
+     ]
+    },
+    {
+     "area": [
+      456,
+      189,
+      118,
+      26
+     ],
+     "mode": "ink",
+     "text": "atölyeler",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      520,
+      176
+     ]
+    },
+    {
+     "area": [
+      213,
+      208,
+      135,
+      26
+     ],
+     "mode": "ink",
+     "text": "fabrikalar",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      445,
+      213
+     ]
+    },
+    {
+     "area": [
+      623,
+      235,
+      145,
+      26
+     ],
+     "mode": "ink",
+     "text": "göçler",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      735,
+      213
+     ]
+    },
+    {
+     "area": [
+      318,
+      255,
+      135,
+      26
+     ],
+     "mode": "ink",
+     "text": "işçi",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      418,
+      305
+     ]
+    },
+    {
+     "area": [
+      438,
+      280,
+      135,
+      26
+     ],
+     "mode": "ink",
+     "text": "ham madde",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      610,
+      267
+     ]
+    },
+    {
+     "area": [
+      600,
+      280,
+      130,
+      26
+     ],
+     "mode": "ink",
+     "text": "pazar",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      682,
+      306
+     ]
+    },
+    {
+     "area": [
+      518,
+      327,
+      130,
+      26
+     ],
+     "mode": "ink",
+     "text": "sömürgecilik",
+     "fs": 15,
+     "center": true,
+     "pill": [
+      606,
+      305
+     ]
+    },
+    {
+     "area": [
+      148,
+      922,
+      650,
+      195
+     ],
+     "mode": "ink",
+     "text": "Ekonomi: Avrupa'nın ucuz malları yerli üretimi azalttı, el tezgâhları ve imalathaneler kapandı, işsizlik arttı, Osmanlı ekonomisi zayıfladı.\nSiyasi ve askerî alan: Ekonomik gerileme Osmanlı'nın Avrupalı devletler karşısında güç kaybetmesine yol açtı.",
+     "fs": 17,
+     "pill": [
+      716,
+      909
+     ]
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "img": "@IMG:s7-u3/p-40@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Fransız İhtilali ile ilgili…",
+     "r": [
+      93,
+      0,
+      819,
+      1164
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1074,
+      500,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Milliyetçilik akımının yayılması; çünkü çok uluslu imparatorlukların parçalanmasına ve yeni devletlerin kurulmasına yol açarak dünya siyasetini değiştirmiştir. (İnsan ve Yurttaş Hakları Bildirgesi'nin yayımlanması da kabul edilebilir.)",
+     "pill": [
+      312,
+      1097
+     ],
+     "qx": 105,
+     "qt": 1069,
+     "qb": 1104,
+     "qr": 628,
+     "bal": [
+      105,
+      906,
+      560,
+      "above",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "img": "@IMG:s7-u3/p-41@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Fransız İhtilali'nin Osmanlı…",
+     "r": [
+      114,
+      111,
+      743,
+      830
+     ]
+    },
+    {
+     "t": "Osmanlı Devleti'nde yenileşme…",
+     "r": [
+      121,
+      913,
+      710,
+      251
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      473,
+      612,
+      345,
+      85
+     ],
+     "mode": "ink",
+     "text": "Milliyetçilik akımıyla gayrimüslim halkın isyan etmesi ve devletin dağılma sürecinin hızlanması.",
+     "fs": 15,
+     "pill": [
+      753,
+      602
+     ]
+    },
+    {
+     "area": [
+      473,
+      812,
+      345,
+      85
+     ],
+     "mode": "ink",
+     "text": "Osmanlı çok uluslu bir devlet olduğu için isyanlar toprak kayıplarına yol açmış, devleti Tanzimat, Islahat ve Meşrutiyet gibi yeniliklere zorlamıştır.",
+     "fs": 14,
+     "pill": [
+      753,
+      799
+     ]
+    }
+   ]
+  },
+  {
+   "n": 125,
+   "img": "@IMG:s7-u3/p-42@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Lale Devri ile ilgili verilenleri",
+     "r": [
+      122,
+      51,
+      790,
+      1113
+     ]
+    }
+   ],
+   "answers": []
+  },
+  {
+   "n": 126,
+   "img": "@IMG:s7-u3/p-43@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Bilgi Kutusu",
+     "r": [
+      33,
+      51,
+      795,
+      297
+     ]
+    },
+    {
+     "t": "Lale Devri'nde önemli Bu…",
+     "r": [
+      33,
+      320,
+      865,
+      416
+     ]
+    },
+    {
+     "t": "Il. Selim Dönemi Nizam-ı Cedid",
+     "r": [
+      148,
+      708,
+      680,
+      456
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      353,
+      427,
+      205,
+      115
+     ],
+     "mode": "ink",
+     "text": "İbrahim Müteferrika'nın ilk Türk matbaasını açması",
+     "fs": 14,
+     "pill": [
+      489,
+      414
+     ]
+    },
+    {
+     "area": [
+      353,
+      577,
+      205,
+      110
+     ],
+     "mode": "ink",
+     "text": "Tulumbacılar Ocağı'nın kurulması",
+     "fs": 14,
+     "pill": [
+      489,
+      564
+     ]
+    },
+    {
+     "area": [
+      608,
+      427,
+      200,
+      115
+     ],
+     "mode": "ink",
+     "text": "Kitap basımı hızlandı, bilgiye erişim kolaylaştı.",
+     "fs": 14,
+     "pill": [
+      738,
+      414
+     ]
+    },
+    {
+     "area": [
+      608,
+      577,
+      200,
+      110
+     ],
+     "mode": "ink",
+     "text": "Büyük yangınlarda halk ve şehir korunabildi.",
+     "fs": 14,
+     "pill": [
+      738,
+      564
+     ]
+    }
+   ]
+  },
+  {
+   "n": 127,
+   "img": "@IMG:s7-u3/p-44@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "..Askeri alanda disiplinini…",
+     "r": [
+      122,
+      92,
+      790,
+      449
+     ]
+    },
+    {
+     "t": "Aşağıdaki Venn şemasını…",
+     "r": [
+      110,
+      513,
+      735,
+      651
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      138,
+      722,
+      200,
+      320
+     ],
+     "mode": "ink",
+     "text": "• Pasarofça Antlaşması sonrası başladı\n• İlk Türk matbaası açıldı\n• Sanat ve mimari ön plandaydı\n• Tulumbacı Ocağı kuruldu\n• Yirmisekiz Mehmed Çelebi Paris'e elçi oldu",
+     "fs": 13,
+     "pill": [
+      304,
+      724
+     ]
+    },
+    {
+     "area": [
+      353,
+      752,
+      230,
+      280
+     ],
+     "mode": "ink",
+     "text": "• Batı örnek alındı\n• Avrupa'ya elçiler gönderildi\n• Yenilikler isyanlarla sona erdi",
+     "center": true,
+     "fs": 13,
+     "pill": [
+      549,
+      733
+     ]
+    },
+    {
+     "area": [
+      608,
+      722,
+      210,
+      320
+     ],
+     "mode": "ink",
+     "text": "• Nizâm-ı Cedid ordusu kuruldu\n• Mühendishane-i Berrî-i Hümâyun açıldı\n• İrâd-ı Cedid Hazinesi kuruldu\n• Avrupa'da daimî elçilikler açıldı\n• Kâğıt ve kumaş fabrikaları kuruldu",
+     "fs": 13,
+     "pill": [
+      810,
+      709
+     ]
+    }
+   ]
+  },
+  {
+   "n": 128,
+   "img": "@IMG:s7-u3/p-45@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Il. Mahmud Dönemi'nde yapılan…",
+     "r": [
+      38,
+      82,
+      792,
+      1129
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      398,
+      1020,
+      420,
+      45
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Yeniçeri Ocağı'nın kaldırılması (Vaka-i Hayriye); çünkü bozulan düzeni ortadan kaldırarak yerine çağın koşullarına uygun, düzenli bir ordunun kurulmasını sağlamıştır.",
+     "pill": [
+      546,
+      1001
+     ],
+     "qx": 377,
+     "qt": 1020,
+     "qb": 1065,
+     "qr": 818,
+     "bal": [
+      274,
+      1073,
+      560,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 129,
+   "img": "@IMG:s7-u3/p-46@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Tanzimat Dönemi'ndeki yenileşme…",
+     "r": [
+      89,
+      86,
+      823,
+      1078
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      398,
+      892,
+      185,
+      130
+     ],
+     "mode": "ink",
+     "text": "Eşitlik\nHak ve özgürlük\nCan ve mal güvenliği\nHukukun üstünlüğü",
+     "fs": 15,
+     "pill": [
+      522,
+      846
+     ]
+    },
+    {
+     "area": [
+      608,
+      882,
+      170,
+      70
+     ],
+     "mode": "ink",
+     "text": "Adalet: Herkesin hakkının korunacağı ilan edildi.",
+     "fs": 13,
+     "pill": [
+      744,
+      857
+     ]
+    },
+    {
+     "area": [
+      608,
+      987,
+      170,
+      65
+     ],
+     "mode": "ink",
+     "text": "Eşitlik: Kanun önünde herkes eşit kabul edildi.",
+     "fs": 13,
+     "pill": [
+      870,
+      932
+     ]
+    }
+   ]
+  },
+  {
+   "n": 130,
+   "img": "@IMG:s7-u3/p-47@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nde sanayileşme…",
+     "r": [
+      38,
+      45,
+      879,
+      1119
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      998,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Yerli üretim olmazsa ülke ihtiyaçlarını dışarıdan karşılamak zorunda kalır; dışa bağımlılık artar, para yurt dışına gider, yerli esnaf ve atölyeler kapanır, işsizlik artar ve ekonomi zayıflar.",
+     "pill": [
+      414,
+      1027
+     ],
+     "qx": 110,
+     "qt": 998,
+     "qb": 1039,
+     "qr": 828,
+     "bal": [
+      34,
+      1047,
+      887,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      748,
+      624,
+      65,
+      61
+     ],
+     "panel": "sanayi",
+     "label": "Osmanlı Devleti'nde Sanayileşme"
+    },
+    {
+     "area": [
+      746,
+      1064,
+      71,
+      61
+     ],
+     "panel": "yenilikler",
+     "label": "Osmanlı Devleti'nde Yenilikler"
+    }
+   ]
+  },
+  {
+   "n": 131,
+   "img": "@IMG:s7-u3/p-48@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      33,
+      55,
+      855,
+      755
+     ]
+    },
+    {
+     "t": "Yenilikler",
+     "r": [
+      89,
+      782,
+      799,
+      382
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      213,
+      677,
+      210,
+      90
+     ],
+     "mode": "ink",
+     "text": "Tanzimat Fermanı ile eşitlik ve can-mal güvenliği",
+     "fs": 15,
+     "pill": [
+      349,
+      655
+     ]
+    },
+    {
+     "area": [
+      543,
+      677,
+      205,
+      90
+     ],
+     "mode": "ink",
+     "text": "Halkın devlete güven ve bağlılığını artırmak",
+     "fs": 15,
+     "pill": [
+      673,
+      655
+     ]
+    },
+    {
+     "area": [
+      213,
+      827,
+      210,
+      90
+     ],
+     "mode": "ink",
+     "text": "İlk Türk matbaası, Mekteb-i Tıbbiye",
+     "fs": 15,
+     "pill": [
+      349,
+      811
+     ]
+    },
+    {
+     "area": [
+      543,
+      827,
+      205,
+      90
+     ],
+     "mode": "ink",
+     "text": "Bilgiye erişimi kolaylaştırmak, yetişmiş insan ihtiyacı",
+     "fs": 15,
+     "pill": [
+      673,
+      814
+     ]
+    },
+    {
+     "area": [
+      213,
+      982,
+      210,
+      90
+     ],
+     "mode": "ink",
+     "text": "Feshane ve kâğıt fabrikalarının kurulması",
+     "fs": 15,
+     "pill": [
+      349,
+      966
+     ]
+    },
+    {
+     "area": [
+      543,
+      982,
+      205,
+      90
+     ],
+     "mode": "ink",
+     "text": "Avrupa mallarına karşı yerli üretimi artırmak",
+     "fs": 15,
+     "pill": [
+      769,
+      969
+     ]
+    }
+   ]
+  },
+  {
+   "n": 132,
+   "img": "@IMG:s7-u3/p-49@",
+   "section": "Uygulayalım",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nin değişen…",
+     "r": [
+      115,
+      84,
+      707,
+      562
+     ]
+    },
+    {
+     "t": "Forum tekniğini kullanarak…",
+     "r": [
+      61,
+      618,
+      778,
+      546
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      148,
+      312,
+      300,
+      85
+     ],
+     "mode": "ink",
+     "text": "Yeni ordular kuruldu, donanma güçlendirildi.",
+     "fs": 14,
+     "pill": [
+      476,
+      284
+     ]
+    },
+    {
+     "area": [
+      478,
+      297,
+      305,
+      100
+     ],
+     "mode": "ink",
+     "text": "Kanun önünde eşitlik sağlandı, can ve mal güvenliği güvenceye alındı.",
+     "fs": 14,
+     "pill": [
+      722,
+      284
+     ]
+    },
+    {
+     "area": [
+      148,
+      507,
+      300,
+      100
+     ],
+     "mode": "ink",
+     "text": "Matbaa açıldı, gazeteler çıkarıldı, Batı tarzı okullar kuruldu.",
+     "fs": 14,
+     "pill": [
+      386,
+      494
+     ]
+    },
+    {
+     "area": [
+      478,
+      507,
+      305,
+      100
+     ],
+     "mode": "ink",
+     "text": "Fabrikalar kuruldu, yerli üretim artırılmaya çalışıldı.",
+     "fs": 14,
+     "pill": [
+      722,
+      494
+     ]
+    },
+    {
+     "area": [
+      158,
+      880,
+      610,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Askerî alanda daha etkili olmuştur; çünkü yeniliklerin büyük kısmı orduyu güçlendirmeye yönelikti ve Mühendishane, Mekteb-i Harbiye gibi kurumlar uzun süre varlığını sürdürdü.",
+     "pill": [
+      402,
+      912
+     ],
+     "qx": 119,
+     "qt": 740,
+     "qb": 1055,
+     "qr": 802,
+     "bal": [
+      57,
+      975,
+      786,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      158,
+      937,
+      610,
+      30
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Modern ordu, okullar (Harp Okulu, Tıp Fakültesi), basın, anayasal düzen ve meclis anlayışı, sanayi kuruluşları günümüz Türkiye'sinin temellerini oluşturmuştur.",
+     "pill": [
+      540,
+      918
+     ],
+     "qx": 150,
+     "qt": 890,
+     "qb": 967,
+     "qr": 768,
+     "bal": [
+      57,
+      975,
+      786,
+      "below",
+      1
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      256,
+      1083,
+      63,
+      60
+     ],
+     "panel": "forum",
+     "label": "Forum Tekniği"
+    },
+    {
+     "area": [
+      724,
+      1085,
+      70,
+      59
+     ],
+     "panel": "tartisma",
+     "label": "Tartışma Kontrol Listesi"
+    }
+   ]
+  },
+  {
+   "n": 133,
+   "img": "@IMG:s7-u3/p-50@",
+   "section": "Öğrenelim",
+   "steps": [
+    {
+     "t": "Osmanlı Devleti'nin Avrupa…",
+     "r": [
+      116,
+      88,
+      724,
+      1130
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      1030,
+      700,
+      42
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Osmanlı Devleti'nin güçlü ve zengin bir kültüre sahip olması, Avrupalıların bu kültürü merak etmesi, ticaret ve elçilik ilişkileriyle kültürel etkileşimin artması, Osmanlı sanatının ve zarif yaşam tarzının beğenilmesi.",
+     "pill": [
+      414,
+      1056
+     ],
+     "qx": 128,
+     "qt": 1030,
+     "qb": 1072,
+     "qr": 828,
+     "bal": [
+      112,
+      1080,
+      732,
+      "below",
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "img": "@IMG:s7-u3/p-51@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Uygulama adımlarını takip…",
+     "r": [
+      38,
+      55,
+      805,
+      269
+     ]
+    },
+    {
+     "t": "Her başlığın altına bu…",
+     "r": [
+      121,
+      296,
+      722,
+      868
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      363,
+      477,
+      435,
+      90
+     ],
+     "mode": "ink",
+     "text": "Matbaa, Tulumbacı Ocağı, çiçek aşısı; bilgiye erişim ve şehir yaşamı kolaylaştı.",
+     "fs": 15,
+     "pill": [
+      811,
+      464
+     ]
+    },
+    {
+     "area": [
+      363,
+      617,
+      435,
+      90
+     ],
+     "mode": "ink",
+     "text": "Nizâm-ı Cedid ordusu, Mühendishane, daimî elçilikler; ordu ve diplomaside modernleşme başladı.",
+     "fs": 15,
+     "pill": [
+      805,
+      604
+     ]
+    },
+    {
+     "area": [
+      363,
+      757,
+      435,
+      90
+     ],
+     "mode": "ink",
+     "text": "Yeniçeri Ocağı kaldırıldı; nazırlıklar, yeni okullar, Takvim-i Vekayi ile modern devlet teşkilatı oluştu.",
+     "fs": 15,
+     "pill": [
+      763,
+      744
+     ]
+    },
+    {
+     "area": [
+      363,
+      905,
+      435,
+      90
+     ],
+     "mode": "ink",
+     "text": "Tanzimat Fermanı, Meclis-i Maârif-i Umûmiye; kanun önünde eşitlik ve halkın güveni sağlandı.",
+     "fs": 15,
+     "pill": [
+      805,
+      892
+     ]
+    }
+   ]
+  },
+  {
+   "n": 135,
+   "img": "@IMG:s7-u3/p-52@",
+   "section": "Değerlendirelim",
+   "steps": [
+    {
+     "t": "Lale Devri ile ilgili kaynağı",
+     "r": [
+      116,
+      88,
+      724,
+      500
+     ]
+    },
+    {
+     "t": "Gruplar hâlinde bir dönem (Lale",
+     "r": [
+      79,
+      438,
+      757,
+      462
+     ]
+    },
+    {
+     "t": "Hazırladığınız ürünlerin…",
+     "r": [
+      84,
+      872,
+      745,
+      292
+     ]
+    }
+   ],
+   "answers": [
+    {
+     "area": [
+      128,
+      360,
+      700,
+      40
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "İbrahim Müteferrika ve Said Efendi büyük bir azim ve cesaret göstermiş, karşı çıkanlara rağmen matbaayı kurarak bilginin yayılmasına öncülük etmişlerdir. Ülkelerine kalıcı bir yenilik kazandırdıkları için saygıyı hak ederler.",
+     "pill": [
+      414,
+      338
+     ],
+     "qx": 128,
+     "qt": 220,
+     "qb": 442,
+     "qr": 828,
+     "bal": [
+      112,
+      450,
+      732,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      148,
+      404,
+      680,
+      32
+     ],
+     "mode": "card",
+     "label": "Cevabı göster",
+     "text": "Örnek cevap: Hattatların ve ulemanın endişelerini dinler, dinî kitapların basılmayacağını belirterek uzlaşma yoluna giderdim; çünkü yenilikler toplumun desteğiyle kalıcı olur.",
+     "pill": [
+      536,
+      427
+     ],
+     "qx": 148,
+     "qt": 364,
+     "qb": 442,
+     "qr": 828,
+     "bal": [
+      112,
+      450,
+      732,
+      "below",
+      1
+     ]
+    },
+    {
+     "area": [
+      93,
+      630,
+      215,
+      70
+     ],
+     "mode": "ink",
+     "text": "Lale Devri",
+     "fs": 14,
+     "pill": [
+      373,
+      560
+     ]
+    },
+    {
+     "area": [
+      348,
+      630,
+      215,
+      70
+     ],
+     "mode": "ink",
+     "text": "Halk kütüphaneleri açmak",
+     "fs": 14,
+     "pill": [
+      526,
+      560
+     ]
+    },
+    {
+     "area": [
+      604,
+      630,
+      215,
+      70
+     ],
+     "mode": "ink",
+     "text": "Halkın bilgiye erişimini artırmak",
+     "fs": 14,
+     "pill": [
+      842,
+      617
+     ]
+    },
+    {
+     "area": [
+      93,
+      810,
+      215,
+      60
+     ],
+     "mode": "ink",
+     "text": "Herkes ücretsiz kitap okuyabilir.",
+     "fs": 14,
+     "pill": [
+      337,
+      791
+     ]
+    },
+    {
+     "area": [
+      348,
+      810,
+      215,
+      60
+     ],
+     "mode": "ink",
+     "text": "Bilgili bir toplum devleti güçlendirir.",
+     "fs": 14,
+     "pill": [
+      514,
+      791
+     ]
+    },
+    {
+     "area": [
+      604,
+      810,
+      215,
+      60
+     ],
+     "mode": "ink",
+     "text": "Halkın ilgi göstermesini ve desteklemesini",
+     "fs": 14,
+     "pill": [
+      842,
+      797
+     ]
+    }
+   ],
+   "links": [
+    {
+     "area": [
+      749,
+      901,
+      68,
+      61
+     ],
+     "panel": "rubrik",
+     "label": "Bütüncül Dereceli Puanlama Anahtarı"
+    }
+   ]
+  }
+ ]
+};
